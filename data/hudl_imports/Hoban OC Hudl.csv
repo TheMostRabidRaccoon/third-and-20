@@ -1,0 +1,268 @@
+PLAY #,ODK,DN,DIST,HASH,YARD LN,PLAY TYPE,RESULT,OFF FORM,OFF PLAY,PLAY DIR,DEF FRONT,COVERAGE,BLITZ,QTR,GN/LS
+1,K,,,M,-40,KO,Return,TEXAS BROWN,,,,,,1,
+2,D,1,10,L,-36,Pass,Incomplete,Twins Split,,L,,,,1,0
+3,D,2,10,L,-36,Run,Rush,,,L,,,,1,8
+4,D,3,2,L,-44,Run,Rush,UTAH RED,,L,,,,1,5
+5,D,1,10,L,-49,Pass,Sack,IOWA BLACK,,L,,,,1,-13
+6,D,2,23,L,-36,Pass,Incomplete,FLA. BLUE,,R,,,,1,0
+7,D,3,23,L,-36,,Timeout,,,,,,,1,0
+8,D,3,23,L,-36,Run,Rush,FLA. BLUE TIGHT,,L,,,,1,7
+9,K,4,16,L,-43,Punt Rec,Fair Catch,,,,,,,1,
+10,S,,,,,,,,,,,,,1,
+11,O,1,10,R,-27,Run,Rush,IOWA BLACK,,L,,,,1,0
+12,O,2,10,R,-27,Run,Rush,TEXAS BROWN,,R,,,,1,-2
+13,O,3,12,R,-25,Pass,Incomplete,TEXAS BROWN,,L,,,,1,0
+14,K,4,12,R,-25,Punt,Downed,,,,,,,1,
+15,S,,,,,,,,,,,,,1,
+16,D,1,10,L,-22,Run,Rush,Twins Split,,R,,,,1,3
+17,D,2,7,L,-25,Pass,Complete,FLA. BLUE TIGHT,,R,,,,1,10
+18,D,1,10,R,-35,Run,"Rush, TD",WISCONSIN RED,,R,,,,1,65
+19,K,,,M,3,Extra Pt. Block,Good,,,,,,,1,
+20,K,,,M,-40,KO Rec,Return,,,,,,,1,
+21,S,,,,,,,,,,,,,1,
+22,O,1,10,R,-25,Pass,Scramble,TEXAS BROWN,,L,,,,1,10
+23,O,1,10,M,-35,Run,Rush,TEXAS BROWN,,L,,,,1,-3
+24,O,2,13,M,-32,Pass,Sack,FLA. BLUE,,R,,,,1,-5
+25,O,3,18,M,-27,Pass,Incomplete,FLA. BLUE,,R,,,,1,0
+26,K,4,18,M,-27,Punt,Downed,,,,,,,1,
+27,D,1,10,R,-47,Run,Rush,,,L,,,,1,9
+28,D,2,1,M,44,Pass,Incomplete,IOWA BLACK,,L,,,,1,0
+29,D,3,1,M,44,Run,Rush,,,R,,,,1,2
+30,D,1,10,R,42,Pass,Incomplete,Wyoming brown,,L,,,,1,0
+31,D,2,10,R,42,Run,Rush,,,L,,,,1,2
+32,D,3,8,M,40,Pass,Incomplete,FLA. BLUE,,L,,,,1,0
+33,S,,,,,,,,,,,,,1,
+34,K,4,8,M,40,Punt Rec,Return,,,,,,,1,
+35,S,,,,,,,,,,,,,1,
+36,O,2,15,R,-11,Run,Rush,,,R,,,,1,2
+37,O,2,13,R,-13,Pass,Complete,Wyoming brown,,L,,,,1,9
+38,O,3,4,M,-22,Run,Rush,,,L,,,,1,5
+39,O,1,10,M,-27,Run,Penalty,IOWA BLACK,,L,,,,1,-13
+40,O,1,23,L,-14,Pass,Incomplete,TEXAS BROWN,,R,,,,1,0
+41,O,2,23,L,-14,Run,Penalty,TEXAS BROWN,,R,,,,1,0
+42,S,,,,,,,,,,,,,1,
+43,O,3,23,R,-14,Pass,Incomplete,TEXAS BROWN,,L,,,,1,0
+44,K,4,23,R,-14,Punt,Downed,,,,,,,1,
+45,D,1,10,L,31,Run,"Rush, TD",DBL Slot,,L,,,,1,31
+46,K,,,M,3,Extra Pt. Block,Good,,,,,,,1,
+47,K,,,M,-40,KO Rec,Return,,,,,,,1,
+48,S,,,,,,,,,,,,,1,
+49,O,1,10,R,-12,Run,Rush,Wyoming brown,,L,,,,1,6
+50,S,,,,,,,,,,,,,1,
+51,O,2,4,L,-18,Run,Rush,IOWA BLACK,,R,,,,2,2
+52,O,3,2,M,-20,Pass,Scramble,,,R,,,,2,3
+53,O,1,10,M,-23,Run,Rush,,,R,,,,2,4
+54,O,2,6,M,-27,Pass,Scramble,IOWA BLACK,,L,,,,2,1
+55,O,3,5,M,-28,Run,Rush,,,R,,,,2,-3
+56,K,4,8,M,-25,Punt,Downed,,,,,,,2,
+57,D,1,10,R,34,Pass,Incomplete,UTAH RED,,R,,,,2,0
+58,D,2,10,R,34,Run,Rush,Twins Split,,R,,,,2,10
+59,D,1,10,R,24,Run,Rush,UTAH RED,,R,,,,2,-1
+60,D,2,11,M,25,Run,Rush,Wyoming brown,,R,,,,2,15
+61,D,1,10,R,10,Run,Penalty,,,L,,,,2,-10
+62,D,2,20,M,20,Pass,"Complete, TD",,,R,,,,2,20
+63,K,,,M,3,Extra Pt. Block,Good,,,,,,,2,
+64,K,,,M,-40,KO Rec,Return,42 DAVE,,,,,,2,
+65,O,1,10,R,-7,Pass,Complete,Wyoming brown,,R,,,,2,5
+66,O,2,5,R,-12,Pass,Incomplete,Wyoming brown,,L,,,,2,0
+67,O,3,5,R,-12,Run,Rush,Wyoming brown,,R,,,,2,0
+68,K,4,5,R,-12,Punt,Return,,,,,,,2,
+69,D,1,10,R,32,Run,Rush,,,L,,,,2,22
+70,S,,,,,,,IOWA BLACK,,,,,,2,
+71,D,1,10,L,10,Pass,"Complete, TD",OREGON GREEN,,R,,,,2,10
+72,K,,,M,3,Extra Pt. Block,Good,,,,,,,2,
+73,K,,,L,-40,KO Rec,Return,,,,,,,2,
+74,O,1,10,R,-17,Pass,Complete,FLA. BLUE,,L,,,,2,4
+75,O,2,6,L,-21,Pass,Incomplete,FLA. BLUE,,R,,,,2,0
+76,O,3,6,L,-21,Pass,Incomplete,FLA. BLUE,,R,,,,2,0
+77,K,4,6,L,-21,Punt,Return,,,,,,,2,
+78,D,1,10,R,-36,Pass,Complete,IOWA BLACK,,R,,,,2,10
+79,D,1,10,R,-46,Pass,Complete,FLA. BLUE,,L,,,,2,-8
+80,D,2,18,L,-38,Pass,Interception,IOWA BLACK,,R,,,,2,
+81,O,1,10,M,-22,Run,Rush,Twins Split,,R,,,,2,1
+82,O,2,9,R,-23,Pass,Incomplete,IOWA BLACK,,L,,,,2,0
+83,O,3,9,R,-23,Pass,Incomplete,IOWA BLACK,,L,,,,2,0
+84,K,4,9,R,-23,Punt,Return,DBL Slot,,,,,,2,
+85,D,1,10,R,28,Run,Rush,IOWA BLACK,,L,,,,2,24
+86,D,1,4,L,4,,Timeout,IOWA BLACK,,,,,,2,0
+87,D,1,4,L,4,Run,"Rush, TD",IOWA BLACK,,R,,,,2,4
+88,K,,,M,3,Extra Pt. Block,Good,,,,,,,2,
+89,K,,,M,-40,KO Rec,Touchback,,,,,,,2,
+90,O,1,10,M,-20,Run,Rush,Wyoming brown,,L,,,,2,6
+91,O,2,4,M,-26,Run,Rush,Wyoming brown,,R,,,,2,1
+92,O,3,3,M,-27,Pass,Incomplete,Wyoming brown,,R,,,,2,0
+93,K,4,3,M,-27,Punt,Downed,DBL Slot,,,,,,2,
+94,D,1,10,M,40,Pass,Complete,UTAH RED,,R,,,,2,5
+95,D,2,5,R,35,Pass,Scramble,FLA. BLUE,,R,,,,2,14
+96,K,1,10,R,21,FG Block,Good,,,,,,,2,
+97,S,,,,,,,,,,,,,2,
+98,S,,,,,,,,,,,,,2,
+99,S,,,,,,,,,,,,,2,
+100,S,,,,,,,,,,,,,2,
+101,S,,,,,,,,,,,,,2,
+102,S,,,,,,,,,,,,,2,
+103,S,,,,,,,TEXAS BROWN,,,,,,2,
+104,K,,,M,-40,KO Rec,Return,,,,,,,3,
+105,O,1,10,L,-11,Run,Rush,Wyoming brown,,R,,,,3,1
+106,O,2,9,L,-12,Run,Rush,Wyoming brown,,L,,,,3,1
+107,O,3,8,L,-13,Pass,Incomplete,Wyoming brown,,R,,,,3,0
+108,K,4,8,L,-13,Punt,Return,,,,,,,3,
+109,D,1,10,L,29,Run,Penalty,,,L,,,,3,-5
+110,D,1,15,R,34,Run,Rush,,,R,,,,3,3
+111,D,2,12,R,31,Run,Rush,UTAH RED,,R,,,,3,1
+112,D,3,11,R,30,Run,Fumble,FLA. BLUE,,L,,,,3,16
+113,O,1,10,M,-7,Run,Rush,WISCONSIN RED,,L,,,,3,2
+114,O,2,8,M,-9,Run,Rush,WISCONSIN RED,,R,,,,3,1
+115,O,3,7,M,-10,,Penalty,,,,,,,3,-5
+116,O,3,12,M,-5,Run,Rush,,,L,,,,3,6
+117,K,4,6,L,-11,Punt,Downed,,,,,,,3,
+118,D,1,10,L,42,Run,Rush,OREGON GREEN,,R,,,,3,0
+119,D,2,10,M,42,Run,Rush,Wyoming brown,,R,,,,3,1
+120,D,3,9,M,41,Run,Rush,Wyoming brown,,R,,,,3,12
+121,D,1,10,R,29,Run,Rush,Twins Split,,L,,,,4,5
+122,D,2,5,L,24,Run,Rush,,,L,,,,4,2
+123,D,3,3,L,22,Run,Penalty,Twins Split,,R,,,,4,11
+124,D,1,10,M,11,Run,"Rush, TD",Wyoming brown,,R,,,,4,11
+125,S,,,,,,,DBL TE,,,,,,4,
+126,K,,,M,3,Extra Pt. Block,Good,,,,,,,4,
+127,K,,,M,-40,KO Rec,Return,,,,,,,4,
+128,O,1,10,R,-32,Run,Rush,Twins Split,,L,,,,4,29
+129,O,1,10,L,39,Run,Rush,Twins Split,,L,,,,4,0
+130,O,2,10,L,39,Run,Rush,Wyoming brown,,L,,,,4,6
+131,O,3,4,L,33,Pass,Complete,Wyoming brown,,R,,,,4,7
+132,O,1,10,M,26,Run,Rush,Twins Split,,R,,,,4,5
+133,O,2,5,R,21,Run,Rush,Wyoming brown,,L,,,,4,17
+134,O,1,4,L,4,Run,Rush,Twins Split,,L,,,,4,-2
+135,O,2,6,L,6,Run,Rush,WISCONSIN RED,,L,,,,4,-4
+136,O,3,10,L,10,Pass,"Scramble, TD",WISCONSIN RED,,L,,,,4,10
+137,K,,,M,3,Extra Pt.,Good,,,,,,,4,
+138,K,,,M,-40,KO,Return,,,,,,,4,
+139,D,1,10,M,-39,Run,Rush,,,R,,,,4,-1
+140,S,2,11,,,,,,,,,,,4,
+141,S,,,,,,,,,,,,,4,
+142,S,,,,,,,,,,,,,4,
+1,K,,,M,-40,KO,Return,TEXAS BROWN,,,,,,1,
+2,D,1,10,L,-36,Pass,Incomplete,Twins Split,,L,,,,1,0
+3,D,2,10,L,-36,Run,Rush,,,L,,,,1,8
+4,D,3,2,L,-44,Run,Rush,UTAH RED,,L,,,,1,5
+5,D,1,10,L,-49,Pass,Sack,IOWA BLACK STACK,,L,,,,1,-13
+6,D,2,23,L,-36,Pass,Incomplete,FLA. BLUE,,R,,,,1,0
+7,D,3,23,L,-36,,Timeout,FLA. BLUE TIGHT,,,,,,1,0
+8,D,3,23,L,-36,Run,Rush,,,L,,,,1,7
+9,K,4,16,L,-43,Punt Rec,Fair Catch,,,,,,,1,
+10,O,1,10,R,-27,Pass,Incomplete,IOWA BLACK,,L,,,,1,0
+11,O,2,10,R,-27,Run,Rush,TEXAS BROWN,,R,,,,1,-2
+12,O,3,12,R,-25,Pass,Incomplete,TEXAS BROWN,,L,,,,1,0
+13,K,4,12,R,-25,Punt,Downed,,,,,,,1,
+14,D,1,10,L,-22,Run,Rush,,,R,,,,1,3
+15,D,2,7,L,-25,Pass,Complete,FLA. BLUE TIGHT,,R,,,,1,10
+16,D,1,10,R,-35,Run,"Rush, TD",,,R,,,,1,65
+17,K,,,M,3,Extra Pt. Block,Good,,,,,,,1,
+18,K,,,M,-40,KO Rec,Return,,,,,,,1,
+19,O,1,10,R,-25,Run,Rush,TEXAS BROWN,,L,,,,1,10
+20,O,1,10,M,-35,Run,Rush,TEXAS BROWN,,L,,,,1,-3
+21,O,2,13,M,-32,Run,Rush,FLA. BLUE,,R,,,,1,-5
+22,O,3,18,M,-27,Pass,Incomplete,FLA. BLUE,,R,,,,1,0
+23,K,4,18,M,-27,Punt,Downed,,,,,,,1,
+24,D,1,10,R,-47,Run,Rush,IOWA BLACK,,L,,,,1,9
+25,D,2,1,M,44,Pass,Incomplete,IOWA BLACK,,L,,,,1,0
+26,D,3,1,M,44,Run,Rush,IOWA BLACK STACK,,R,,,,1,2
+27,D,1,10,R,42,Pass,Incomplete,Wyoming brown,,L,,,,1,0
+28,D,2,10,R,42,Run,Rush,,,L,,,,1,2
+29,D,3,8,M,40,Pass,Incomplete,FLA. BLUE,,L,,,,1,0
+30,K,4,8,M,40,Punt Rec,Return,,,,,,,1,
+31,O,1,10,R,-16,,Penalty,Wyoming brown,,,,,,1,-5
+32,O,2,15,R,-11,Run,Rush,,,R,,,,1,2
+33,O,2,13,R,-13,Pass,Complete,Wyoming brown,,L,,,,1,9
+34,O,3,4,M,-22,Run,Rush,,,L,,,,1,5
+35,O,1,10,M,-27,Run,Penalty,,,L,,,,1,-13
+36,O,1,23,L,-14,Pass,Incomplete,,,R,,,,1,0
+37,O,2,23,L,-14,Run,Penalty,,,R,,,,1,0
+38,O,3,23,R,-14,Pass,Incomplete,TEXAS BROWN,,L,,,,1,0
+39,K,4,23,R,-14,Punt,Downed,,,,,,,1,
+40,D,1,10,L,31,Run,"Rush, TD",DBL Slot,,L,,,,1,31
+41,K,,,M,3,Extra Pt. Block,Good,,,,,,,1,
+42,K,,,M,-40,KO Rec,Return,TEXAS BROWN,,,,,,1,
+43,O,1,10,R,-13,Run,Rush,Wyoming brown,,L,,,,1,5
+44,O,2,5,L,-18,Run,Rush,Twins Split,,R,,,,2,-3
+45,O,3,8,M,-15,,Penalty,TEXAS BROWN,,,,,,2,0
+46,O,3,8,M,-15,Run,Rush,,,R,,,,2,8
+47,O,1,10,M,-23,Run,Rush,,,R,,,,2,4
+48,O,2,6,M,-27,Pass,Scramble,IOWA BLACK,,L,,,,2,1
+49,O,3,5,M,-28,Run,Rush,,,R,,,,2,-3
+50,K,4,8,M,-25,Punt,Downed,,,,,,,2,
+51,D,1,10,R,34,Pass,Incomplete,UTAH RED,,R,,,,2,0
+52,D,2,10,R,34,Run,Rush,WISCONSIN RED,,R,,,,2,10
+53,D,1,10,R,24,Run,Rush,UTAH RED,,R,,,,2,-1
+54,D,2,11,M,25,Run,Rush,UTAH RED,,R,,,,2,15
+55,D,1,10,R,10,Run,Penalty,Wyoming brown,,L,,,,2,-10
+56,D,2,20,M,20,Pass,"Complete, TD",,,R,,,,2,20
+57,K,,,M,3,Extra Pt. Block,Good,,,,,,,2,
+58,K,,,M,-40,KO Rec,Return,,,,,,,2,
+59,O,1,10,R,-7,Pass,Complete,Wyoming brown,,R,,,,2,5
+60,O,2,5,R,-12,Pass,Incomplete,Wyoming brown,,L,,,,2,0
+61,O,3,5,R,-12,Run,Rush,Wyoming brown,,R,,,,2,0
+62,K,4,5,R,-12,Punt,Return,,,,,,,2,
+63,D,1,10,R,32,Run,Rush,WISCONSIN RED,,L,,,,2,22
+64,D,1,10,L,10,Pass,"Complete, TD",WISCONSIN RED,,R,,,,2,10
+65,K,,,M,3,Extra Pt. Block,Good,,,,,,,2,
+66,K,,,L,-40,KO Rec,Return,,,,,,,2,
+67,O,1,10,R,-17,Pass,Complete,FLA. BLUE,,L,,,,2,4
+68,O,2,6,L,-21,Pass,Incomplete,FLA. BLUE,,R,,,,2,0
+69,O,3,6,L,-21,Pass,Incomplete,FLA. BLUE,,R,,,,2,0
+70,K,4,6,L,-21,Punt,Return,,,,,,,2,
+71,D,1,10,R,-36,Pass,Complete,IOWA BLACK,,R,,,,2,10
+72,D,1,10,R,-46,Pass,Complete,FLA. BLUE,,L,,,,2,-8
+73,D,2,18,L,-38,Pass,Interception,IOWA BLACK,,R,,,,2,
+74,O,1,10,M,-22,Run,Rush,Twins Split,,R,,,,2,1
+75,O,2,9,R,-23,Pass,Incomplete,IOWA BLACK,,L,,,,2,0
+76,O,3,9,R,-23,Pass,Incomplete,WISCONSIN RED,,L,,,,2,0
+77,K,4,9,R,-23,Punt,Return,,,,,,,2,
+78,D,1,10,R,28,Run,Rush,IOWA BLACK,,L,,,,2,24
+79,D,1,4,L,4,,Timeout,IOWA BLACK,,,,,,2,0
+80,D,1,4,L,4,Run,"Rush, TD",IOWA BLACK,,R,,,,2,4
+81,K,,,M,3,Extra Pt. Block,Good,,,,,,,2,
+82,K,,,M,-40,KO Rec,Touchback,,,,,,,2,
+83,O,1,10,M,-20,,Timeout,Twins Split,,,,,,2,0
+84,O,1,10,M,-20,Run,Rush,Wyoming brown,,L,,,,2,6
+85,O,2,4,M,-26,Run,Rush,Twins Split,,R,,,,2,1
+86,O,3,3,M,-27,Pass,Incomplete,Twins Split,,R,,,,2,0
+87,K,4,3,M,-27,Punt,Downed,,,,,,,2,
+88,D,1,10,M,40,Pass,Complete,UTAH RED,,R,,,,2,5
+89,D,2,5,R,35,Run,Rush,IOWA BLACK,,R,,,,2,14
+90,K,1,10,R,21,FG Block,Good,,,,,,,2,
+91,K,,,M,-40,KO Rec,Return,,,,,,,3,
+92,O,1,10,L,-11,Run,Rush,Twins Split,,R,,,,3,1
+93,O,2,9,L,-12,Run,Rush,Wyoming brown,,L,,,,3,1
+94,O,3,8,L,-13,Run,Rush,Wyoming brown,,R,,,,3,0
+95,K,4,8,L,-13,Punt,Return,,,,,,,3,
+96,D,1,10,L,29,Run,Penalty,IOWA BLACK,,L,,,,3,-5
+97,D,1,15,R,34,Run,Rush,Wyoming brown,,R,,,,3,3
+98,D,2,12,R,31,Run,Rush,UTAH RED,,R,,,,3,1
+99,D,3,11,R,30,Run,Fumble,FLA. BLUE,,L,,,,3,
+100,O,1,10,M,-7,Run,Rush,WISCONSIN RED,,L,,,,3,2
+101,O,2,8,M,-9,Run,Rush,WISCONSIN RED,,R,,,,3,1
+102,O,3,7,M,-10,,Penalty,,,,,,,3,-5
+103,O,3,12,M,-5,Run,Rush,Twins Split,,L,,,,3,6
+104,K,4,6,L,-11,Punt,Downed,WISCONSIN RED,,,,,,3,
+105,D,1,10,L,42,Run,Rush,Twins Split,,R,,,,3,0
+106,D,2,10,M,42,Run,Rush,,,R,,,,3,1
+107,D,3,9,M,41,Run,Rush,,,R,,,,3,12
+108,D,1,10,R,29,Run,Rush,Twins Split,,L,,,,4,5
+109,D,2,5,L,24,Run,Rush,WISCONSIN RED,,L,,,,4,2
+110,D,3,3,L,22,Run,Penalty,Twins Split,,R,,,,4,11
+111,D,1,10,M,11,Run,"Rush, TD",OREGON GREEN,,R,,,,4,11
+112,K,,,M,3,Extra Pt. Block,Good,,,,,,,4,
+113,K,,,M,-40,KO Rec,Return,TEXAS BROWN,,,,,,4,
+114,O,1,10,R,-32,Run,Rush,FLA. BLUE,,L,,,,4,29
+115,O,1,10,L,39,Run,Rush,Twins Split,,L,,,,4,0
+116,O,2,10,L,39,Run,Rush,Wyoming brown,,L,,,,4,6
+117,O,3,4,L,33,Run,Rush,Twins Split,,R,,,,4,7
+118,O,1,10,M,26,Run,Rush,Twins Split,,R,,,,4,5
+119,O,2,5,R,21,Run,Rush,Twins Split,,L,,,,4,17
+120,O,1,4,L,4,Run,Rush,Wyoming brown,,L,,,,4,-2
+121,O,2,6,L,6,Run,Rush,WISCONSIN RED,,L,,,,4,-4
+122,O,3,10,L,10,Run,"Rush, TD",WISCONSIN RED,,L,,,,4,10
+123,K,,,M,3,Extra Pt.,Good,,,,,,,4,
+124,K,,,M,-40,KO,Return,,,,,,,4,
+125,D,1,10,M,-39,Run,Rush,,,R,,,,4,-1

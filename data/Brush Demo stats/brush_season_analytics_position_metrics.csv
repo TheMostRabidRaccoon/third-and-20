@@ -1,0 +1,44 @@
+Metric,Value
+=== QUARTERBACK (QB) ===,
+qb_plays,74
+qb_unique_players,3
+qb_recognition_latency_avg,0.520
+qb_recognition_latency_best,0.233
+qb_decision_speed_grade,Above Average
+qb_first_step_avg,0.328
+qb_mobility_grade,Above Average
+,
+=== WIDE RECEIVER / TIGHT END (WR/TE) ===,
+wr_te_plays,96
+wr_te_unique_players,6
+wr_te_first_step_avg,0.317
+wr_te_first_step_best,0.033
+wr_te_release_grade,Above Average
+wr_te_sdi_avg,7781.104
+,
+=== RUNNING BACK (RB) ===,
+rb_plays,134
+rb_unique_players,5
+rb_first_step_avg,0.331
+rb_first_step_best,0.033
+rb_burst_grade,Above Average
+rb_initial_velocity_avg,0.002
+rb_initial_velocity_max,0.260
+rb_post_snap_distance_avg,0.615
+,
+=== DEFENSIVE LINE / LINEBACKER (DL/LB) ===,
+dl_lb_plays,94
+dl_lb_unique_players,4
+dl_lb_first_step_avg,0.303
+dl_lb_first_step_best,0.033
+dl_lb_get_off_grade,Above Average
+dl_lb_recognition_latency_avg,0.629
+dl_lb_read_react_grade,Above Average
+,
+=== DEFENSIVE BACK (DB) ===,
+db_plays,92
+db_unique_players,4
+db_reaction_time_avg,0.362
+db_reaction_time_best,0.033
+db_reaction_grade,Above Average
+db_recognition_latency_avg,0.573

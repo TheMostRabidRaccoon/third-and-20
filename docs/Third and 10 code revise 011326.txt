@@ -1,0 +1,279 @@
+﻿1) Create  play_state.py
+
+
+# play_state.py
+from __future__ import annotations
+from dataclasses import dataclass
+from typing import Optional, Literal
+
+
+DriveDir = Literal[1, -1]
+
+
+@dataclass(frozen=True)
+class PlayState:
+    """
+    Canonical, team-neutral per-play state.
+
+
+    IMPORTANT:
+    - Contains ONLY derived play-level state.
+    - Does NOT contain raw positions, clusters, or any per-frame arrays.
+    - All spatial values are in FIELD COORDINATES (yards), not normalized 0..1.
+    """
+    play_id: str
+    snap_frame: int
+
+
+    # Field-state
+    los_x: float                      # line of scrimmage in yards along field length axis
+    possession_team_id: str           # team with the ball for this play
+    drive_dir: DriveDir               # +1 or -1 along the field x-axis
+
+
+    # Confidence (0..1) for the play-state inference as a whole
+    confidence: float = 1.0
+
+
+    # Optional metadata for debugging / audits (keep minimal)
+    source: Optional[str] = None      # e.g. "scorebug", "formation", "mixed"
+
+
+2) Add play_state_resolver.py (pure inference, no metrics)
+
+
+# play_state_resolver.py
+from __future__ import annotations
+from dataclasses import dataclass
+from typing import Optional, Tuple, Dict, Any, Literal
+
+
+from play_state import PlayState, DriveDir
+
+
+@dataclass
+class ResolverConfig:
+    # Tweakable thresholds; keep these simple and explicit.
+    min_players: int = 18
+    drive_dir_min_dx_yards: float = 1.0    # minimum Δx in early post-snap window to trust drive_dir
+    drive_dir_window_frames: int = 10      # frames after snap to estimate direction
+
+
+class PlayStateResolver:
+    """
+    Resolves PlayState from tracking + (optional) OCR/scorebug signals.
+
+
+    This module MUST NOT:
+    - label offense/defense on tracks
+    - compute metrics like box/front/shell
+    - recompute LOS later using offense/defense lists
+    """
+    def __init__(self, cfg: Optional[ResolverConfig] = None):
+        self.cfg = cfg or ResolverConfig()
+
+
+    def resolve(
+        self,
+        play_id: str,
+        snap_frame: int,
+        tracking,                              # your tracking object
+        teams: Tuple[str, str],                # (team_id_a, team_id_b)
+        scorebug: Optional[Dict[str, Any]] = None
+    ) -> PlayState:
+        """
+        Returns a PlayState computed ONCE per play.
+        Assumes tracking positions are already in FIELD COORDS (yards).
+        """
+
+
+        # 1) LOS from formation geometry (team-neutral)
+        los_x, los_conf = self._estimate_los_x(tracking, snap_frame)
+
+
+        # 2) Possession inference (prefer scorebug, fallback to formation/ball heuristics)
+        poss_id, poss_conf, source = self._infer_possession_team(tracking, snap_frame, teams, scorebug)
+
+
+        # 3) Drive direction from early post-snap ball/centroid movement
+        drive_dir, dir_conf = self._infer_drive_dir(tracking, snap_frame, los_x)
+
+
+        # Combine confidence conservatively (min is fine; product is stricter)
+        conf = min(los_conf, poss_conf, dir_conf)
+
+
+        return PlayState(
+            play_id=play_id,
+            snap_frame=snap_frame,
+            los_x=los_x,
+            possession_team_id=poss_id,
+            drive_dir=drive_dir,
+            confidence=conf,
+            source=source
+        )
+
+
+    # -----------------------------
+    # Internal helpers (stubs)
+    # Replace these with your real logic.
+    # -----------------------------
+
+
+    def _estimate_los_x(self, tracking, snap_frame: int) -> Tuple[float, float]:
+        """
+        Estimate LOS in yards along field axis from pre-snap alignment.
+        MUST NOT depend on offense/defense labels.
+        """
+        # TODO: Implement your two-line clustering / formation geometry approach here.
+        # Placeholder: use median x of all players at snap as a cheap stub
+        xs = []
+        for p in tracking.players.values():
+            pt = p.get_position_at_frame(snap_frame)  # implement helper on your Player track
+            if pt is not None:
+                xs.append(pt.x)
+        if not xs:
+            return 60.0, 0.0
+        return float(sorted(xs)[len(xs)//2]), 0.6
+
+
+    def _infer_possession_team(
+        self,
+        tracking,
+        snap_frame: int,
+        teams: Tuple[str, str],
+        scorebug: Optional[Dict[str, Any]]
+    ) -> Tuple[str, float, str]:
+        """
+        Prefer scorebug OCR if present.
+        Otherwise infer from center/QB cluster + initial ball movement.
+        """
+        if scorebug and "possession_team_id" in scorebug:
+            return str(scorebug["possession_team_id"]), 0.9, "scorebug"
+
+
+        # TODO: Implement formation-based possession heuristic here.
+        # Placeholder: choose team A with low confidence
+        return teams[0], 0.55, "heuristic"
+
+
+    def _infer_drive_dir(self, tracking, snap_frame: int, los_x: float) -> Tuple[DriveDir, float]:
+        """
+        Infer drive direction (+1 or -1) using early post-snap Δx of ball or offense centroid.
+        """
+        # TODO: Use ball if you have it; otherwise use the possession team's centroid.
+        # Placeholder: compare median x at snap vs at snap+window
+        w = self.cfg.drive_dir_window_frames
+        x0 = self._median_player_x(tracking, snap_frame)
+        x1 = self._median_player_x(tracking, snap_frame + w)
+        dx = (x1 - x0)
+
+
+        if abs(dx) < self.cfg.drive_dir_min_dx_yards:
+            return 1, 0.5  # uncertain default
+        return (1 if dx > 0 else -1), 0.7
+
+
+    def _median_player_x(self, tracking, frame: int) -> float:
+        xs = []
+        for p in tracking.players.values():
+            pt = p.get_position_at_frame(frame)
+            if pt is not None:
+                xs.append(pt.x)
+        if not xs:
+            return 60.0
+        xs.sort()
+        return xs[len(xs)//2]
+________________
+3) Update your pipeline to use PlayState (single insertion point)
+# sdi_pipeline_v5_with_defense.py (conceptual insertion)
+from play_state_resolver import PlayStateResolver
+
+
+resolver = PlayStateResolver()
+
+
+# after tracking is computed for a play/clip:
+play_state = resolver.resolve(
+    play_id=play_id,
+    snap_frame=snap_frame,
+    tracking=tracking,
+    teams=(team_a_id, team_b_id),
+    scorebug=scorebug_data  # optional
+)
+
+
+# DO NOT label tracks as offense/defense yet.
+# Derive at query time:
+offense_team_id = play_state.possession_team_id
+defense_team_id = team_b_id if offense_team_id == team_a_id else team_a_id
+
+
+Then metrics become:
+box = compute_box_count(tracking, play_state, offense_team_id, defense_team_id)
+shell = compute_shell(tracking, play_state, offense_team_id, defense_team_id)
+
+
+
+
+4) Add one example metric module: 
+metrics_presnap.py
+# metrics_presnap.py
+from __future__ import annotations
+from dataclasses import dataclass
+from typing import Optional
+
+
+from play_state import PlayState
+
+
+@dataclass(frozen=True)
+class Metric:
+    play_id: str
+    team_id: str
+    name: str
+    value: float
+    confidence: float
+
+
+def compute_box_count(tracking, play_state: PlayState, offense_team_id: str, defense_team_id: str,
+                      box_depth_yards: float = 5.0, box_width_yards: float = 8.0) -> Metric:
+    """
+    Example: count defenders near LOS at snap.
+    Geometry only. No CV. No clustering libs.
+    """
+    snap = play_state.snap_frame
+    los_x = play_state.los_x
+
+
+    defenders = []
+    for pid, p in tracking.players.items():
+        if getattr(p, "team_id", None) != defense_team_id:
+            continue
+        pt = p.get_position_at_frame(snap)
+        if pt is None:
+            continue
+        # In field coords: "near LOS" means |x - los_x| <= box_depth
+        if abs(pt.x - los_x) <= box_depth_yards:
+            defenders.append(pt)
+
+
+    # confidence inherits from play_state, can be refined with tracking quality later
+    return Metric(
+        play_id=play_state.play_id,
+        team_id=defense_team_id,
+        name="box_count",
+        value=float(len(defenders)),
+        confidence=play_state.confidence
+    )
+
+
+5) Non-negotiable tests (tiny, but prevents regression)
+# test_invariance.py
+def team_swap_invariance(metric_fn, tracking_a, tracking_b, play_state_a, play_state_b):
+    """
+    Swap team labels + possession accordingly; canonical metric value should match.
+    """
+    m1 = metric_fn(tracking_a, play_state_a)
+    m2 = metric_fn(tracking_b, play_state_b)
+    assert m1.value == m2.value, (m1, m2)

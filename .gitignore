@@ -1,0 +1,62 @@
+# Third & 20 .gitignore
+
+# === DATA (too large for git, contains team-specific content) ===
+data/games/
+data/Pro Highlights/
+data/Brush_HS_static_field/
+*.mp4
+*.avi
+*.mov
+
+# === MODEL WEIGHTS ===
+*.pt
+*.pth
+*.onnx
+
+# === OUTPUT (regenerable) ===
+output/
+
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# === Environment ===
+.env
+.env.local
+venv/
+.venv/
+env/
+
+# === OS ===
+.DS_Store
+Thumbs.db
+
+# === IDE ===
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# === Jupyter ===
+.ipynb_checkpoints/
+
+# === Logs ===
+*.log
+
+# === Binary docs (track separately or use LFS) ===
+*.docx
+*.xlsx
+*.pages
+
+# === Keep these data dirs (structure only) ===
+# data/rosters/ - track roster CSVs
+# data/hudl_imports/ - track Hudl exports
+# data/formations/ - track playbook PDFs
+# data/Brush Demo stats/ - track demo output
+# data/defense_manual/ - track manual labels

@@ -1,0 +1,139 @@
+clip_file,snap_frame,latency_sec,decision_type,box_count,defenders_on_los,front,front_description,safety_alignment,coverage_shell,potential_blitz,defensive_confidence
+Wide - Clip 001.mp4,296,0.500,handoff,3,6,5-down,5-2 / Goal Line,0-high,Cover 0,True,0.50
+Wide - Clip 002.mp4,612,0.233,quick_handoff,2,5,5-down,5-2 / Goal Line,robber,Cover 3,False,0.90
+Wide - Clip 003.mp4,570,0.633,short_pass,7,10,5-down,5-2 / Goal Line,robber,Cover 3,False,0.90
+Wide - Clip 004.mp4,505,0.933,short_pass,0,0,unknown,,unknown,Unknown,False,0.00
+Wide - Clip 005.mp4,525,0.767,short_pass,3,1,3-down,3-3-5,2-high,Cover 2,False,0.70
+Wide - Clip 006.mp4,329,0.233,quick_handoff,2,0,3-down,3-3-5,robber,Cover 3,False,0.80
+Wide - Clip 007.mp4,298,1.033,short_pass,2,0,3-down,3-4,robber,Cover 3,False,0.80
+Wide - Clip 008.mp4,369,0.367,handoff,1,1,3-down,3-2-6,robber,Cover 3,False,0.70
+Wide - Clip 009.mp4,341,0.233,quick_handoff,2,0,3-down,3-3-5,robber,Cover 3,False,0.80
+Wide - Clip 010.mp4,265,0.467,handoff,5,7,5-down,5-2 / Goal Line,robber,Cover 3,False,0.90
+Wide - Clip 011.mp4,762,0.367,handoff,3,2,3-down,3-2-6,robber,Cover 3,False,0.80
+Wide - Clip 012.mp4,431,0.533,handoff,6,6,5-down,5-2 / Goal Line,2-high,Cover 2,False,0.90
+Wide - Clip 013.mp4,347,0.467,handoff,2,1,3-down,3-4,robber,Cover 3,False,0.80
+Wide - Clip 014.mp4,579,0.500,handoff,6,7,5-down,5-2 / Goal Line,robber,Cover 3,False,0.90
+Wide - Clip 015.mp4,348,0.233,quick_handoff,7,10,5-down,5-2 / Goal Line,2-high,Cover 4,False,0.90
+Wide - Clip 016.mp4,316,0.467,handoff,2,4,4-down,4-1-6 (Dime),0-high,Cover 0,True,0.60
+Wide - Clip 017.mp4,295,0.500,handoff,3,4,4-down,4-1-6 (Dime),0-high,Cover 0,False,0.60
+Wide - Clip 018.mp4,403,0.500,handoff,4,7,5-down,5-2 / Goal Line,2-high,Cover 2,False,0.80
+Wide - Clip 019.mp4,439,0.367,handoff,3,5,5-down,5-2 / Goal Line,robber,Cover 3,True,0.90
+Wide - Clip 020.mp4,735,0.267,quick_handoff,3,0,3-down,3-4,robber,Cover 3,False,0.80
+Wide - Clip 021.mp4,1151,1.667,dropback,0,3,3-down,3-2-6,robber,Cover 3,False,0.80
+Wide - Clip 022.mp4,355,1.400,dropback,4,0,3-down,3-4,robber,Cover 3,False,0.80
+Wide - Clip 023.mp4,498,0.500,handoff,3,5,5-down,5-2 / Goal Line,0-high,Cover 0,True,0.60
+Wide - Clip 024.mp4,330,0.500,handoff,5,8,5-down,5-2 / Goal Line,2-high,Cover 2,False,0.90
+Wide - Clip 025.mp4,273,0.967,short_pass,3,0,3-down,3-3-5,robber,Cover 3,False,0.70
+Wide - Clip 026.mp4,559,0.333,handoff,1,0,3-down,3-4,robber,Cover 3,False,0.80
+Wide - Clip 027.mp4,447,0.500,handoff,1,2,3-down,3-2-6,0-high,Cover 0,False,0.50
+Wide - Clip 028.mp4,377,0.400,handoff,3,4,4-down,4-1-6 (Dime),0-high,Cover 0,True,0.60
+Wide - Clip 029.mp4,1018,0.267,quick_handoff,1,0,3-down,3-2-6,2-high,Cover 2,False,0.60
+Wide - Clip 030.mp4,525,0.867,short_pass,4,5,5-down,5-2 / Goal Line,0-high,Cover 0,True,0.60
+Wide - Clip 031.mp4,508,0.300,quick_handoff,3,3,3-down,3-4,0-high,Cover 0,True,0.60
+Wide - Clip 032.mp4,294,1.167,short_pass,5,8,5-down,5-2 / Goal Line,robber,Cover 3,False,0.90
+Wide - Clip 033.mp4,415,0.400,handoff,5,6,5-down,5-2 / Goal Line,robber,Cover 3,False,0.90
+Wide - Clip 034.mp4,527,0.500,handoff,1,1,3-down,3-4,0-high,Cover 0,True,0.60
+Wide - Clip 035.mp4,502,0.300,quick_handoff,6,10,5-down,5-2 / Goal Line,robber,Cover 3,False,0.90
+Wide - Clip 036.mp4,311,0.600,handoff,5,9,5-down,5-2 / Goal Line,2-high,Cover 2,False,0.90
+Wide - Clip 037.mp4,550,0.467,handoff,6,3,3-down,3-4,robber,Cover 3,False,1.00
+Wide - Clip 038.mp4,459,0.267,quick_handoff,4,5,5-down,5-2 / Goal Line,1-high,Cover 3,False,0.70
+Wide - Clip 039.mp4,475,0.233,quick_handoff,1,0,3-down,3-4,robber,Cover 3,False,0.60
+Wide - Clip 040.mp4,321,0.867,short_pass,3,3,3-down,3-2-6,0-high,Cover 0,True,0.60
+Wide - Clip 041.mp4,900,0.400,handoff,2,1,3-down,3-2-6,2-high,Cover 2,False,0.60
+Wide - Clip 042.mp4,548,0.533,handoff,0,0,3-down,3-2-6,2-high,Cover 2,False,0.80
+Wide - Clip 043.mp4,467,1.267,dropback,1,0,3-down,3-2-6,robber,Cover 3,False,0.80
+Wide - Clip 044.mp4,268,0.500,handoff,4,4,4-down,4-1-6 (Dime),0-high,Cover 0,True,0.60
+Wide - Clip 045.mp4,336,0.267,quick_handoff,4,7,5-down,5-2 / Goal Line,robber,Cover 3,False,0.80
+Wide - Clip 046.mp4,460,1.367,dropback,3,9,5-down,5-2 / Goal Line,2-high,Cover 2,False,0.80
+Wide - Clip 047.mp4,698,0.733,short_pass,9,11,5-down,5-2 / Goal Line,0-high,Cover 0,True,0.80
+Wide - Clip 048.mp4,564,1.233,dropback,3,5,5-down,5-2 / Goal Line,2-high,Cover 2,False,0.80
+Wide - Clip 049.mp4,380,0.300,quick_handoff,4,6,5-down,5-2 / Goal Line,robber,Cover 3,False,0.80
+Wide - Clip 050.mp4,370,0.433,handoff,2,4,4-down,4-2-5 (Nickel),0-high,Cover 0,True,0.60
+Wide - Clip 051.mp4,423,0.300,quick_handoff,4,0,3-down,3-4,1-high,Cover 3,False,0.60
+Wide - Clip 052.mp4,444,0.467,handoff,4,6,5-down,5-2 / Goal Line,0-high,Cover 0,True,0.50
+Wide - Clip 053.mp4,538,0.467,handoff,7,0,3-down,3-4,robber,Cover 3,True,0.90
+Wide - Clip 054.mp4,586,0.267,quick_handoff,0,0,3-down,3-2-6,0-high,Cover 0,True,0.50
+Wide - Clip 055.mp4,339,0.233,quick_handoff,7,8,5-down,5-2 / Goal Line,2-high,Cover 4,False,0.90
+Wide - Clip 056.mp4,388,0.500,handoff,1,2,3-down,3-2-6,0-high,Cover 0,False,0.50
+Wide - Clip 057.mp4,508,0.933,short_pass,0,0,3-down,3-2-6,robber,Cover 3,False,0.80
+Wide - Clip 058.mp4,624,0.333,handoff,4,1,3-down,3-4,robber,Cover 3,False,0.80
+Wide - Clip 059.mp4,391,0.600,short_pass,5,4,4-down,4-2-5 (Nickel),0-high,Cover 0,False,0.70
+Wide - Clip 060.mp4,367,0.467,handoff,4,0,3-down,3-4,2-high,Cover 2,True,0.80
+Wide - Clip 061.mp4,315,0.267,quick_handoff,2,1,3-down,3-2-6,2-high,Cover 2,False,0.60
+Wide - Clip 062.mp4,332,0.500,handoff,5,6,5-down,5-2 / Goal Line,2-high,Cover 2,False,0.90
+Wide - Clip 063.mp4,369,0.233,quick_handoff,5,10,5-down,5-2 / Goal Line,2-high,Cover 2,True,0.90
+Wide - Clip 064.mp4,244,0.333,handoff,3,0,3-down,3-4,robber,Cover 3,False,0.70
+Wide - Clip 065.mp4,669,1.700,dropback,10,6,5-down,5-2 / Goal Line,2-high,Cover 4,True,0.80
+Wide - Clip 066.mp4,2068,1.333,dropback,0,0,3-down,3-2-6,robber,Cover 3,False,0.60
+Wide - Clip 067.mp4,2149,0.333,handoff,0,1,3-down,3-2-6,2-high,Cover 2,False,0.60
+Wide - Clip 068.mp4,1854,0.233,quick_handoff,9,0,3-down,3-4,1-high,Cover 1,False,0.90
+Wide - Clip 069.mp4,257,0.500,handoff,7,0,3-down,3-4,2-high,Cover 4,False,0.90
+Wide - Clip 070.mp4,268,1.033,short_pass,1,4,4-down,4-1-6 (Dime),0-high,Cover 0,True,0.60
+Wide - Clip 071.mp4,1947,1.067,short_pass,0,0,3-down,3-4,robber,Cover 3,False,0.70
+Wide - Clip 072.mp4,624,1.133,short_pass,2,0,3-down,3-4,2-high,Cover 2,False,0.80
+Wide - Clip 073.mp4,1729,0.467,handoff,0,0,3-down,3-2-6,robber,Cover 3,False,0.60
+Wide - Clip 074.mp4,225,0.533,handoff,5,4,4-down,4-1-6 (Dime),0-high,Cover 0,True,0.70
+Wide - Clip 075.mp4,420,0.233,quick_handoff,3,6,5-down,5-2 / Goal Line,2-high,Cover 2,False,0.70
+Wide - Clip 076.mp4,518,0.233,quick_handoff,4,7,5-down,5-2 / Goal Line,robber,Cover 3,False,0.80
+Wide - Clip 077.mp4,638,0.467,handoff,2,5,5-down,5-2 / Goal Line,2-high,Cover 2,False,0.90
+Wide - Clip 078.mp4,349,0.800,short_pass,3,6,5-down,5-2 / Goal Line,0-high,Cover 0,True,0.50
+Wide - Clip 079.mp4,336,0.233,quick_handoff,3,3,3-down,3-2-6,0-high,Cover 0,False,0.60
+Wide - Clip 080.mp4,474,0.333,handoff,3,4,4-down,4-1-6 (Dime),0-high,Cover 0,False,0.60
+Wide - Clip 081.mp4,334,0.900,short_pass,2,0,3-down,3-4,0-high,Cover 0,True,0.50
+Wide - Clip 082.mp4,279,0.867,short_pass,5,7,5-down,5-2 / Goal Line,robber,Cover 3,False,0.90
+Wide - Clip 083.mp4,398,0.500,handoff,3,5,5-down,5-2 / Goal Line,2-high,Cover 2,False,0.90
+Wide - Clip 084.mp4,395,0.233,quick_handoff,4,0,3-down,3-4,0-high,Cover 0,True,0.50
+Wide - Clip 085.mp4,448,0.500,handoff,2,3,3-down,3-2-6,0-high,Cover 0,True,0.60
+Wide - Clip 086.mp4,298,1.033,short_pass,6,10,5-down,5-2 / Goal Line,robber,Cover 3,False,0.90
+Wide - Clip 087.mp4,592,0.633,short_pass,0,0,3-down,3-2-6,2-high,Cover 2,False,0.60
+Wide - Clip 088.mp4,241,1.500,dropback,6,8,5-down,5-2 / Goal Line,0-high,Cover 0,True,0.70
+Wide - Clip 089.mp4,468,0.433,handoff,1,3,3-down,3-2-6,0-high,Cover 0,True,0.60
+Wide - Clip 090.mp4,411,0.233,quick_handoff,2,2,3-down,3-2-6,0-high,Cover 0,False,0.50
+Wide - Clip 091.mp4,761,0.900,short_pass,3,4,4-down,4-1-6 (Dime),0-high,Cover 0,False,0.60
+Wide - Clip 092.mp4,923,0.233,quick_handoff,4,0,3-down,3-4,robber,Cover 3,True,0.80
+Wide - Clip 093.mp4,595,0.967,short_pass,10,9,5-down,5-2 / Goal Line,2-high,Cover 4,True,0.80
+Wide - Clip 094.mp4,610,0.400,handoff,7,7,5-down,5-2 / Goal Line,2-high,Cover 4,False,0.90
+Wide - Clip 095.mp4,477,0.600,handoff,5,7,5-down,5-2 / Goal Line,2-high,Cover 2,False,0.90
+Wide - Clip 096.mp4,568,0.367,handoff,3,2,3-down,3-3-5,0-high,Cover 0,True,0.50
+Wide - Clip 097.mp4,642,0.800,short_pass,8,8,5-down,5-2 / Goal Line,2-high,Cover 4,True,0.90
+Wide - Clip 098.mp4,314,1.467,dropback,7,9,5-down,5-2 / Goal Line,2-high,Cover 4,True,0.90
+Wide - Clip 099.mp4,327,0.833,short_pass,5,7,5-down,5-2 / Goal Line,2-high,Cover 2,False,0.90
+Wide - Clip 100.mp4,829,0.300,quick_handoff,5,7,5-down,5-2 / Goal Line,2-high,Cover 2,False,0.90
+Wide - Clip 101.mp4,697,0.500,handoff,2,5,5-down,5-2 / Goal Line,2-high,Cover 2,False,0.90
+Wide - Clip 102.mp4,508,0.300,handoff,6,7,5-down,5-2 / Goal Line,0-high,Cover 0,True,0.70
+Wide - Clip 103.mp4,408,0.367,handoff,6,6,5-down,5-2 / Goal Line,0-high,Cover 0,True,0.80
+Wide - Clip 104.mp4,381,1.167,short_pass,7,1,3-down,3-4,robber,Cover 3,True,0.90
+Wide - Clip 105.mp4,748,0.500,handoff,6,8,5-down,5-2 / Goal Line,2-high,Cover 2,False,0.90
+Wide - Clip 106.mp4,358,1.100,short_pass,4,4,4-down,4-1-6 (Dime),robber,Cover 3,False,0.80
+Wide - Clip 107.mp4,380,0.333,handoff,2,3,3-down,3-2-6,2-high,Cover 2,False,0.90
+Wide - Clip 108.mp4,336,0.767,short_pass,6,10,5-down,5-2 / Goal Line,robber,Cover 3,False,0.90
+Wide - Clip 109.mp4,530,0.300,quick_handoff,2,6,5-down,5-2 / Goal Line,0-high,Cover 0,True,0.50
+Wide - Clip 110.mp4,712,1.433,dropback,5,8,5-down,5-2 / Goal Line,0-high,Cover 0,True,0.80
+Wide - Clip 111.mp4,807,1.533,dropback,3,3,3-down,3-2-6,0-high,Cover 0,True,0.60
+Wide - Clip 112.mp4,613,0.600,handoff,3,0,3-down,3-3-5,0-high,Cover 0,False,0.50
+Wide - Clip 113.mp4,743,0.667,short_pass,0,4,4-down,4-1-6 (Dime),2-high,Cover 2,False,0.80
+Wide - Clip 114.mp4,597,0.500,handoff,0,0,3-down,3-2-6,2-high,Cover 2,False,0.60
+Wide - Clip 115.mp4,520,0.433,handoff,8,9,5-down,5-2 / Goal Line,0-high,Cover 0,True,0.80
+Wide - Clip 116.mp4,616,0.667,short_pass,8,11,5-down,5-2 / Goal Line,robber,Cover 3,True,0.90
+Wide - Clip 117.mp4,410,0.433,handoff,6,10,5-down,5-2 / Goal Line,2-high,Cover 2,False,0.90
+Wide - Clip 118.mp4,322,0.400,handoff,6,11,5-down,5-2 / Goal Line,2-high,Cover 2,False,0.90
+Wide - Clip 119.mp4,393,0.467,handoff,7,10,5-down,5-2 / Goal Line,2-high,Cover 4,False,0.90
+Wide - Clip 120.mp4,400,0.367,handoff,4,3,3-down,3-2-6,0-high,Cover 0,False,0.60
+Wide - Clip 121.mp4,699,0.667,short_pass,5,4,4-down,4-3,0-high,Cover 0,True,0.80
+Wide - Clip 122.mp4,409,0.333,handoff,6,6,5-down,5-2 / Goal Line,2-high,Cover 2,True,0.90
+Wide - Clip 123.mp4,497,0.300,quick_handoff,9,10,5-down,5-2 / Goal Line,2-high,Cover 4,True,0.90
+Wide - Clip 124.mp4,722,1.100,short_pass,4,6,5-down,5-2 / Goal Line,robber,Cover 3,False,0.80
+Wide - Clip 125.mp4,398,0.433,handoff,3,4,4-down,4-2-5 (Nickel),0-high,Cover 0,True,0.60
+Wide - Clip 126.mp4,461,0.500,handoff,6,7,5-down,5-2 / Goal Line,2-high,Cover 2,False,0.90
+Wide - Clip 127.mp4,568,0.500,handoff,9,10,5-down,5-2 / Goal Line,robber,Cover 3,True,0.90
+Wide - Clip 128.mp4,451,0.500,handoff,2,3,3-down,3-2-6,0-high,Cover 0,False,0.60
+Wide - Clip 129.mp4,399,0.333,handoff,3,0,3-down,3-4,0-high,Cover 0,False,0.50
+Wide - Clip 130.mp4,550,0.500,handoff,0,1,3-down,3-2-6,2-high,Cover 2,False,0.70
+Wide - Clip 131.mp4,519,0.300,handoff,5,6,5-down,5-2 / Goal Line,2-high,Cover 2,False,0.90
+Wide - Clip 132.mp4,284,0.567,handoff,3,4,4-down,4-1-6 (Dime),0-high,Cover 0,True,0.60
+Wide - Clip 133.mp4,379,0.333,handoff,4,5,5-down,5-2 / Goal Line,0-high,Cover 0,True,0.60
+Wide - Clip 134.mp4,901,0.233,quick_handoff,3,0,3-down,3-3-5,0-high,Cover 0,True,0.50
+Wide - Clip 135.mp4,301,0.533,handoff,6,9,5-down,5-2 / Goal Line,robber,Cover 3,False,0.90
+Wide - Clip 136.mp4,287,0.800,short_pass,5,7,5-down,5-2 / Goal Line,robber,Cover 3,False,0.90
+Wide - Clip 137.mp4,820,1.633,dropback,4,4,4-down,4-1-6 (Dime),0-high,Cover 0,False,0.60
+Wide - Clip 138.mp4,926,0.700,short_pass,3,2,3-down,3-3-5,2-high,Cover 2,True,0.60

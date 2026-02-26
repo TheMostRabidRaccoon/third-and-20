@@ -1,0 +1,85 @@
+============================================================
+THIRD & 20 - TRADITIONAL STATS SUMMARY
+Imported from Hudl OC Data
+============================================================
+
+SEASON OFFENSIVE TOTALS
+----------------------------------------
+Total Plays: 178
+Total Yards: 907.0
+Yards/Play: 5.1
+Total TDs: 12
+Turnovers: 8
+
+PASSING
+  38/47 for 334.0 yards
+  Completion %: 80.9%
+  Yards/Attempt: 7.1
+  TDs: 4, INTs: 6
+  Sacks: 5 for 35.0 yards
+
+RUSHING
+  117 carries for 573.0 yards
+  Yards/Carry: 4.9
+  TDs: 8, Long: 42.0
+  Direction: L=296.0, M=0.0, R=277.0
+
+SITUATIONAL
+  3rd Down: 12/30 (40.0%)
+  Red Zone TDs: 8
+  Run/Pass: 65.7% / 34.3%
+
+============================================================
+PER-GAME BREAKDOWN
+============================================================
+
+vs Bedford
+  Total: 182.0 yards on 50 plays (3.6 ypp)
+  Pass: 19/21 for 79.0 yards, 0 TD
+  Rush: 28 for 103.0 yards, 2 TD
+
+vs CCC
+  Total: 691.0 yards on 108 plays (6.4 ypp)
+  Pass: 41/41 for 443.0 yards, 6 TD
+  Rush: 66 for 248.0 yards, 6 TD
+
+vs Erie
+  Total: 158.0 yards on 39 plays (4.1 ypp)
+  Pass: 16/16 for 87.0 yards, 0 TD
+  Rush: 21 for 71.0 yards, 4 TD
+
+vs Euclid
+  Total: 396.0 yards on 116 plays (3.4 ypp)
+  Pass: 31/33 for 139.0 yards, 0 TD
+  Rush: 67 for 257.0 yards, 1 TD
+
+vs Garfield
+  Total: 508.0 yards on 104 plays (4.9 ypp)
+  Pass: 43/46 for 384.0 yards, 2 TD
+  Rush: 56 for 124.0 yards, 0 TD
+
+vs Hoban
+  Total: 203.0 yards on 94 plays (2.2 ypp)
+  Pass: 29/29 for 43.0 yards, 1 TD
+  Rush: 59 for 160.0 yards, 1 TD
+
+vs Shaker with Hudl asst
+  Total: 212.0 yards on 41 plays (5.2 ypp)
+  Pass: 14/18 for 226.0 yards, 3 TD
+  Rush: 22 for -14.0 yards, 2 TD
+
+vs Shaw
+  Total: 409.0 yards on 112 plays (3.7 ypp)
+  Pass: 32/35 for 159.0 yards, 2 TD
+  Rush: 69 for 250.0 yards, 6 TD
+
+vs Warrensville
+  Total: 170.0 yards on 49 plays (3.5 ypp)
+  Pass: 18/19 for 91.0 yards, 3 TD
+  Rush: 26 for 79.0 yards, 1 TD
+
+vs Willoughby
+  Total: 291.0 yards on 28 plays (10.4 ypp)
+  Pass: 14/16 for 159.0 yards, 1 TD
+  Rush: 12 for 132.0 yards, 2 TD
+

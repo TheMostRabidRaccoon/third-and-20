@@ -1,0 +1,173 @@
+clip_file,frame_num,total_defensive_players,box_count,defenders_on_los,second_level_count,deep_defenders,front,front_description,safety_alignment,coverage_shell,nose_tackle,edge_count,potential_blitz,blitz_indicators,confidence
+Wide - Clip 001.mp4,207,3,0,1,1,1,3-down,3-2-6,1-high,Cover 3,False,1,False,DB walked into box,0.60
+Wide - Clip 002.mp4,249,18,5,1,7,10,3-down,3-4,robber,Cover 3,True,0,False,LB showing blitz,0.90
+Wide - Clip 003.mp4,478,15,1,0,3,12,3-down,3-3-5,robber,Cover 3,False,0,False,,0.80
+Wide - Clip 004.mp4,833,7,5,0,5,2,3-down,3-4,2-high,Cover 2,False,0,False,LB showing blitz,0.70
+Wide - Clip 005.mp4,358,3,1,0,3,0,3-down,3-3-5,0-high,Cover 0,False,1,False,No deep safety (Cover 0),0.50
+Wide - Clip 006.mp4,411,7,4,5,0,2,5-down,5-2 / Goal Line,2-high,Cover 2,False,4,False,DB walked into box,0.70
+Wide - Clip 007.mp4,395,8,0,0,3,5,3-down,3-3-5,robber,Cover 3,False,0,False,DB walked into box,0.70
+Wide - Clip 008.mp4,327,9,6,6,1,2,5-down,5-2 / Goal Line,2-high,Cover 2,True,3,False,,0.80
+Wide - Clip 009.mp4,659,5,2,3,0,2,3-down,3-2-6,2-high,Cover 2,False,2,False,DB walked into box,0.70
+Wide - Clip 010.mp4,647,10,5,6,0,4,5-down,5-2 / Goal Line,robber,Cover 3,False,6,False,,0.90
+Wide - Clip 011.mp4,445,8,6,8,0,0,5-down,5-2 / Goal Line,0-high,Cover 0,True,3,True,"No deep safety (Cover 0),DB walked into box",0.70
+Wide - Clip 012.mp4,267,14,5,10,0,4,5-down,5-2 / Goal Line,robber,Cover 3,True,6,False,DB walked into box,0.90
+Wide - Clip 013.mp4,358,9,4,5,0,4,5-down,5-2 / Goal Line,robber,Cover 3,True,3,False,,0.80
+Wide - Clip 014.mp4,478,6,3,6,0,0,5-down,5-2 / Goal Line,0-high,Cover 0,True,5,True,"No deep safety (Cover 0),DB walked into box",0.50
+Wide - Clip 015.mp4,387,11,3,4,0,7,4-down,4-1-6 (Dime),2-high,Cover 2,False,3,False,,0.90
+Wide - Clip 016.mp4,261,6,2,4,0,2,4-down,4-1-6 (Dime),2-high,Cover 2,False,3,False,,0.70
+Wide - Clip 017.mp4,296,13,6,8,0,5,5-down,5-2 / Goal Line,2-high,Cover 2,True,4,True,"LB showing blitz,DB walked into box",0.90
+Wide - Clip 018.mp4,298,10,2,6,0,4,5-down,5-2 / Goal Line,2-high,Cover 2,False,4,False,,0.80
+Wide - Clip 019.mp4,533,14,6,9,1,4,5-down,5-2 / Goal Line,2-high,Cover 2,False,7,False,DB walked into box,0.90
+Wide - Clip 020.mp4,476,9,4,6,3,0,5-down,5-2 / Goal Line,0-high,Cover 0,False,4,True,"No deep safety (Cover 0),LB showing blitz,DB walked into box",0.60
+Wide - Clip 021.mp4,496,6,3,1,4,1,3-down,3-4,1-high,Cover 3,False,2,False,LB showing blitz,0.60
+Wide - Clip 022.mp4,354,5,3,0,5,0,3-down,3-4,0-high,Cover 0,False,0,True,"No deep safety (Cover 0),DB walked into box",0.50
+Wide - Clip 023.mp4,1722,13,7,8,0,5,5-down,5-2 / Goal Line,2-high,Cover 4,True,5,False,,0.90
+Wide - Clip 024.mp4,371,8,1,4,2,2,4-down,4-2-5 (Nickel),robber,Cover 3,False,4,False,DB walked into box,0.80
+Wide - Clip 025.mp4,431,10,6,5,4,1,5-down,5-2 / Goal Line,1-high,Cover 3,False,4,True,"LB showing blitz,DB walked into box",1.00
+Wide - Clip 026.mp4,501,9,5,6,0,3,5-down,5-2 / Goal Line,2-high,Cover 2,False,2,False,LB showing blitz,0.80
+Wide - Clip 027.mp4,338,15,8,9,2,4,5-down,5-2 / Goal Line,2-high,Cover 4,False,5,True,"8+ in box,DB walked into box",0.90
+Wide - Clip 028.mp4,237,19,8,9,5,5,5-down,5-2 / Goal Line,2-high,Cover 4,True,5,True,"8+ in box,DB walked into box",0.90
+Wide - Clip 029.mp4,286,15,6,8,5,2,5-down,5-2 / Goal Line,2-high,Cover 2,True,6,False,DB walked into box,0.90
+Wide - Clip 030.mp4,344,7,2,3,4,0,3-down,3-4,0-high,Cover 0,False,2,True,"No deep safety (Cover 0),DB walked into box",0.60
+Wide - Clip 031.mp4,147,9,3,5,2,2,5-down,5-2 / Goal Line,2-high,Cover 2,False,4,False,DB walked into box,0.80
+Wide - Clip 032.mp4,347,6,2,2,4,0,3-down,3-4,0-high,Cover 0,False,1,True,"No deep safety (Cover 0),DB walked into box",0.50
+Wide - Clip 033.mp4,388,5,3,5,0,0,5-down,5-2 / Goal Line,0-high,Cover 0,True,4,True,"No deep safety (Cover 0),DB walked into box",0.60
+Wide - Clip 034.mp4,290,9,6,8,0,1,5-down,5-2 / Goal Line,1-high,Cover 3,False,6,False,,0.80
+Wide - Clip 035.mp4,301,9,3,0,5,4,3-down,3-4,robber,Cover 3,False,0,False,,0.70
+Wide - Clip 036.mp4,544,9,3,0,4,5,3-down,3-4,2-high,Cover 2,False,2,False,LB showing blitz,0.70
+Wide - Clip 037.mp4,304,6,1,0,3,3,3-down,3-3-5,robber,Cover 3,False,0,False,,0.60
+Wide - Clip 038.mp4,147,6,3,5,1,0,5-down,5-2 / Goal Line,0-high,Cover 0,True,4,False,No deep safety (Cover 0),0.60
+Wide - Clip 039.mp4,395,1,1,1,0,0,3-down,3-2-6,0-high,Cover 0,False,0,False,No deep safety (Cover 0),0.50
+Wide - Clip 040.mp4,386,8,3,5,0,3,5-down,5-2 / Goal Line,2-high,Cover 2,True,3,False,DB walked into box,0.80
+Wide - Clip 041.mp4,327,3,2,2,1,0,3-down,3-2-6,0-high,Cover 0,True,1,True,"No deep safety (Cover 0),DB walked into box",0.50
+Wide - Clip 042.mp4,322,11,5,7,1,3,5-down,5-2 / Goal Line,2-high,Cover 2,False,5,True,"LB showing blitz,DB walked into box",0.90
+Wide - Clip 043.mp4,384,10,6,1,9,0,3-down,3-4,0-high,Cover 0,False,1,False,No deep safety (Cover 0),0.80
+Wide - Clip 044.mp4,432,13,7,11,0,2,5-down,5-2 / Goal Line,2-high,Cover 4,False,8,False,DB walked into box,0.90
+Wide - Clip 045.mp4,323,5,3,4,0,1,4-down,4-1-6 (Dime),1-high,Cover 3,True,2,False,DB walked into box,0.70
+Wide - Clip 046.mp4,598,3,1,1,1,1,3-down,3-2-6,1-high,Cover 3,False,1,False,,0.60
+Wide - Clip 047.mp4,387,10,4,0,6,4,3-down,3-4,robber,Cover 3,False,0,False,DB walked into box,0.80
+Wide - Clip 048.mp4,585,7,3,0,4,3,3-down,3-4,robber,Cover 3,False,0,False,,0.60
+Wide - Clip 049.mp4,464,11,8,11,0,0,5-down,5-2 / Goal Line,0-high,Cover 0,False,6,True,"8+ in box,No deep safety (Cover 0),LB showing blitz,DB walked into box",0.80
+Wide - Clip 050.mp4,371,13,6,7,0,6,5-down,5-2 / Goal Line,robber,Cover 3,False,6,False,,0.90
+Wide - Clip 051.mp4,237,8,3,4,0,4,4-down,4-1-6 (Dime),robber,Cover 3,False,3,False,,0.80
+Wide - Clip 052.mp4,538,5,3,5,0,0,5-down,5-2 / Goal Line,0-high,Cover 0,True,4,True,"No deep safety (Cover 0),DB walked into box",0.60
+Wide - Clip 053.mp4,478,1,0,1,0,0,3-down,3-2-6,0-high,Cover 0,False,1,False,No deep safety (Cover 0),0.50
+Wide - Clip 054.mp4,715,0,0,0,0,0,unknown,,unknown,Unknown,False,0,False,,0.00
+Wide - Clip 055.mp4,257,7,2,4,3,0,4-down,4-3,0-high,Cover 0,False,6,True,"No deep safety (Cover 0),DB walked into box",0.60
+Wide - Clip 056.mp4,987,5,5,1,4,0,3-down,3-4,0-high,Cover 0,False,0,False,No deep safety (Cover 0),0.60
+Wide - Clip 057.mp4,512,0,0,0,0,0,unknown,,unknown,Unknown,False,0,False,,0.00
+Wide - Clip 058.mp4,389,10,5,9,0,1,5-down,5-2 / Goal Line,1-high,Cover 3,True,4,True,"LB showing blitz,DB walked into box",0.90
+Wide - Clip 059.mp4,486,8,5,6,0,2,5-down,5-2 / Goal Line,2-high,Cover 2,True,3,False,DB walked into box,0.80
+Wide - Clip 060.mp4,350,8,5,6,0,2,5-down,5-2 / Goal Line,2-high,Cover 2,False,2,False,,0.80
+Wide - Clip 061.mp4,297,6,2,4,0,2,4-down,4-1-6 (Dime),2-high,Cover 2,False,3,False,,0.70
+Wide - Clip 062.mp4,547,7,3,2,1,4,3-down,3-2-6,robber,Cover 3,True,0,False,,0.60
+Wide - Clip 063.mp4,237,5,4,3,1,1,3-down,3-2-6,1-high,Cover 3,True,0,False,LB showing blitz,0.70
+Wide - Clip 064.mp4,598,6,0,2,1,3,3-down,3-2-6,2-high,Cover 2,False,3,False,DB walked into box,0.60
+Wide - Clip 065.mp4,2100,10,2,0,3,7,3-down,3-3-5,robber,Cover 3,False,0,False,LB showing blitz,0.80
+Wide - Clip 066.mp4,583,7,1,3,0,4,3-down,3-2-6,robber,Cover 3,False,2,False,DB walked into box,0.70
+Wide - Clip 067.mp4,486,3,1,2,0,1,3-down,3-2-6,1-high,Cover 3,False,2,True,"LB showing blitz,DB walked into box",0.60
+Wide - Clip 068.mp4,335,3,3,2,1,0,3-down,3-2-6,0-high,Cover 0,False,1,True,"No deep safety (Cover 0),LB showing blitz",0.50
+Wide - Clip 069.mp4,962,1,0,1,0,0,3-down,3-2-6,0-high,Cover 0,False,1,True,"No deep safety (Cover 0),DB walked into box",0.50
+Wide - Clip 070.mp4,330,19,8,13,1,5,5-down,5-2 / Goal Line,2-high,Cover 4,True,8,True,"8+ in box,DB walked into box",0.90
+Wide - Clip 071.mp4,422,5,4,3,2,0,3-down,3-2-6,0-high,Cover 0,False,2,True,"No deep safety (Cover 0),DB walked into box",0.60
+Wide - Clip 072.mp4,307,6,4,0,5,1,3-down,3-4,1-high,Cover 3,False,0,False,LB showing blitz,0.60
+Wide - Clip 073.mp4,388,6,5,4,1,1,4-down,4-1-6 (Dime),1-high,Cover 3,True,1,False,,0.80
+Wide - Clip 074.mp4,465,6,2,4,2,0,4-down,4-2-5 (Nickel),0-high,Cover 0,True,4,True,"No deep safety (Cover 0),DB walked into box",0.60
+Wide - Clip 075.mp4,597,1,0,0,1,0,3-down,3-2-6,0-high,Cover 0,False,0,False,No deep safety (Cover 0),0.50
+Wide - Clip 076.mp4,357,6,4,6,0,0,5-down,5-2 / Goal Line,0-high,Cover 0,True,4,True,"No deep safety (Cover 0),LB showing blitz,DB walked into box",0.50
+Wide - Clip 077.mp4,478,5,5,0,5,0,3-down,3-4,0-high,Cover 0,False,1,True,"No deep safety (Cover 0),LB showing blitz",0.60
+Wide - Clip 078.mp4,590,5,4,0,5,0,3-down,3-4,0-high,Cover 0,False,0,True,"No deep safety (Cover 0),DB walked into box",0.50
+Wide - Clip 079.mp4,298,9,7,7,2,0,5-down,5-2 / Goal Line,0-high,Cover 0,True,4,True,"No deep safety (Cover 0),LB showing blitz,DB walked into box",0.70
+Wide - Clip 080.mp4,267,9,0,0,3,6,3-down,3-3-5,2-high,Cover 2,False,0,False,,0.70
+Wide - Clip 081.mp4,276,17,5,0,6,11,3-down,3-4,robber,Cover 3,False,1,True,"LB showing blitz,DB walked into box",0.90
+Wide - Clip 082.mp4,547,5,2,4,1,0,4-down,4-1-6 (Dime),0-high,Cover 0,False,4,False,No deep safety (Cover 0),0.60
+Wide - Clip 083.mp4,286,20,5,0,5,15,3-down,3-4,robber,Cover 3,False,0,False,LB showing blitz,0.90
+Wide - Clip 084.mp4,596,1,0,0,0,1,3-down,3-2-6,1-high,Cover 3,False,0,False,,0.60
+Wide - Clip 085.mp4,1153,1,1,0,1,0,3-down,3-2-6,0-high,Cover 0,False,0,False,No deep safety (Cover 0),0.50
+Wide - Clip 086.mp4,2122,0,0,0,0,0,unknown,,unknown,Unknown,False,0,False,,0.00
+Wide - Clip 087.mp4,226,1,0,0,1,0,3-down,3-2-6,0-high,Cover 0,False,0,False,No deep safety (Cover 0),0.50
+Wide - Clip 089.mp4,117,0,0,0,0,0,unknown,,unknown,Unknown,False,0,False,,0.00
+Wide - Clip 090.mp4,387,15,4,6,1,8,5-down,5-2 / Goal Line,2-high,Cover 2,False,3,False,DB walked into box,0.80
+Wide - Clip 091.mp4,556,10,2,4,0,6,4-down,4-1-6 (Dime),2-high,Cover 2,True,3,False,DB walked into box,0.90
+Wide - Clip 092.mp4,300,12,2,0,3,9,3-down,3-3-5,robber,Cover 3,False,0,False,,0.80
+Wide - Clip 093.mp4,451,4,1,1,0,3,3-down,3-2-6,2-high,Cover 2,False,0,False,,0.60
+Wide - Clip 094.mp4,491,7,0,1,0,6,3-down,3-2-6,2-high,Cover 2,False,1,False,,0.60
+Wide - Clip 095.mp4,331,6,5,6,0,0,5-down,5-2 / Goal Line,0-high,Cover 0,True,2,True,"No deep safety (Cover 0),DB walked into box",0.60
+Wide - Clip 096.mp4,396,8,2,3,0,5,3-down,3-2-6,2-high,Cover 2,False,2,False,,0.80
+Wide - Clip 098.mp4,507,4,3,0,4,0,3-down,3-4,0-high,Cover 0,False,0,True,"No deep safety (Cover 0),LB showing blitz",0.50
+Wide - Clip 099.mp4,438,6,5,1,5,0,3-down,3-4,0-high,Cover 0,True,0,True,"No deep safety (Cover 0),LB showing blitz",0.60
+Wide - Clip 100.mp4,261,7,2,0,2,5,3-down,3-2-6,robber,Cover 3,False,0,False,,0.60
+Wide - Clip 101.mp4,466,6,1,0,3,3,3-down,3-3-5,robber,Cover 3,False,2,False,DB walked into box,0.60
+Wide - Clip 102.mp4,490,7,4,4,1,2,4-down,4-1-6 (Dime),robber,Cover 3,True,2,False,DB walked into box,0.70
+Wide - Clip 103.mp4,433,2,1,2,0,0,3-down,3-2-6,0-high,Cover 0,False,2,False,No deep safety (Cover 0),0.50
+Wide - Clip 104.mp4,385,5,2,3,0,2,3-down,3-2-6,2-high,Cover 2,True,1,False,,0.70
+Wide - Clip 105.mp4,427,8,2,3,0,5,3-down,3-2-6,2-high,Cover 2,False,3,False,DB walked into box,0.80
+Wide - Clip 106.mp4,501,9,2,0,3,6,3-down,3-3-5,2-high,Cover 2,False,1,False,,0.70
+Wide - Clip 107.mp4,916,6,4,6,0,0,5-down,5-2 / Goal Line,0-high,Cover 0,False,4,True,"No deep safety (Cover 0),LB showing blitz",0.50
+Wide - Clip 108.mp4,254,11,3,4,1,6,4-down,4-1-6 (Dime),2-high,Cover 2,True,2,False,,0.90
+Wide - Clip 109.mp4,241,13,4,5,1,7,5-down,5-2 / Goal Line,robber,Cover 3,False,3,False,,0.90
+Wide - Clip 110.mp4,413,6,1,3,0,3,3-down,3-2-6,2-high,Cover 2,True,2,False,,0.70
+Wide - Clip 111.mp4,225,13,6,1,8,4,3-down,3-4,robber,Cover 3,False,2,False,LB showing blitz,0.90
+Wide - Clip 112.mp4,285,5,2,4,1,0,4-down,4-1-6 (Dime),0-high,Cover 0,False,5,True,"No deep safety (Cover 0),DB walked into box",0.60
+Wide - Clip 113.mp4,234,9,2,7,0,2,5-down,5-2 / Goal Line,2-high,Cover 2,False,6,False,DB walked into box,0.70
+Wide - Clip 114.mp4,492,9,4,0,6,3,3-down,3-4,robber,Cover 3,False,0,False,LB showing blitz,0.70
+Wide - Clip 115.mp4,481,10,1,0,4,6,3-down,3-4,robber,Cover 3,False,0,False,,0.80
+Wide - Clip 116.mp4,295,6,4,4,0,2,4-down,4-1-6 (Dime),2-high,Cover 2,True,1,False,,0.70
+Wide - Clip 117.mp4,529,7,3,0,4,3,3-down,3-4,robber,Cover 3,False,0,False,,0.60
+Wide - Clip 118.mp4,297,5,2,0,3,2,3-down,3-3-5,2-high,Cover 2,False,0,False,LB showing blitz,0.60
+Wide - Clip 119.mp4,248,3,2,2,0,1,3-down,3-2-6,1-high,Cover 3,True,0,False,,0.60
+Wide - Clip 120.mp4,468,9,3,6,0,3,5-down,5-2 / Goal Line,2-high,Cover 2,True,4,False,DB walked into box,0.70
+Wide - Clip 121.mp4,216,7,2,3,0,4,3-down,3-2-6,2-high,Cover 2,False,2,False,DB walked into box,0.70
+Wide - Clip 122.mp4,261,7,2,3,0,4,3-down,3-2-6,2-high,Cover 2,True,2,False,DB walked into box,0.70
+Wide - Clip 123.mp4,354,8,5,6,2,0,5-down,5-2 / Goal Line,0-high,Cover 0,True,5,True,"No deep safety (Cover 0),DB walked into box",0.70
+Wide - Clip 124.mp4,414,1,0,1,0,0,3-down,3-2-6,0-high,Cover 0,False,1,False,No deep safety (Cover 0),0.50
+Wide - Clip 125.mp4,461,0,0,0,0,0,unknown,,unknown,Unknown,False,0,False,,0.00
+Wide - Clip 126.mp4,267,1,1,0,1,0,3-down,3-2-6,0-high,Cover 0,False,0,False,No deep safety (Cover 0),0.50
+Wide - Clip 127.mp4,282,8,3,5,3,0,5-down,5-2 / Goal Line,0-high,Cover 0,True,3,True,"No deep safety (Cover 0),DB walked into box",0.70
+Wide - Clip 128.mp4,365,5,0,1,0,4,3-down,3-2-6,robber,Cover 3,False,1,False,,0.60
+Wide - Clip 129.mp4,367,5,5,5,0,0,5-down,5-2 / Goal Line,0-high,Cover 0,False,2,True,"No deep safety (Cover 0),LB showing blitz",0.70
+Wide - Clip 130.mp4,266,6,3,0,6,0,3-down,3-4,0-high,Cover 0,False,3,True,"No deep safety (Cover 0),LB showing blitz,DB walked into box",0.50
+Wide - Clip 131.mp4,478,10,7,1,9,0,3-down,3-4,0-high,Cover 0,False,1,True,"No deep safety (Cover 0),DB walked into box",0.80
+Wide - Clip 132.mp4,459,4,0,1,1,2,3-down,3-2-6,2-high,Cover 2,False,1,False,,0.60
+Wide - Clip 133.mp4,498,6,2,3,1,2,3-down,3-2-6,robber,Cover 3,False,3,False,,0.70
+Wide - Clip 134.mp4,192,10,3,5,1,4,5-down,5-2 / Goal Line,robber,Cover 3,False,3,False,DB walked into box,0.90
+Wide - Clip 135.mp4,344,9,3,0,4,5,3-down,3-4,robber,Cover 3,False,0,False,,0.70
+Wide - Clip 136.mp4,579,4,2,3,0,1,3-down,3-2-6,1-high,Cover 3,False,3,False,,0.70
+Wide - Clip 137.mp4,294,9,4,5,1,3,5-down,5-2 / Goal Line,robber,Cover 3,False,1,False,DB walked into box,0.80
+Wide - Clip 138.mp4,330,2,1,2,0,0,3-down,3-2-6,0-high,Cover 0,False,1,True,"No deep safety (Cover 0),DB walked into box",0.50
+Wide - Clip 139.mp4,447,10,3,0,3,7,3-down,3-3-5,robber,Cover 3,False,0,False,,0.80
+Wide - Clip 140.mp4,272,16,5,8,1,7,5-down,5-2 / Goal Line,robber,Cover 3,False,5,False,,0.90
+Wide - Clip 141.mp4,587,4,1,3,1,0,3-down,3-2-6,0-high,Cover 0,False,4,True,"No deep safety (Cover 0),DB walked into box",0.60
+Wide - Clip 142.mp4,232,5,1,2,0,3,3-down,3-2-6,robber,Cover 3,False,2,False,DB walked into box,0.60
+Wide - Clip 143.mp4,281,7,3,0,5,2,3-down,3-4,robber,Cover 3,False,0,False,,0.60
+Wide - Clip 144.mp4,341,8,2,0,4,4,3-down,3-4,2-high,Cover 2,False,0,False,,0.70
+Wide - Clip 145.mp4,403,7,1,1,0,6,3-down,3-2-6,robber,Cover 3,True,0,False,,0.60
+Wide - Clip 146.mp4,581,10,5,4,2,4,4-down,4-2-5 (Nickel),2-high,Cover 2,True,2,False,LB showing blitz,1.00
+Wide - Clip 147.mp4,337,9,3,0,5,4,3-down,3-4,robber,Cover 3,False,0,False,,0.70
+Wide - Clip 148.mp4,288,5,2,1,2,2,3-down,3-2-6,2-high,Cover 2,False,0,False,,0.60
+Wide - Clip 149.mp4,335,8,4,3,2,3,3-down,3-2-6,2-high,Cover 2,False,3,False,LB showing blitz,0.80
+Wide - Clip 150.mp4,502,0,0,0,0,0,unknown,,unknown,Unknown,False,0,False,,0.00
+Wide - Clip 151.mp4,1030,5,1,1,0,4,3-down,3-2-6,2-high,Cover 2,False,1,False,,0.60
+Wide - Clip 152.mp4,439,5,1,0,5,0,3-down,3-4,0-high,Cover 0,False,0,False,No deep safety (Cover 0),0.50
+Wide - Clip 153.mp4,599,9,2,0,6,3,3-down,3-4,2-high,Cover 2,False,0,False,DB walked into box,0.70
+Wide - Clip 154.mp4,299,7,5,0,7,0,3-down,3-4,0-high,Cover 0,False,1,True,"No deep safety (Cover 0),LB showing blitz",0.60
+Wide - Clip 155.mp4,208,5,1,1,0,4,3-down,3-2-6,2-high,Cover 2,False,0,False,,0.60
+Wide - Clip 156.mp4,412,15,4,0,5,10,3-down,3-4,robber,Cover 3,False,0,False,,0.80
+Wide - Clip 157.mp4,291,3,3,3,0,0,3-down,3-2-6,0-high,Cover 0,True,1,True,"No deep safety (Cover 0),LB showing blitz",0.60
+Wide - Clip 158.mp4,437,4,2,4,0,0,4-down,4-1-6 (Dime),0-high,Cover 0,True,2,True,"No deep safety (Cover 0),LB showing blitz",0.60
+Wide - Clip 159.mp4,706,8,4,5,0,3,5-down,5-2 / Goal Line,2-high,Cover 2,True,3,False,DB walked into box,0.80
+Wide - Clip 160.mp4,623,8,4,4,4,0,4-down,4-3,0-high,Cover 0,True,5,True,"No deep safety (Cover 0),DB walked into box",0.70
+Wide - Clip 161.mp4,708,3,2,2,1,0,3-down,3-2-6,0-high,Cover 0,False,1,False,No deep safety (Cover 0),0.50
+Wide - Clip 162.mp4,222,20,8,12,1,7,5-down,5-2 / Goal Line,robber,Cover 3,True,7,True,"8+ in box,LB showing blitz,DB walked into box",0.90
+Wide - Clip 163.mp4,358,6,1,1,2,3,3-down,3-2-6,robber,Cover 3,False,1,False,DB walked into box,0.60
+Wide - Clip 164.mp4,411,4,1,0,1,3,3-down,3-2-6,robber,Cover 3,False,0,False,,0.60
+Wide - Clip 165.mp4,383,5,4,5,0,0,5-down,5-2 / Goal Line,0-high,Cover 0,True,2,True,"No deep safety (Cover 0),LB showing blitz,DB walked into box",0.60
+Wide - Clip 166.mp4,1712,4,2,2,0,2,3-down,3-2-6,2-high,Cover 2,False,1,False,,0.60
+Wide - Clip 167.mp4,207,7,0,1,0,6,3-down,3-2-6,2-high,Cover 2,False,1,False,,0.60
+Wide - Clip 168.mp4,442,6,1,3,0,3,3-down,3-2-6,2-high,Cover 2,False,3,False,DB walked into box,0.70
+Wide - Clip 169.mp4,652,10,5,6,4,0,5-down,5-2 / Goal Line,0-high,Cover 0,True,5,True,"No deep safety (Cover 0),LB showing blitz,DB walked into box",0.80
+Wide - Clip 170.mp4,609,6,5,0,6,0,3-down,3-4,0-high,Cover 0,False,0,False,No deep safety (Cover 0),0.60
+Wide - Clip 171.mp4,1527,0,0,0,0,0,unknown,,unknown,Unknown,False,0,False,,0.00
+Wide - Clip 172.mp4,817,4,0,2,0,2,3-down,3-2-6,2-high,Cover 2,False,2,False,,0.60
+Wide - Clip 173.mp4,741,1,0,0,0,1,3-down,3-2-6,1-high,Cover 3,False,0,False,,0.60
+Wide - Clip 174.mp4,1578,2,0,0,2,0,3-down,3-2-6,0-high,Cover 0,False,0,False,No deep safety (Cover 0),0.50

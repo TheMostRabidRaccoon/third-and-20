@@ -1,0 +1,106 @@
+THIRD & 20 ANALYTICS
+CV Data Pipeline Progress Report
+January 13, 2026
+Executive Summary
+This report documents the current state of the THIRD & 20 computer vision (CV) pipeline, identifying what capabilities exist, what gaps remain, and the path forward to achieve the vision of a neutral, physics-first football analytics platform.
+
+
+Section 1: What We Have Built
+The CV pipeline has successfully implemented the core differentiating metrics that no other football analytics company offers:
+Working Features (Key Differentiators)
+
+Section 2: Catalog Claims vs. Reality
+A critical audit of what is being marketed versus what the CV pipeline actually produces:
+
+
+Section 3: Priority Action Plan
+Prioritized roadmap to close the gaps between claims and reality:
+P0 - Critical (Blocking Product Claims)
+Defensive Front Detection (3-4, 4-3, Nickel, Dime) - HIGH effort, requires pre-snap frame detection
+Coverage Shell Detection (Cover 0/1/2/3/4) - HIGH effort, requires safety position tracking
+Box Count - MEDIUM effort, requires player position classification
+P1 - High Priority
+Fix Jersey OCR to Roster Matching - many players currently unidentified
+Add Safety Alignment Classification (0/1/2-high)
+Validate Snap Detection accuracy
+Add Blitz Indicator from pre-snap LB/DB alignment
+P2 - Medium Priority
+Link Formation Recognition to CV (data exists but not integrated)
+Fill Recognition Latency gaps (many null values)
+P3 - Future (The Golden Ticket)
+Build Play Recommendation Engine - THE differentiator, requires all P0/P1 items complete
+Section 4: The Vision - Neutral Fact-Finder
+The ultimate goal is to build a physics-first, neutral fact-finding system that differs fundamentally from existing football analytics. This section outlines what that means and what must be built to achieve it.
+Core Architecture Requirements
+The neutral fact-finder requires three foundational capabilities:
+1. Canonical Field Coordinates
+Transform all video into a standardized field coordinate system (0-120 yards x 0-53.3 yards). This eliminates camera-relative left/right noise and enables comparison across plays regardless of which direction teams are facing.
+Detect field markings (hashes, yard lines, numbers)
+Fit homography to map pixel (u,v) to field (x,y) in yards
+Continuously update if camera pans/zooms
+2. Possession + Game State as Derived Facts
+Rather than assuming team perspective, infer game state from the data:
+possession_team_id (from scorebug OCR or formation inference)
+los_x (line of scrimmage in field coordinates)
+first_down_x (line-to-gain)
+drive_dir (computed from ball movement post-snap)
+3. Two-Phase Architecture
+To meet the 12-second play-call window, separate offline and online computation:
+Offline (Pregame/Batch):
+Field calibration model per stadium/camera
+Roster/jersey mapping priors
+Team tendencies, formation clustering, coverage families
+Opponent scouting models from public film
+Online (In-Game 12s Loop):
+Play segmentation (snap detection)
+Formation ID + motion detection
+Lightweight coverage/pressure indicators
+Situational match to precomputed decision table
+Section 5: Gap Analysis - Current State to Vision
+What must be built to transform from current CV pipeline to neutral fact-finder:
+
+
+Section 6: Why Neutral Fact-Finding Matters
+The fundamental difference between THIRD & 20 and existing products:
+Legacy Approach (Hudl, PFF, etc.)
+Film review first, automation bolted on later
+Team-centric data model ("my team vs opponent")
+Direction, offense/defense assumed, not derived
+Manual tagging disguised as analytics
+Cannot support real-time decisions
+THIRD & 20 Approach (Physics-First)
+Physical reality first: bodies, trajectories, constraints, time
+State inference: possession, formation, motion, pressure derived
+Game theory layer: tendencies, counters, exploitation windows
+"Team perspective" is a rendering choice, not a data model
+Enables 12-second real-time play recommendations
+The Inversion
+Traditional pipeline: football knowledge → tagging → summary → decision
+THIRD & 20 pipeline: motion → state → constraint → decision
+Football knowledge lives in interpretation/UI layer, NOT the sensing layer. This is why public YouTube film becomes valuable - you're not asking "what plays did they run" but "what constraints does this team operate under."
+Section 7: Recommended Development Roadmap
+Phase 1: Fix Catalog Claims (Weeks 1-4)
+Implement Defensive Front Detection (3-4, 4-3, Nickel, Dime)
+Implement Coverage Shell Detection (Cover 0/1/2/3/4)
+Implement Box Count
+Fix Jersey OCR to Roster matching
+Phase 2: Build Neutral Backbone (Weeks 5-10)
+Implement field coordinate homography transform
+Build possession inference from scorebug/formation
+Implement LOS and first down line detection
+Build drive direction inference
+Phase 3: Preseason Scouting Engine (Weeks 11-16)
+Build public film ingestion pipeline (YouTube, Hudl public)
+Implement opponent constraint extraction
+Build tendency models with confidence bands
+Create one-page opponent profile output format
+Phase 4: Real-Time Decision Loop (Weeks 17-24)
+Build 12-second inference pipeline
+Implement situational match to precomputed decision table
+Build Play Recommendation Engine
+Validate against real game conditions
+
+Conclusion
+The CV pipeline has successfully built the core differentiating metrics (SDI, Recognition Latency, First Step Quickness) that no competitor offers. However, several catalog claims are currently unsupported, and the broader vision of a neutral fact-finding platform requires substantial additional development.
+The path forward is clear: first fix what's been promised, then build the physics-first neutral backbone, then create the preseason scouting engine, and finally deliver the 12-second play recommendation capability that will truly differentiate THIRD & 20 in the market.
+The high school market is the right entry point - these schools cannot afford analytics staff or manual tagging, but they can afford a fixed hardware + software system that replaces labor with computation. The neutral, physics-first approach is not just "cleaner" - it's the only way the real-time promise is even feasible.

@@ -1,0 +1,39 @@
+Metric,Value
+=== RECOGNITION LATENCY (RL) ===,
+rl_mean,0.574
+rl_median,0.467
+rl_std,0.363
+rl_min,0.233
+rl_max,1.867
+rl_elite_count,687
+rl_elite_pct,55.181
+rl_developmental_count,30
+rl_developmental_pct,2.410
+,
+=== FIRST STEP QUICKNESS (FSQ) ===,
+fsq_mean,0.336
+fsq_median,0.200
+fsq_std,0.495
+fsq_min,0.033
+fsq_max,9.109
+fsq_elite_count,3723
+fsq_elite_pct,66.673
+fsq_developmental_count,520
+fsq_developmental_pct,9.312
+,
+=== SDI COMPOSITE ===,
+sdi_mean,6507.106
+sdi_median,7024.000
+sdi_std,1253.831
+sdi_min,4024.000
+sdi_max,9823.000
+sdi_elite_count,680
+sdi_elite_pct,10.013
+sdi_above_avg_count,3422
+sdi_above_avg_pct,50.390
+sdi_average_count,2010
+sdi_average_pct,29.598
+sdi_below_avg_count,679
+sdi_below_avg_pct,9.999
+sdi_developmental_count,0
+sdi_developmental_pct,0.000

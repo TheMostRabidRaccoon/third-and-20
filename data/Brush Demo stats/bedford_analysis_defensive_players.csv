@@ -1,0 +1,774 @@
+clip_file,track_id,jersey_number,player_name,team_name,inferred_position,alignment,depth_from_los,in_box,on_line,first_step_sec,first_step_grade,penetration_depth,lateral_movement,defensive_grade
+End Zone - Clip 001.mp4,390,,,DEFENSE,DL,3-tech,0.189,True,False,0.167,Elite,,,Elite
+End Zone - Clip 001.mp4,472,,,DEFENSE,S,Deep half,0.289,True,False,,,,,Average
+End Zone - Clip 001.mp4,569,,,DEFENSE,EDGE,DE (down),0.172,True,False,,,,,Average
+End Zone - Clip 001.mp4,588,,,DEFENSE,DL,3-tech,0.188,True,False,0.133,Elite,,,Elite
+End Zone - Clip 001.mp4,617,,,DEFENSE,EDGE,DE (down),0.137,False,False,,,,,Average
+End Zone - Clip 001.mp4,615,,,DEFENSE,EDGE,DE (down),0.147,True,False,0.234,Above Average,,,Above Average
+End Zone - Clip 001.mp4,625,,,DEFENSE,EDGE,DE (down),0.179,False,False,0.033,Elite,,,Elite
+End Zone - Clip 001.mp4,633,,,DEFENSE,DL,3-tech,0.002,True,True,,,,,Average
+End Zone - Clip 001.mp4,649,,,DEFENSE,DL,1-tech,0.188,True,False,0.167,Elite,,,Elite
+End Zone - Clip 002.mp4,1188,,,DEFENSE,DL,1-tech,0.016,True,True,,,,,Average
+End Zone - Clip 002.mp4,1391,,,DEFENSE,EDGE,DE (down),0.104,True,False,,,,,Average
+End Zone - Clip 002.mp4,1446,,,DEFENSE,DL,0-tech (Nose),0.111,True,False,0.334,Average,,,Average
+End Zone - Clip 002.mp4,1450,,,DEFENSE,DL,0-tech (Nose),0.055,True,False,,,,,Average
+End Zone - Clip 002.mp4,1482,,,DEFENSE,LB,WILL (weak),0.120,True,False,,,,,Average
+End Zone - Clip 002.mp4,1483,,,DEFENSE,EDGE,DE (down),0.108,False,False,0.234,Above Average,,,Above Average
+End Zone - Clip 002.mp4,1488,,,DEFENSE,DL,3-tech,0.109,True,False,0.100,Elite,,,Elite
+End Zone - Clip 002.mp4,1490,,,DEFENSE,DL,5-tech,0.067,True,False,0.033,Elite,,,Elite
+End Zone - Clip 002.mp4,1491,,,DEFENSE,EDGE,DE (down),0.084,False,False,,,,,Average
+End Zone - Clip 004.mp4,2256,,,DEFENSE,S,Deep half,0.373,False,False,0.033,Elite,,0.073,Elite
+End Zone - Clip 004.mp4,2387,,,DEFENSE,S,Strong Safety,0.361,True,False,0.033,Elite,,0.049,Elite
+End Zone - Clip 004.mp4,2392,,,DEFENSE,CB,Deep,0.390,False,False,0.033,Elite,,0.004,Elite
+End Zone - Clip 006.mp4,2758,,,DEFENSE,DL,3-tech,0.016,True,True,,,,,Average
+End Zone - Clip 006.mp4,3123,,,DEFENSE,EDGE,DE (down),0.020,True,True,0.067,Elite,,,Elite
+End Zone - Clip 006.mp4,3122,,,DEFENSE,LB,WILL (weak),0.105,True,False,0.133,Elite,,,Elite
+End Zone - Clip 006.mp4,3133,,,DEFENSE,EDGE,DE (down),0.016,False,True,0.200,Above Average,,,Above Average
+End Zone - Clip 006.mp4,3150,,,DEFENSE,DL,0-tech (Nose),0.010,True,True,0.033,Elite,,,Elite
+End Zone - Clip 006.mp4,3218,,,DEFENSE,EDGE,DE (down),0.003,False,True,0.067,Elite,,,Elite
+End Zone - Clip 007.mp4,3480,,,DEFENSE,LB,SAM (strong),0.030,True,False,0.267,Above Average,,,Above Average
+End Zone - Clip 008.mp4,4230,,,DEFENSE,LB,SAM (strong),0.141,True,False,0.033,Elite,,,Elite
+End Zone - Clip 008.mp4,4244,,,DEFENSE,LB,MIKE (middle),0.150,True,False,0.234,Elite,,,Elite
+End Zone - Clip 008.mp4,4248,,,DEFENSE,LB,SAM (strong),0.138,True,False,0.033,Elite,,,Elite
+End Zone - Clip 008.mp4,4289,,,DEFENSE,S,Strong Safety,0.268,True,False,0.567,Below Average,,0.019,Below Average
+End Zone - Clip 008.mp4,4306,,,DEFENSE,LB,WILL (weak),0.144,True,False,0.067,Elite,,,Elite
+End Zone - Clip 008.mp4,4324,,,DEFENSE,CB,Deep,0.160,False,False,0.067,Elite,,0.145,Elite
+End Zone - Clip 009.mp4,4345,,,DEFENSE,DL,5-tech,0.026,True,True,0.133,Elite,,,Elite
+End Zone - Clip 009.mp4,4262,,,DEFENSE,EDGE,DE (down),0.023,True,True,0.267,Above Average,,,Above Average
+End Zone - Clip 009.mp4,4380,,,DEFENSE,CB,Deep,0.178,False,False,0.934,Developmental,,0.007,Below Average
+End Zone - Clip 009.mp4,4409,,,DEFENSE,DL,0-tech (Nose),0.024,True,True,0.334,Average,,,Average
+End Zone - Clip 009.mp4,4411,,,DEFENSE,DL,0-tech (Nose),0.024,True,True,0.334,Average,,,Average
+End Zone - Clip 009.mp4,4467,,,DEFENSE,LB,SAM (strong),0.050,True,False,0.167,Elite,,,Elite
+End Zone - Clip 009.mp4,4489,,,DEFENSE,DL,5-tech,0.019,True,True,0.100,Elite,,,Elite
+End Zone - Clip 009.mp4,4496,,,DEFENSE,LB,WILL (weak),0.031,True,False,0.100,Elite,,,Elite
+End Zone - Clip 009.mp4,4519,,,DEFENSE,CB,Press,0.075,False,False,0.500,Below Average,,0.024,Below Average
+End Zone - Clip 010.mp4,4759,,,DEFENSE,CB,Deep,0.154,False,False,,,,0.008,Average
+End Zone - Clip 010.mp4,4761,,,DEFENSE,CB,Deep,0.219,False,False,,,,0.004,Average
+End Zone - Clip 010.mp4,4843,,,DEFENSE,LB,SAM (strong),0.129,True,False,0.033,Elite,,,Elite
+End Zone - Clip 011.mp4,5082,,,DEFENSE,EDGE,DE (down),0.003,True,True,0.067,Elite,,,Elite
+End Zone - Clip 011.mp4,5126,,,DEFENSE,EDGE,DE (down),0.007,True,True,1.134,Developmental,,,Below Average
+End Zone - Clip 011.mp4,5127,,,DEFENSE,EDGE,DE (down),0.014,False,True,0.200,Above Average,0.007,,Above Average
+End Zone - Clip 011.mp4,5182,,,DEFENSE,EDGE,DE (down),0.029,False,True,0.167,Elite,,,Elite
+End Zone - Clip 011.mp4,5201,,,DEFENSE,DL,5-tech,0.001,True,True,0.100,Elite,,,Elite
+End Zone - Clip 011.mp4,5222,,,DEFENSE,EDGE,DE (down),0.024,False,True,0.100,Elite,,,Elite
+End Zone - Clip 012.mp4,5574,,,DEFENSE,DL,0-tech (Nose),0.003,True,True,,,,,Average
+End Zone - Clip 012.mp4,5585,,,DEFENSE,EDGE,DE (down),0.023,True,True,,,,,Average
+End Zone - Clip 012.mp4,5643,,,DEFENSE,DL,5-tech,0.020,True,True,0.267,Above Average,0.020,,Above Average
+End Zone - Clip 012.mp4,5655,,,DEFENSE,EDGE,DE (down),0.011,True,True,0.067,Elite,0.018,,Elite
+End Zone - Clip 012.mp4,5722,,,DEFENSE,DL,3-tech,0.002,True,True,0.867,Developmental,,,Below Average
+End Zone - Clip 012.mp4,5735,,,DEFENSE,DL,5-tech,0.005,True,True,0.100,Elite,,,Elite
+End Zone - Clip 012.mp4,5763,,,DEFENSE,EDGE,DE (down),0.016,False,True,,,,,Average
+End Zone - Clip 012.mp4,5766,,,DEFENSE,DL,3-tech,0.004,True,True,,,,,Average
+End Zone - Clip 014.mp4,6775,,,DEFENSE,LB,MIKE (middle),0.043,True,False,0.834,Developmental,,,Below Average
+End Zone - Clip 014.mp4,6776,,,DEFENSE,EDGE,DE (down),0.014,False,True,,,0.021,,Average
+End Zone - Clip 014.mp4,6777,,,DEFENSE,LB,WILL (weak),0.046,True,False,0.767,Developmental,,,Below Average
+End Zone - Clip 014.mp4,6774,,,DEFENSE,LB,WILL (weak),0.056,True,False,,,,,Average
+End Zone - Clip 014.mp4,6779,,,DEFENSE,EDGE,DE (down),0.030,True,True,0.334,Average,,,Average
+End Zone - Clip 014.mp4,6780,,,DEFENSE,LB,SAM (strong),0.060,True,False,0.667,Developmental,,,Below Average
+End Zone - Clip 014.mp4,6800,,,DEFENSE,DL,5-tech,0.028,True,True,1.001,Developmental,,,Below Average
+End Zone - Clip 014.mp4,6832,,,DEFENSE,EDGE,DE (down),0.003,False,True,0.200,Above Average,0.001,,Above Average
+End Zone - Clip 015.mp4,6795,,,DEFENSE,DL,5-tech,0.002,True,True,,,,,Average
+End Zone - Clip 015.mp4,6837,,,DEFENSE,LB,WILL (weak),0.053,True,False,0.200,Elite,,,Elite
+End Zone - Clip 015.mp4,6840,,,DEFENSE,LB,SAM (strong),0.036,True,False,0.100,Elite,,,Elite
+End Zone - Clip 015.mp4,6979,,,DEFENSE,LB,MIKE (middle),0.034,True,False,0.033,Elite,,,Elite
+End Zone - Clip 015.mp4,7049,,,DEFENSE,EDGE,DE (down),0.028,True,True,0.100,Elite,,,Elite
+End Zone - Clip 015.mp4,7062,,,DEFENSE,LB,WILL (weak),0.081,True,False,0.100,Elite,,,Elite
+End Zone - Clip 016.mp4,7214,,,DEFENSE,DL,0-tech (Nose),0.026,True,True,0.033,Elite,,,Elite
+End Zone - Clip 016.mp4,7244,,,DEFENSE,EDGE,DE (down),0.001,True,True,0.033,Elite,,,Elite
+End Zone - Clip 016.mp4,7246,,,DEFENSE,EDGE,DE (down),0.053,False,False,0.033,Elite,,,Elite
+End Zone - Clip 016.mp4,7283,,,DEFENSE,EDGE,DE (down),0.005,True,True,0.033,Elite,,,Elite
+End Zone - Clip 016.mp4,7293,,,DEFENSE,DL,5-tech,0.018,True,True,0.033,Elite,,,Elite
+End Zone - Clip 016.mp4,7294,,,DEFENSE,EDGE,DE (down),0.101,False,False,0.067,Elite,0.117,,Elite
+End Zone - Clip 016.mp4,7305,,,DEFENSE,EDGE,DE (down),0.050,False,False,0.033,Elite,0.028,,Elite
+End Zone - Clip 016.mp4,7315,,,DEFENSE,DL,1-tech,0.053,True,False,0.067,Elite,,,Elite
+End Zone - Clip 016.mp4,7317,,,DEFENSE,EDGE,DE (down),0.049,False,False,,,,,Average
+End Zone - Clip 017.mp4,7726,,,DEFENSE,EDGE,DE (down),0.164,False,False,0.100,Elite,,,Elite
+End Zone - Clip 017.mp4,7825,,,DEFENSE,EDGE,DE (down),0.160,True,False,0.100,Elite,,,Elite
+End Zone - Clip 017.mp4,7831,,,DEFENSE,EDGE,DE (down),0.167,False,False,0.100,Elite,,,Elite
+End Zone - Clip 017.mp4,7911,,,DEFENSE,EDGE,DE (down),0.195,False,False,0.067,Elite,,,Elite
+End Zone - Clip 018.mp4,8273,,,DEFENSE,CB,Deep,0.157,False,False,0.033,Elite,,0.012,Elite
+End Zone - Clip 018.mp4,8315,,,DEFENSE,EDGE,DE (down),0.059,False,False,,,,,Average
+End Zone - Clip 018.mp4,8317,,,DEFENSE,DL,0-tech (Nose),0.010,True,True,,,,,Average
+End Zone - Clip 018.mp4,8366,,,DEFENSE,EDGE,DE (down),0.056,False,False,,,,,Average
+End Zone - Clip 019.mp4,8703,,,DEFENSE,LB,SAM (strong),0.098,True,False,0.067,Elite,,,Elite
+End Zone - Clip 019.mp4,8608,,,DEFENSE,UNKNOWN,,0.162,True,False,0.067,Elite,,,Elite
+End Zone - Clip 019.mp4,8708,,,DEFENSE,S,Strong Safety,0.274,True,False,0.067,Elite,,0.022,Elite
+End Zone - Clip 019.mp4,8712,,,DEFENSE,LB,MIKE (middle),0.109,True,False,0.067,Elite,,,Elite
+End Zone - Clip 020.mp4,9004,,,DEFENSE,S,Free Safety (centerfield),0.225,True,False,0.267,Above Average,,0.018,Above Average
+End Zone - Clip 020.mp4,9011,,,DEFENSE,LB,SAM (strong),0.052,True,False,0.467,Average,,,Average
+End Zone - Clip 021.mp4,9608,,,DEFENSE,EDGE,DE (down),0.014,True,True,,,,,Average
+End Zone - Clip 021.mp4,9630,,,DEFENSE,EDGE,OLB (up),0.032,True,False,0.033,Elite,0.050,,Elite
+End Zone - Clip 021.mp4,9826,,,DEFENSE,SLOT,Nickel/Slot,0.087,False,False,,,,0.004,Average
+End Zone - Clip 021.mp4,9825,,,DEFENSE,S,Strong Safety,0.215,True,False,,,,0.005,Average
+End Zone - Clip 021.mp4,9849,,,DEFENSE,EDGE,DE (down),0.029,False,True,0.434,Below Average,,,Below Average
+End Zone - Clip 021.mp4,9855,,,DEFENSE,DL,5-tech,0.019,True,True,0.133,Elite,,,Elite
+End Zone - Clip 022.mp4,9951,,,DEFENSE,DL,5-tech,0.062,True,False,0.133,Elite,0.027,,Elite
+End Zone - Clip 022.mp4,9881,,,DEFENSE,DL,1-tech,0.012,True,True,0.300,Average,,,Average
+End Zone - Clip 022.mp4,9954,,,DEFENSE,UNKNOWN,,0.182,True,False,0.067,Elite,,,Elite
+End Zone - Clip 022.mp4,9955,,,DEFENSE,CB,Deep,0.249,False,False,0.033,Elite,,0.197,Elite
+End Zone - Clip 022.mp4,9957,,,DEFENSE,DL,1-tech,0.069,True,False,,,,,Average
+End Zone - Clip 022.mp4,9961,,,DEFENSE,DL,0-tech (Nose),0.072,True,False,0.033,Elite,,,Elite
+End Zone - Clip 022.mp4,10000,,,DEFENSE,DL,5-tech,0.015,True,True,0.133,Elite,,,Elite
+End Zone - Clip 022.mp4,10018,,,DEFENSE,DL,3-tech,0.044,True,False,0.100,Elite,,,Elite
+End Zone - Clip 022.mp4,10022,,,DEFENSE,DL,3-tech,0.066,True,False,0.133,Elite,,,Elite
+End Zone - Clip 022.mp4,10025,,,DEFENSE,DL,5-tech,0.059,True,False,0.133,Elite,,,Elite
+End Zone - Clip 022.mp4,10032,,,DEFENSE,EDGE,DE (down),0.030,False,True,,,,,Average
+End Zone - Clip 023.mp4,10211,,,DEFENSE,LB,WILL (weak),0.040,True,False,0.067,Elite,,,Elite
+End Zone - Clip 023.mp4,10218,,,DEFENSE,DL,0-tech (Nose),0.030,True,True,0.133,Elite,,,Elite
+End Zone - Clip 023.mp4,10227,,,DEFENSE,LB,SAM (strong),0.034,True,False,0.234,Elite,,,Elite
+End Zone - Clip 023.mp4,10239,,,DEFENSE,LB,MIKE (middle),0.047,True,False,0.100,Elite,,,Elite
+End Zone - Clip 023.mp4,10246,,,DEFENSE,DL,0-tech (Nose),0.009,True,True,,,,,Average
+End Zone - Clip 023.mp4,10252,,,DEFENSE,LB,WILL (weak),0.035,True,False,0.033,Elite,,,Elite
+End Zone - Clip 024.mp4,10596,,,DEFENSE,DL,5-tech,0.030,True,True,0.100,Elite,,,Elite
+End Zone - Clip 024.mp4,10599,,,DEFENSE,EDGE,OLB (up),0.036,True,False,0.200,Above Average,,,Above Average
+End Zone - Clip 024.mp4,10601,,,DEFENSE,EDGE,OLB (up),0.033,False,False,0.701,Developmental,,,Below Average
+End Zone - Clip 024.mp4,10606,,,DEFENSE,DL,5-tech,0.012,True,True,0.133,Elite,,,Elite
+End Zone - Clip 026.mp4,11194,,,DEFENSE,LB,SAM (strong),0.137,True,False,,,,,Average
+End Zone - Clip 026.mp4,11091,,,DEFENSE,EDGE,OLB (up),0.036,True,False,0.067,Elite,,,Elite
+End Zone - Clip 026.mp4,11207,,,DEFENSE,EDGE,DE (down),0.012,True,True,0.300,Average,,,Average
+End Zone - Clip 026.mp4,11227,,,DEFENSE,EDGE,DE (down),0.006,False,True,0.033,Elite,,,Elite
+End Zone - Clip 026.mp4,11313,,,DEFENSE,DL,0-tech (Nose),0.023,True,True,0.033,Elite,,,Elite
+End Zone - Clip 026.mp4,11355,,,DEFENSE,LB,SAM (strong),0.056,True,False,0.067,Elite,,,Elite
+End Zone - Clip 028.mp4,12105,,,DEFENSE,LB,SAM (strong),0.058,True,False,1.435,Developmental,,,Below Average
+End Zone - Clip 028.mp4,12220,,,DEFENSE,EDGE,DE (down),0.012,False,True,0.467,Below Average,,,Below Average
+End Zone - Clip 028.mp4,12174,,,DEFENSE,EDGE,DE (down),0.024,False,True,0.067,Elite,,,Elite
+End Zone - Clip 028.mp4,12253,,,DEFENSE,SLOT,Nickel/Slot,0.065,False,False,0.067,Elite,,0.069,Elite
+End Zone - Clip 028.mp4,12251,,,DEFENSE,SLOT,Nickel/Slot,0.063,False,False,0.100,Elite,,0.066,Elite
+End Zone - Clip 028.mp4,12255,,,DEFENSE,EDGE,OLB (up),0.039,True,False,0.133,Elite,0.016,,Elite
+End Zone - Clip 028.mp4,12278,,,DEFENSE,LB,SAM (strong),0.052,True,False,0.367,Average,,,Average
+End Zone - Clip 028.mp4,12280,,,DEFENSE,LB,WILL (weak),0.097,True,False,0.033,Elite,,,Elite
+End Zone - Clip 028.mp4,12334,,,DEFENSE,LB,WILL (weak),0.041,True,False,0.100,Elite,,,Elite
+End Zone - Clip 029.mp4,12580,,,DEFENSE,S,Strong Safety,0.237,True,False,,,,,Average
+End Zone - Clip 030.mp4,12858,,,DEFENSE,CB,Off (5-7 yards),0.144,False,False,0.100,Elite,,0.097,Elite
+End Zone - Clip 031.mp4,13315,,,DEFENSE,LB,WILL (weak),0.056,True,False,,,,,Average
+End Zone - Clip 031.mp4,13367,,,DEFENSE,LB,WILL (weak),0.125,True,False,0.167,Elite,,,Elite
+End Zone - Clip 031.mp4,13404,,,DEFENSE,SLOT,Nickel/Slot,0.093,False,False,0.500,Below Average,,0.071,Below Average
+End Zone - Clip 031.mp4,13438,,,DEFENSE,CB,Off (5-7 yards),0.099,False,False,0.367,Average,,0.005,Average
+End Zone - Clip 031.mp4,13444,,,DEFENSE,CB,Off (5-7 yards),0.100,False,False,,,,,Average
+End Zone - Clip 032.mp4,13704,,,DEFENSE,S,Deep half,0.203,True,False,0.033,Elite,,0.014,Elite
+End Zone - Clip 032.mp4,13880,,,DEFENSE,S,Strong Safety,0.311,True,False,,,,,Average
+End Zone - Clip 033.mp4,14143,,,DEFENSE,CB,Off (5-7 yards),0.139,False,False,0.634,Below Average,,0.051,Below Average
+End Zone - Clip 033.mp4,14144,,,DEFENSE,S,Deep half,0.271,True,False,0.467,Average,,0.166,Above Average
+End Zone - Clip 033.mp4,14145,,,DEFENSE,LB,MIKE (middle),0.113,True,False,0.834,Developmental,,,Below Average
+End Zone - Clip 033.mp4,14227,,,DEFENSE,S,Free Safety (centerfield),0.221,True,False,,,,,Average
+End Zone - Clip 033.mp4,14252,,,DEFENSE,S,Strong Safety,0.250,True,False,0.267,Above Average,,0.242,Elite
+End Zone - Clip 033.mp4,14256,,,DEFENSE,UNKNOWN,,0.174,False,False,0.767,Developmental,,,Below Average
+End Zone - Clip 033.mp4,14261,,,DEFENSE,LB,WILL (weak),0.116,True,False,,,,,Average
+End Zone - Clip 034.mp4,14448,,,DEFENSE,DL,5-tech,0.157,True,False,0.033,Elite,,,Elite
+End Zone - Clip 034.mp4,14557,,,DEFENSE,EDGE,DE (down),0.237,False,False,,,,,Average
+End Zone - Clip 034.mp4,14568,,,DEFENSE,EDGE,DE (down),0.242,False,False,0.167,Elite,,,Elite
+End Zone - Clip 034.mp4,14624,,,DEFENSE,LB,MIKE (middle),0.042,True,False,0.033,Elite,,,Elite
+End Zone - Clip 034.mp4,14777,,,DEFENSE,EDGE,DE (down),0.207,True,False,0.367,Average,,,Average
+End Zone - Clip 034.mp4,14782,25,,DEFENSE,DL,3-tech,0.349,True,False,,,,,Average
+End Zone - Clip 034.mp4,14785,,,DEFENSE,DL,5-tech,0.238,True,False,0.067,Elite,0.118,,Elite
+End Zone - Clip 034.mp4,14783,52,,DEFENSE,EDGE,DE (down),0.292,False,False,0.167,Elite,0.272,,Elite
+End Zone - Clip 034.mp4,14791,,,DEFENSE,EDGE,DE (down),0.130,False,False,0.267,Above Average,0.082,,Above Average
+End Zone - Clip 034.mp4,14797,,,DEFENSE,EDGE,DE (down),0.250,False,False,0.267,Above Average,0.170,,Elite
+End Zone - Clip 034.mp4,14796,,,DEFENSE,DL,0-tech (Nose),0.251,True,False,0.033,Elite,,,Elite
+End Zone - Clip 034.mp4,14808,29,,DEFENSE,EDGE,DE (down),0.255,False,False,0.133,Elite,,,Elite
+End Zone - Clip 034.mp4,14812,,,DEFENSE,EDGE,DE (down),0.242,False,False,,,,,Average
+End Zone - Clip 035.mp4,15413,,,DEFENSE,LB,SAM (strong),0.099,True,False,0.067,Elite,,,Elite
+End Zone - Clip 035.mp4,15414,,,DEFENSE,LB,MIKE (middle),0.048,True,False,0.167,Elite,,,Elite
+End Zone - Clip 035.mp4,15436,,,DEFENSE,EDGE,OLB (up),0.042,False,False,0.067,Elite,,,Elite
+End Zone - Clip 035.mp4,15447,,,DEFENSE,LB,WILL (weak),0.044,True,False,0.067,Elite,,,Elite
+End Zone - Clip 035.mp4,15471,,,DEFENSE,LB,MIKE (middle),0.090,True,False,0.167,Elite,,,Elite
+End Zone - Clip 035.mp4,15476,,,DEFENSE,LB,WILL (weak),0.054,True,False,0.067,Elite,,,Elite
+End Zone - Clip 035.mp4,15500,,,DEFENSE,EDGE,OLB (up),0.038,True,False,0.133,Elite,,,Elite
+End Zone - Clip 035.mp4,15501,,,DEFENSE,UNKNOWN,,0.173,True,False,0.033,Elite,,,Elite
+End Zone - Clip 036.mp4,15935,,,DEFENSE,LB,MIKE (middle),0.111,True,False,0.033,Elite,,,Elite
+End Zone - Clip 037.mp4,16192,,,DEFENSE,DL,5-tech,0.131,True,False,0.200,Above Average,,,Above Average
+End Zone - Clip 037.mp4,16226,,,DEFENSE,EDGE,DE (down),0.055,False,False,0.033,Elite,,,Elite
+End Zone - Clip 037.mp4,16234,,,DEFENSE,DL,1-tech,0.075,True,False,0.033,Elite,,,Elite
+End Zone - Clip 037.mp4,16313,,,DEFENSE,DL,0-tech (Nose),0.110,True,False,0.033,Elite,,,Elite
+End Zone - Clip 037.mp4,16324,,,DEFENSE,DL,3-tech,0.127,True,False,0.100,Elite,,,Elite
+End Zone - Clip 038.mp4,16403,,,DEFENSE,LB,SAM (strong),0.095,True,False,0.067,Elite,,,Elite
+End Zone - Clip 038.mp4,16404,,,DEFENSE,LB,WILL (weak),0.039,True,False,0.033,Elite,,,Elite
+End Zone - Clip 038.mp4,16405,,,DEFENSE,LB,MIKE (middle),0.089,True,False,0.033,Elite,,,Elite
+End Zone - Clip 038.mp4,16432,,,DEFENSE,EDGE,DE (down),0.024,False,True,0.033,Elite,,,Elite
+End Zone - Clip 038.mp4,16455,,,DEFENSE,CB,Press,0.058,False,False,0.067,Elite,,0.075,Elite
+End Zone - Clip 038.mp4,16498,,,DEFENSE,EDGE,OLB (up),0.032,False,False,0.033,Elite,0.007,,Elite
+End Zone - Clip 039.mp4,16948,,,DEFENSE,EDGE,DE (down),0.024,False,True,0.133,Elite,,,Elite
+End Zone - Clip 039.mp4,16950,16,,DEFENSE,EDGE,DE (down),0.062,False,False,0.100,Elite,,,Elite
+End Zone - Clip 039.mp4,16952,,,DEFENSE,DL,0-tech (Nose),0.009,True,True,0.067,Elite,,,Elite
+End Zone - Clip 039.mp4,17005,,,DEFENSE,LB,WILL (weak),0.046,True,False,0.067,Elite,,,Elite
+End Zone - Clip 041.mp4,17788,,,DEFENSE,EDGE,DE (down),0.011,True,True,0.133,Elite,0.004,,Elite
+End Zone - Clip 041.mp4,17631,,,DEFENSE,EDGE,OLB (up),0.044,False,False,0.167,Elite,,,Elite
+End Zone - Clip 041.mp4,17783,,,DEFENSE,DL,3-tech,0.021,True,True,0.267,Above Average,0.015,,Above Average
+End Zone - Clip 041.mp4,17793,,,DEFENSE,SLOT,Nickel/Slot,0.132,False,False,0.267,Above Average,,0.005,Above Average
+End Zone - Clip 041.mp4,17795,,,DEFENSE,EDGE,DE (down),0.006,False,True,0.067,Elite,0.013,,Elite
+End Zone - Clip 041.mp4,17803,,,DEFENSE,EDGE,OLB (up),0.046,False,False,0.267,Above Average,,,Above Average
+End Zone - Clip 041.mp4,17751,,,DEFENSE,DL,0-tech (Nose),0.017,True,True,0.634,Developmental,0.011,,Below Average
+End Zone - Clip 043.mp4,18208,,,DEFENSE,CB,Off (5-7 yards),0.107,False,False,0.033,Elite,,0.018,Elite
+End Zone - Clip 043.mp4,18226,,,DEFENSE,S,Deep half,0.222,True,False,,,,0.001,Average
+End Zone - Clip 044.mp4,18562,,,DEFENSE,DL,5-tech,0.009,True,True,0.100,Elite,0.039,,Elite
+End Zone - Clip 044.mp4,18547,,,DEFENSE,DL,0-tech (Nose),0.029,True,True,0.200,Above Average,,,Above Average
+End Zone - Clip 044.mp4,18526,,,DEFENSE,EDGE,OLB (up),0.037,True,False,0.067,Elite,,,Elite
+End Zone - Clip 044.mp4,18594,,,DEFENSE,EDGE,OLB (up),0.033,False,False,0.033,Elite,,,Elite
+End Zone - Clip 044.mp4,18648,,,DEFENSE,DL,0-tech (Nose),0.009,True,True,0.033,Elite,0.025,,Elite
+End Zone - Clip 044.mp4,18661,,,DEFENSE,EDGE,DE (down),0.005,True,True,0.100,Elite,0.061,,Elite
+End Zone - Clip 045.mp4,18962,,,DEFENSE,S,Free Safety (centerfield),0.359,True,False,0.434,Average,,0.028,Average
+End Zone - Clip 045.mp4,18967,,,DEFENSE,LB,MIKE (middle),0.053,True,False,0.500,Below Average,,,Below Average
+End Zone - Clip 045.mp4,19062,,,DEFENSE,LB,SAM (strong),0.072,True,False,0.133,Elite,,,Elite
+End Zone - Clip 045.mp4,19083,,,DEFENSE,LB,WILL (weak),0.071,True,False,0.234,Elite,,,Elite
+End Zone - Clip 045.mp4,19084,,,DEFENSE,S,Strong Safety,0.213,True,False,0.167,Elite,,0.025,Elite
+End Zone - Clip 045.mp4,19085,,,DEFENSE,EDGE,DE (down),0.008,False,True,0.067,Elite,,,Elite
+End Zone - Clip 045.mp4,19104,,,DEFENSE,DL,5-tech,0.025,True,True,0.167,Elite,,,Elite
+End Zone - Clip 046.mp4,19327,,,DEFENSE,EDGE,DE (down),0.021,False,True,0.067,Elite,,,Elite
+End Zone - Clip 046.mp4,19428,,,DEFENSE,S,Deep half,0.320,False,False,0.167,Elite,,0.034,Elite
+End Zone - Clip 046.mp4,19431,,,DEFENSE,CB,Press,0.066,False,False,0.133,Elite,,0.059,Elite
+End Zone - Clip 046.mp4,19432,,,DEFENSE,EDGE,DE (down),0.028,True,True,0.434,Below Average,0.061,,Below Average
+End Zone - Clip 046.mp4,19438,,,DEFENSE,LB,MIKE (middle),0.045,True,False,0.167,Elite,,,Elite
+End Zone - Clip 046.mp4,19439,,,DEFENSE,DL,3-tech,0.014,True,True,0.367,Average,0.038,,Average
+End Zone - Clip 046.mp4,19470,,,DEFENSE,DL,3-tech,0.015,True,True,0.167,Elite,,,Elite
+End Zone - Clip 046.mp4,19477,,,DEFENSE,DL,1-tech,0.018,True,True,,,,,Average
+End Zone - Clip 046.mp4,19484,,,DEFENSE,EDGE,DE (down),0.027,False,True,0.133,Elite,,,Elite
+End Zone - Clip 046.mp4,19502,,,DEFENSE,DL,0-tech (Nose),0.022,True,True,0.234,Above Average,,,Above Average
+End Zone - Clip 046.mp4,19503,,,DEFENSE,DL,1-tech,0.015,True,True,0.067,Elite,,,Elite
+End Zone - Clip 048.mp4,20075,,,DEFENSE,LB,WILL (weak),0.054,True,False,0.067,Elite,,,Elite
+End Zone - Clip 048.mp4,20096,78,,DEFENSE,DL,5-tech,0.071,True,False,0.234,Above Average,,,Above Average
+End Zone - Clip 048.mp4,20127,,,DEFENSE,SLOT,Nickel/Slot,0.112,False,False,0.133,Elite,,0.046,Elite
+End Zone - Clip 048.mp4,20213,,,DEFENSE,EDGE,DE (down),0.014,True,True,0.133,Elite,,,Elite
+End Zone - Clip 048.mp4,20246,,,DEFENSE,EDGE,DE (down),0.024,True,True,0.100,Elite,,,Elite
+End Zone - Clip 048.mp4,20244,,,DEFENSE,EDGE,OLB (up),0.035,True,False,0.167,Elite,,,Elite
+End Zone - Clip 048.mp4,20255,,,DEFENSE,S,Deep half,0.229,True,False,0.067,Elite,,0.144,Elite
+End Zone - Clip 048.mp4,20261,,,DEFENSE,LB,SAM (strong),0.041,True,False,0.033,Elite,,,Elite
+End Zone - Clip 049.mp4,20629,,,DEFENSE,S,Deep half,0.224,False,False,0.067,Elite,,0.097,Elite
+End Zone - Clip 049.mp4,20642,,,DEFENSE,EDGE,DE (down),0.126,False,False,0.033,Elite,,,Elite
+End Zone - Clip 049.mp4,20800,,,DEFENSE,S,Strong Safety,0.250,True,False,0.067,Elite,,0.198,Elite
+End Zone - Clip 049.mp4,20823,,,DEFENSE,EDGE,DE (down),0.169,False,False,0.033,Elite,,,Elite
+End Zone - Clip 049.mp4,20850,,,DEFENSE,CB,Deep,0.387,False,False,0.100,Elite,,0.006,Elite
+End Zone - Clip 049.mp4,20852,,,DEFENSE,DL,5-tech,0.166,True,False,0.033,Elite,,,Elite
+End Zone - Clip 049.mp4,20859,,,DEFENSE,EDGE,DE (down),0.186,False,False,0.067,Elite,,,Elite
+End Zone - Clip 049.mp4,20868,,,DEFENSE,EDGE,DE (down),0.161,False,False,0.033,Elite,,,Elite
+End Zone - Clip 049.mp4,20878,,,DEFENSE,EDGE,DE (down),0.171,False,False,,,,,Average
+End Zone - Clip 049.mp4,20880,,,DEFENSE,EDGE,DE (down),0.189,True,False,0.100,Elite,,,Elite
+End Zone - Clip 050.mp4,21179,,,DEFENSE,CB,Deep,0.328,False,False,0.567,Below Average,,0.002,Below Average
+End Zone - Clip 050.mp4,21188,,,DEFENSE,LB,WILL (weak),0.097,True,False,0.300,Above Average,,,Above Average
+End Zone - Clip 050.mp4,21221,,,DEFENSE,LB,SAM (strong),0.117,True,False,0.033,Elite,,,Elite
+End Zone - Clip 050.mp4,21231,,,DEFENSE,LB,MIKE (middle),0.113,True,False,0.200,Elite,,,Elite
+End Zone - Clip 050.mp4,21237,,,DEFENSE,LB,SAM (strong),0.114,True,False,,,,,Average
+End Zone - Clip 050.mp4,21240,,,DEFENSE,LB,SAM (strong),0.091,True,False,0.133,Elite,,,Elite
+End Zone - Clip 050.mp4,21248,,,DEFENSE,LB,WILL (weak),0.103,True,False,0.200,Elite,,,Elite
+End Zone - Clip 050.mp4,21251,,,DEFENSE,LB,SAM (strong),0.098,True,False,0.367,Average,,,Average
+End Zone - Clip 050.mp4,21253,,,DEFENSE,LB,WILL (weak),0.103,True,False,0.033,Elite,,,Elite
+End Zone - Clip 051.mp4,21440,,,DEFENSE,CB,Off (5-7 yards),0.135,False,False,,,,,Average
+End Zone - Clip 051.mp4,21506,,,DEFENSE,LB,WILL (weak),0.067,True,False,0.200,Elite,,,Elite
+End Zone - Clip 051.mp4,21507,,,DEFENSE,LB,SAM (strong),0.106,True,False,0.033,Elite,,,Elite
+End Zone - Clip 052.mp4,21732,,,DEFENSE,CB,Deep,0.165,False,False,,,,,Average
+End Zone - Clip 052.mp4,21729,,,DEFENSE,S,Free Safety (centerfield),0.209,True,False,,,,,Average
+End Zone - Clip 052.mp4,21734,,,DEFENSE,LB,WILL (weak),0.135,True,False,0.033,Elite,,,Elite
+End Zone - Clip 052.mp4,21738,,,DEFENSE,LB,WILL (weak),0.097,True,False,0.067,Elite,,,Elite
+End Zone - Clip 052.mp4,21740,,,DEFENSE,LB,WILL (weak),0.129,True,False,0.200,Elite,,,Elite
+End Zone - Clip 052.mp4,21751,,,DEFENSE,LB,WILL (weak),0.134,True,False,0.234,Elite,,,Elite
+End Zone - Clip 052.mp4,21785,,,DEFENSE,LB,MIKE (middle),0.129,True,False,0.434,Average,,,Average
+End Zone - Clip 052.mp4,21802,,,DEFENSE,LB,SAM (strong),0.106,True,False,0.667,Developmental,,,Below Average
+End Zone - Clip 053.mp4,21974,,,DEFENSE,DL,5-tech,0.015,True,True,0.200,Above Average,0.211,,Elite
+End Zone - Clip 053.mp4,21991,,,DEFENSE,UNKNOWN,,0.157,True,False,0.067,Elite,,,Elite
+End Zone - Clip 053.mp4,21997,,,DEFENSE,LB,WILL (weak),0.099,True,False,0.067,Elite,,,Elite
+End Zone - Clip 053.mp4,22021,,,DEFENSE,DL,3-tech,0.079,True,False,0.234,Above Average,,,Above Average
+End Zone - Clip 053.mp4,22072,,,DEFENSE,LB,SAM (strong),0.053,True,False,0.067,Elite,,,Elite
+End Zone - Clip 054.mp4,22160,,,DEFENSE,CB,Off (5-7 yards),0.126,False,False,0.167,Elite,,0.028,Elite
+End Zone - Clip 054.mp4,22162,,,DEFENSE,S,Deep half,0.295,False,False,0.033,Elite,,0.018,Elite
+End Zone - Clip 054.mp4,22164,,,DEFENSE,UNKNOWN,,0.193,True,False,,,,,Average
+End Zone - Clip 054.mp4,22170,,,DEFENSE,LB,MIKE (middle),0.087,True,False,0.033,Elite,,,Elite
+End Zone - Clip 054.mp4,22200,,,DEFENSE,CB,Off (5-7 yards),0.122,False,False,0.133,Elite,,0.046,Elite
+End Zone - Clip 054.mp4,22221,,,DEFENSE,LB,WILL (weak),0.090,True,False,0.234,Elite,,,Elite
+End Zone - Clip 055.mp4,22597,,,DEFENSE,EDGE,DE (down),0.020,True,True,,,,,Average
+End Zone - Clip 055.mp4,22605,,,DEFENSE,S,Strong Safety,0.284,True,False,,,,,Average
+End Zone - Clip 056.mp4,22758,,,DEFENSE,LB,SAM (strong),0.059,True,False,0.267,Above Average,,,Above Average
+End Zone - Clip 056.mp4,22844,,,DEFENSE,LB,WILL (weak),0.145,True,False,,,,,Average
+End Zone - Clip 056.mp4,22933,,,DEFENSE,CB,Deep,0.279,False,False,,,,0.005,Average
+End Zone - Clip 056.mp4,22934,,,DEFENSE,SLOT,Nickel/Slot,0.057,False,False,,,,0.006,Average
+End Zone - Clip 056.mp4,22956,,,DEFENSE,LB,MIKE (middle),0.039,True,False,0.267,Above Average,,,Above Average
+End Zone - Clip 056.mp4,22990,,,DEFENSE,DL,3-tech,0.004,True,True,,,,,Average
+End Zone - Clip 056.mp4,23020,,,DEFENSE,EDGE,DE (down),0.026,False,True,0.033,Elite,,,Elite
+End Zone - Clip 057.mp4,23601,,,DEFENSE,LB,SAM (strong),0.122,True,False,0.033,Elite,,,Elite
+End Zone - Clip 057.mp4,23625,,,DEFENSE,EDGE,DE (down),0.080,False,False,0.100,Elite,,,Elite
+End Zone - Clip 057.mp4,23631,,,DEFENSE,EDGE,DE (down),0.013,True,True,0.033,Elite,,,Elite
+End Zone - Clip 057.mp4,23649,,,DEFENSE,EDGE,DE (down),0.056,True,False,0.267,Above Average,0.044,,Above Average
+End Zone - Clip 057.mp4,23662,,,DEFENSE,DL,5-tech,0.084,True,False,0.234,Above Average,,,Above Average
+End Zone - Clip 058.mp4,23787,,,DEFENSE,CB,Press,0.059,False,False,,,,0.007,Average
+End Zone - Clip 058.mp4,23831,,,DEFENSE,EDGE,OLB (up),0.034,False,False,0.567,Developmental,,,Below Average
+End Zone - Clip 058.mp4,23869,,,DEFENSE,EDGE,DE (down),0.025,True,True,0.067,Elite,,,Elite
+End Zone - Clip 058.mp4,23879,,,DEFENSE,LB,SAM (strong),0.081,True,False,,,,,Average
+End Zone - Clip 059.mp4,23987,,,DEFENSE,EDGE,DE (down),0.015,False,True,0.033,Elite,,,Elite
+End Zone - Clip 059.mp4,23986,,,DEFENSE,CB,Deep,0.383,False,False,0.067,Elite,,0.081,Elite
+End Zone - Clip 059.mp4,23990,,,DEFENSE,LB,SAM (strong),0.063,True,False,0.100,Elite,,,Elite
+End Zone - Clip 059.mp4,23992,,,DEFENSE,LB,WILL (weak),0.056,True,False,0.067,Elite,,,Elite
+End Zone - Clip 060.mp4,24501,,,DEFENSE,LB,WILL (weak),0.065,True,False,0.667,Developmental,,,Below Average
+End Zone - Clip 060.mp4,24503,,,DEFENSE,LB,SAM (strong),0.075,True,False,,,,,Average
+End Zone - Clip 060.mp4,24504,,,DEFENSE,CB,Deep,0.201,False,False,,,,,Average
+End Zone - Clip 060.mp4,24538,,,DEFENSE,DL,5-tech,0.008,True,True,0.133,Elite,,,Elite
+End Zone - Clip 060.mp4,24552,,,DEFENSE,CB,Press,0.062,False,False,,,,,Average
+End Zone - Clip 060.mp4,24555,,,DEFENSE,CB,Deep,0.384,False,False,,,,,Average
+End Zone - Clip 060.mp4,24567,,,DEFENSE,DL,5-tech,0.004,True,True,0.133,Elite,,,Elite
+End Zone - Clip 061.mp4,24827,,,DEFENSE,S,Strong Safety,0.335,True,False,0.367,Average,,0.045,Average
+End Zone - Clip 061.mp4,24879,,,DEFENSE,CB,Off (5-7 yards),0.091,False,False,0.167,Elite,,0.104,Elite
+End Zone - Clip 061.mp4,24900,,,DEFENSE,SLOT,Nickel/Slot,0.107,False,False,0.634,Below Average,,0.283,Average
+End Zone - Clip 061.mp4,24907,,,DEFENSE,LB,SAM (strong),0.145,True,False,0.033,Elite,,,Elite
+End Zone - Clip 062.mp4,25549,,,DEFENSE,CB,Press,0.076,False,False,0.033,Elite,,0.011,Elite
+End Zone - Clip 063.mp4,25735,,,DEFENSE,LB,SAM (strong),0.096,True,False,0.234,Elite,,,Elite
+End Zone - Clip 063.mp4,25741,,,DEFENSE,SLOT,Nickel/Slot,0.077,False,False,0.033,Elite,,0.059,Elite
+End Zone - Clip 063.mp4,25773,,,DEFENSE,LB,SAM (strong),0.062,True,False,0.033,Elite,,,Elite
+End Zone - Clip 063.mp4,25783,,,DEFENSE,CB,Press,0.074,False,False,0.334,Above Average,,0.015,Above Average
+End Zone - Clip 063.mp4,25781,,,DEFENSE,LB,SAM (strong),0.096,True,False,0.167,Elite,,,Elite
+End Zone - Clip 063.mp4,25790,,,DEFENSE,LB,MIKE (middle),0.064,True,False,0.133,Elite,,,Elite
+End Zone - Clip 063.mp4,25825,,,DEFENSE,LB,SAM (strong),0.062,True,False,0.300,Above Average,,,Above Average
+End Zone - Clip 063.mp4,25839,,,DEFENSE,LB,WILL (weak),0.075,True,False,0.601,Below Average,,,Below Average
+End Zone - Clip 064.mp4,25980,,,DEFENSE,LB,SAM (strong),0.040,True,False,0.133,Elite,,,Elite
+End Zone - Clip 064.mp4,25994,,,DEFENSE,LB,MIKE (middle),0.076,True,False,0.234,Elite,,,Elite
+End Zone - Clip 064.mp4,25940,,,DEFENSE,EDGE,OLB (up),0.047,True,False,0.100,Elite,,,Elite
+End Zone - Clip 064.mp4,26046,,,DEFENSE,LB,WILL (weak),0.047,True,False,0.167,Elite,,,Elite
+End Zone - Clip 064.mp4,26065,,,DEFENSE,EDGE,OLB (up),0.030,False,False,0.167,Elite,,,Elite
+End Zone - Clip 064.mp4,26072,,,DEFENSE,CB,Press,0.065,False,False,0.100,Elite,,0.032,Elite
+End Zone - Clip 064.mp4,26152,,,DEFENSE,LB,SAM (strong),0.030,True,False,0.100,Elite,,,Elite
+End Zone - Clip 064.mp4,26155,,,DEFENSE,SLOT,Nickel/Slot,0.055,False,False,0.100,Elite,,0.104,Elite
+End Zone - Clip 065.mp4,26346,,,DEFENSE,LB,WILL (weak),0.087,True,False,0.067,Elite,,,Elite
+End Zone - Clip 065.mp4,26321,,,DEFENSE,LB,SAM (strong),0.081,True,False,0.067,Elite,,,Elite
+End Zone - Clip 065.mp4,26431,,,DEFENSE,SLOT,Nickel/Slot,0.073,False,False,0.067,Elite,,0.048,Elite
+End Zone - Clip 065.mp4,26441,,,DEFENSE,LB,SAM (strong),0.086,True,False,0.067,Elite,,,Elite
+End Zone - Clip 065.mp4,26446,,,DEFENSE,LB,MIKE (middle),0.108,True,False,0.133,Elite,,,Elite
+End Zone - Clip 065.mp4,26447,,,DEFENSE,LB,WILL (weak),0.099,True,False,0.067,Elite,,,Elite
+End Zone - Clip 065.mp4,26452,,,DEFENSE,SLOT,Nickel/Slot,0.069,False,False,0.067,Elite,,0.061,Elite
+End Zone - Clip 065.mp4,26475,,,DEFENSE,LB,MIKE (middle),0.086,True,False,0.133,Elite,,,Elite
+End Zone - Clip 065.mp4,26487,,,DEFENSE,EDGE,OLB (up),0.048,False,False,,,,,Average
+End Zone - Clip 065.mp4,26503,,,DEFENSE,LB,SAM (strong),0.086,True,False,0.067,Elite,,,Elite
+End Zone - Clip 066.mp4,26901,,,DEFENSE,DL,0-tech (Nose),0.011,True,True,0.534,Below Average,,,Below Average
+End Zone - Clip 066.mp4,26908,,,DEFENSE,DL,5-tech,0.009,True,True,0.133,Elite,,,Elite
+End Zone - Clip 066.mp4,26907,,,DEFENSE,DL,5-tech,0.011,True,True,0.133,Elite,0.020,,Elite
+End Zone - Clip 066.mp4,26910,,,DEFENSE,EDGE,DE (down),0.011,False,True,0.167,Elite,0.033,,Elite
+End Zone - Clip 066.mp4,26872,,,DEFENSE,EDGE,DE (down),0.006,False,True,0.100,Elite,,,Elite
+End Zone - Clip 066.mp4,26927,,,DEFENSE,LB,SAM (strong),0.044,True,False,0.133,Elite,,,Elite
+End Zone - Clip 066.mp4,26950,,,DEFENSE,EDGE,DE (down),0.017,False,True,,,,,Average
+End Zone - Clip 066.mp4,27006,,,DEFENSE,EDGE,DE (down),0.013,False,True,0.133,Elite,,,Elite
+End Zone - Clip 066.mp4,27023,,,DEFENSE,EDGE,DE (down),0.014,False,True,0.033,Elite,0.006,,Elite
+End Zone - Clip 066.mp4,27028,,,DEFENSE,DL,5-tech,0.012,True,True,0.133,Elite,0.010,,Elite
+End Zone - Clip 067.mp4,27234,,,DEFENSE,DL,1-tech,0.056,True,False,0.767,Developmental,,,Below Average
+End Zone - Clip 067.mp4,27281,,,DEFENSE,EDGE,DE (down),0.040,True,False,0.734,Developmental,,,Below Average
+End Zone - Clip 067.mp4,27320,,,DEFENSE,DL,5-tech,0.058,True,False,0.167,Elite,,,Elite
+End Zone - Clip 067.mp4,27401,,,DEFENSE,EDGE,DE (down),0.056,False,False,0.767,Developmental,0.037,,Below Average
+End Zone - Clip 067.mp4,27417,,,DEFENSE,EDGE,DE (down),0.065,False,False,0.167,Elite,,,Elite
+End Zone - Clip 068.mp4,27585,,,DEFENSE,EDGE,DE (down),0.028,False,True,,,,,Average
+End Zone - Clip 068.mp4,27622,,,DEFENSE,DL,5-tech,0.018,True,True,0.100,Elite,0.064,,Elite
+End Zone - Clip 068.mp4,27630,,,DEFENSE,EDGE,DE (down),0.018,False,True,,,,,Average
+End Zone - Clip 068.mp4,27461,,,DEFENSE,EDGE,DE (down),0.023,True,True,0.133,Elite,,,Elite
+End Zone - Clip 068.mp4,27663,,,DEFENSE,DL,0-tech (Nose),0.021,True,True,0.100,Elite,,,Elite
+End Zone - Clip 068.mp4,27530,,,DEFENSE,DL,3-tech,0.033,True,False,0.133,Elite,,,Elite
+End Zone - Clip 068.mp4,27713,,,DEFENSE,DL,0-tech (Nose),0.009,True,True,0.133,Elite,,,Elite
+End Zone - Clip 068.mp4,27715,,,DEFENSE,DL,0-tech (Nose),0.025,True,True,0.067,Elite,0.003,,Elite
+End Zone - Clip 068.mp4,27785,,,DEFENSE,EDGE,DE (down),0.029,False,True,1.235,Developmental,,,Below Average
+End Zone - Clip 068.mp4,27794,,,DEFENSE,EDGE,DE (down),0.034,False,False,,,,,Average
+End Zone - Clip 069.mp4,27820,,,DEFENSE,EDGE,OLB (up),0.045,True,False,0.067,Elite,,,Elite
+End Zone - Clip 069.mp4,28036,,,DEFENSE,EDGE,OLB (up),0.035,True,False,0.067,Elite,,,Elite
+End Zone - Clip 069.mp4,27937,,,DEFENSE,EDGE,DE (down),0.024,True,True,0.067,Elite,,,Elite
+End Zone - Clip 069.mp4,28048,,,DEFENSE,LB,MIKE (middle),0.042,True,False,0.067,Elite,,,Elite
+End Zone - Clip 069.mp4,28045,,,DEFENSE,LB,SAM (strong),0.038,True,False,0.067,Elite,,,Elite
+End Zone - Clip 069.mp4,28062,,,DEFENSE,LB,WILL (weak),0.033,True,False,0.067,Elite,,,Elite
+End Zone - Clip 069.mp4,28089,,,DEFENSE,LB,SAM (strong),0.040,True,False,0.067,Elite,,,Elite
+End Zone - Clip 069.mp4,28124,,,DEFENSE,EDGE,DE (down),0.025,False,True,0.067,Elite,,,Elite
+End Zone - Clip 069.mp4,28148,,,DEFENSE,DL,5-tech,0.008,True,True,0.067,Elite,,,Elite
+End Zone - Clip 070.mp4,28389,,,DEFENSE,LB,SAM (strong),0.134,True,False,0.133,Elite,,,Elite
+End Zone - Clip 070.mp4,28400,,,DEFENSE,SLOT,Nickel/Slot,0.131,False,False,0.033,Elite,,0.046,Elite
+End Zone - Clip 070.mp4,28401,,,DEFENSE,CB,Off (5-7 yards),0.126,False,False,0.133,Elite,,0.014,Elite
+End Zone - Clip 070.mp4,28403,,,DEFENSE,LB,MIKE (middle),0.128,True,False,0.100,Elite,,,Elite
+End Zone - Clip 070.mp4,28408,,,DEFENSE,LB,MIKE (middle),0.150,True,False,0.100,Elite,,,Elite
+End Zone - Clip 070.mp4,28405,,,DEFENSE,LB,WILL (weak),0.123,True,False,0.067,Elite,,,Elite
+End Zone - Clip 070.mp4,28415,,,DEFENSE,LB,WILL (weak),0.129,True,False,0.234,Elite,,,Elite
+End Zone - Clip 070.mp4,28453,,,DEFENSE,LB,WILL (weak),0.109,True,False,0.067,Elite,,,Elite
+End Zone - Clip 070.mp4,28455,,,DEFENSE,CB,Off (5-7 yards),0.098,False,False,0.067,Elite,,0.082,Elite
+End Zone - Clip 071.mp4,28645,,,DEFENSE,EDGE,DE (down),0.013,False,True,0.067,Elite,,,Elite
+End Zone - Clip 071.mp4,28649,,,DEFENSE,DL,1-tech,0.105,True,False,0.033,Elite,0.149,,Elite
+End Zone - Clip 071.mp4,28699,,,DEFENSE,EDGE,DE (down),0.058,True,False,0.133,Elite,0.100,,Elite
+End Zone - Clip 071.mp4,28775,,,DEFENSE,DL,3-tech,0.149,True,False,0.067,Elite,0.229,,Elite
+End Zone - Clip 071.mp4,28792,,,DEFENSE,DL,3-tech,0.132,True,False,0.100,Elite,0.134,,Elite
+End Zone - Clip 071.mp4,28805,,,DEFENSE,EDGE,DE (down),0.090,False,False,0.067,Elite,0.132,,Elite
+End Zone - Clip 072.mp4,28860,,,DEFENSE,LB,WILL (weak),0.126,True,False,,,,,Average
+End Zone - Clip 072.mp4,28861,,,DEFENSE,DL,5-tech,0.031,True,False,1.268,Developmental,0.038,,Below Average
+End Zone - Clip 072.mp4,28864,,,DEFENSE,EDGE,OLB (up),0.032,True,False,0.400,Below Average,,,Below Average
+End Zone - Clip 073.mp4,28859,,,DEFENSE,EDGE,DE (down),0.083,False,False,,,,,Average
+End Zone - Clip 073.mp4,28857,,,DEFENSE,EDGE,DE (down),0.071,True,False,0.033,Elite,0.099,,Elite
+End Zone - Clip 073.mp4,28905,,,DEFENSE,LB,WILL (weak),0.110,True,False,0.033,Elite,,,Elite
+End Zone - Clip 073.mp4,28906,,,DEFENSE,DL,1-tech,0.074,True,False,0.033,Elite,,,Elite
+End Zone - Clip 073.mp4,28862,,,DEFENSE,DL,0-tech (Nose),0.040,True,False,1.068,Developmental,,,Below Average
+End Zone - Clip 073.mp4,28939,,,DEFENSE,DL,0-tech (Nose),0.059,True,False,0.033,Elite,,,Elite
+End Zone - Clip 073.mp4,28959,,,DEFENSE,DL,1-tech,0.077,True,False,0.200,Above Average,,,Above Average
+End Zone - Clip 074.mp4,29008,,,DEFENSE,EDGE,DE (down),0.027,False,True,0.334,Average,,,Average
+End Zone - Clip 074.mp4,29132,,,DEFENSE,DL,5-tech,0.010,True,True,0.367,Average,,,Average
+End Zone - Clip 074.mp4,29202,,,DEFENSE,EDGE,DE (down),0.010,False,True,,,,,Average
+End Zone - Clip 074.mp4,29212,,,DEFENSE,EDGE,DE (down),0.027,False,True,,,,,Average
+End Zone - Clip 076.mp4,29710,,,DEFENSE,LB,MIKE (middle),0.056,True,False,,,,,Average
+End Zone - Clip 076.mp4,29735,,,DEFENSE,LB,WILL (weak),0.131,True,False,0.167,Elite,,,Elite
+End Zone - Clip 076.mp4,29814,,,DEFENSE,UNKNOWN,,0.175,False,False,0.100,Elite,,,Elite
+End Zone - Clip 076.mp4,29823,,,DEFENSE,LB,MIKE (middle),0.058,True,False,0.200,Elite,,,Elite
+End Zone - Clip 076.mp4,29853,,,DEFENSE,SLOT,Nickel/Slot,0.086,False,False,0.067,Elite,,0.111,Elite
+End Zone - Clip 076.mp4,29894,,,DEFENSE,LB,WILL (weak),0.102,True,False,0.133,Elite,,,Elite
+End Zone - Clip 076.mp4,29906,,,DEFENSE,LB,WILL (weak),0.083,True,False,0.033,Elite,,,Elite
+End Zone - Clip 076.mp4,29913,,,DEFENSE,LB,SAM (strong),0.099,True,False,0.067,Elite,,,Elite
+End Zone - Clip 077.mp4,30003,,,DEFENSE,SLOT,Nickel/Slot,0.103,False,False,0.334,Above Average,,0.047,Above Average
+End Zone - Clip 077.mp4,30005,,,DEFENSE,S,Deep half,0.236,False,False,1.134,Developmental,,0.008,Below Average
+End Zone - Clip 077.mp4,30007,,,DEFENSE,SLOT,Nickel/Slot,0.095,False,False,0.100,Elite,,0.123,Elite
+End Zone - Clip 077.mp4,30013,,,DEFENSE,CB,Press,0.064,False,False,0.067,Elite,,0.101,Elite
+End Zone - Clip 077.mp4,30015,,,DEFENSE,LB,SAM (strong),0.097,True,False,1.301,Developmental,,,Below Average
+End Zone - Clip 077.mp4,30014,,,DEFENSE,LB,MIKE (middle),0.096,True,False,0.100,Elite,,,Elite
+End Zone - Clip 077.mp4,30016,,,DEFENSE,LB,SAM (strong),0.112,True,False,0.167,Elite,,,Elite
+End Zone - Clip 077.mp4,30018,,,DEFENSE,LB,MIKE (middle),0.099,True,False,0.334,Above Average,,,Above Average
+End Zone - Clip 077.mp4,30029,,,DEFENSE,LB,WILL (weak),0.088,True,False,0.334,Above Average,,,Above Average
+End Zone - Clip 077.mp4,30034,,,DEFENSE,LB,WILL (weak),0.109,True,False,0.133,Elite,,,Elite
+End Zone - Clip 077.mp4,30035,,,DEFENSE,LB,SAM (strong),0.067,True,False,0.467,Average,,,Average
+End Zone - Clip 077.mp4,30044,,,DEFENSE,LB,WILL (weak),0.087,True,False,0.234,Elite,,,Elite
+End Zone - Clip 077.mp4,30053,,,DEFENSE,LB,SAM (strong),0.102,True,False,,,,,Average
+End Zone - Clip 077.mp4,30051,,,DEFENSE,LB,MIKE (middle),0.124,True,False,0.100,Elite,,,Elite
+End Zone - Clip 077.mp4,30055,,,DEFENSE,LB,WILL (weak),0.064,True,False,0.067,Elite,,,Elite
+End Zone - Clip 077.mp4,30079,,,DEFENSE,CB,Press,0.066,False,False,0.133,Elite,,0.022,Elite
+End Zone - Clip 077.mp4,30078,,,DEFENSE,LB,SAM (strong),0.104,True,False,,,,,Average
+End Zone - Clip 078.mp4,30269,,,DEFENSE,LB,WILL (weak),0.108,True,False,0.067,Elite,,,Elite
+End Zone - Clip 079.mp4,30720,,,DEFENSE,DL,5-tech,0.006,True,True,0.100,Elite,0.004,,Elite
+End Zone - Clip 079.mp4,30784,,,DEFENSE,EDGE,DE (down),0.014,True,True,0.133,Elite,,,Elite
+End Zone - Clip 079.mp4,30787,,,DEFENSE,DL,3-tech,0.009,True,True,0.100,Elite,0.031,,Elite
+End Zone - Clip 079.mp4,30885,,,DEFENSE,EDGE,DE (down),0.014,False,True,0.234,Above Average,,,Above Average
+End Zone - Clip 079.mp4,30892,,,DEFENSE,DL,3-tech,0.023,True,True,0.400,Below Average,,,Below Average
+End Zone - Clip 080.mp4,31029,,,DEFENSE,DL,0-tech (Nose),0.025,True,True,0.133,Elite,,,Elite
+End Zone - Clip 080.mp4,31025,,,DEFENSE,EDGE,DE (down),0.014,True,True,0.100,Elite,0.007,,Elite
+End Zone - Clip 080.mp4,30922,,,DEFENSE,EDGE,DE (down),0.014,False,True,0.067,Elite,,,Elite
+End Zone - Clip 080.mp4,30959,,,DEFENSE,LB,WILL (weak),0.033,True,False,0.100,Elite,,,Elite
+End Zone - Clip 080.mp4,31045,,,DEFENSE,DL,5-tech,0.023,True,True,0.067,Elite,,,Elite
+End Zone - Clip 080.mp4,31046,,,DEFENSE,DL,3-tech,0.021,True,True,0.100,Elite,,,Elite
+End Zone - Clip 080.mp4,31048,,,DEFENSE,EDGE,DE (down),0.015,False,True,0.067,Elite,,,Elite
+End Zone - Clip 080.mp4,31050,,,DEFENSE,EDGE,DE (down),0.004,False,True,0.067,Elite,,,Elite
+End Zone - Clip 080.mp4,31091,,,DEFENSE,EDGE,DE (down),0.011,True,True,0.033,Elite,,,Elite
+End Zone - Clip 081.mp4,31439,,,DEFENSE,DL,3-tech,0.079,True,False,0.133,Elite,0.090,,Elite
+End Zone - Clip 081.mp4,31421,,,DEFENSE,DL,0-tech (Nose),0.088,True,False,0.234,Above Average,0.096,,Above Average
+End Zone - Clip 081.mp4,31455,,,DEFENSE,EDGE,DE (down),0.092,False,False,0.067,Elite,0.098,,Elite
+End Zone - Clip 081.mp4,31459,2,,DEFENSE,EDGE,DE (down),0.065,False,False,0.234,Above Average,0.101,,Above Average
+End Zone - Clip 081.mp4,31457,,,DEFENSE,DL,5-tech,0.065,True,False,0.133,Elite,0.065,,Elite
+End Zone - Clip 081.mp4,31463,,,DEFENSE,EDGE,DE (down),0.076,False,False,0.167,Elite,0.091,,Elite
+End Zone - Clip 081.mp4,31466,,,DEFENSE,DL,5-tech,0.088,True,False,0.500,Below Average,,,Below Average
+End Zone - Clip 081.mp4,31471,,,DEFENSE,EDGE,DE (down),0.080,True,False,0.167,Elite,,,Elite
+End Zone - Clip 081.mp4,31509,,,DEFENSE,EDGE,DE (down),0.095,True,False,0.033,Elite,0.083,,Elite
+End Zone - Clip 081.mp4,31514,,,DEFENSE,DL,3-tech,0.074,True,False,0.033,Elite,,,Elite
+End Zone - Clip 082.mp4,31691,,,DEFENSE,EDGE,DE (down),0.136,True,False,0.400,Below Average,,,Below Average
+End Zone - Clip 082.mp4,31699,,,DEFENSE,DL,5-tech,0.121,True,False,0.100,Elite,0.180,,Elite
+End Zone - Clip 082.mp4,31774,,,DEFENSE,EDGE,DE (down),0.130,False,False,0.100,Elite,0.108,,Elite
+End Zone - Clip 082.mp4,31923,,,DEFENSE,EDGE,DE (down),0.071,False,False,,,,,Average
+End Zone - Clip 083.mp4,32172,,,DEFENSE,LB,WILL (weak),0.072,True,False,,,,,Average
+End Zone - Clip 083.mp4,32207,,,DEFENSE,EDGE,OLB (up),0.043,False,False,1.034,Developmental,,,Below Average
+End Zone - Clip 083.mp4,32225,,,DEFENSE,LB,SAM (strong),0.065,True,False,0.467,Average,,,Average
+End Zone - Clip 083.mp4,32234,,,DEFENSE,SLOT,Nickel/Slot,0.053,False,False,0.200,Elite,,0.010,Elite
+End Zone - Clip 084.mp4,32386,,,DEFENSE,DL,5-tech,0.024,True,True,,,,,Average
+End Zone - Clip 084.mp4,32396,,,DEFENSE,CB,Press,0.053,False,False,0.033,Elite,,0.011,Elite
+End Zone - Clip 084.mp4,32429,,,DEFENSE,EDGE,DE (down),0.001,False,True,,,,,Average
+End Zone - Clip 086.mp4,32786,,,DEFENSE,EDGE,DE (down),0.015,True,True,0.234,Above Average,,,Above Average
+End Zone - Clip 086.mp4,32856,,,DEFENSE,LB,MIKE (middle),0.069,True,False,0.601,Below Average,,,Below Average
+End Zone - Clip 086.mp4,32862,,,DEFENSE,S,Deep half,0.242,False,False,,,,0.002,Average
+End Zone - Clip 086.mp4,32863,,,DEFENSE,EDGE,OLB (up),0.045,False,False,0.667,Developmental,,,Below Average
+End Zone - Clip 086.mp4,32864,,,DEFENSE,CB,Off (5-7 yards),0.127,False,False,0.367,Average,,0.044,Average
+End Zone - Clip 086.mp4,32866,,,DEFENSE,LB,SAM (strong),0.054,True,False,0.334,Above Average,,,Above Average
+End Zone - Clip 086.mp4,32867,,,DEFENSE,EDGE,DE (down),0.017,False,True,0.234,Above Average,,,Above Average
+End Zone - Clip 086.mp4,32868,,,DEFENSE,LB,WILL (weak),0.051,True,False,0.300,Above Average,,,Above Average
+End Zone - Clip 086.mp4,32871,,,DEFENSE,LB,WILL (weak),0.039,True,False,0.133,Elite,,,Elite
+End Zone - Clip 086.mp4,32880,,,DEFENSE,EDGE,DE (down),0.013,True,True,0.534,Below Average,,,Below Average
+End Zone - Clip 086.mp4,32881,,,DEFENSE,DL,3-tech,0.013,True,True,0.801,Developmental,,,Below Average
+End Zone - Clip 087.mp4,33112,,,DEFENSE,DL,3-tech,0.009,True,True,0.767,Developmental,,,Below Average
+End Zone - Clip 087.mp4,33184,,,DEFENSE,CB,Deep,0.163,False,False,,,,0.000,Average
+End Zone - Clip 087.mp4,33205,,,DEFENSE,EDGE,OLB (up),0.041,True,False,0.467,Below Average,,,Below Average
+End Zone - Clip 087.mp4,33260,,,DEFENSE,EDGE,OLB (up),0.033,False,False,0.267,Above Average,,,Above Average
+End Zone - Clip 087.mp4,33264,,,DEFENSE,DL,1-tech,0.011,True,True,0.434,Below Average,,,Below Average
+End Zone - Clip 087.mp4,33263,,,DEFENSE,DL,0-tech (Nose),0.022,True,True,0.434,Below Average,,,Below Average
+End Zone - Clip 087.mp4,33270,,,DEFENSE,EDGE,DE (down),0.009,False,True,1.902,Developmental,,,Below Average
+End Zone - Clip 087.mp4,33276,,,DEFENSE,EDGE,DE (down),0.024,True,True,0.500,Below Average,,,Below Average
+End Zone - Clip 087.mp4,33284,,,DEFENSE,EDGE,DE (down),0.016,False,True,,,,,Average
+End Zone - Clip 087.mp4,33291,,,DEFENSE,LB,MIKE (middle),0.032,True,False,0.234,Elite,,,Elite
+End Zone - Clip 087.mp4,33294,,,DEFENSE,DL,0-tech (Nose),0.029,True,True,0.901,Developmental,,,Below Average
+End Zone - Clip 087.mp4,33293,,,DEFENSE,DL,1-tech,0.014,True,True,0.300,Average,,,Average
+End Zone - Clip 088.mp4,33351,,,DEFENSE,SLOT,Nickel/Slot,0.089,False,False,0.701,Developmental,,0.010,Below Average
+End Zone - Clip 088.mp4,33364,,,DEFENSE,UNKNOWN,,0.178,False,False,1.902,Developmental,,,Below Average
+End Zone - Clip 088.mp4,33366,,,DEFENSE,CB,Press,0.066,False,False,0.868,Developmental,,0.016,Below Average
+End Zone - Clip 088.mp4,33370,,,DEFENSE,LB,WILL (weak),0.041,True,False,0.267,Above Average,,,Above Average
+End Zone - Clip 088.mp4,33264,,,DEFENSE,LB,SAM (strong),0.041,True,False,1.602,Developmental,,,Below Average
+End Zone - Clip 088.mp4,33391,,,DEFENSE,EDGE,OLB (up),0.043,True,False,0.701,Developmental,,,Below Average
+End Zone - Clip 089.mp4,33715,,,DEFENSE,LB,SAM (strong),0.055,True,False,0.200,Elite,,,Elite
+End Zone - Clip 089.mp4,33793,,,DEFENSE,LB,SAM (strong),0.063,True,False,,,,,Average
+End Zone - Clip 089.mp4,33886,,,DEFENSE,EDGE,DE (down),0.069,False,False,,,,,Average
+End Zone - Clip 089.mp4,34004,,,DEFENSE,DL,3-tech,0.008,True,True,,,,,Average
+End Zone - Clip 089.mp4,34009,,,DEFENSE,EDGE,DE (down),0.024,False,True,0.033,Elite,,,Elite
+End Zone - Clip 089.mp4,34011,,,DEFENSE,EDGE,DE (down),0.082,False,False,0.267,Above Average,,,Above Average
+End Zone - Clip 090.mp4,34093,,,DEFENSE,DL,5-tech,0.005,True,True,0.033,Elite,,,Elite
+End Zone - Clip 090.mp4,34181,,,DEFENSE,S,Deep half,0.249,False,False,0.300,Above Average,,0.017,Above Average
+End Zone - Clip 090.mp4,34187,,,DEFENSE,EDGE,DE (down),0.025,False,True,0.234,Above Average,,,Above Average
+End Zone - Clip 090.mp4,34197,,,DEFENSE,EDGE,DE (down),0.015,False,True,0.234,Above Average,,,Above Average
+End Zone - Clip 090.mp4,34196,,,DEFENSE,SLOT,Nickel/Slot,0.112,False,False,0.400,Average,,0.014,Average
+End Zone - Clip 090.mp4,34206,,,DEFENSE,DL,5-tech,0.002,True,True,0.067,Elite,0.028,,Elite
+End Zone - Clip 090.mp4,34243,,,DEFENSE,DL,3-tech,0.050,True,False,0.100,Elite,,,Elite
+End Zone - Clip 091.mp4,34583,,,DEFENSE,S,Free Safety (centerfield),0.267,True,False,0.067,Elite,,0.027,Elite
+End Zone - Clip 091.mp4,34584,,,DEFENSE,LB,MIKE (middle),0.069,True,False,0.067,Elite,,,Elite
+End Zone - Clip 091.mp4,34587,,,DEFENSE,EDGE,OLB (up),0.050,False,False,0.067,Elite,,,Elite
+End Zone - Clip 091.mp4,34588,,,DEFENSE,LB,SAM (strong),0.086,True,False,0.033,Elite,,,Elite
+End Zone - Clip 091.mp4,34592,,,DEFENSE,DL,1-tech,0.015,True,True,0.033,Elite,,,Elite
+End Zone - Clip 091.mp4,34597,,,DEFENSE,LB,WILL (weak),0.030,True,False,0.033,Elite,,,Elite
+End Zone - Clip 091.mp4,34653,,,DEFENSE,DL,5-tech,0.017,True,True,,,,,Average
+End Zone - Clip 092.mp4,34833,,,DEFENSE,DL,3-tech,0.025,True,True,0.033,Elite,,,Elite
+End Zone - Clip 092.mp4,34935,,,DEFENSE,EDGE,OLB (up),0.044,True,False,0.133,Elite,,,Elite
+End Zone - Clip 092.mp4,34975,,,DEFENSE,CB,Deep,0.405,False,False,0.133,Elite,,0.706,Elite
+End Zone - Clip 092.mp4,34980,,,DEFENSE,DL,5-tech,0.020,True,True,0.033,Elite,,,Elite
+End Zone - Clip 092.mp4,35001,,,DEFENSE,DL,0-tech (Nose),0.024,True,True,0.133,Elite,,,Elite
+End Zone - Clip 092.mp4,35017,,,DEFENSE,EDGE,OLB (up),0.036,False,False,0.100,Elite,0.002,,Elite
+End Zone - Clip 094.mp4,36113,,,DEFENSE,LB,WILL (weak),0.076,True,False,0.200,Elite,,,Elite
+End Zone - Clip 094.mp4,36109,,,DEFENSE,LB,SAM (strong),0.080,True,False,0.400,Average,,,Average
+End Zone - Clip 094.mp4,36107,,,DEFENSE,LB,SAM (strong),0.080,True,False,0.167,Elite,,,Elite
+End Zone - Clip 094.mp4,36116,,,DEFENSE,LB,MIKE (middle),0.082,True,False,0.033,Elite,,,Elite
+End Zone - Clip 094.mp4,36118,,,DEFENSE,LB,WILL (weak),0.110,True,False,0.133,Elite,,,Elite
+End Zone - Clip 094.mp4,36151,,,DEFENSE,LB,MIKE (middle),0.076,True,False,0.367,Average,,,Average
+End Zone - Clip 094.mp4,36154,,,DEFENSE,LB,WILL (weak),0.088,True,False,0.133,Elite,,,Elite
+End Zone - Clip 094.mp4,36161,,,DEFENSE,LB,WILL (weak),0.121,True,False,0.067,Elite,,,Elite
+End Zone - Clip 095.mp4,36232,,,DEFENSE,DL,3-tech,0.040,True,False,0.133,Elite,0.047,,Elite
+End Zone - Clip 095.mp4,36325,,,DEFENSE,EDGE,DE (down),0.069,True,False,0.167,Elite,,,Elite
+End Zone - Clip 095.mp4,36352,,,DEFENSE,EDGE,DE (down),0.022,True,True,0.167,Elite,0.041,,Elite
+End Zone - Clip 095.mp4,36355,,,DEFENSE,DL,5-tech,0.042,True,False,0.100,Elite,0.062,,Elite
+End Zone - Clip 095.mp4,36379,,,DEFENSE,EDGE,DE (down),0.054,False,False,0.067,Elite,0.065,,Elite
+End Zone - Clip 095.mp4,36397,,,DEFENSE,EDGE,DE (down),0.078,False,False,0.500,Below Average,0.079,,Below Average
+End Zone - Clip 095.mp4,36415,,,DEFENSE,EDGE,DE (down),0.084,True,False,,,,,Average
+End Zone - Clip 095.mp4,36420,,,DEFENSE,DL,3-tech,0.041,True,False,0.033,Elite,,,Elite
+End Zone - Clip 097.mp4,36792,,,DEFENSE,DL,0-tech (Nose),0.166,True,False,1.001,Developmental,0.160,,Average
+End Zone - Clip 097.mp4,36838,,,DEFENSE,DL,5-tech,0.200,True,False,0.234,Above Average,0.204,,Elite
+End Zone - Clip 097.mp4,36857,,,DEFENSE,EDGE,DE (down),0.190,False,False,0.434,Below Average,0.188,,Average
+End Zone - Clip 097.mp4,36870,,,DEFENSE,DL,5-tech,0.154,True,False,0.033,Elite,0.196,,Elite
+End Zone - Clip 097.mp4,36882,,,DEFENSE,DL,3-tech,0.176,True,False,0.067,Elite,0.170,,Elite
+End Zone - Clip 097.mp4,36891,,,DEFENSE,DL,3-tech,0.210,True,False,1.668,Developmental,,,Below Average
+End Zone - Clip 099.mp4,36931,,,DEFENSE,EDGE,DE (down),0.007,True,True,,,,,Average
+End Zone - Clip 099.mp4,36961,,,DEFENSE,DL,0-tech (Nose),0.004,True,True,0.033,Elite,,,Elite
+End Zone - Clip 099.mp4,37007,,,DEFENSE,DL,1-tech,0.027,True,True,0.367,Average,0.032,,Average
+End Zone - Clip 099.mp4,37062,,,DEFENSE,DL,5-tech,0.015,True,True,,,,,Average
+End Zone - Clip 099.mp4,37067,,,DEFENSE,DL,1-tech,0.028,True,True,0.400,Below Average,,,Below Average
+End Zone - Clip 100.mp4,37426,,,DEFENSE,CB,Deep,0.355,False,False,0.033,Elite,,0.040,Elite
+End Zone - Clip 100.mp4,37422,,,DEFENSE,S,Deep half,0.355,False,False,0.033,Elite,,0.071,Elite
+End Zone - Clip 100.mp4,37428,,,DEFENSE,S,Deep half,0.372,True,False,0.067,Elite,,0.026,Elite
+End Zone - Clip 100.mp4,37427,,,DEFENSE,S,Deep half,0.356,True,False,,,,0.001,Average
+End Zone - Clip 101.mp4,37527,,,DEFENSE,EDGE,DE (down),0.006,True,True,0.334,Average,0.019,,Average
+End Zone - Clip 101.mp4,37528,,,DEFENSE,EDGE,DE (down),0.005,False,True,0.100,Elite,0.016,,Elite
+End Zone - Clip 101.mp4,37524,,,DEFENSE,DL,3-tech,0.003,True,True,0.167,Elite,0.026,,Elite
+End Zone - Clip 101.mp4,37526,,,DEFENSE,EDGE,DE (down),0.001,True,True,0.267,Above Average,,,Above Average
+End Zone - Clip 101.mp4,37525,,,DEFENSE,DL,3-tech,0.008,True,True,0.267,Above Average,0.018,,Above Average
+End Zone - Clip 101.mp4,37542,,,DEFENSE,DL,5-tech,0.039,True,False,0.133,Elite,0.031,,Elite
+End Zone - Clip 101.mp4,37562,,,DEFENSE,EDGE,DE (down),0.017,False,True,0.133,Elite,0.018,,Elite
+End Zone - Clip 101.mp4,37569,,,DEFENSE,EDGE,DE (down),0.004,False,True,0.133,Elite,0.038,,Elite
+End Zone - Clip 101.mp4,37573,,,DEFENSE,EDGE,DE (down),0.026,False,True,0.100,Elite,0.010,,Elite
+End Zone - Clip 101.mp4,37577,,,DEFENSE,EDGE,DE (down),0.038,True,False,0.534,Below Average,,,Below Average
+End Zone - Clip 102.mp4,37739,,,DEFENSE,DL,5-tech,0.028,True,True,,,,,Average
+End Zone - Clip 102.mp4,37778,,,DEFENSE,EDGE,DE (down),0.136,False,False,,,,,Average
+End Zone - Clip 102.mp4,37787,,,DEFENSE,DL,0-tech (Nose),0.184,True,False,0.033,Elite,0.161,,Elite
+End Zone - Clip 102.mp4,37798,,,DEFENSE,EDGE,DE (down),0.181,False,False,0.100,Elite,,,Elite
+End Zone - Clip 102.mp4,37817,,,DEFENSE,EDGE,DE (down),0.155,False,False,0.868,Developmental,,,Below Average
+End Zone - Clip 102.mp4,37823,,,DEFENSE,DL,0-tech (Nose),0.162,True,False,0.133,Elite,,,Elite
+End Zone - Clip 102.mp4,37824,,,DEFENSE,EDGE,DE (down),0.172,True,False,0.033,Elite,,,Elite
+End Zone - Clip 102.mp4,37827,,,DEFENSE,DL,3-tech,0.172,True,False,0.067,Elite,0.168,,Elite
+End Zone - Clip 102.mp4,37844,,,DEFENSE,EDGE,DE (down),0.069,False,False,0.067,Elite,,,Elite
+End Zone - Clip 102.mp4,37909,,,DEFENSE,EDGE,DE (down),0.179,False,False,0.167,Elite,,,Elite
+End Zone - Clip 103.mp4,37977,,,DEFENSE,EDGE,DE (down),0.100,False,False,0.067,Elite,,,Elite
+End Zone - Clip 103.mp4,38189,,,DEFENSE,EDGE,DE (down),0.045,False,False,0.434,Below Average,,,Below Average
+End Zone - Clip 103.mp4,38191,,,DEFENSE,DL,5-tech,0.107,True,False,0.100,Elite,,,Elite
+End Zone - Clip 103.mp4,38192,,,DEFENSE,DL,5-tech,0.077,True,False,0.267,Above Average,,,Above Average
+End Zone - Clip 103.mp4,38197,,,DEFENSE,EDGE,DE (down),0.117,True,False,0.500,Below Average,0.030,,Below Average
+End Zone - Clip 103.mp4,38195,,,DEFENSE,DL,0-tech (Nose),0.109,True,False,0.067,Elite,,,Elite
+End Zone - Clip 103.mp4,38199,,,DEFENSE,DL,3-tech,0.108,True,False,0.300,Average,,,Average
+End Zone - Clip 103.mp4,38238,,,DEFENSE,DL,5-tech,0.112,True,False,0.167,Elite,,,Elite
+End Zone - Clip 104.mp4,38233,,,DEFENSE,DL,1-tech,0.078,True,False,0.167,Elite,0.090,,Elite
+End Zone - Clip 104.mp4,38342,,,DEFENSE,CB,Off (5-7 yards),0.097,False,False,0.734,Developmental,,0.003,Below Average
+End Zone - Clip 104.mp4,38289,,,DEFENSE,EDGE,DE (down),0.041,False,False,,,0.043,,Average
+End Zone - Clip 104.mp4,38371,,,DEFENSE,EDGE,DE (down),0.076,True,False,0.300,Average,0.076,,Average
+End Zone - Clip 104.mp4,38386,,,DEFENSE,DL,0-tech (Nose),0.040,True,False,0.067,Elite,0.041,,Elite
+End Zone - Clip 104.mp4,38387,,,DEFENSE,EDGE,DE (down),0.044,True,False,0.400,Below Average,0.041,,Below Average
+End Zone - Clip 104.mp4,38405,,,DEFENSE,DL,3-tech,0.072,True,False,0.133,Elite,,,Elite
+End Zone - Clip 104.mp4,38430,,,DEFENSE,DL,3-tech,0.045,True,False,0.400,Below Average,0.052,,Below Average
+End Zone - Clip 104.mp4,38431,,,DEFENSE,DL,0-tech (Nose),0.059,True,False,0.601,Developmental,,,Below Average
+End Zone - Clip 104.mp4,38435,,,DEFENSE,EDGE,DE (down),0.079,False,False,0.100,Elite,0.095,,Elite
+End Zone - Clip 105.mp4,38455,,,DEFENSE,EDGE,OLB (up),0.044,False,False,,,,,Average
+End Zone - Clip 105.mp4,38582,,,DEFENSE,DL,1-tech,0.044,True,False,0.200,Above Average,,,Above Average
+End Zone - Clip 105.mp4,38605,,,DEFENSE,EDGE,DE (down),0.039,True,False,0.133,Elite,,,Elite
+End Zone - Clip 105.mp4,38634,,,DEFENSE,LB,WILL (weak),0.130,True,False,0.901,Developmental,,,Below Average
+End Zone - Clip 105.mp4,38700,,,DEFENSE,EDGE,DE (down),0.029,False,True,0.133,Elite,,,Elite
+End Zone - Clip 106.mp4,39210,,,DEFENSE,CB,Deep,0.178,False,False,0.767,Developmental,,0.063,Below Average
+End Zone - Clip 106.mp4,39213,,,DEFENSE,EDGE,DE (down),0.050,True,False,0.701,Developmental,,,Below Average
+End Zone - Clip 106.mp4,39211,,,DEFENSE,EDGE,DE (down),0.082,False,False,0.067,Elite,,,Elite
+End Zone - Clip 106.mp4,39222,,,DEFENSE,DL,3-tech,0.101,True,False,0.100,Elite,0.096,,Elite
+End Zone - Clip 106.mp4,39223,,,DEFENSE,EDGE,DE (down),0.088,True,False,1.101,Developmental,,,Below Average
+End Zone - Clip 106.mp4,39258,,,DEFENSE,DL,5-tech,0.082,True,False,0.100,Elite,,,Elite
+End Zone - Clip 106.mp4,39274,,,DEFENSE,EDGE,DE (down),0.082,False,False,0.300,Average,,,Average
+End Zone - Clip 106.mp4,39276,,,DEFENSE,DL,3-tech,0.089,True,False,0.100,Elite,0.072,,Elite
+End Zone - Clip 106.mp4,39298,,,DEFENSE,DL,0-tech (Nose),0.078,True,False,0.033,Elite,,,Elite
+End Zone - Clip 106.mp4,39299,,,DEFENSE,EDGE,DE (down),0.088,True,False,0.133,Elite,,,Elite
+End Zone - Clip 107.mp4,39508,,,DEFENSE,DL,5-tech,0.056,True,False,0.067,Elite,,,Elite
+End Zone - Clip 107.mp4,39536,,,DEFENSE,EDGE,DE (down),0.033,True,False,0.067,Elite,,,Elite
+End Zone - Clip 107.mp4,39567,,,DEFENSE,CB,Deep,0.207,False,False,0.067,Elite,,0.007,Elite
+End Zone - Clip 107.mp4,39591,,,DEFENSE,DL,0-tech (Nose),0.042,True,False,0.067,Elite,,,Elite
+End Zone - Clip 107.mp4,39585,,,DEFENSE,DL,0-tech (Nose),0.029,True,True,0.067,Elite,,,Elite
+End Zone - Clip 107.mp4,39587,,,DEFENSE,EDGE,DE (down),0.055,False,False,0.067,Elite,,,Elite
+End Zone - Clip 107.mp4,39598,,,DEFENSE,DL,5-tech,0.042,True,False,0.067,Elite,0.010,,Elite
+End Zone - Clip 107.mp4,39623,,,DEFENSE,DL,1-tech,0.068,True,False,0.067,Elite,,,Elite
+End Zone - Clip 107.mp4,39627,,,DEFENSE,DL,5-tech,0.066,True,False,0.100,Elite,,,Elite
+End Zone - Clip 108.mp4,39837,,,DEFENSE,S,Strong Safety,0.317,True,False,0.834,Developmental,,0.008,Below Average
+End Zone - Clip 108.mp4,39723,,,DEFENSE,LB,WILL (weak),0.085,True,False,0.567,Below Average,,,Below Average
+End Zone - Clip 108.mp4,39783,,,DEFENSE,LB,SAM (strong),0.089,True,False,0.367,Average,,,Average
+End Zone - Clip 108.mp4,39907,,,DEFENSE,LB,SAM (strong),0.050,True,False,2.970,Developmental,,,Below Average
+End Zone - Clip 108.mp4,39933,1,,DEFENSE,SLOT,Nickel/Slot,0.057,False,False,0.033,Elite,,0.008,Elite
+End Zone - Clip 108.mp4,39959,,,DEFENSE,LB,MIKE (middle),0.090,True,False,,,,,Average
+End Zone - Clip 109.mp4,39837,,,DEFENSE,S,Strong Safety,0.324,True,False,0.601,Below Average,,0.028,Below Average
+End Zone - Clip 109.mp4,39783,,,DEFENSE,LB,SAM (strong),0.075,True,False,0.367,Average,,,Average
+End Zone - Clip 109.mp4,40022,,,DEFENSE,CB,Off (5-7 yards),0.145,False,False,0.133,Elite,,0.003,Elite
+End Zone - Clip 110.mp4,40142,,,DEFENSE,DL,3-tech,0.010,True,True,0.167,Elite,,,Elite
+End Zone - Clip 110.mp4,39723,56,,DEFENSE,DL,1-tech,0.011,True,True,0.067,Elite,0.013,,Elite
+End Zone - Clip 110.mp4,40206,,,DEFENSE,SLOT,Nickel/Slot,0.147,False,False,0.067,Elite,,0.043,Elite
+End Zone - Clip 110.mp4,40270,,,DEFENSE,CB,Press,0.075,False,False,0.067,Elite,,0.063,Elite
+End Zone - Clip 111.mp4,40631,,,DEFENSE,UNKNOWN,,0.169,True,False,,,,,Average
+End Zone - Clip 111.mp4,40151,,,DEFENSE,DL,5-tech,0.017,True,True,0.601,Developmental,,,Below Average
+End Zone - Clip 111.mp4,40572,,,DEFENSE,EDGE,DE (down),0.017,False,True,,,,,Average
+End Zone - Clip 111.mp4,40646,,,DEFENSE,LB,WILL (weak),0.060,True,False,,,,,Average
+End Zone - Clip 111.mp4,40648,,,DEFENSE,EDGE,DE (down),0.008,False,True,0.200,Above Average,,,Above Average
+End Zone - Clip 111.mp4,40717,,,DEFENSE,EDGE,DE (down),0.005,False,True,0.300,Average,,,Average
+End Zone - Clip 112.mp4,41149,,,DEFENSE,DL,5-tech,0.000,True,True,0.334,Average,,,Average
+End Zone - Clip 112.mp4,41157,,,DEFENSE,LB,MIKE (middle),0.045,True,False,0.400,Average,,,Average
+End Zone - Clip 112.mp4,41223,,,DEFENSE,DL,3-tech,0.022,True,True,0.868,Developmental,,,Below Average
+End Zone - Clip 112.mp4,41277,,,DEFENSE,EDGE,DE (down),0.005,False,True,0.133,Elite,0.011,,Elite
+End Zone - Clip 112.mp4,41295,,,DEFENSE,S,Strong Safety,0.273,True,False,0.167,Elite,,0.015,Elite
+End Zone - Clip 112.mp4,41296,,,DEFENSE,SLOT,Nickel/Slot,0.134,False,False,0.300,Above Average,,0.004,Above Average
+End Zone - Clip 112.mp4,41297,,,DEFENSE,DL,5-tech,0.025,True,True,0.167,Elite,,,Elite
+End Zone - Clip 112.mp4,41308,,,DEFENSE,DL,3-tech,0.001,True,True,0.300,Average,,,Average
+End Zone - Clip 112.mp4,41327,,,DEFENSE,EDGE,OLB (up),0.035,False,False,0.300,Average,,,Average
+End Zone - Clip 112.mp4,41348,,,DEFENSE,DL,0-tech (Nose),0.021,True,True,0.133,Elite,,,Elite
+End Zone - Clip 113.mp4,41650,,,DEFENSE,LB,WILL (weak),0.120,True,False,0.033,Elite,,,Elite
+End Zone - Clip 113.mp4,41701,,,DEFENSE,EDGE,DE (down),0.004,True,True,,,,,Average
+End Zone - Clip 113.mp4,41705,,,DEFENSE,SLOT,Nickel/Slot,0.065,False,False,0.033,Elite,,0.158,Elite
+End Zone - Clip 113.mp4,41707,,,DEFENSE,DL,3-tech,0.004,True,True,0.033,Elite,0.001,,Elite
+End Zone - Clip 113.mp4,41747,,,DEFENSE,DL,0-tech (Nose),0.007,True,True,0.033,Elite,,,Elite
+End Zone - Clip 113.mp4,41750,,,DEFENSE,S,Strong Safety,0.438,True,False,0.033,Elite,,0.295,Elite
+End Zone - Clip 114.mp4,42096,,,DEFENSE,LB,SAM (strong),0.067,True,False,0.167,Elite,,,Elite
+End Zone - Clip 114.mp4,42108,,,DEFENSE,EDGE,OLB (up),0.047,True,False,0.167,Elite,,,Elite
+End Zone - Clip 114.mp4,42121,,,DEFENSE,CB,Press,0.077,False,False,0.200,Elite,,0.058,Elite
+End Zone - Clip 114.mp4,42185,,,DEFENSE,LB,WILL (weak),0.058,True,False,0.033,Elite,,,Elite
+End Zone - Clip 114.mp4,42200,,,DEFENSE,CB,Press,0.064,False,False,0.033,Elite,,0.047,Elite
+End Zone - Clip 114.mp4,42204,,,DEFENSE,LB,MIKE (middle),0.052,True,False,0.067,Elite,,,Elite
+End Zone - Clip 114.mp4,42211,,,DEFENSE,CB,Deep,0.217,False,False,0.033,Elite,,0.024,Elite
+End Zone - Clip 115.mp4,42291,,,DEFENSE,LB,SAM (strong),0.103,True,False,0.100,Elite,,,Elite
+End Zone - Clip 116.mp4,42441,,,DEFENSE,LB,MIKE (middle),0.031,True,False,0.434,Average,,,Average
+End Zone - Clip 116.mp4,42375,,,DEFENSE,EDGE,DE (down),0.021,False,True,0.400,Below Average,0.022,,Below Average
+End Zone - Clip 116.mp4,42291,,,DEFENSE,LB,MIKE (middle),0.072,True,False,,,,,Average
+End Zone - Clip 116.mp4,42389,,,DEFENSE,EDGE,DE (down),0.014,True,True,0.300,Average,0.031,,Average
+End Zone - Clip 116.mp4,42454,,,DEFENSE,CB,Deep,0.414,False,False,1.034,Developmental,,0.000,Below Average
+End Zone - Clip 116.mp4,42455,,,DEFENSE,EDGE,OLB (up),0.037,True,False,0.601,Developmental,,,Below Average
+End Zone - Clip 116.mp4,42456,,,DEFENSE,CB,Off (5-7 yards),0.080,False,False,0.300,Above Average,,0.003,Above Average
+End Zone - Clip 116.mp4,42462,,,DEFENSE,DL,5-tech,0.013,True,True,0.434,Below Average,0.026,,Below Average
+End Zone - Clip 116.mp4,42477,,,DEFENSE,CB,Deep,0.186,False,False,0.467,Average,,0.016,Average
+End Zone - Clip 117.mp4,42787,,,DEFENSE,UNKNOWN,,0.164,True,False,0.067,Elite,,,Elite
+End Zone - Clip 117.mp4,42749,,,DEFENSE,S,Deep half,0.347,True,False,0.033,Elite,,0.049,Elite
+End Zone - Clip 117.mp4,42797,,,DEFENSE,LB,WILL (weak),0.149,True,False,0.100,Elite,,,Elite
+End Zone - Clip 117.mp4,42889,,,DEFENSE,LB,WILL (weak),0.129,True,False,0.067,Elite,,,Elite
+End Zone - Clip 117.mp4,42898,,,DEFENSE,UNKNOWN,,0.159,True,False,0.067,Elite,,,Elite
+End Zone - Clip 117.mp4,42904,,,DEFENSE,LB,MIKE (middle),0.127,True,False,0.033,Elite,,,Elite
+End Zone - Clip 118.mp4,43207,,,DEFENSE,LB,SAM (strong),0.056,True,False,0.834,Developmental,,,Below Average
+End Zone - Clip 118.mp4,43298,,,DEFENSE,DL,5-tech,0.020,True,True,1.068,Developmental,0.027,,Below Average
+End Zone - Clip 118.mp4,43358,,,DEFENSE,DL,1-tech,0.005,True,True,0.267,Above Average,0.030,,Above Average
+End Zone - Clip 118.mp4,43361,,,DEFENSE,SLOT,Nickel/Slot,0.051,False,False,0.300,Above Average,,0.033,Above Average
+End Zone - Clip 118.mp4,43392,,,DEFENSE,DL,0-tech (Nose),0.003,True,True,0.667,Developmental,0.025,,Below Average
+End Zone - Clip 119.mp4,43430,,,DEFENSE,S,Strong Safety,0.414,True,False,0.167,Elite,,0.050,Elite
+End Zone - Clip 119.mp4,43434,,,DEFENSE,CB,Deep,0.172,False,False,0.067,Elite,,0.087,Elite
+End Zone - Clip 119.mp4,43435,,,DEFENSE,LB,WILL (weak),0.052,True,False,0.167,Elite,,,Elite
+End Zone - Clip 119.mp4,43207,,,DEFENSE,LB,SAM (strong),0.106,True,False,0.200,Elite,,,Elite
+End Zone - Clip 119.mp4,43504,,,DEFENSE,EDGE,OLB (up),0.040,False,False,0.067,Elite,,,Elite
+End Zone - Clip 119.mp4,43520,,,DEFENSE,LB,SAM (strong),0.047,True,False,0.234,Elite,,,Elite
+End Zone - Clip 120.mp4,43430,,,DEFENSE,S,Free Safety (centerfield),0.361,True,False,0.100,Elite,,0.006,Elite
+End Zone - Clip 120.mp4,43675,,,DEFENSE,UNKNOWN,,0.187,False,False,0.934,Developmental,,,Below Average
+End Zone - Clip 120.mp4,43679,,,DEFENSE,CB,Press,0.078,False,False,0.534,Below Average,,0.004,Below Average
+End Zone - Clip 120.mp4,43713,,,DEFENSE,DL,3-tech,0.029,True,True,0.334,Average,,,Average
+End Zone - Clip 120.mp4,43742,,,DEFENSE,LB,SAM (strong),0.039,True,False,0.367,Average,,,Average
+End Zone - Clip 120.mp4,43746,,,DEFENSE,LB,MIKE (middle),0.049,True,False,0.567,Below Average,,,Below Average
+End Zone - Clip 120.mp4,43748,,,DEFENSE,LB,SAM (strong),0.061,True,False,1.168,Developmental,,,Below Average
+End Zone - Clip 121.mp4,43807,,,DEFENSE,DL,5-tech,0.009,True,True,0.267,Above Average,0.031,,Above Average
+End Zone - Clip 121.mp4,43817,,,DEFENSE,EDGE,OLB (up),0.045,False,False,0.167,Elite,,,Elite
+End Zone - Clip 121.mp4,43819,,,DEFENSE,LB,SAM (strong),0.035,True,False,0.701,Developmental,,,Below Average
+End Zone - Clip 121.mp4,43820,,,DEFENSE,S,Strong Safety,0.445,True,False,1.468,Developmental,,0.000,Below Average
+End Zone - Clip 121.mp4,43824,,,DEFENSE,DL,0-tech (Nose),0.008,True,True,0.133,Elite,,,Elite
+End Zone - Clip 121.mp4,43925,,,DEFENSE,DL,0-tech (Nose),0.013,True,True,0.100,Elite,0.011,,Elite
+End Zone - Clip 122.mp4,44179,,,DEFENSE,CB,Press,0.077,False,False,0.734,Developmental,,0.006,Below Average
+End Zone - Clip 122.mp4,44192,,,DEFENSE,UNKNOWN,,0.168,True,False,,,,,Average
+End Zone - Clip 122.mp4,44194,,,DEFENSE,LB,WILL (weak),0.070,True,False,0.767,Developmental,,,Below Average
+End Zone - Clip 122.mp4,44182,,,DEFENSE,LB,MIKE (middle),0.072,True,False,,,,,Average
+End Zone - Clip 122.mp4,44205,,,DEFENSE,LB,WILL (weak),0.083,True,False,2.769,Developmental,,,Below Average
+End Zone - Clip 122.mp4,44225,,,DEFENSE,LB,SAM (strong),0.050,True,False,1.968,Developmental,,,Below Average
+End Zone - Clip 122.mp4,44231,,,DEFENSE,LB,MIKE (middle),0.060,True,False,,,,,Average
+End Zone - Clip 122.mp4,44233,,,DEFENSE,EDGE,DE (down),0.023,False,True,,,,,Average
+End Zone - Clip 123.mp4,44192,,,DEFENSE,UNKNOWN,,0.197,True,False,0.067,Elite,,,Elite
+End Zone - Clip 124.mp4,44846,,,DEFENSE,SLOT,Nickel/Slot,0.124,False,False,0.234,Elite,,0.061,Elite
+End Zone - Clip 124.mp4,44850,,,DEFENSE,LB,MIKE (middle),0.056,True,False,0.200,Elite,,,Elite
+End Zone - Clip 124.mp4,44882,,,DEFENSE,LB,WILL (weak),0.096,True,False,0.234,Elite,,,Elite
+End Zone - Clip 124.mp4,44910,,,DEFENSE,S,Strong Safety,0.436,True,False,0.267,Above Average,,0.010,Above Average
+End Zone - Clip 124.mp4,44928,,,DEFENSE,LB,WILL (weak),0.092,True,False,0.200,Elite,,,Elite
+End Zone - Clip 124.mp4,44932,,,DEFENSE,SLOT,Nickel/Slot,0.104,False,False,0.200,Elite,,0.038,Elite
+End Zone - Clip 126.mp4,45976,,,DEFENSE,EDGE,DE (down),0.007,False,True,0.367,Average,,,Average
+End Zone - Clip 126.mp4,46024,,,DEFENSE,CB,Press,0.073,False,False,0.033,Elite,,0.113,Elite
+End Zone - Clip 126.mp4,46034,,,DEFENSE,LB,WILL (weak),0.072,True,False,0.200,Elite,,,Elite
+End Zone - Clip 126.mp4,46049,,,DEFENSE,UNKNOWN,,0.193,True,False,,,,,Average
+End Zone - Clip 126.mp4,46068,,,DEFENSE,UNKNOWN,,0.153,True,False,0.167,Elite,,,Elite
+End Zone - Clip 127.mp4,46207,,,DEFENSE,EDGE,DE (down),0.004,False,True,0.033,Elite,,,Elite
+End Zone - Clip 127.mp4,46250,,,DEFENSE,EDGE,DE (down),0.025,False,True,,,,,Average
+End Zone - Clip 127.mp4,46260,,,DEFENSE,CB,Deep,0.224,False,False,,,,0.008,Average
+End Zone - Clip 127.mp4,46263,,,DEFENSE,EDGE,OLB (up),0.031,True,False,0.033,Elite,,,Elite
+End Zone - Clip 127.mp4,46270,,,DEFENSE,LB,MIKE (middle),0.032,True,False,0.167,Elite,,,Elite
+End Zone - Clip 127.mp4,46024,,,DEFENSE,EDGE,OLB (up),0.033,True,False,0.033,Elite,,,Elite
+End Zone - Clip 127.mp4,46278,,,DEFENSE,LB,SAM (strong),0.064,True,False,0.033,Elite,,,Elite
+End Zone - Clip 127.mp4,46282,,,DEFENSE,EDGE,DE (down),0.022,True,True,,,,,Average
+End Zone - Clip 127.mp4,46308,,,DEFENSE,DL,1-tech,0.024,True,True,0.100,Elite,,,Elite
+End Zone - Clip 128.mp4,47104,,,DEFENSE,DL,5-tech,0.069,True,False,0.067,Elite,,,Elite
+End Zone - Clip 128.mp4,47127,,,DEFENSE,EDGE,DE (down),0.055,False,False,,,,,Average
+End Zone - Clip 128.mp4,47151,,,DEFENSE,CB,Off (5-7 yards),0.135,False,False,,,,,Average
+End Zone - Clip 128.mp4,47184,,,DEFENSE,EDGE,DE (down),0.047,True,False,0.934,Developmental,0.059,,Below Average
+End Zone - Clip 128.mp4,47227,,,DEFENSE,EDGE,DE (down),0.054,False,False,,,,,Average
+End Zone - Clip 128.mp4,47240,,,DEFENSE,EDGE,DE (down),0.079,False,False,,,,,Average
+End Zone - Clip 129.mp4,47289,,,DEFENSE,DL,3-tech,0.034,True,False,0.133,Elite,,,Elite
+End Zone - Clip 129.mp4,47417,,,DEFENSE,DL,5-tech,0.039,True,False,0.067,Elite,,,Elite
+End Zone - Clip 129.mp4,47356,,,DEFENSE,DL,0-tech (Nose),0.032,True,False,0.200,Above Average,0.034,,Above Average
+End Zone - Clip 129.mp4,47429,,,DEFENSE,DL,3-tech,0.037,True,False,0.133,Elite,,,Elite
+End Zone - Clip 129.mp4,47437,,,DEFENSE,DL,0-tech (Nose),0.020,True,True,0.234,Above Average,0.041,,Above Average
+End Zone - Clip 129.mp4,47444,,,DEFENSE,DL,1-tech,0.033,True,False,,,,,Average
+End Zone - Clip 129.mp4,47452,,,DEFENSE,EDGE,DE (down),0.012,False,True,0.067,Elite,,,Elite
+End Zone - Clip 129.mp4,47464,,,DEFENSE,DL,0-tech (Nose),0.022,True,True,0.133,Elite,,,Elite
+End Zone - Clip 129.mp4,47472,,,DEFENSE,EDGE,DE (down),0.053,False,False,0.133,Elite,,,Elite
+End Zone - Clip 129.mp4,47480,,,DEFENSE,DL,5-tech,0.019,True,True,0.133,Elite,,,Elite
+End Zone - Clip 129.mp4,47497,,,DEFENSE,EDGE,DE (down),0.048,False,False,,,,,Average
+End Zone - Clip 130.mp4,47717,,,DEFENSE,DL,0-tech (Nose),0.052,True,False,0.200,Above Average,,,Above Average
+End Zone - Clip 130.mp4,47719,,,DEFENSE,DL,0-tech (Nose),0.061,True,False,0.367,Average,0.069,,Average
+End Zone - Clip 130.mp4,47727,,,DEFENSE,DL,3-tech,0.062,True,False,,,,,Average
+End Zone - Clip 130.mp4,47736,,,DEFENSE,EDGE,DE (down),0.075,False,False,0.400,Below Average,0.045,,Below Average
+End Zone - Clip 130.mp4,47792,,,DEFENSE,EDGE,DE (down),0.085,False,False,,,,,Average
+End Zone - Clip 130.mp4,47793,,,DEFENSE,DL,5-tech,0.047,True,False,0.167,Elite,0.063,,Elite
+End Zone - Clip 130.mp4,47795,,,DEFENSE,EDGE,DE (down),0.100,False,False,0.200,Above Average,,,Above Average
+End Zone - Clip 130.mp4,47794,,,DEFENSE,EDGE,DE (down),0.091,False,False,,,,,Average
+End Zone - Clip 130.mp4,47797,,,DEFENSE,DL,0-tech (Nose),0.053,True,False,0.234,Above Average,0.069,,Above Average
+End Zone - Clip 130.mp4,47803,,,DEFENSE,DL,5-tech,0.066,True,False,,,,,Average
+End Zone - Clip 131.mp4,48183,,,DEFENSE,LB,WILL (weak),0.057,True,False,0.701,Developmental,,,Below Average
+End Zone - Clip 131.mp4,48234,,,DEFENSE,LB,SAM (strong),0.058,True,False,,,,,Average
+End Zone - Clip 131.mp4,48238,,,DEFENSE,EDGE,DE (down),0.013,False,True,,,,,Average
+End Zone - Clip 131.mp4,48240,,,DEFENSE,EDGE,OLB (up),0.048,True,False,0.200,Above Average,,,Above Average
+End Zone - Clip 131.mp4,48242,,,DEFENSE,LB,WILL (weak),0.051,True,False,0.100,Elite,,,Elite
+End Zone - Clip 131.mp4,48247,,,DEFENSE,LB,MIKE (middle),0.072,True,False,0.133,Elite,,,Elite
+End Zone - Clip 131.mp4,48260,,,DEFENSE,LB,SAM (strong),0.039,True,False,0.234,Elite,,,Elite
+End Zone - Clip 131.mp4,48271,,,DEFENSE,LB,WILL (weak),0.044,True,False,0.133,Elite,,,Elite
+End Zone - Clip 131.mp4,48276,,,DEFENSE,LB,WILL (weak),0.051,True,False,0.067,Elite,,,Elite
+End Zone - Clip 131.mp4,48284,,,DEFENSE,EDGE,DE (down),0.018,False,True,0.968,Developmental,0.012,,Below Average
+End Zone - Clip 131.mp4,48294,,,DEFENSE,EDGE,DE (down),0.019,False,True,,,,,Average
+End Zone - Clip 131.mp4,48296,,,DEFENSE,LB,SAM (strong),0.060,True,False,,,,,Average
+End Zone - Clip 131.mp4,48297,,,DEFENSE,EDGE,DE (down),0.022,True,True,,,,,Average
+End Zone - Clip 132.mp4,48696,,,DEFENSE,LB,MIKE (middle),0.061,True,False,0.200,Elite,,,Elite
+End Zone - Clip 132.mp4,48763,,,DEFENSE,UNKNOWN,,0.175,True,False,0.300,Above Average,,,Above Average
+End Zone - Clip 132.mp4,48776,,,DEFENSE,LB,WILL (weak),0.052,True,False,0.300,Above Average,,,Above Average
+End Zone - Clip 132.mp4,48785,,,DEFENSE,LB,MIKE (middle),0.046,True,False,,,,,Average
+End Zone - Clip 132.mp4,48803,,,DEFENSE,CB,Press,0.067,False,False,0.067,Elite,,0.023,Elite
+End Zone - Clip 132.mp4,48805,,,DEFENSE,CB,Off (5-7 yards),0.097,False,False,0.267,Above Average,,0.015,Above Average
+End Zone - Clip 132.mp4,48809,,,DEFENSE,LB,SAM (strong),0.071,True,False,0.400,Average,,,Average
+End Zone - Clip 132.mp4,48813,,,DEFENSE,LB,SAM (strong),0.079,True,False,0.300,Above Average,,,Above Average
+End Zone - Clip 133.mp4,48898,,,DEFENSE,LB,SAM (strong),0.061,True,False,0.067,Elite,,,Elite
+End Zone - Clip 133.mp4,48912,,,DEFENSE,LB,MIKE (middle),0.092,True,False,,,,,Average
+End Zone - Clip 133.mp4,48915,,,DEFENSE,LB,WILL (weak),0.056,True,False,,,,,Average
+End Zone - Clip 133.mp4,48917,,,DEFENSE,LB,WILL (weak),0.124,True,False,0.400,Average,,,Average
+End Zone - Clip 133.mp4,48926,,,DEFENSE,LB,MIKE (middle),0.057,True,False,,,,,Average
+End Zone - Clip 133.mp4,48935,,,DEFENSE,LB,SAM (strong),0.068,True,False,1.001,Developmental,,,Below Average
+End Zone - Clip 133.mp4,48941,,,DEFENSE,LB,MIKE (middle),0.052,True,False,,,,,Average
+End Zone - Clip 133.mp4,48961,,,DEFENSE,SLOT,Nickel/Slot,0.073,False,False,,,,,Average

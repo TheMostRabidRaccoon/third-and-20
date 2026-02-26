@@ -1,0 +1,1254 @@
+clip_file,track_id,jersey_number,player_name,team_name,inferred_position,alignment,depth_from_los,in_box,on_line,first_step_sec,first_step_grade,penetration_depth,lateral_movement,defensive_grade
+Tight - Clip 001.mp4,101,,,DEFENSE,CB,Deep,0.209,False,False,0.133,Elite,,0.053,Elite
+Tight - Clip 001.mp4,113,,,DEFENSE,EDGE,DE (down),0.209,False,False,0.033,Elite,,,Elite
+Tight - Clip 001.mp4,130,6,,DEFENSE,EDGE,DE (down),0.177,True,False,0.200,Above Average,0.221,,Elite
+Tight - Clip 001.mp4,175,,,DEFENSE,DL,1-tech,0.182,True,False,0.033,Elite,,,Elite
+Tight - Clip 001.mp4,280,,,DEFENSE,DL,3-tech,0.181,True,False,0.100,Elite,0.098,,Elite
+Tight - Clip 001.mp4,347,,,DEFENSE,S,Strong Safety,0.328,True,False,0.167,Elite,,0.040,Elite
+Tight - Clip 001.mp4,349,,,DEFENSE,S,Free Safety (centerfield),0.324,True,False,0.167,Elite,,0.133,Elite
+Tight - Clip 001.mp4,350,,,DEFENSE,DL,3-tech,0.175,True,False,0.033,Elite,0.176,,Elite
+Tight - Clip 001.mp4,351,,,DEFENSE,EDGE,DE (down),0.207,False,False,0.033,Elite,0.152,,Elite
+Tight - Clip 001.mp4,354,,,DEFENSE,EDGE,DE (down),0.207,False,False,0.133,Elite,0.219,,Elite
+Tight - Clip 001.mp4,358,,,DEFENSE,DL,5-tech,0.177,True,False,0.033,Elite,,,Elite
+Tight - Clip 002.mp4,400,,,DEFENSE,EDGE,DE (down),0.021,False,True,0.167,Elite,0.106,,Elite
+Tight - Clip 002.mp4,401,,,DEFENSE,DL,1-tech,0.091,True,False,0.167,Elite,,,Elite
+Tight - Clip 002.mp4,412,,,DEFENSE,EDGE,DE (down),0.051,True,False,0.033,Elite,,,Elite
+Tight - Clip 002.mp4,498,,,DEFENSE,DL,3-tech,0.065,True,False,0.100,Elite,,,Elite
+Tight - Clip 002.mp4,508,2,,DEFENSE,DL,0-tech (Nose),0.408,True,False,0.233,Above Average,,,Above Average
+Tight - Clip 003.mp4,801,,,DEFENSE,SLOT,Nickel/Slot,0.081,False,False,0.100,Elite,,0.391,Elite
+Tight - Clip 003.mp4,753,,,DEFENSE,DL,0-tech (Nose),0.111,True,False,0.233,Above Average,,,Above Average
+Tight - Clip 003.mp4,826,,,DEFENSE,DL,5-tech,0.137,True,False,0.100,Elite,0.126,,Elite
+Tight - Clip 003.mp4,885,,,DEFENSE,DL,0-tech (Nose),0.138,True,False,,,,,Average
+Tight - Clip 003.mp4,900,,,DEFENSE,EDGE,DE (down),0.129,True,False,0.200,Above Average,0.055,,Above Average
+Tight - Clip 004.mp4,1395,,,DEFENSE,S,Deep half,0.437,False,False,0.033,Elite,,0.171,Elite
+Tight - Clip 004.mp4,1404,,,DEFENSE,S,Strong Safety,0.438,True,False,0.067,Elite,,0.089,Elite
+Tight - Clip 004.mp4,1551,,,DEFENSE,S,Strong Safety,0.460,True,False,0.100,Elite,,0.021,Elite
+Tight - Clip 004.mp4,1557,50,,DEFENSE,DL,1-tech,0.009,True,True,0.067,Elite,0.029,,Elite
+Tight - Clip 004.mp4,1567,,,DEFENSE,S,Deep half,0.462,False,False,0.033,Elite,,0.045,Elite
+Tight - Clip 005.mp4,1878,,,DEFENSE,S,Free Safety (centerfield),0.417,True,False,0.967,Developmental,,0.008,Below Average
+Tight - Clip 005.mp4,1880,,,DEFENSE,S,Deep half,0.416,False,False,7.133,Developmental,,0.004,Below Average
+Tight - Clip 005.mp4,1882,,,DEFENSE,S,Deep half,0.400,False,False,2.167,Developmental,,0.005,Below Average
+Tight - Clip 005.mp4,1897,,,DEFENSE,S,Deep half,0.429,False,False,3.700,Developmental,,0.004,Below Average
+Tight - Clip 005.mp4,1854,4,,DEFENSE,CB,Off (5-7 yards),0.101,False,False,2.033,Developmental,,0.004,Below Average
+Tight - Clip 005.mp4,1905,,,DEFENSE,LB,MIKE (middle),0.039,True,False,0.900,Developmental,,,Below Average
+Tight - Clip 005.mp4,1913,,,DEFENSE,S,Deep half,0.384,True,False,2.100,Developmental,,0.004,Below Average
+Tight - Clip 005.mp4,1952,,,DEFENSE,S,Strong Safety,0.467,True,False,6.933,Developmental,,0.003,Below Average
+Tight - Clip 005.mp4,1963,,,DEFENSE,SLOT,Nickel/Slot,0.062,False,False,1.300,Developmental,,0.006,Below Average
+Tight - Clip 005.mp4,1969,,,DEFENSE,LB,SAM (strong),0.035,True,False,,,,,Average
+Tight - Clip 005.mp4,1986,,,DEFENSE,CB,Deep,0.412,False,False,3.600,Developmental,,0.003,Below Average
+Tight - Clip 005.mp4,2011,,,DEFENSE,CB,Deep,0.397,False,False,1.867,Developmental,,0.007,Below Average
+Tight - Clip 005.mp4,2018,,,DEFENSE,DL,3-tech,0.015,True,True,1.200,Developmental,,,Below Average
+Tight - Clip 005.mp4,2019,,,DEFENSE,DL,3-tech,0.020,True,True,0.400,Below Average,,,Below Average
+Tight - Clip 005.mp4,2021,,,DEFENSE,CB,Deep,0.463,False,False,1.400,Developmental,,0.015,Below Average
+Tight - Clip 005.mp4,2020,,,DEFENSE,EDGE,DE (down),0.025,True,True,,,,,Average
+Tight - Clip 006.mp4,1897,,,DEFENSE,CB,Deep,0.455,False,False,0.500,Below Average,,0.062,Below Average
+Tight - Clip 006.mp4,2123,,,DEFENSE,LB,SAM (strong),0.062,True,False,0.133,Elite,,,Elite
+Tight - Clip 006.mp4,2436,,,DEFENSE,S,Deep half,0.433,True,False,0.100,Elite,,0.121,Elite
+Tight - Clip 006.mp4,2484,,,DEFENSE,S,Strong Safety,0.418,True,False,0.133,Elite,,0.122,Elite
+Tight - Clip 006.mp4,2506,,,DEFENSE,S,Strong Safety,0.383,True,False,0.067,Elite,,0.022,Elite
+Tight - Clip 006.mp4,2513,,,DEFENSE,S,Strong Safety,0.360,True,False,0.067,Elite,,0.114,Elite
+Tight - Clip 006.mp4,2519,,,DEFENSE,CB,Deep,0.407,False,False,0.033,Elite,,0.101,Elite
+Tight - Clip 006.mp4,2540,5,,DEFENSE,S,Deep half,0.401,False,False,0.067,Elite,,0.154,Elite
+Tight - Clip 006.mp4,2545,,,DEFENSE,S,Strong Safety,0.345,True,False,0.033,Elite,,0.232,Elite
+Tight - Clip 007.mp4,2860,2,,DEFENSE,S,Deep half,0.311,False,False,0.067,Elite,,0.083,Elite
+Tight - Clip 007.mp4,2948,,,DEFENSE,S,Free Safety (centerfield),0.236,True,False,0.067,Elite,,0.074,Elite
+Tight - Clip 007.mp4,3000,,,DEFENSE,LB,SAM (strong),0.071,True,False,0.067,Elite,,,Elite
+Tight - Clip 008.mp4,3328,,,DEFENSE,DL,5-tech,0.012,True,True,0.067,Elite,,,Elite
+Tight - Clip 008.mp4,3548,,,DEFENSE,EDGE,DE (down),0.001,True,True,0.100,Elite,0.017,,Elite
+Tight - Clip 008.mp4,3550,,,DEFENSE,EDGE,DE (down),0.003,True,True,0.133,Elite,,,Elite
+Tight - Clip 008.mp4,3571,,,DEFENSE,DL,1-tech,0.009,True,True,0.200,Above Average,,,Above Average
+Tight - Clip 008.mp4,3580,,,DEFENSE,SLOT,Nickel/Slot,0.065,False,False,0.100,Elite,,0.141,Elite
+Tight - Clip 008.mp4,3584,,,DEFENSE,DL,0-tech (Nose),0.024,True,True,0.033,Elite,,,Elite
+Tight - Clip 008.mp4,3600,,,DEFENSE,DL,5-tech,0.023,True,True,0.067,Elite,,,Elite
+Tight - Clip 008.mp4,3602,,,DEFENSE,DL,1-tech,0.007,True,True,0.133,Elite,,,Elite
+Tight - Clip 009.mp4,3816,,,DEFENSE,CB,Deep,0.228,False,False,0.033,Elite,,0.106,Elite
+Tight - Clip 009.mp4,4081,,,DEFENSE,S,Strong Safety,0.213,True,False,0.067,Elite,,0.061,Elite
+Tight - Clip 009.mp4,4098,,,DEFENSE,UNKNOWN,,0.187,True,False,0.133,Elite,,,Elite
+Tight - Clip 009.mp4,4126,,,DEFENSE,UNKNOWN,,0.185,False,False,0.100,Elite,,,Elite
+Tight - Clip 009.mp4,4131,56,,DEFENSE,LB,WILL (weak),0.078,True,False,0.867,Developmental,,,Below Average
+Tight - Clip 009.mp4,4132,,,DEFENSE,S,Deep half,0.236,False,False,0.067,Elite,,0.101,Elite
+Tight - Clip 010.mp4,4256,,,DEFENSE,SLOT,Nickel/Slot,0.086,False,False,0.400,Average,,0.024,Average
+Tight - Clip 010.mp4,4404,,,DEFENSE,S,Deep half,0.409,False,False,0.233,Elite,,0.028,Elite
+Tight - Clip 010.mp4,4560,,,DEFENSE,S,Strong Safety,0.383,True,False,0.100,Elite,,0.043,Elite
+Tight - Clip 010.mp4,4598,,,DEFENSE,CB,Deep,0.341,False,False,0.167,Elite,,0.017,Elite
+Tight - Clip 010.mp4,4678,,,DEFENSE,CB,Press,0.070,False,False,0.167,Elite,,0.013,Elite
+Tight - Clip 010.mp4,4780,,,DEFENSE,EDGE,DE (down),0.012,True,True,0.333,Average,,,Average
+Tight - Clip 010.mp4,4784,,,DEFENSE,S,Deep half,0.428,False,False,0.100,Elite,,0.128,Elite
+Tight - Clip 010.mp4,4787,,,DEFENSE,EDGE,DE (down),0.007,True,True,0.100,Elite,,,Elite
+Tight - Clip 010.mp4,4789,,,DEFENSE,S,Strong Safety,0.421,True,False,0.167,Elite,,0.006,Elite
+Tight - Clip 010.mp4,4799,,,DEFENSE,CB,Deep,0.311,False,False,0.133,Elite,,0.010,Elite
+Tight - Clip 010.mp4,4804,,,DEFENSE,S,Strong Safety,0.406,True,False,0.100,Elite,,0.113,Elite
+Tight - Clip 010.mp4,4811,,,DEFENSE,S,Strong Safety,0.367,True,False,0.033,Elite,,0.090,Elite
+Tight - Clip 011.mp4,5655,,,DEFENSE,S,Strong Safety,0.412,True,False,0.300,Above Average,,0.012,Above Average
+Tight - Clip 011.mp4,5666,,,DEFENSE,CB,Deep,0.394,False,False,0.067,Elite,,0.048,Elite
+Tight - Clip 011.mp4,5670,,,DEFENSE,S,Deep half,0.428,False,False,0.267,Above Average,,0.018,Above Average
+Tight - Clip 011.mp4,5688,56,,DEFENSE,S,Strong Safety,0.373,True,False,0.100,Elite,,0.030,Elite
+Tight - Clip 011.mp4,5741,,,DEFENSE,CB,Deep,0.416,False,False,0.100,Elite,,0.023,Elite
+Tight - Clip 012.mp4,5990,,,DEFENSE,EDGE,DE (down),0.116,False,False,0.100,Elite,0.271,,Elite
+Tight - Clip 012.mp4,6042,,,DEFENSE,DL,1-tech,0.023,True,True,0.033,Elite,0.088,,Elite
+Tight - Clip 012.mp4,6046,,,DEFENSE,DL,5-tech,0.169,True,False,0.133,Elite,0.154,,Elite
+Tight - Clip 012.mp4,6069,22,,DEFENSE,DL,5-tech,0.431,True,False,0.100,Elite,0.452,,Elite
+Tight - Clip 012.mp4,6073,,,DEFENSE,DL,5-tech,0.170,True,False,0.067,Elite,0.221,,Elite
+Tight - Clip 012.mp4,6078,,,DEFENSE,DL,1-tech,0.176,True,False,0.033,Elite,0.139,,Elite
+Tight - Clip 013.mp4,6340,,,DEFENSE,EDGE,DE (down),0.044,True,False,0.167,Elite,0.030,,Elite
+Tight - Clip 013.mp4,6346,,,DEFENSE,UNKNOWN,,0.172,False,False,0.067,Elite,,,Elite
+Tight - Clip 013.mp4,6424,,,DEFENSE,EDGE,DE (down),0.099,False,False,0.100,Elite,0.108,,Elite
+Tight - Clip 013.mp4,6434,66,,DEFENSE,DL,1-tech,0.043,True,False,0.067,Elite,0.045,,Elite
+Tight - Clip 013.mp4,6466,,,DEFENSE,SLOT,Nickel/Slot,0.128,False,False,0.033,Elite,,0.042,Elite
+Tight - Clip 013.mp4,6497,,,DEFENSE,UNKNOWN,,0.170,False,False,0.067,Elite,,,Elite
+Tight - Clip 013.mp4,6505,,,DEFENSE,DL,0-tech (Nose),0.066,True,False,0.033,Elite,0.090,,Elite
+Tight - Clip 014.mp4,6662,,,DEFENSE,UNKNOWN,,0.155,True,False,0.100,Elite,,,Elite
+Tight - Clip 014.mp4,6942,,,DEFENSE,EDGE,DE (down),0.059,False,False,0.100,Elite,,,Elite
+Tight - Clip 014.mp4,6990,,,DEFENSE,EDGE,DE (down),0.039,True,False,0.067,Elite,,,Elite
+Tight - Clip 014.mp4,7085,,,DEFENSE,S,Deep half,0.390,False,False,0.067,Elite,,0.095,Elite
+Tight - Clip 014.mp4,7106,,,DEFENSE,EDGE,DE (down),0.033,True,False,0.100,Elite,0.068,,Elite
+Tight - Clip 014.mp4,7117,,,DEFENSE,DL,3-tech,0.068,True,False,0.067,Elite,0.091,,Elite
+Tight - Clip 014.mp4,7126,,,DEFENSE,DL,0-tech (Nose),0.044,True,False,0.200,Above Average,0.063,,Above Average
+Tight - Clip 014.mp4,7142,,,DEFENSE,UNKNOWN,,0.155,True,False,0.300,Above Average,,,Above Average
+Tight - Clip 014.mp4,7159,,,DEFENSE,DL,3-tech,0.016,True,True,0.367,Average,,,Average
+Tight - Clip 014.mp4,7161,,,DEFENSE,CB,Deep,0.437,False,False,0.067,Elite,,0.048,Elite
+Tight - Clip 014.mp4,7187,,,DEFENSE,EDGE,DE (down),0.039,False,False,0.300,Average,,,Average
+Tight - Clip 014.mp4,7199,,,DEFENSE,EDGE,DE (down),0.016,False,True,,,,,Average
+Tight - Clip 014.mp4,7208,,,DEFENSE,CB,Deep,0.363,False,False,0.033,Elite,,0.056,Elite
+Tight - Clip 014.mp4,7222,,,DEFENSE,S,Deep half,0.475,False,False,,,,,Average
+Tight - Clip 014.mp4,7226,,,DEFENSE,CB,Deep,0.459,False,False,0.033,Elite,,0.037,Elite
+Tight - Clip 015.mp4,7518,,,DEFENSE,UNKNOWN,,0.157,True,False,0.133,Elite,,,Elite
+Tight - Clip 015.mp4,7520,,,DEFENSE,EDGE,DE (down),0.002,False,True,0.167,Elite,0.015,,Elite
+Tight - Clip 015.mp4,7527,,,DEFENSE,EDGE,DE (down),0.036,False,False,0.100,Elite,,,Elite
+Tight - Clip 015.mp4,7579,,,DEFENSE,EDGE,DE (down),0.021,False,True,0.133,Elite,0.034,,Elite
+Tight - Clip 015.mp4,7580,,,DEFENSE,EDGE,DE (down),0.049,True,False,0.133,Elite,,,Elite
+Tight - Clip 016.mp4,8038,,,DEFENSE,EDGE,DE (down),0.184,True,False,0.033,Elite,0.150,,Elite
+Tight - Clip 016.mp4,8355,,,DEFENSE,EDGE,DE (down),0.243,False,False,0.100,Elite,,,Elite
+Tight - Clip 016.mp4,8452,,,DEFENSE,EDGE,DE (down),0.181,False,False,0.033,Elite,,,Elite
+Tight - Clip 016.mp4,8605,,,DEFENSE,DL,3-tech,0.364,True,False,0.100,Elite,0.356,,Elite
+Tight - Clip 016.mp4,8634,,,DEFENSE,DL,5-tech,0.224,True,False,0.033,Elite,0.207,,Elite
+Tight - Clip 016.mp4,8639,,,DEFENSE,EDGE,DE (down),0.191,False,False,0.067,Elite,0.228,,Elite
+Tight - Clip 016.mp4,8655,,,DEFENSE,EDGE,DE (down),0.371,False,False,,,,,Average
+Tight - Clip 017.mp4,9035,,,DEFENSE,EDGE,DE (down),0.087,False,False,0.200,Above Average,0.066,,Above Average
+Tight - Clip 017.mp4,9071,,,DEFENSE,EDGE,DE (down),0.080,True,False,0.067,Elite,0.091,,Elite
+Tight - Clip 017.mp4,9125,7,,DEFENSE,EDGE,DE (down),0.069,False,False,0.267,Above Average,0.039,,Above Average
+Tight - Clip 017.mp4,9136,56,,DEFENSE,DL,5-tech,0.201,True,False,0.967,Developmental,0.166,,Average
+Tight - Clip 017.mp4,9163,,,DEFENSE,DL,5-tech,0.056,True,False,0.300,Average,0.033,,Average
+Tight - Clip 017.mp4,9168,,,DEFENSE,DL,1-tech,0.007,True,True,0.167,Elite,,,Elite
+Tight - Clip 017.mp4,9178,,,DEFENSE,S,Deep half,0.412,True,False,0.200,Elite,,0.042,Elite
+Tight - Clip 018.mp4,9345,,,DEFENSE,DL,1-tech,0.096,True,False,0.033,Elite,,,Elite
+Tight - Clip 018.mp4,9347,,,DEFENSE,DL,0-tech (Nose),0.059,True,False,0.133,Elite,,,Elite
+Tight - Clip 018.mp4,9426,,,DEFENSE,EDGE,DE (down),0.080,False,False,0.200,Above Average,0.084,,Above Average
+Tight - Clip 018.mp4,9486,,,DEFENSE,UNKNOWN,,0.172,True,False,0.600,Below Average,,,Below Average
+Tight - Clip 018.mp4,9662,,,DEFENSE,LB,WILL (weak),0.044,True,False,0.133,Elite,,,Elite
+Tight - Clip 018.mp4,9752,,,DEFENSE,EDGE,DE (down),0.094,False,False,0.233,Above Average,,,Above Average
+Tight - Clip 018.mp4,9789,,,DEFENSE,DL,5-tech,0.079,True,False,0.133,Elite,0.087,,Elite
+Tight - Clip 018.mp4,9828,,,DEFENSE,EDGE,DE (down),0.104,False,False,0.167,Elite,,,Elite
+Tight - Clip 018.mp4,9832,,,DEFENSE,EDGE,DE (down),0.098,False,False,0.133,Elite,0.132,,Elite
+Tight - Clip 018.mp4,9838,,,DEFENSE,EDGE,DE (down),0.120,True,False,0.300,Average,,,Average
+Tight - Clip 019.mp4,10200,,,DEFENSE,S,Deep half,0.273,False,False,0.100,Elite,,0.036,Elite
+Tight - Clip 019.mp4,10215,,,DEFENSE,UNKNOWN,,0.153,False,False,0.433,Average,,,Average
+Tight - Clip 019.mp4,10219,55,,DEFENSE,EDGE,DE (down),0.066,True,False,0.067,Elite,,,Elite
+Tight - Clip 019.mp4,10279,,,DEFENSE,LB,SAM (strong),0.123,True,False,0.633,Below Average,,,Below Average
+Tight - Clip 019.mp4,10295,,,DEFENSE,DL,0-tech (Nose),0.006,True,True,0.633,Developmental,0.039,,Below Average
+Tight - Clip 019.mp4,10299,8,,DEFENSE,S,Free Safety (centerfield),0.250,True,False,0.467,Average,,0.043,Average
+Tight - Clip 019.mp4,10301,,,DEFENSE,LB,WILL (weak),0.125,True,False,0.233,Elite,,,Elite
+Tight - Clip 019.mp4,10310,,,DEFENSE,DL,5-tech,0.074,True,False,0.200,Above Average,0.092,,Above Average
+Tight - Clip 020.mp4,10299,,,DEFENSE,SLOT,Nickel/Slot,0.096,False,False,0.100,Elite,,0.117,Elite
+Tight - Clip 020.mp4,10395,,,DEFENSE,UNKNOWN,,0.194,True,False,0.100,Elite,,,Elite
+Tight - Clip 020.mp4,10444,,,DEFENSE,EDGE,DE (down),0.039,False,False,0.033,Elite,0.050,,Elite
+Tight - Clip 020.mp4,10445,,,DEFENSE,DL,0-tech (Nose),0.033,True,False,0.033,Elite,,,Elite
+Tight - Clip 020.mp4,10458,56,,DEFENSE,DL,3-tech,0.012,True,True,0.100,Elite,0.014,,Elite
+Tight - Clip 020.mp4,10470,,,DEFENSE,EDGE,DE (down),0.021,False,True,0.133,Elite,0.016,,Elite
+Tight - Clip 020.mp4,10490,,,DEFENSE,S,Strong Safety,0.212,True,False,0.133,Elite,,0.058,Elite
+Tight - Clip 020.mp4,10499,,,DEFENSE,S,Deep half,0.439,True,False,0.100,Elite,,0.122,Elite
+Tight - Clip 020.mp4,10501,,,DEFENSE,S,Strong Safety,0.440,True,False,0.133,Elite,,0.069,Elite
+Tight - Clip 020.mp4,10502,,,DEFENSE,CB,Deep,0.439,False,False,0.167,Elite,,0.029,Elite
+Tight - Clip 020.mp4,10504,,,DEFENSE,S,Deep half,0.444,False,False,0.100,Elite,,0.099,Elite
+Tight - Clip 020.mp4,10506,,,DEFENSE,S,Deep half,0.443,True,False,0.233,Elite,,0.033,Elite
+Tight - Clip 020.mp4,10515,,,DEFENSE,CB,Deep,0.462,False,False,0.267,Above Average,,0.012,Above Average
+Tight - Clip 020.mp4,10527,,,DEFENSE,DL,1-tech,0.008,True,True,0.133,Elite,,,Elite
+Tight - Clip 020.mp4,10529,,,DEFENSE,DL,5-tech,0.027,True,True,0.033,Elite,,,Elite
+Tight - Clip 021.mp4,10490,,,DEFENSE,SLOT,Nickel/Slot,0.058,False,False,0.233,Elite,,0.040,Elite
+Tight - Clip 021.mp4,10679,,,DEFENSE,LB,SAM (strong),0.144,True,False,0.100,Elite,,,Elite
+Tight - Clip 021.mp4,10888,,,DEFENSE,LB,SAM (strong),0.084,True,False,0.067,Elite,,,Elite
+Tight - Clip 021.mp4,10952,,,DEFENSE,S,Free Safety (centerfield),0.211,True,False,0.133,Elite,,0.005,Elite
+Tight - Clip 021.mp4,11112,,,DEFENSE,S,Strong Safety,0.461,True,False,0.133,Elite,,0.018,Elite
+Tight - Clip 022.mp4,11269,,,DEFENSE,LB,WILL (weak),0.090,True,False,0.133,Elite,,,Elite
+Tight - Clip 022.mp4,11280,,,DEFENSE,S,Deep half,0.380,False,False,0.067,Elite,,0.577,Elite
+Tight - Clip 022.mp4,11319,,,DEFENSE,S,Strong Safety,0.418,True,False,0.200,Elite,,0.240,Elite
+Tight - Clip 022.mp4,11352,,,DEFENSE,LB,MIKE (middle),0.121,True,False,0.167,Elite,,,Elite
+Tight - Clip 023.mp4,11666,,,DEFENSE,DL,5-tech,0.024,True,True,0.233,Above Average,0.068,,Above Average
+Tight - Clip 023.mp4,11684,,,DEFENSE,EDGE,DE (down),0.183,False,False,0.100,Elite,0.206,,Elite
+Tight - Clip 023.mp4,11708,56,,DEFENSE,DL,5-tech,0.050,True,False,0.167,Elite,0.065,,Elite
+Tight - Clip 023.mp4,11754,,,DEFENSE,DL,0-tech (Nose),0.142,True,False,0.067,Elite,0.148,,Elite
+Tight - Clip 023.mp4,11792,,,DEFENSE,CB,Deep,0.164,False,False,0.067,Elite,,0.076,Elite
+Tight - Clip 023.mp4,11815,,,DEFENSE,EDGE,DE (down),0.168,False,False,0.133,Elite,0.158,,Elite
+Tight - Clip 023.mp4,11846,,,DEFENSE,EDGE,DE (down),0.149,False,False,0.100,Elite,,,Elite
+Tight - Clip 024.mp4,12005,6,,DEFENSE,EDGE,DE (down),0.003,True,True,0.100,Elite,0.072,,Elite
+Tight - Clip 024.mp4,12020,,,DEFENSE,DL,1-tech,0.242,True,False,0.067,Elite,0.278,,Elite
+Tight - Clip 024.mp4,12103,,,DEFENSE,DL,5-tech,0.231,True,False,0.067,Elite,0.209,,Elite
+Tight - Clip 024.mp4,12136,3,,DEFENSE,EDGE,DE (down),0.136,True,False,0.067,Elite,0.177,,Elite
+Tight - Clip 024.mp4,12198,,,DEFENSE,EDGE,DE (down),0.276,False,False,0.100,Elite,,,Elite
+Tight - Clip 024.mp4,12304,,,DEFENSE,EDGE,DE (down),0.171,True,False,0.100,Elite,,,Elite
+Tight - Clip 025.mp4,14341,,,DEFENSE,EDGE,DE (down),0.001,False,True,0.100,Elite,0.031,,Elite
+Tight - Clip 025.mp4,14498,,,DEFENSE,S,Deep half,0.429,False,False,1.667,Developmental,,0.006,Below Average
+Tight - Clip 025.mp4,14553,,,DEFENSE,DL,1-tech,0.016,True,True,0.333,Average,0.007,,Average
+Tight - Clip 025.mp4,14621,,,DEFENSE,DL,0-tech (Nose),0.116,True,False,0.167,Elite,0.161,,Elite
+Tight - Clip 025.mp4,14720,,,DEFENSE,EDGE,DE (down),0.175,True,False,0.167,Elite,,,Elite
+Tight - Clip 025.mp4,14723,,,DEFENSE,DL,5-tech,0.139,True,False,0.300,Average,0.174,,Above Average
+Tight - Clip 025.mp4,14736,,,DEFENSE,EDGE,DE (down),0.135,True,False,0.200,Above Average,0.159,,Elite
+Tight - Clip 025.mp4,14750,,,DEFENSE,DL,1-tech,0.159,True,False,0.400,Below Average,0.181,,Average
+Tight - Clip 025.mp4,14786,,,DEFENSE,DL,0-tech (Nose),0.159,True,False,0.100,Elite,,,Elite
+Tight - Clip 025.mp4,14789,,,DEFENSE,EDGE,DE (down),0.129,True,False,0.167,Elite,0.173,,Elite
+Tight - Clip 025.mp4,14808,,,DEFENSE,DL,3-tech,0.039,True,False,0.100,Elite,0.062,,Elite
+Tight - Clip 026.mp4,15583,,,DEFENSE,EDGE,DE (down),0.324,False,False,0.067,Elite,0.282,,Elite
+Tight - Clip 026.mp4,15599,,,DEFENSE,EDGE,DE (down),0.104,True,False,0.033,Elite,0.106,,Elite
+Tight - Clip 026.mp4,15696,,,DEFENSE,EDGE,DE (down),0.136,False,False,0.067,Elite,,,Elite
+Tight - Clip 026.mp4,15712,,,DEFENSE,EDGE,DE (down),0.320,False,False,0.033,Elite,0.225,,Elite
+Tight - Clip 026.mp4,15719,,,DEFENSE,DL,5-tech,0.119,True,False,0.067,Elite,0.109,,Elite
+Tight - Clip 026.mp4,15720,,,DEFENSE,EDGE,DE (down),0.376,False,False,0.100,Elite,,,Elite
+Tight - Clip 026.mp4,15767,,,DEFENSE,EDGE,DE (down),0.352,False,False,0.067,Elite,,,Elite
+Tight - Clip 027.mp4,15877,,,DEFENSE,EDGE,DE (down),0.219,False,False,0.167,Elite,0.216,,Elite
+Tight - Clip 027.mp4,15888,,,DEFENSE,S,Strong Safety,0.407,True,False,0.167,Elite,,0.333,Elite
+Tight - Clip 027.mp4,15889,,,DEFENSE,EDGE,DE (down),0.026,False,True,0.133,Elite,,,Elite
+Tight - Clip 027.mp4,15893,,,DEFENSE,EDGE,DE (down),0.279,False,False,0.167,Elite,0.263,,Elite
+Tight - Clip 027.mp4,15902,,,DEFENSE,DL,5-tech,0.115,True,False,0.133,Elite,0.105,,Elite
+Tight - Clip 027.mp4,15913,,,DEFENSE,DL,5-tech,0.215,True,False,0.100,Elite,,,Elite
+Tight - Clip 027.mp4,15965,,,DEFENSE,DL,0-tech (Nose),0.001,True,True,0.067,Elite,,,Elite
+Tight - Clip 027.mp4,15969,,,DEFENSE,EDGE,DE (down),0.099,True,False,0.200,Above Average,0.159,,Elite
+Tight - Clip 028.mp4,16077,15,,DEFENSE,SLOT,Nickel/Slot,0.061,False,False,0.233,Elite,,0.020,Elite
+Tight - Clip 028.mp4,16071,,,DEFENSE,S,Strong Safety,0.222,True,False,0.733,Developmental,,0.008,Below Average
+Tight - Clip 028.mp4,16062,,,DEFENSE,LB,WILL (weak),0.065,True,False,0.233,Elite,,,Elite
+Tight - Clip 028.mp4,16274,,,DEFENSE,EDGE,DE (down),0.146,False,False,0.100,Elite,0.143,,Elite
+Tight - Clip 028.mp4,16281,,,DEFENSE,EDGE,DE (down),0.149,False,False,0.100,Elite,0.209,,Elite
+Tight - Clip 028.mp4,16391,,,DEFENSE,DL,5-tech,0.192,True,False,0.667,Developmental,0.210,,Average
+Tight - Clip 028.mp4,16402,,,DEFENSE,DL,0-tech (Nose),0.175,True,False,0.700,Developmental,0.162,,Average
+Tight - Clip 028.mp4,16408,,,DEFENSE,DL,5-tech,0.208,True,False,0.433,Below Average,0.236,,Average
+Tight - Clip 028.mp4,16426,,,DEFENSE,EDGE,DE (down),0.020,False,True,0.133,Elite,,,Elite
+Tight - Clip 028.mp4,16429,,,DEFENSE,EDGE,DE (down),0.018,False,True,0.300,Average,,,Average
+Tight - Clip 028.mp4,16432,,,DEFENSE,DL,1-tech,0.145,True,False,,,,,Average
+Tight - Clip 028.mp4,16441,12,,DEFENSE,EDGE,DE (down),0.148,False,False,0.667,Developmental,0.146,,Below Average
+Tight - Clip 029.mp4,16563,60,,DEFENSE,DL,3-tech,0.162,True,False,0.067,Elite,,,Elite
+Tight - Clip 029.mp4,16586,,,DEFENSE,EDGE,DE (down),0.066,False,False,0.100,Elite,,,Elite
+Tight - Clip 029.mp4,16609,61,,DEFENSE,DL,0-tech (Nose),0.211,True,False,0.133,Elite,,,Elite
+Tight - Clip 029.mp4,16615,,,DEFENSE,DL,5-tech,0.010,True,True,0.233,Above Average,,,Above Average
+Tight - Clip 029.mp4,16654,,,DEFENSE,DL,1-tech,0.051,True,False,0.133,Elite,,,Elite
+Tight - Clip 030.mp4,17763,,,DEFENSE,S,Deep half,0.245,True,False,0.033,Elite,,0.068,Elite
+Tight - Clip 030.mp4,17784,,,DEFENSE,S,Deep half,0.343,False,False,0.067,Elite,,0.047,Elite
+Tight - Clip 030.mp4,17793,,,DEFENSE,S,Deep half,0.423,True,False,0.100,Elite,,0.039,Elite
+Tight - Clip 030.mp4,17824,,,DEFENSE,LB,SAM (strong),0.034,True,False,0.033,Elite,,,Elite
+Tight - Clip 030.mp4,17843,,,DEFENSE,EDGE,OLB (up),0.041,False,False,0.033,Elite,,,Elite
+Tight - Clip 030.mp4,17852,,,DEFENSE,LB,WILL (weak),0.034,True,False,0.067,Elite,,,Elite
+Tight - Clip 031.mp4,18678,,,DEFENSE,DL,0-tech (Nose),0.277,True,False,0.100,Elite,0.307,,Elite
+Tight - Clip 031.mp4,18762,,,DEFENSE,EDGE,DE (down),0.332,False,False,0.200,Above Average,0.328,,Elite
+Tight - Clip 031.mp4,18786,,,DEFENSE,EDGE,DE (down),0.343,False,False,0.100,Elite,,,Elite
+Tight - Clip 032.mp4,19135,,,DEFENSE,S,Deep half,0.202,False,False,0.367,Average,,0.106,Above Average
+Tight - Clip 032.mp4,19138,,,DEFENSE,CB,Press,0.055,False,False,0.300,Above Average,,0.052,Above Average
+Tight - Clip 032.mp4,19137,,,DEFENSE,EDGE,DE (down),0.017,False,True,0.400,Below Average,,,Below Average
+Tight - Clip 032.mp4,19139,,,DEFENSE,DL,5-tech,0.002,True,True,0.433,Below Average,0.019,,Below Average
+Tight - Clip 032.mp4,19142,,,DEFENSE,EDGE,DE (down),0.026,True,True,0.367,Average,,,Average
+Tight - Clip 032.mp4,19147,,,DEFENSE,LB,MIKE (middle),0.060,True,False,0.133,Elite,,,Elite
+Tight - Clip 032.mp4,19149,,,DEFENSE,LB,MIKE (middle),0.035,True,False,0.033,Elite,,,Elite
+Tight - Clip 032.mp4,19173,,,DEFENSE,EDGE,DE (down),0.006,False,True,0.333,Average,,,Average
+Tight - Clip 033.mp4,19499,,,DEFENSE,UNKNOWN,,0.186,False,False,0.133,Elite,,,Elite
+Tight - Clip 033.mp4,19519,,,DEFENSE,EDGE,DE (down),0.011,True,True,0.133,Elite,,,Elite
+Tight - Clip 033.mp4,19524,,,DEFENSE,DL,5-tech,0.041,True,False,0.333,Average,,,Average
+Tight - Clip 033.mp4,19534,,,DEFENSE,DL,3-tech,0.073,True,False,0.133,Elite,,,Elite
+Tight - Clip 033.mp4,19550,,,DEFENSE,EDGE,DE (down),0.026,False,True,0.167,Elite,0.039,,Elite
+Tight - Clip 034.mp4,20591,,,DEFENSE,LB,MIKE (middle),0.139,True,False,0.100,Elite,,,Elite
+Tight - Clip 034.mp4,20599,,,DEFENSE,DL,0-tech (Nose),0.305,True,False,0.133,Elite,0.319,,Elite
+Tight - Clip 034.mp4,20634,,,DEFENSE,DL,0-tech (Nose),0.306,True,False,0.133,Elite,0.342,,Elite
+Tight - Clip 034.mp4,20638,,,DEFENSE,EDGE,DE (down),0.195,False,False,0.167,Elite,0.183,,Elite
+Tight - Clip 034.mp4,20641,,,DEFENSE,EDGE,DE (down),0.327,True,False,0.100,Elite,0.328,,Elite
+Tight - Clip 034.mp4,20642,,,DEFENSE,EDGE,DE (down),0.340,False,False,0.100,Elite,0.381,,Elite
+Tight - Clip 034.mp4,20645,,,DEFENSE,CB,Deep,0.295,False,False,0.100,Elite,,0.136,Elite
+Tight - Clip 035.mp4,20691,,,DEFENSE,LB,WILL (weak),0.090,True,False,0.033,Elite,,,Elite
+Tight - Clip 035.mp4,20722,,,DEFENSE,CB,Deep,0.384,False,False,0.100,Elite,,0.077,Elite
+Tight - Clip 035.mp4,20758,,,DEFENSE,S,Strong Safety,0.354,True,False,0.100,Elite,,0.288,Elite
+Tight - Clip 035.mp4,20772,,,DEFENSE,DL,0-tech (Nose),0.139,True,False,0.033,Elite,0.119,,Elite
+Tight - Clip 035.mp4,20784,,,DEFENSE,EDGE,DE (down),0.097,False,False,0.200,Above Average,0.051,,Above Average
+Tight - Clip 035.mp4,20822,,,DEFENSE,DL,3-tech,0.100,True,False,0.033,Elite,,,Elite
+Tight - Clip 035.mp4,20844,,,DEFENSE,SLOT,Nickel/Slot,0.115,False,False,0.067,Elite,,0.189,Elite
+Tight - Clip 035.mp4,20845,,,DEFENSE,DL,5-tech,0.111,True,False,0.067,Elite,,,Elite
+Tight - Clip 036.mp4,21075,,,DEFENSE,DL,3-tech,0.041,True,False,,,,,Average
+Tight - Clip 036.mp4,21161,,,DEFENSE,S,Deep half,0.320,False,False,0.200,Elite,,0.147,Elite
+Tight - Clip 036.mp4,21193,,,DEFENSE,EDGE,OLB (up),0.041,False,False,0.167,Elite,,,Elite
+Tight - Clip 036.mp4,21243,,,DEFENSE,LB,SAM (strong),0.127,True,False,0.233,Elite,,,Elite
+Tight - Clip 036.mp4,21251,,,DEFENSE,DL,5-tech,0.004,True,True,0.433,Below Average,,,Below Average
+Tight - Clip 036.mp4,21264,,,DEFENSE,S,Deep half,0.342,True,False,0.433,Average,,0.053,Average
+Tight - Clip 036.mp4,21268,,,DEFENSE,S,Deep half,0.206,True,False,0.200,Elite,,0.116,Elite
+Tight - Clip 037.mp4,21603,,,DEFENSE,EDGE,DE (down),0.128,True,False,0.100,Elite,0.040,,Elite
+Tight - Clip 037.mp4,21720,,,DEFENSE,S,Strong Safety,0.331,True,False,0.167,Elite,,0.225,Elite
+Tight - Clip 037.mp4,21722,,,DEFENSE,S,Deep half,0.449,False,False,0.100,Elite,,0.034,Elite
+Tight - Clip 037.mp4,21721,,,DEFENSE,EDGE,DE (down),0.072,False,False,0.100,Elite,,,Elite
+Tight - Clip 037.mp4,21726,,,DEFENSE,CB,Off (5-7 yards),0.124,False,False,0.100,Elite,,0.106,Elite
+Tight - Clip 037.mp4,21727,,,DEFENSE,LB,SAM (strong),0.061,True,False,0.133,Elite,,,Elite
+Tight - Clip 037.mp4,21758,,,DEFENSE,LB,WILL (weak),0.060,True,False,0.167,Elite,,,Elite
+Tight - Clip 037.mp4,21806,,,DEFENSE,UNKNOWN,,0.168,False,False,0.100,Elite,,,Elite
+Tight - Clip 037.mp4,21807,,,DEFENSE,EDGE,DE (down),0.005,True,True,0.033,Elite,,,Elite
+Tight - Clip 037.mp4,21811,,,DEFENSE,EDGE,DE (down),0.158,True,False,0.167,Elite,0.124,,Elite
+Tight - Clip 038.mp4,22016,,,DEFENSE,CB,Press,0.056,False,False,0.400,Average,,0.017,Average
+Tight - Clip 038.mp4,22017,,,DEFENSE,S,Free Safety (centerfield),0.232,True,False,0.233,Elite,,0.297,Elite
+Tight - Clip 038.mp4,22018,,,DEFENSE,S,Deep half,0.380,True,False,0.200,Elite,,0.241,Elite
+Tight - Clip 038.mp4,22024,,,DEFENSE,EDGE,DE (down),0.161,True,False,0.300,Average,0.142,,Average
+Tight - Clip 038.mp4,22023,,,DEFENSE,DL,5-tech,0.185,True,False,0.233,Above Average,0.207,,Elite
+Tight - Clip 038.mp4,22027,,,DEFENSE,DL,1-tech,0.075,True,False,0.633,Developmental,0.047,,Below Average
+Tight - Clip 038.mp4,21821,,,DEFENSE,DL,5-tech,0.032,True,False,0.300,Average,0.048,,Average
+Tight - Clip 038.mp4,22045,,,DEFENSE,EDGE,DE (down),0.131,False,False,0.400,Below Average,0.132,,Average
+Tight - Clip 038.mp4,22112,,,DEFENSE,DL,3-tech,0.026,True,True,0.500,Below Average,,,Below Average
+Tight - Clip 039.mp4,23718,99,,DEFENSE,DL,5-tech,0.346,True,False,0.200,Above Average,0.355,,Elite
+Tight - Clip 039.mp4,23750,,,DEFENSE,S,Deep half,0.335,False,False,0.033,Elite,,0.067,Elite
+Tight - Clip 039.mp4,23845,,,DEFENSE,DL,5-tech,0.045,True,False,0.100,Elite,0.007,,Elite
+Tight - Clip 039.mp4,23911,33,,DEFENSE,SLOT,Nickel/Slot,0.072,False,False,0.100,Elite,,0.041,Elite
+Tight - Clip 039.mp4,23929,,,DEFENSE,S,Free Safety (centerfield),0.356,True,False,0.133,Elite,,0.036,Elite
+Tight - Clip 039.mp4,23947,,,DEFENSE,DL,5-tech,0.089,True,False,0.133,Elite,0.070,,Elite
+Tight - Clip 039.mp4,23955,50,,DEFENSE,EDGE,DE (down),0.338,False,False,0.100,Elite,0.359,,Elite
+Tight - Clip 039.mp4,23956,,,DEFENSE,DL,3-tech,0.115,True,False,0.100,Elite,0.113,,Elite
+Tight - Clip 039.mp4,23976,,,DEFENSE,DL,1-tech,0.062,True,False,0.100,Elite,,,Elite
+Tight - Clip 039.mp4,23988,,,DEFENSE,DL,3-tech,0.318,True,False,0.167,Elite,,,Elite
+Tight - Clip 039.mp4,23989,,,DEFENSE,EDGE,DE (down),0.313,False,False,0.233,Above Average,0.270,,Elite
+Tight - Clip 039.mp4,23990,,,DEFENSE,CB,Press,0.074,False,False,0.200,Elite,,0.022,Elite
+Tight - Clip 039.mp4,23994,,,DEFENSE,EDGE,DE (down),0.148,True,False,0.033,Elite,,,Elite
+Tight - Clip 039.mp4,23999,,,DEFENSE,DL,5-tech,0.130,True,False,0.100,Elite,0.098,,Elite
+Tight - Clip 040.mp4,24585,,,DEFENSE,CB,Deep,0.400,False,False,0.067,Elite,,0.208,Elite
+Tight - Clip 040.mp4,24785,,,DEFENSE,EDGE,DE (down),0.055,False,False,0.067,Elite,0.062,,Elite
+Tight - Clip 040.mp4,24840,,,DEFENSE,EDGE,DE (down),0.006,False,True,0.167,Elite,0.034,,Elite
+Tight - Clip 040.mp4,24867,12,,DEFENSE,CB,Deep,0.156,False,False,0.033,Elite,,0.441,Elite
+Tight - Clip 041.mp4,26208,,,DEFENSE,LB,WILL (weak),0.109,True,False,0.100,Elite,,,Elite
+Tight - Clip 041.mp4,26209,,,DEFENSE,EDGE,DE (down),0.234,True,False,0.100,Elite,,,Elite
+Tight - Clip 041.mp4,26262,,,DEFENSE,DL,5-tech,0.210,True,False,0.133,Elite,,,Elite
+Tight - Clip 041.mp4,26289,,,DEFENSE,EDGE,DE (down),0.145,True,False,0.100,Elite,0.164,,Elite
+Tight - Clip 041.mp4,26314,,,DEFENSE,EDGE,DE (down),0.007,True,True,0.067,Elite,,,Elite
+Tight - Clip 041.mp4,26349,,,DEFENSE,CB,Deep,0.449,False,False,0.067,Elite,,0.080,Elite
+Tight - Clip 041.mp4,26353,66,,DEFENSE,S,Strong Safety,0.422,True,False,0.333,Above Average,,0.207,Elite
+Tight - Clip 041.mp4,26370,,,DEFENSE,EDGE,DE (down),0.226,False,False,0.067,Elite,,,Elite
+Tight - Clip 041.mp4,26403,,,DEFENSE,EDGE,DE (down),0.054,False,False,,,,,Average
+Tight - Clip 041.mp4,26406,,,DEFENSE,EDGE,DE (down),0.194,False,False,0.100,Elite,0.214,,Elite
+Tight - Clip 041.mp4,26410,,,DEFENSE,CB,Deep,0.173,False,False,0.067,Elite,,0.234,Elite
+Tight - Clip 041.mp4,26408,,,DEFENSE,DL,3-tech,0.035,True,False,0.033,Elite,0.044,,Elite
+Tight - Clip 041.mp4,26409,,,DEFENSE,EDGE,DE (down),0.073,False,False,0.133,Elite,0.050,,Elite
+Tight - Clip 041.mp4,26415,,,DEFENSE,EDGE,DE (down),0.238,False,False,0.200,Above Average,0.271,,Elite
+Tight - Clip 041.mp4,26419,,,DEFENSE,CB,Off (5-7 yards),0.119,False,False,0.100,Elite,,0.069,Elite
+Tight - Clip 041.mp4,26420,,,DEFENSE,EDGE,DE (down),0.197,False,False,0.033,Elite,0.220,,Elite
+Tight - Clip 042.mp4,26376,,,DEFENSE,EDGE,DE (down),0.217,False,False,0.200,Above Average,0.201,,Elite
+Tight - Clip 042.mp4,26620,,,DEFENSE,EDGE,DE (down),0.224,False,False,0.200,Above Average,0.207,,Elite
+Tight - Clip 042.mp4,26622,,,DEFENSE,CB,Off (5-7 yards),0.128,False,False,0.167,Elite,,0.091,Elite
+Tight - Clip 042.mp4,26623,,,DEFENSE,DL,5-tech,0.113,True,False,0.233,Above Average,0.096,,Above Average
+Tight - Clip 042.mp4,26629,,,DEFENSE,EDGE,DE (down),0.181,False,False,0.300,Average,,,Average
+Tight - Clip 042.mp4,26630,,,DEFENSE,EDGE,DE (down),0.248,True,False,0.067,Elite,,,Elite
+Tight - Clip 042.mp4,26632,,,DEFENSE,DL,3-tech,0.099,True,False,0.200,Above Average,0.081,,Above Average
+Tight - Clip 042.mp4,26650,,,DEFENSE,DL,0-tech (Nose),0.146,True,False,0.067,Elite,0.108,,Elite
+Tight - Clip 042.mp4,26660,,,DEFENSE,EDGE,DE (down),0.131,True,False,0.167,Elite,0.097,,Elite
+Tight - Clip 042.mp4,26665,,,DEFENSE,DL,5-tech,0.217,True,False,0.233,Above Average,0.202,,Elite
+Tight - Clip 042.mp4,26666,,,DEFENSE,DL,3-tech,0.171,True,False,0.167,Elite,0.149,,Elite
+Tight - Clip 042.mp4,26685,,,DEFENSE,DL,0-tech (Nose),0.240,True,False,0.167,Elite,,,Elite
+Tight - Clip 042.mp4,26706,,,DEFENSE,DL,1-tech,0.104,True,False,0.133,Elite,0.080,,Elite
+Tight - Clip 043.mp4,27113,,,DEFENSE,LB,SAM (strong),0.100,True,False,0.333,Above Average,,,Above Average
+Tight - Clip 043.mp4,27122,,,DEFENSE,S,Free Safety (centerfield),0.284,True,False,0.200,Elite,,0.167,Elite
+Tight - Clip 043.mp4,27155,,,DEFENSE,S,Strong Safety,0.407,True,False,0.100,Elite,,0.115,Elite
+Tight - Clip 043.mp4,27171,,,DEFENSE,LB,WILL (weak),0.113,True,False,0.100,Elite,,,Elite
+Tight - Clip 043.mp4,27191,,,DEFENSE,SLOT,Nickel/Slot,0.072,False,False,0.200,Elite,,0.098,Elite
+Tight - Clip 043.mp4,27241,,,DEFENSE,LB,MIKE (middle),0.053,True,False,0.267,Above Average,,,Above Average
+Tight - Clip 044.mp4,27446,,,DEFENSE,S,Deep half,0.409,True,False,0.100,Elite,,0.226,Elite
+Tight - Clip 044.mp4,27427,,,DEFENSE,S,Strong Safety,0.267,True,False,0.133,Elite,,0.142,Elite
+Tight - Clip 044.mp4,27617,,,DEFENSE,DL,0-tech (Nose),0.005,True,True,0.100,Elite,,,Elite
+Tight - Clip 044.mp4,27642,,,DEFENSE,DL,3-tech,0.008,True,True,0.033,Elite,,,Elite
+Tight - Clip 045.mp4,27755,,,DEFENSE,DL,0-tech (Nose),0.191,True,False,0.067,Elite,0.165,,Elite
+Tight - Clip 045.mp4,27800,,,DEFENSE,DL,5-tech,0.089,True,False,0.200,Above Average,0.072,,Above Average
+Tight - Clip 045.mp4,27801,,,DEFENSE,EDGE,DE (down),0.196,True,False,0.067,Elite,0.205,,Elite
+Tight - Clip 045.mp4,27806,,,DEFENSE,DL,1-tech,0.245,True,False,0.133,Elite,0.271,,Elite
+Tight - Clip 045.mp4,27816,,,DEFENSE,LB,WILL (weak),0.045,True,False,0.100,Elite,,,Elite
+Tight - Clip 045.mp4,27830,,,DEFENSE,DL,0-tech (Nose),0.221,True,False,0.300,Average,0.237,,Above Average
+Tight - Clip 045.mp4,27858,,,DEFENSE,DL,3-tech,0.202,True,False,0.400,Below Average,0.213,,Average
+Tight - Clip 045.mp4,27866,,,DEFENSE,SLOT,Nickel/Slot,0.145,False,False,0.067,Elite,,0.201,Elite
+Tight - Clip 045.mp4,27870,,,DEFENSE,CB,Deep,0.164,False,False,0.067,Elite,,0.128,Elite
+Tight - Clip 045.mp4,27884,,,DEFENSE,DL,0-tech (Nose),0.253,True,False,0.200,Above Average,,,Above Average
+Tight - Clip 045.mp4,27892,,,DEFENSE,DL,5-tech,0.236,True,False,0.100,Elite,0.252,,Elite
+Tight - Clip 045.mp4,27903,56,,DEFENSE,DL,1-tech,0.205,True,False,0.533,Below Average,0.216,,Average
+Tight - Clip 045.mp4,27913,,,DEFENSE,EDGE,DE (down),0.018,False,True,0.067,Elite,,,Elite
+Tight - Clip 045.mp4,27922,,,DEFENSE,S,Deep half,0.466,True,False,0.067,Elite,,0.009,Elite
+Tight - Clip 045.mp4,27924,,,DEFENSE,S,Free Safety (centerfield),0.465,True,False,,,,0.000,Average
+Tight - Clip 045.mp4,27926,,,DEFENSE,S,Strong Safety,0.473,True,False,,,,0.001,Average
+Tight - Clip 045.mp4,27945,,,DEFENSE,EDGE,DE (down),0.244,False,False,0.067,Elite,,,Elite
+Tight - Clip 045.mp4,27954,,,DEFENSE,EDGE,DE (down),0.262,True,False,0.200,Above Average,0.288,,Elite
+Tight - Clip 045.mp4,27959,,,DEFENSE,S,Deep half,0.459,False,False,0.067,Elite,,0.065,Elite
+Tight - Clip 046.mp4,28052,27,,DEFENSE,EDGE,DE (down),0.305,False,False,0.767,Developmental,0.296,,Average
+Tight - Clip 046.mp4,28053,,,DEFENSE,S,Free Safety (centerfield),0.216,True,False,0.167,Elite,,0.008,Elite
+Tight - Clip 046.mp4,28055,,,DEFENSE,DL,0-tech (Nose),0.120,True,False,0.133,Elite,0.108,,Elite
+Tight - Clip 046.mp4,28054,,,DEFENSE,DL,5-tech,0.183,True,False,0.267,Above Average,0.169,,Elite
+Tight - Clip 046.mp4,28092,,,DEFENSE,CB,Deep,0.378,False,False,0.933,Developmental,,0.015,Below Average
+Tight - Clip 046.mp4,28101,,,DEFENSE,EDGE,DE (down),0.185,True,False,0.333,Average,0.168,,Above Average
+Tight - Clip 046.mp4,28114,,,DEFENSE,DL,1-tech,0.201,True,False,0.267,Above Average,,,Above Average
+Tight - Clip 047.mp4,29498,,,DEFENSE,LB,SAM (strong),0.094,True,False,0.100,Elite,,,Elite
+Tight - Clip 047.mp4,29596,,,DEFENSE,S,Strong Safety,0.218,True,False,0.067,Elite,,0.167,Elite
+Tight - Clip 047.mp4,29966,,,DEFENSE,DL,0-tech (Nose),0.139,True,False,0.167,Elite,,,Elite
+Tight - Clip 047.mp4,30093,,,DEFENSE,SLOT,Nickel/Slot,0.093,False,False,0.067,Elite,,0.050,Elite
+Tight - Clip 047.mp4,30220,,,DEFENSE,DL,3-tech,0.122,True,False,0.133,Elite,,,Elite
+Tight - Clip 047.mp4,30253,,,DEFENSE,EDGE,DE (down),0.162,False,False,0.100,Elite,0.138,,Elite
+Tight - Clip 047.mp4,30289,,,DEFENSE,DL,5-tech,0.003,True,True,0.033,Elite,,,Elite
+Tight - Clip 047.mp4,30316,,,DEFENSE,EDGE,DE (down),0.110,False,False,1.067,Developmental,,,Below Average
+Tight - Clip 047.mp4,30335,,,DEFENSE,DL,1-tech,0.080,True,False,0.067,Elite,,,Elite
+Tight - Clip 048.mp4,30915,,,DEFENSE,EDGE,DE (down),0.093,False,False,0.267,Above Average,0.098,,Above Average
+Tight - Clip 048.mp4,30916,,,DEFENSE,CB,Deep,0.404,False,False,0.100,Elite,,0.142,Elite
+Tight - Clip 048.mp4,30924,,,DEFENSE,UNKNOWN,,0.186,True,False,0.500,Below Average,,,Below Average
+Tight - Clip 048.mp4,30971,,,DEFENSE,DL,1-tech,0.082,True,False,0.367,Average,0.102,,Average
+Tight - Clip 048.mp4,30973,,,DEFENSE,EDGE,DE (down),0.074,False,False,0.033,Elite,,,Elite
+Tight - Clip 048.mp4,31033,,,DEFENSE,S,Deep half,0.365,True,False,0.367,Average,,0.064,Average
+Tight - Clip 048.mp4,31049,,,DEFENSE,UNKNOWN,,0.173,False,False,0.167,Elite,,,Elite
+Tight - Clip 049.mp4,31516,,,DEFENSE,S,Strong Safety,0.386,True,False,0.067,Elite,,0.042,Elite
+Tight - Clip 049.mp4,31524,,,DEFENSE,S,Free Safety (centerfield),0.407,True,False,0.100,Elite,,0.052,Elite
+Tight - Clip 049.mp4,31530,,,DEFENSE,S,Strong Safety,0.417,True,False,0.100,Elite,,0.075,Elite
+Tight - Clip 049.mp4,31546,,,DEFENSE,S,Deep half,0.433,True,False,0.100,Elite,,0.057,Elite
+Tight - Clip 049.mp4,31552,,,DEFENSE,S,Strong Safety,0.451,True,False,0.100,Elite,,0.027,Elite
+Tight - Clip 049.mp4,31580,,,DEFENSE,CB,Deep,0.437,False,False,0.100,Elite,,0.058,Elite
+Tight - Clip 049.mp4,31599,,,DEFENSE,S,Strong Safety,0.400,True,False,0.100,Elite,,0.036,Elite
+Tight - Clip 049.mp4,31602,,,DEFENSE,CB,Deep,0.438,False,False,0.167,Elite,,0.029,Elite
+Tight - Clip 050.mp4,32161,,,DEFENSE,LB,MIKE (middle),0.098,True,False,0.067,Elite,,,Elite
+Tight - Clip 050.mp4,32167,4,,DEFENSE,S,Strong Safety,0.432,True,False,0.200,Elite,,0.112,Elite
+Tight - Clip 050.mp4,32175,81,,DEFENSE,CB,Deep,0.265,False,False,0.067,Elite,,0.036,Elite
+Tight - Clip 051.mp4,32633,13,,DEFENSE,DL,5-tech,0.272,True,False,0.100,Elite,0.200,,Elite
+Tight - Clip 051.mp4,32643,,,DEFENSE,LB,SAM (strong),0.084,True,False,0.067,Elite,,,Elite
+Tight - Clip 051.mp4,32651,,,DEFENSE,CB,Deep,0.262,False,False,0.067,Elite,,0.085,Elite
+Tight - Clip 051.mp4,32659,,,DEFENSE,EDGE,OLB (up),0.048,False,False,0.500,Below Average,,,Below Average
+Tight - Clip 051.mp4,32660,,,DEFENSE,LB,WILL (weak),0.064,True,False,0.167,Elite,,,Elite
+Tight - Clip 051.mp4,32668,,,DEFENSE,CB,Deep,0.231,False,False,0.133,Elite,,0.047,Elite
+Tight - Clip 051.mp4,32669,,,DEFENSE,S,Strong Safety,0.384,True,False,0.300,Above Average,,0.004,Above Average
+Tight - Clip 052.mp4,32776,,,DEFENSE,CB,Deep,0.277,False,False,0.267,Above Average,,0.015,Above Average
+Tight - Clip 052.mp4,32783,,,DEFENSE,SLOT,Nickel/Slot,0.100,False,False,0.300,Above Average,,0.038,Above Average
+Tight - Clip 052.mp4,32788,,,DEFENSE,EDGE,DE (down),0.055,False,False,0.200,Above Average,0.016,,Above Average
+Tight - Clip 052.mp4,32802,,,DEFENSE,S,Strong Safety,0.435,True,False,0.733,Developmental,,0.047,Below Average
+Tight - Clip 052.mp4,32813,,,DEFENSE,SLOT,Nickel/Slot,0.099,False,False,0.267,Above Average,,0.013,Above Average
+Tight - Clip 052.mp4,32838,,,DEFENSE,LB,SAM (strong),0.121,True,False,0.600,Below Average,,,Below Average
+Tight - Clip 052.mp4,32851,,,DEFENSE,SLOT,Nickel/Slot,0.099,False,False,0.367,Average,,0.045,Average
+Tight - Clip 053.mp4,33412,,,DEFENSE,S,Strong Safety,0.391,True,False,0.033,Elite,,0.022,Elite
+Tight - Clip 053.mp4,33432,,,DEFENSE,S,Strong Safety,0.415,True,False,0.267,Above Average,,0.022,Above Average
+Tight - Clip 053.mp4,33565,,,DEFENSE,S,Free Safety (centerfield),0.402,True,False,0.133,Elite,,0.037,Elite
+Tight - Clip 053.mp4,33856,3,,DEFENSE,LB,SAM (strong),0.118,True,False,0.067,Elite,,,Elite
+Tight - Clip 053.mp4,34088,,,DEFENSE,S,Free Safety (centerfield),0.394,True,False,,,,0.003,Average
+Tight - Clip 053.mp4,34110,,,DEFENSE,S,Strong Safety,0.442,True,False,0.233,Elite,,0.036,Elite
+Tight - Clip 053.mp4,34158,,,DEFENSE,CB,Deep,0.402,False,False,0.300,Above Average,,0.076,Above Average
+Tight - Clip 053.mp4,34160,,,DEFENSE,CB,Deep,0.394,False,False,0.133,Elite,,0.081,Elite
+Tight - Clip 053.mp4,34163,4,,DEFENSE,CB,Deep,0.351,False,False,0.067,Elite,,0.077,Elite
+Tight - Clip 053.mp4,34174,96,,DEFENSE,S,Deep half,0.442,False,False,0.133,Elite,,0.092,Elite
+Tight - Clip 054.mp4,34380,,,DEFENSE,S,Strong Safety,0.323,True,False,0.133,Elite,,0.240,Elite
+Tight - Clip 054.mp4,34437,,,DEFENSE,S,Deep half,0.410,True,False,0.333,Above Average,,0.253,Elite
+Tight - Clip 054.mp4,34486,,,DEFENSE,LB,MIKE (middle),0.071,True,False,0.267,Above Average,,,Above Average
+Tight - Clip 054.mp4,34503,,,DEFENSE,DL,5-tech,0.010,True,True,0.133,Elite,,,Elite
+Tight - Clip 054.mp4,34535,,,DEFENSE,LB,SAM (strong),0.074,True,False,0.167,Elite,,,Elite
+Tight - Clip 054.mp4,34553,,,DEFENSE,DL,0-tech (Nose),0.012,True,True,0.167,Elite,,,Elite
+Tight - Clip 054.mp4,34586,,,DEFENSE,LB,WILL (weak),0.078,True,False,0.433,Average,,,Average
+Tight - Clip 054.mp4,34590,,,DEFENSE,DL,5-tech,0.076,True,False,0.200,Above Average,,,Above Average
+Tight - Clip 055.mp4,34635,,,DEFENSE,UNKNOWN,,0.193,True,False,0.100,Elite,,,Elite
+Tight - Clip 055.mp4,34806,,,DEFENSE,S,Strong Safety,0.434,True,False,0.100,Elite,,0.059,Elite
+Tight - Clip 055.mp4,34818,,,DEFENSE,CB,Deep,0.190,False,False,0.100,Elite,,0.062,Elite
+Tight - Clip 055.mp4,34840,,,DEFENSE,DL,3-tech,0.188,True,False,0.100,Elite,0.228,,Elite
+Tight - Clip 055.mp4,34879,,,DEFENSE,EDGE,DE (down),0.244,True,False,0.233,Above Average,0.247,,Elite
+Tight - Clip 055.mp4,34903,,,DEFENSE,EDGE,DE (down),0.174,False,False,0.133,Elite,0.203,,Elite
+Tight - Clip 055.mp4,34904,,,DEFENSE,DL,5-tech,0.157,True,False,0.133,Elite,0.228,,Elite
+Tight - Clip 055.mp4,34910,,,DEFENSE,DL,0-tech (Nose),0.189,True,False,0.133,Elite,0.136,,Elite
+Tight - Clip 056.mp4,35229,,,DEFENSE,LB,SAM (strong),0.110,True,False,0.667,Developmental,,,Below Average
+Tight - Clip 056.mp4,35264,,,DEFENSE,DL,0-tech (Nose),0.173,True,False,0.800,Developmental,0.167,,Average
+Tight - Clip 056.mp4,35333,,,DEFENSE,EDGE,DE (down),0.164,False,False,0.767,Developmental,0.168,,Average
+Tight - Clip 056.mp4,35407,,,DEFENSE,EDGE,DE (down),0.239,False,False,0.867,Developmental,0.235,,Average
+Tight - Clip 056.mp4,35453,,,DEFENSE,CB,Deep,0.358,False,False,0.567,Below Average,,0.011,Below Average
+Tight - Clip 056.mp4,35454,,,DEFENSE,DL,0-tech (Nose),0.123,True,False,0.767,Developmental,0.112,,Below Average
+Tight - Clip 056.mp4,35456,,,DEFENSE,SLOT,Nickel/Slot,0.081,False,False,0.400,Average,,0.018,Average
+Tight - Clip 056.mp4,35465,,,DEFENSE,DL,5-tech,0.237,True,False,0.200,Above Average,0.226,,Elite
+Tight - Clip 057.mp4,35700,,,DEFENSE,SLOT,Nickel/Slot,0.062,False,False,0.167,Elite,,0.082,Elite
+Tight - Clip 057.mp4,35704,,,DEFENSE,DL,5-tech,0.164,True,False,0.100,Elite,0.151,,Elite
+Tight - Clip 057.mp4,35706,,,DEFENSE,EDGE,DE (down),0.161,True,False,0.100,Elite,,,Elite
+Tight - Clip 057.mp4,35756,,,DEFENSE,EDGE,DE (down),0.172,True,False,0.133,Elite,0.168,,Elite
+Tight - Clip 057.mp4,35860,,,DEFENSE,DL,3-tech,0.205,True,False,,,,,Average
+Tight - Clip 057.mp4,35866,,,DEFENSE,S,Deep half,0.365,True,False,0.133,Elite,,0.140,Elite
+Tight - Clip 058.mp4,36053,,,DEFENSE,S,Deep half,0.357,True,False,0.167,Elite,,0.036,Elite
+Tight - Clip 058.mp4,36055,,,DEFENSE,LB,SAM (strong),0.059,True,False,0.100,Elite,,,Elite
+Tight - Clip 058.mp4,36060,,,DEFENSE,EDGE,DE (down),0.234,False,False,0.233,Above Average,0.222,,Elite
+Tight - Clip 058.mp4,36116,,,DEFENSE,EDGE,DE (down),0.227,False,False,0.067,Elite,0.075,,Elite
+Tight - Clip 058.mp4,36223,,,DEFENSE,EDGE,DE (down),0.257,True,False,0.033,Elite,0.199,,Elite
+Tight - Clip 058.mp4,36246,,,DEFENSE,DL,3-tech,0.118,True,False,0.200,Above Average,0.072,,Above Average
+Tight - Clip 059.mp4,36501,,,DEFENSE,EDGE,DE (down),0.136,False,False,0.033,Elite,,,Elite
+Tight - Clip 059.mp4,36506,,,DEFENSE,UNKNOWN,,0.170,True,False,0.067,Elite,,,Elite
+Tight - Clip 059.mp4,36567,,,DEFENSE,EDGE,DE (down),0.072,False,False,0.067,Elite,0.144,,Elite
+Tight - Clip 059.mp4,36589,,,DEFENSE,EDGE,DE (down),0.105,False,False,0.100,Elite,,,Elite
+Tight - Clip 059.mp4,36593,,,DEFENSE,DL,0-tech (Nose),0.173,True,False,0.033,Elite,0.182,,Elite
+Tight - Clip 059.mp4,36598,,,DEFENSE,CB,Off (5-7 yards),0.123,False,False,0.067,Elite,,0.066,Elite
+Tight - Clip 060.mp4,36880,3,,DEFENSE,CB,Deep,0.471,False,False,0.067,Elite,,0.037,Elite
+Tight - Clip 060.mp4,37448,,,DEFENSE,EDGE,DE (down),0.007,False,True,0.100,Elite,,,Elite
+Tight - Clip 060.mp4,37614,,,DEFENSE,CB,Deep,0.471,False,False,0.067,Elite,,0.010,Elite
+Tight - Clip 060.mp4,37644,,,DEFENSE,DL,1-tech,0.053,True,False,0.100,Elite,0.030,,Elite
+Tight - Clip 060.mp4,37703,,,DEFENSE,EDGE,DE (down),0.007,False,True,0.133,Elite,,,Elite
+Tight - Clip 061.mp4,38939,,,DEFENSE,LB,MIKE (middle),0.112,True,False,0.100,Elite,,,Elite
+Tight - Clip 061.mp4,38952,,,DEFENSE,CB,Off (5-7 yards),0.118,False,False,0.533,Below Average,,0.015,Below Average
+Tight - Clip 061.mp4,39034,,,DEFENSE,S,Deep half,0.417,False,False,0.167,Elite,,0.023,Elite
+Tight - Clip 061.mp4,39074,,,DEFENSE,S,Deep half,0.267,True,False,0.167,Elite,,0.030,Elite
+Tight - Clip 061.mp4,39082,,,DEFENSE,LB,SAM (strong),0.106,True,False,0.067,Elite,,,Elite
+Tight - Clip 061.mp4,39085,12,,DEFENSE,EDGE,DE (down),0.054,False,False,0.100,Elite,0.052,,Elite
+Tight - Clip 061.mp4,39091,,,DEFENSE,S,Strong Safety,0.228,True,False,0.033,Elite,,0.097,Elite
+Tight - Clip 061.mp4,39092,,,DEFENSE,S,Strong Safety,0.220,True,False,0.067,Elite,,0.094,Elite
+Tight - Clip 061.mp4,39099,,,DEFENSE,S,Strong Safety,0.456,True,False,0.033,Elite,,0.213,Elite
+Tight - Clip 061.mp4,39105,,,DEFENSE,S,Strong Safety,0.441,True,False,0.067,Elite,,0.212,Elite
+Tight - Clip 061.mp4,39121,,,DEFENSE,S,Deep half,0.445,False,False,0.067,Elite,,0.259,Elite
+Tight - Clip 061.mp4,39125,,,DEFENSE,CB,Deep,0.436,False,False,0.100,Elite,,0.020,Elite
+Tight - Clip 062.mp4,39347,,,DEFENSE,DL,1-tech,0.020,True,True,0.067,Elite,0.044,,Elite
+Tight - Clip 062.mp4,39421,,,DEFENSE,DL,5-tech,0.039,True,False,0.067,Elite,0.112,,Elite
+Tight - Clip 062.mp4,39435,,,DEFENSE,DL,3-tech,0.004,True,True,0.067,Elite,0.060,,Elite
+Tight - Clip 062.mp4,39514,,,DEFENSE,CB,Deep,0.446,False,False,0.067,Elite,,0.094,Elite
+Tight - Clip 062.mp4,39530,,,DEFENSE,CB,Deep,0.450,False,False,0.067,Elite,,0.045,Elite
+Tight - Clip 062.mp4,39558,,,DEFENSE,S,Deep half,0.459,False,False,0.067,Elite,,0.150,Elite
+Tight - Clip 062.mp4,39574,,,DEFENSE,S,Strong Safety,0.266,True,False,0.133,Elite,,0.018,Elite
+Tight - Clip 062.mp4,39578,,,DEFENSE,S,Deep half,0.430,False,False,0.133,Elite,,0.043,Elite
+Tight - Clip 062.mp4,39583,,,DEFENSE,S,Deep half,0.464,False,False,0.167,Elite,,0.037,Elite
+Tight - Clip 062.mp4,39584,,,DEFENSE,UNKNOWN,,0.185,True,False,0.067,Elite,,,Elite
+Tight - Clip 062.mp4,39608,5,,DEFENSE,S,Strong Safety,0.287,True,False,0.067,Elite,,0.122,Elite
+Tight - Clip 062.mp4,39632,7,,DEFENSE,CB,Deep,0.315,False,False,0.167,Elite,,0.013,Elite
+Tight - Clip 063.mp4,39672,,,DEFENSE,SLOT,Nickel/Slot,0.074,False,False,0.233,Elite,,0.016,Elite
+Tight - Clip 063.mp4,39725,,,DEFENSE,DL,5-tech,0.024,True,True,0.467,Below Average,,,Below Average
+Tight - Clip 063.mp4,39761,,,DEFENSE,LB,WILL (weak),0.139,True,False,0.467,Average,,,Average
+Tight - Clip 063.mp4,39783,,,DEFENSE,UNKNOWN,,0.171,True,False,0.733,Developmental,,,Below Average
+Tight - Clip 063.mp4,39802,,,DEFENSE,CB,Deep,0.408,False,False,0.367,Average,,0.021,Average
+Tight - Clip 063.mp4,39835,,,DEFENSE,DL,0-tech (Nose),0.039,True,False,0.167,Elite,,,Elite
+Tight - Clip 063.mp4,39839,,,DEFENSE,CB,Deep,0.305,False,False,0.300,Above Average,,0.172,Elite
+Tight - Clip 063.mp4,39848,,,DEFENSE,CB,Deep,0.408,False,False,0.500,Below Average,,0.027,Below Average
+Tight - Clip 064.mp4,40422,,,DEFENSE,UNKNOWN,,0.172,True,False,0.200,Elite,,,Elite
+Tight - Clip 064.mp4,40474,,,DEFENSE,LB,SAM (strong),0.118,True,False,0.100,Elite,,,Elite
+Tight - Clip 064.mp4,40511,,,DEFENSE,LB,WILL (weak),0.052,True,False,0.133,Elite,,,Elite
+Tight - Clip 064.mp4,40512,,,DEFENSE,S,Strong Safety,0.395,True,False,0.333,Above Average,,0.142,Elite
+Tight - Clip 064.mp4,40529,,,DEFENSE,DL,5-tech,0.068,True,False,0.200,Above Average,0.021,,Above Average
+Tight - Clip 065.mp4,40917,,,DEFENSE,LB,SAM (strong),0.140,True,False,0.233,Elite,,,Elite
+Tight - Clip 065.mp4,40919,,,DEFENSE,LB,SAM (strong),0.043,True,False,0.167,Elite,,,Elite
+Tight - Clip 065.mp4,40927,,,DEFENSE,EDGE,DE (down),0.037,True,False,0.300,Average,,,Average
+Tight - Clip 065.mp4,40984,,,DEFENSE,EDGE,DE (down),0.055,True,False,0.267,Above Average,0.043,,Above Average
+Tight - Clip 065.mp4,40999,,,DEFENSE,LB,WILL (weak),0.111,True,False,0.033,Elite,,,Elite
+Tight - Clip 065.mp4,41037,,,DEFENSE,UNKNOWN,,0.183,False,False,0.233,Elite,,,Elite
+Tight - Clip 065.mp4,41053,,,DEFENSE,S,Deep half,0.388,True,False,0.067,Elite,,0.237,Elite
+Tight - Clip 066.mp4,41303,56,,DEFENSE,EDGE,DE (down),0.011,True,True,0.100,Elite,,,Elite
+Tight - Clip 066.mp4,41320,60,,DEFENSE,DL,0-tech (Nose),0.046,True,False,0.100,Elite,0.004,,Elite
+Tight - Clip 066.mp4,41528,,,DEFENSE,EDGE,DE (down),0.208,True,False,,,,,Average
+Tight - Clip 066.mp4,41583,,,DEFENSE,EDGE,DE (down),0.028,True,True,0.133,Elite,,,Elite
+Tight - Clip 066.mp4,41590,66,,DEFENSE,EDGE,OLB (up),0.033,True,False,0.100,Elite,,,Elite
+Tight - Clip 066.mp4,41621,,,DEFENSE,DL,0-tech (Nose),0.038,True,False,0.133,Elite,,,Elite
+Tight - Clip 066.mp4,41646,99,,DEFENSE,DL,0-tech (Nose),0.236,True,False,0.133,Elite,,,Elite
+Tight - Clip 066.mp4,41662,,,DEFENSE,EDGE,DE (down),0.195,False,False,0.033,Elite,0.157,,Elite
+Tight - Clip 066.mp4,41668,,,DEFENSE,DL,5-tech,0.256,True,False,0.133,Elite,0.204,,Elite
+Tight - Clip 066.mp4,41672,,,DEFENSE,CB,Deep,0.449,False,False,0.300,Above Average,,0.019,Above Average
+Tight - Clip 066.mp4,41677,,,DEFENSE,EDGE,DE (down),0.273,False,False,0.233,Above Average,0.212,,Elite
+Tight - Clip 067.mp4,41786,,,DEFENSE,S,Deep half,0.330,True,False,0.300,Above Average,,0.094,Above Average
+Tight - Clip 067.mp4,41863,,,DEFENSE,DL,3-tech,0.258,True,False,0.267,Above Average,0.230,,Elite
+Tight - Clip 067.mp4,41881,,,DEFENSE,EDGE,DE (down),0.109,True,False,0.267,Above Average,0.108,,Above Average
+Tight - Clip 067.mp4,41901,,,DEFENSE,DL,5-tech,0.131,True,False,0.233,Above Average,0.134,,Above Average
+Tight - Clip 067.mp4,41919,,,DEFENSE,EDGE,DE (down),0.316,False,False,0.233,Above Average,0.309,,Elite
+Tight - Clip 067.mp4,41960,,,DEFENSE,EDGE,DE (down),0.232,True,False,0.267,Above Average,0.237,,Elite
+Tight - Clip 067.mp4,41981,,,DEFENSE,DL,3-tech,0.087,True,False,0.267,Above Average,0.094,,Above Average
+Tight - Clip 067.mp4,41988,,,DEFENSE,EDGE,DE (down),0.209,False,False,0.167,Elite,0.217,,Elite
+Tight - Clip 067.mp4,41995,,,DEFENSE,DL,5-tech,0.302,True,False,0.267,Above Average,0.305,,Elite
+Tight - Clip 067.mp4,41997,,,DEFENSE,EDGE,DE (down),0.273,True,False,0.467,Below Average,,,Below Average
+Tight - Clip 067.mp4,42006,,,DEFENSE,DL,0-tech (Nose),0.179,True,False,0.300,Average,0.180,,Above Average
+Tight - Clip 068.mp4,43380,,,DEFENSE,CB,Deep,0.382,False,False,0.200,Elite,,0.045,Elite
+Tight - Clip 068.mp4,43512,,,DEFENSE,S,Strong Safety,0.445,True,False,0.167,Elite,,0.052,Elite
+Tight - Clip 069.mp4,43873,,,DEFENSE,S,Strong Safety,0.337,True,False,0.433,Average,,0.018,Average
+Tight - Clip 069.mp4,44047,,,DEFENSE,LB,SAM (strong),0.062,True,False,0.400,Average,,,Average
+Tight - Clip 069.mp4,44113,,,DEFENSE,EDGE,DE (down),0.015,False,True,0.400,Below Average,,,Below Average
+Tight - Clip 069.mp4,44116,,,DEFENSE,DL,0-tech (Nose),0.028,True,True,0.100,Elite,,,Elite
+Tight - Clip 069.mp4,44147,1,,DEFENSE,DL,3-tech,0.036,True,False,0.067,Elite,0.075,,Elite
+Tight - Clip 069.mp4,44224,,,DEFENSE,EDGE,DE (down),0.042,False,False,0.033,Elite,0.056,,Elite
+Tight - Clip 069.mp4,44228,60,,DEFENSE,DL,3-tech,0.096,True,False,0.067,Elite,0.093,,Elite
+Tight - Clip 069.mp4,44229,,,DEFENSE,EDGE,DE (down),0.012,False,True,0.133,Elite,0.015,,Elite
+Tight - Clip 069.mp4,44242,66,,DEFENSE,EDGE,DE (down),0.128,True,False,0.133,Elite,0.157,,Elite
+Tight - Clip 070.mp4,44785,,,DEFENSE,EDGE,DE (down),0.192,True,False,0.133,Elite,,,Elite
+Tight - Clip 070.mp4,44802,,,DEFENSE,UNKNOWN,,0.193,True,False,0.033,Elite,,,Elite
+Tight - Clip 070.mp4,44808,,,DEFENSE,DL,5-tech,0.173,True,False,0.067,Elite,0.193,,Elite
+Tight - Clip 070.mp4,44818,,,DEFENSE,EDGE,DE (down),0.097,False,False,0.067,Elite,,,Elite
+Tight - Clip 070.mp4,44829,,,DEFENSE,DL,1-tech,0.183,True,False,0.067,Elite,0.175,,Elite
+Tight - Clip 070.mp4,44839,,,DEFENSE,DL,1-tech,0.162,True,False,0.067,Elite,0.155,,Elite
+Tight - Clip 070.mp4,44844,,,DEFENSE,EDGE,DE (down),0.135,False,False,0.333,Average,0.158,,Above Average
+Tight - Clip 070.mp4,44848,,,DEFENSE,EDGE,DE (down),0.149,False,False,0.067,Elite,,,Elite
+Tight - Clip 070.mp4,44858,,,DEFENSE,CB,Off (5-7 yards),0.120,False,False,0.067,Elite,,0.025,Elite
+Tight - Clip 070.mp4,44872,,,DEFENSE,DL,5-tech,0.195,True,False,0.067,Elite,,,Elite
+Tight - Clip 071.mp4,44886,,,DEFENSE,DL,0-tech (Nose),0.032,True,False,0.100,Elite,0.029,,Elite
+Tight - Clip 071.mp4,44990,,,DEFENSE,EDGE,DE (down),0.210,False,False,0.167,Elite,0.221,,Elite
+Tight - Clip 071.mp4,45021,,,DEFENSE,UNKNOWN,,0.184,True,False,0.133,Elite,,,Elite
+Tight - Clip 071.mp4,45034,,,DEFENSE,EDGE,DE (down),0.201,False,False,0.167,Elite,0.191,,Elite
+Tight - Clip 071.mp4,45067,,,DEFENSE,DL,1-tech,0.085,True,False,0.233,Above Average,,,Above Average
+Tight - Clip 071.mp4,45076,,,DEFENSE,SLOT,Nickel/Slot,0.141,False,False,0.100,Elite,,0.190,Elite
+Tight - Clip 071.mp4,45085,,,DEFENSE,DL,5-tech,0.168,True,False,0.233,Above Average,,,Above Average
+Tight - Clip 071.mp4,45103,,,DEFENSE,CB,Deep,0.438,False,False,0.167,Elite,,0.047,Elite
+Tight - Clip 072.mp4,45880,,,DEFENSE,S,Deep half,0.450,False,False,0.067,Elite,,0.121,Elite
+Tight - Clip 072.mp4,45883,,,DEFENSE,S,Deep half,0.456,True,False,0.067,Elite,,0.122,Elite
+Tight - Clip 072.mp4,45889,,,DEFENSE,S,Strong Safety,0.465,True,False,0.067,Elite,,0.162,Elite
+Tight - Clip 072.mp4,45908,,,DEFENSE,S,Deep half,0.451,True,False,0.067,Elite,,0.172,Elite
+Tight - Clip 072.mp4,45938,,,DEFENSE,S,Deep half,0.462,False,False,0.067,Elite,,0.101,Elite
+Tight - Clip 073.mp4,46208,,,DEFENSE,UNKNOWN,,0.152,True,False,0.067,Elite,,,Elite
+Tight - Clip 073.mp4,46209,,,DEFENSE,EDGE,DE (down),0.198,False,False,0.100,Elite,0.172,,Elite
+Tight - Clip 073.mp4,46214,,,DEFENSE,S,Deep half,0.203,False,False,0.067,Elite,,0.167,Elite
+Tight - Clip 073.mp4,46232,,,DEFENSE,EDGE,DE (down),0.149,False,False,0.067,Elite,0.161,,Elite
+Tight - Clip 073.mp4,46240,,,DEFENSE,DL,0-tech (Nose),0.175,True,False,0.233,Above Average,0.175,,Elite
+Tight - Clip 073.mp4,46411,,,DEFENSE,DL,5-tech,0.159,True,False,0.167,Elite,,,Elite
+Tight - Clip 073.mp4,46431,,,DEFENSE,DL,5-tech,0.197,True,False,0.100,Elite,0.182,,Elite
+Tight - Clip 074.mp4,46561,,,DEFENSE,EDGE,DE (down),0.062,False,False,0.067,Elite,0.186,,Elite
+Tight - Clip 074.mp4,46578,,,DEFENSE,DL,0-tech (Nose),0.026,True,True,0.033,Elite,,,Elite
+Tight - Clip 074.mp4,46620,,,DEFENSE,EDGE,DE (down),0.084,True,False,0.033,Elite,,,Elite
+Tight - Clip 075.mp4,47175,,,DEFENSE,S,Free Safety (centerfield),0.383,True,False,0.300,Above Average,,0.008,Above Average
+Tight - Clip 075.mp4,47191,,,DEFENSE,CB,Deep,0.235,False,False,0.167,Elite,,0.091,Elite
+Tight - Clip 075.mp4,47252,,,DEFENSE,EDGE,OLB (up),0.030,False,False,0.233,Above Average,,,Above Average
+Tight - Clip 075.mp4,47258,,,DEFENSE,EDGE,DE (down),0.087,False,False,0.133,Elite,0.078,,Elite
+Tight - Clip 075.mp4,47305,,,DEFENSE,LB,WILL (weak),0.119,True,False,0.533,Below Average,,,Below Average
+Tight - Clip 075.mp4,47326,,,DEFENSE,DL,5-tech,0.064,True,False,,,,,Average
+Tight - Clip 075.mp4,47366,,,DEFENSE,UNKNOWN,,0.157,True,False,0.133,Elite,,,Elite
+Tight - Clip 076.mp4,47416,,,DEFENSE,S,Strong Safety,0.269,True,False,0.167,Elite,,0.025,Elite
+Tight - Clip 076.mp4,47449,,,DEFENSE,LB,MIKE (middle),0.108,True,False,0.200,Elite,,,Elite
+Tight - Clip 076.mp4,47458,,,DEFENSE,EDGE,OLB (up),0.047,False,False,0.233,Above Average,,,Above Average
+Tight - Clip 076.mp4,47464,,,DEFENSE,SLOT,Nickel/Slot,0.103,False,False,0.233,Elite,,0.038,Elite
+Tight - Clip 076.mp4,47462,,,DEFENSE,CB,Off (5-7 yards),0.115,False,False,0.167,Elite,,0.043,Elite
+Tight - Clip 076.mp4,47466,,,DEFENSE,LB,WILL (weak),0.078,True,False,0.167,Elite,,,Elite
+Tight - Clip 076.mp4,47500,,,DEFENSE,LB,MIKE (middle),0.066,True,False,0.133,Elite,,,Elite
+Tight - Clip 076.mp4,47541,,,DEFENSE,LB,WILL (weak),0.066,True,False,0.033,Elite,,,Elite
+Tight - Clip 076.mp4,47545,,,DEFENSE,CB,Press,0.077,False,False,0.133,Elite,,0.053,Elite
+Tight - Clip 076.mp4,47603,,,DEFENSE,EDGE,OLB (up),0.047,False,False,0.500,Below Average,,,Below Average
+Tight - Clip 076.mp4,47616,,,DEFENSE,CB,Press,0.062,False,False,,,,0.001,Average
+Tight - Clip 077.mp4,47724,,,DEFENSE,S,Deep half,0.252,False,False,0.367,Average,,0.015,Average
+Tight - Clip 077.mp4,48284,,,DEFENSE,S,Strong Safety,0.369,True,False,0.433,Average,,0.009,Average
+Tight - Clip 077.mp4,48303,,,DEFENSE,SLOT,Nickel/Slot,0.092,False,False,0.500,Below Average,,0.012,Below Average
+Tight - Clip 077.mp4,48304,,,DEFENSE,S,Deep half,0.445,False,False,0.167,Elite,,0.116,Elite
+Tight - Clip 077.mp4,48311,,,DEFENSE,SLOT,Nickel/Slot,0.105,False,False,0.467,Average,,0.009,Average
+Tight - Clip 077.mp4,48319,,,DEFENSE,LB,WILL (weak),0.104,True,False,0.600,Below Average,,,Below Average
+Tight - Clip 077.mp4,48320,,,DEFENSE,CB,Off (5-7 yards),0.091,False,False,0.300,Above Average,,0.021,Above Average
+Tight - Clip 077.mp4,48329,,,DEFENSE,CB,Off (5-7 yards),0.110,False,False,0.467,Average,,0.012,Average
+Tight - Clip 078.mp4,48581,,,DEFENSE,CB,Deep,0.443,False,False,,,,0.009,Average
+Tight - Clip 079.mp4,48981,,,DEFENSE,DL,3-tech,0.037,True,False,0.200,Above Average,0.035,,Above Average
+Tight - Clip 079.mp4,49011,,,DEFENSE,SLOT,Nickel/Slot,0.057,False,False,0.667,Developmental,,0.038,Below Average
+Tight - Clip 079.mp4,49089,,,DEFENSE,DL,5-tech,0.020,True,True,0.467,Below Average,0.015,,Below Average
+Tight - Clip 079.mp4,49104,,,DEFENSE,CB,Press,0.073,False,False,0.100,Elite,,0.040,Elite
+Tight - Clip 079.mp4,49116,,,DEFENSE,EDGE,DE (down),0.009,True,True,0.367,Average,,,Average
+Tight - Clip 079.mp4,49117,,,DEFENSE,S,Free Safety (centerfield),0.464,True,False,0.200,Elite,,0.094,Elite
+Tight - Clip 079.mp4,49199,,,DEFENSE,CB,Deep,0.426,False,False,0.667,Developmental,,0.036,Below Average
+Tight - Clip 079.mp4,49195,,,DEFENSE,CB,Off (5-7 yards),0.083,False,False,0.633,Below Average,,0.020,Below Average
+Tight - Clip 079.mp4,49301,,,DEFENSE,CB,Off (5-7 yards),0.113,False,False,,,,0.005,Average
+Tight - Clip 079.mp4,49307,,,DEFENSE,DL,0-tech (Nose),0.027,True,True,0.233,Above Average,0.021,,Above Average
+Tight - Clip 079.mp4,49318,,,DEFENSE,SLOT,Nickel/Slot,0.069,False,False,,,,0.006,Average
+Tight - Clip 080.mp4,51556,,,DEFENSE,S,Strong Safety,0.344,True,False,0.100,Elite,,0.086,Elite
+Tight - Clip 080.mp4,51826,,,DEFENSE,S,Free Safety (centerfield),0.349,True,False,0.133,Elite,,0.125,Elite
+Tight - Clip 080.mp4,51951,,,DEFENSE,CB,Deep,0.390,False,False,0.167,Elite,,0.006,Elite
+Tight - Clip 081.mp4,53179,,,DEFENSE,EDGE,DE (down),0.194,False,False,0.033,Elite,,,Elite
+Tight - Clip 081.mp4,53518,,,DEFENSE,EDGE,DE (down),0.188,False,False,0.167,Elite,,,Elite
+Tight - Clip 081.mp4,53535,,,DEFENSE,EDGE,DE (down),0.134,False,False,0.133,Elite,0.139,,Elite
+Tight - Clip 081.mp4,53539,,,DEFENSE,DL,3-tech,0.172,True,False,0.067,Elite,,,Elite
+Tight - Clip 081.mp4,53559,,,DEFENSE,DL,5-tech,0.145,True,False,1.000,Developmental,0.156,,Average
+Tight - Clip 081.mp4,53601,,,DEFENSE,CB,Deep,0.453,False,False,0.067,Elite,,0.037,Elite
+Tight - Clip 081.mp4,53664,,,DEFENSE,DL,5-tech,0.144,True,False,0.233,Above Average,,,Above Average
+Tight - Clip 081.mp4,53678,,,DEFENSE,DL,1-tech,0.174,True,False,,,,,Average
+Tight - Clip 081.mp4,53682,,,DEFENSE,EDGE,DE (down),0.179,False,False,0.033,Elite,,,Elite
+Tight - Clip 082.mp4,54160,,,DEFENSE,EDGE,DE (down),0.139,False,False,0.100,Elite,0.104,,Elite
+Tight - Clip 082.mp4,54186,,,DEFENSE,DL,3-tech,0.131,True,False,0.033,Elite,0.098,,Elite
+Tight - Clip 082.mp4,54292,,,DEFENSE,DL,1-tech,0.201,True,False,0.067,Elite,0.170,,Elite
+Tight - Clip 082.mp4,54316,,,DEFENSE,EDGE,DE (down),0.141,True,False,0.067,Elite,0.128,,Elite
+Tight - Clip 082.mp4,54335,,,DEFENSE,EDGE,DE (down),0.144,True,False,0.067,Elite,0.113,,Elite
+Tight - Clip 082.mp4,54342,,,DEFENSE,DL,0-tech (Nose),0.156,True,False,0.067,Elite,0.121,,Elite
+Tight - Clip 082.mp4,54343,,,DEFENSE,DL,1-tech,0.190,True,False,0.067,Elite,,,Elite
+Tight - Clip 083.mp4,55588,,,DEFENSE,EDGE,DE (down),0.149,True,False,0.167,Elite,,,Elite
+Tight - Clip 083.mp4,55726,,,DEFENSE,EDGE,DE (down),0.133,True,False,0.167,Elite,0.158,,Elite
+Tight - Clip 083.mp4,55729,,,DEFENSE,DL,3-tech,0.172,True,False,0.233,Above Average,0.195,,Elite
+Tight - Clip 083.mp4,55730,,,DEFENSE,EDGE,DE (down),0.110,True,False,0.167,Elite,0.132,,Elite
+Tight - Clip 083.mp4,55737,,,DEFENSE,EDGE,DE (down),0.134,True,False,0.233,Above Average,,,Above Average
+Tight - Clip 083.mp4,55744,,,DEFENSE,DL,5-tech,0.154,True,False,0.100,Elite,0.171,,Elite
+Tight - Clip 084.mp4,57607,,,DEFENSE,EDGE,DE (down),0.276,True,False,0.067,Elite,0.254,,Elite
+Tight - Clip 084.mp4,57646,,,DEFENSE,DL,0-tech (Nose),0.114,True,False,0.067,Elite,0.083,,Elite
+Tight - Clip 084.mp4,57693,,,DEFENSE,CB,Off (5-7 yards),0.101,False,False,0.067,Elite,,0.098,Elite
+Tight - Clip 084.mp4,57701,,,DEFENSE,DL,3-tech,0.264,True,False,0.033,Elite,0.179,,Elite
+Tight - Clip 084.mp4,57725,,,DEFENSE,EDGE,DE (down),0.253,False,False,0.067,Elite,0.176,,Elite
+Tight - Clip 084.mp4,57753,8,,DEFENSE,EDGE,DE (down),0.233,False,False,0.033,Elite,0.139,,Elite
+Tight - Clip 084.mp4,57768,,,DEFENSE,CB,Off (5-7 yards),0.083,False,False,0.067,Elite,,0.176,Elite
+Tight - Clip 085.mp4,57840,,,DEFENSE,UNKNOWN,,0.171,True,False,0.367,Average,,,Average
+Tight - Clip 085.mp4,57839,,,DEFENSE,UNKNOWN,,0.159,False,False,0.367,Average,,,Average
+Tight - Clip 085.mp4,57919,,,DEFENSE,DL,0-tech (Nose),0.137,True,False,0.333,Average,0.121,,Average
+Tight - Clip 085.mp4,57941,,,DEFENSE,DL,0-tech (Nose),0.206,True,False,0.433,Below Average,0.212,,Average
+Tight - Clip 085.mp4,57946,,,DEFENSE,DL,3-tech,0.140,True,False,0.300,Average,,,Average
+Tight - Clip 085.mp4,57970,,,DEFENSE,DL,3-tech,0.156,True,False,0.333,Average,0.152,,Above Average
+Tight - Clip 085.mp4,57983,,,DEFENSE,EDGE,DE (down),0.216,True,False,0.367,Average,0.215,,Above Average
+Tight - Clip 085.mp4,57986,,,DEFENSE,EDGE,DE (down),0.160,True,False,0.100,Elite,0.147,,Elite
+Tight - Clip 085.mp4,57992,,,DEFENSE,EDGE,DE (down),0.209,False,False,,,,,Average
+Tight - Clip 086.mp4,58286,,,DEFENSE,EDGE,DE (down),0.160,False,False,0.167,Elite,,,Elite
+Tight - Clip 086.mp4,58291,,,DEFENSE,CB,Deep,0.406,False,False,0.433,Average,,0.012,Average
+Tight - Clip 086.mp4,58294,,,DEFENSE,DL,5-tech,0.025,True,True,0.167,Elite,,,Elite
+Tight - Clip 086.mp4,58307,,,DEFENSE,EDGE,DE (down),0.238,False,False,0.467,Below Average,0.221,,Average
+Tight - Clip 086.mp4,58376,,,DEFENSE,DL,5-tech,0.368,True,False,,,,,Average
+Tight - Clip 086.mp4,58379,,,DEFENSE,EDGE,DE (down),0.345,True,False,0.033,Elite,0.330,,Elite
+Tight - Clip 086.mp4,58399,,,DEFENSE,DL,0-tech (Nose),0.137,True,False,0.100,Elite,0.103,,Elite
+Tight - Clip 086.mp4,58408,,,DEFENSE,EDGE,DE (down),0.162,True,False,0.233,Above Average,,,Above Average
+Tight - Clip 086.mp4,58436,,,DEFENSE,EDGE,DE (down),0.301,False,False,0.100,Elite,,,Elite
+Tight - Clip 086.mp4,58439,,,DEFENSE,DL,0-tech (Nose),0.261,True,False,0.100,Elite,,,Elite
+Tight - Clip 087.mp4,59368,,,DEFENSE,DL,0-tech (Nose),0.068,True,False,0.300,Average,0.078,,Average
+Tight - Clip 087.mp4,59377,,,DEFENSE,EDGE,DE (down),0.064,False,False,0.300,Average,0.077,,Average
+Tight - Clip 087.mp4,59319,,,DEFENSE,DL,5-tech,0.072,True,False,0.133,Elite,0.084,,Elite
+Tight - Clip 087.mp4,59400,,,DEFENSE,S,Deep half,0.408,False,False,0.100,Elite,,0.114,Elite
+Tight - Clip 087.mp4,59401,,,DEFENSE,DL,0-tech (Nose),0.100,True,False,0.233,Above Average,0.104,,Above Average
+Tight - Clip 087.mp4,59410,,,DEFENSE,EDGE,DE (down),0.017,True,True,0.300,Average,0.009,,Average
+Tight - Clip 087.mp4,59424,,,DEFENSE,EDGE,DE (down),0.061,False,False,1.100,Developmental,0.070,,Below Average
+Tight - Clip 087.mp4,59431,,,DEFENSE,EDGE,DE (down),0.024,False,True,0.167,Elite,,,Elite
+Tight - Clip 087.mp4,59512,66,,DEFENSE,EDGE,DE (down),0.131,True,False,0.400,Below Average,0.151,,Average
+Tight - Clip 087.mp4,59521,,,DEFENSE,DL,0-tech (Nose),0.076,True,False,0.133,Elite,,,Elite
+Tight - Clip 087.mp4,59527,,,DEFENSE,DL,5-tech,0.088,True,False,0.167,Elite,,,Elite
+Tight - Clip 087.mp4,59537,,,DEFENSE,DL,5-tech,0.057,True,False,0.133,Elite,0.049,,Elite
+Tight - Clip 088.mp4,59614,,,DEFENSE,SLOT,Nickel/Slot,0.090,False,False,0.167,Elite,,0.060,Elite
+Tight - Clip 088.mp4,59652,,,DEFENSE,EDGE,DE (down),0.025,False,True,0.200,Above Average,,,Above Average
+Tight - Clip 088.mp4,59725,,,DEFENSE,EDGE,DE (down),0.023,False,True,0.200,Above Average,0.028,,Above Average
+Tight - Clip 089.mp4,60017,27,,DEFENSE,SLOT,Nickel/Slot,0.105,False,False,0.300,Above Average,,0.015,Above Average
+Tight - Clip 089.mp4,60051,,,DEFENSE,DL,3-tech,0.018,True,True,0.067,Elite,0.094,,Elite
+Tight - Clip 089.mp4,60061,,,DEFENSE,EDGE,DE (down),0.192,True,False,0.200,Above Average,0.219,,Elite
+Tight - Clip 089.mp4,60152,,,DEFENSE,DL,1-tech,0.374,True,False,0.300,Average,0.377,,Above Average
+Tight - Clip 089.mp4,60185,,,DEFENSE,LB,WILL (weak),0.043,True,False,0.067,Elite,,,Elite
+Tight - Clip 089.mp4,60194,,,DEFENSE,EDGE,DE (down),0.007,True,True,0.033,Elite,,,Elite
+Tight - Clip 089.mp4,60207,,,DEFENSE,EDGE,DE (down),0.161,False,False,0.067,Elite,0.158,,Elite
+Tight - Clip 089.mp4,60229,,,DEFENSE,SLOT,Nickel/Slot,0.077,False,False,0.067,Elite,,0.029,Elite
+Tight - Clip 089.mp4,60239,,,DEFENSE,DL,5-tech,0.017,True,True,0.100,Elite,,,Elite
+Tight - Clip 089.mp4,60252,,,DEFENSE,S,Strong Safety,0.221,True,False,0.067,Elite,,0.104,Elite
+Tight - Clip 089.mp4,60275,,,DEFENSE,EDGE,DE (down),0.358,False,False,0.867,Developmental,0.359,,Average
+Tight - Clip 089.mp4,60321,,,DEFENSE,EDGE,DE (down),0.213,False,False,0.067,Elite,0.249,,Elite
+Tight - Clip 089.mp4,60359,,,DEFENSE,EDGE,DE (down),0.366,False,False,,,,,Average
+Tight - Clip 089.mp4,60365,,,DEFENSE,DL,0-tech (Nose),0.045,True,False,0.067,Elite,0.110,,Elite
+Tight - Clip 089.mp4,60391,,,DEFENSE,EDGE,DE (down),0.362,False,False,,,,,Average
+Tight - Clip 089.mp4,60397,,,DEFENSE,DL,5-tech,0.014,True,True,0.100,Elite,,,Elite
+Tight - Clip 089.mp4,60400,,,DEFENSE,DL,1-tech,0.046,True,False,0.100,Elite,0.097,,Elite
+Tight - Clip 090.mp4,60759,,,DEFENSE,DL,5-tech,0.140,True,False,0.100,Elite,,,Elite
+Tight - Clip 090.mp4,60785,,,DEFENSE,EDGE,DE (down),0.176,False,False,0.067,Elite,0.197,,Elite
+Tight - Clip 090.mp4,60871,,,DEFENSE,S,Strong Safety,0.277,True,False,0.067,Elite,,0.126,Elite
+Tight - Clip 090.mp4,60904,,,DEFENSE,EDGE,DE (down),0.075,True,False,0.067,Elite,0.073,,Elite
+Tight - Clip 090.mp4,60912,,,DEFENSE,CB,Deep,0.440,False,False,0.067,Elite,,0.074,Elite
+Tight - Clip 090.mp4,60919,65,,DEFENSE,EDGE,DE (down),0.237,True,False,0.067,Elite,,,Elite
+Tight - Clip 090.mp4,60940,,,DEFENSE,UNKNOWN,,0.161,True,False,0.233,Elite,,,Elite
+Tight - Clip 090.mp4,60941,,,DEFENSE,CB,Deep,0.330,False,False,0.067,Elite,,0.141,Elite
+Tight - Clip 090.mp4,60963,,,DEFENSE,CB,Press,0.072,False,False,0.100,Elite,,0.068,Elite
+Tight - Clip 090.mp4,60972,,,DEFENSE,S,Deep half,0.250,True,False,0.067,Elite,,0.086,Elite
+Tight - Clip 090.mp4,61003,56,,DEFENSE,DL,5-tech,0.262,True,False,0.100,Elite,0.299,,Elite
+Tight - Clip 090.mp4,61004,,,DEFENSE,S,Strong Safety,0.462,True,False,0.067,Elite,,0.082,Elite
+Tight - Clip 091.mp4,61234,,,DEFENSE,S,Strong Safety,0.356,True,False,0.067,Elite,,0.258,Elite
+Tight - Clip 091.mp4,61248,,,DEFENSE,EDGE,DE (down),0.215,False,False,0.100,Elite,0.242,,Elite
+Tight - Clip 091.mp4,61266,,,DEFENSE,DL,0-tech (Nose),0.221,True,False,0.067,Elite,0.256,,Elite
+Tight - Clip 091.mp4,61335,,,DEFENSE,DL,5-tech,0.009,True,True,0.033,Elite,0.077,,Elite
+Tight - Clip 091.mp4,61346,,,DEFENSE,DL,5-tech,0.259,True,False,0.067,Elite,,,Elite
+Tight - Clip 091.mp4,61515,,,DEFENSE,EDGE,DE (down),0.263,False,False,0.067,Elite,,,Elite
+Tight - Clip 091.mp4,61557,,,DEFENSE,DL,0-tech (Nose),0.249,True,False,0.067,Elite,,,Elite
+Tight - Clip 091.mp4,61561,,,DEFENSE,EDGE,DE (down),0.044,False,False,0.033,Elite,0.063,,Elite
+Tight - Clip 091.mp4,61562,,,DEFENSE,EDGE,DE (down),0.220,True,False,0.067,Elite,0.259,,Elite
+Tight - Clip 092.mp4,61746,,,DEFENSE,EDGE,DE (down),0.023,False,True,0.033,Elite,0.085,,Elite
+Tight - Clip 092.mp4,61757,,,DEFENSE,UNKNOWN,,0.169,True,False,0.067,Elite,,,Elite
+Tight - Clip 092.mp4,61831,55,,DEFENSE,DL,3-tech,0.140,True,False,0.200,Above Average,0.173,,Elite
+Tight - Clip 092.mp4,61940,,,DEFENSE,DL,1-tech,0.270,True,False,0.267,Above Average,,,Above Average
+Tight - Clip 092.mp4,61961,,,DEFENSE,S,Strong Safety,0.419,True,False,0.067,Elite,,0.081,Elite
+Tight - Clip 092.mp4,62011,,,DEFENSE,DL,5-tech,0.303,True,False,,,,,Average
+Tight - Clip 092.mp4,62021,,,DEFENSE,DL,5-tech,0.291,True,False,0.267,Above Average,0.274,,Elite
+Tight - Clip 092.mp4,62068,,,DEFENSE,DL,0-tech (Nose),0.274,True,False,0.367,Average,0.259,,Above Average
+Tight - Clip 092.mp4,62078,,,DEFENSE,DL,5-tech,0.153,True,False,0.033,Elite,,,Elite
+Tight - Clip 092.mp4,62094,,,DEFENSE,DL,1-tech,0.315,True,False,0.100,Elite,0.290,,Elite
+Tight - Clip 092.mp4,62097,,,DEFENSE,EDGE,DE (down),0.058,True,False,0.033,Elite,,,Elite
+Tight - Clip 093.mp4,62228,,,DEFENSE,S,Deep half,0.235,False,False,0.200,Elite,,0.146,Elite
+Tight - Clip 093.mp4,62227,,,DEFENSE,EDGE,DE (down),0.132,False,False,0.033,Elite,0.144,,Elite
+Tight - Clip 093.mp4,62269,,,DEFENSE,EDGE,DE (down),0.027,True,True,0.067,Elite,,,Elite
+Tight - Clip 093.mp4,62275,,,DEFENSE,UNKNOWN,,0.174,True,False,0.167,Elite,,,Elite
+Tight - Clip 093.mp4,62284,,,DEFENSE,DL,0-tech (Nose),0.141,True,False,0.200,Above Average,,,Above Average
+Tight - Clip 093.mp4,62311,,,DEFENSE,DL,5-tech,0.155,True,False,0.033,Elite,0.270,,Elite
+Tight - Clip 094.mp4,62351,,,DEFENSE,EDGE,DE (down),0.126,False,False,0.100,Elite,0.088,,Elite
+Tight - Clip 094.mp4,62443,,,DEFENSE,EDGE,DE (down),0.172,True,False,0.100,Elite,0.150,,Elite
+Tight - Clip 094.mp4,62488,,,DEFENSE,S,Strong Safety,0.378,True,False,0.100,Elite,,0.283,Elite
+Tight - Clip 094.mp4,62494,,,DEFENSE,EDGE,DE (down),0.231,False,False,0.133,Elite,,,Elite
+Tight - Clip 094.mp4,62501,,,DEFENSE,EDGE,DE (down),0.180,False,False,0.067,Elite,,,Elite
+Tight - Clip 094.mp4,62517,,,DEFENSE,S,Deep half,0.329,False,False,0.133,Elite,,0.374,Elite
+Tight - Clip 094.mp4,62539,,,DEFENSE,EDGE,OLB (up),0.043,False,False,0.033,Elite,,,Elite
+Tight - Clip 094.mp4,62550,,,DEFENSE,EDGE,DE (down),0.228,False,False,0.133,Elite,0.273,,Elite
+Tight - Clip 095.mp4,63241,,,DEFENSE,UNKNOWN,,0.155,True,False,0.100,Elite,,,Elite
+Tight - Clip 095.mp4,63264,,,DEFENSE,EDGE,DE (down),0.150,False,False,0.133,Elite,0.142,,Elite
+Tight - Clip 095.mp4,63270,,,DEFENSE,LB,WILL (weak),0.085,True,False,0.067,Elite,,,Elite
+Tight - Clip 095.mp4,63349,,,DEFENSE,DL,0-tech (Nose),0.115,True,False,0.100,Elite,,,Elite
+Tight - Clip 095.mp4,63398,,,DEFENSE,S,Deep half,0.425,True,False,0.100,Elite,,0.062,Elite
+Tight - Clip 095.mp4,63422,2,,DEFENSE,EDGE,DE (down),0.220,False,False,0.100,Elite,,,Elite
+Tight - Clip 095.mp4,63433,,,DEFENSE,EDGE,OLB (up),0.043,False,False,0.067,Elite,0.007,,Elite
+Tight - Clip 095.mp4,63541,,,DEFENSE,S,Free Safety (centerfield),0.455,True,False,0.067,Elite,,0.062,Elite
+Tight - Clip 095.mp4,63544,,,DEFENSE,S,Deep half,0.458,False,False,0.067,Elite,,0.053,Elite
+Tight - Clip 095.mp4,63550,,,DEFENSE,S,Deep half,0.454,False,False,0.200,Elite,,0.114,Elite
+Tight - Clip 095.mp4,63581,,,DEFENSE,S,Deep half,0.478,True,False,0.133,Elite,,0.049,Elite
+Tight - Clip 095.mp4,63588,5,,DEFENSE,EDGE,DE (down),0.151,False,False,0.100,Elite,,,Elite
+Tight - Clip 096.mp4,64171,,,DEFENSE,DL,0-tech (Nose),0.172,True,False,0.067,Elite,0.210,,Elite
+Tight - Clip 096.mp4,64380,,,DEFENSE,EDGE,DE (down),0.275,False,False,0.067,Elite,0.285,,Elite
+Tight - Clip 096.mp4,64381,,,DEFENSE,DL,3-tech,0.236,True,False,0.033,Elite,0.263,,Elite
+Tight - Clip 096.mp4,64421,,,DEFENSE,EDGE,DE (down),0.263,False,False,0.067,Elite,0.352,,Elite
+Tight - Clip 096.mp4,64454,,,DEFENSE,S,Deep half,0.343,True,False,0.100,Elite,,0.224,Elite
+Tight - Clip 096.mp4,64513,,,DEFENSE,EDGE,DE (down),0.152,False,False,0.167,Elite,0.209,,Elite
+Tight - Clip 096.mp4,64520,,,DEFENSE,EDGE,DE (down),0.261,True,False,0.033,Elite,0.290,,Elite
+Tight - Clip 096.mp4,64536,19,,DEFENSE,CB,Deep,0.393,False,False,0.067,Elite,,0.039,Elite
+Tight - Clip 097.mp4,64595,,,DEFENSE,S,Deep half,0.331,False,False,0.267,Above Average,,0.292,Elite
+Tight - Clip 097.mp4,64598,,,DEFENSE,S,Strong Safety,0.229,True,False,0.333,Above Average,,0.058,Above Average
+Tight - Clip 097.mp4,64601,,,DEFENSE,EDGE,DE (down),0.025,False,True,0.267,Above Average,0.002,,Above Average
+Tight - Clip 097.mp4,64617,,,DEFENSE,CB,Deep,0.352,False,False,0.367,Average,,0.109,Above Average
+Tight - Clip 097.mp4,64670,,,DEFENSE,DL,5-tech,0.084,True,False,0.333,Average,0.072,,Average
+Tight - Clip 098.mp4,65124,,,DEFENSE,LB,WILL (weak),0.091,True,False,0.100,Elite,,,Elite
+Tight - Clip 098.mp4,65186,,,DEFENSE,EDGE,DE (down),0.084,False,False,0.467,Below Average,0.092,,Average
+Tight - Clip 098.mp4,65203,1,,DEFENSE,UNKNOWN,,0.170,False,False,0.100,Elite,,,Elite
+Tight - Clip 098.mp4,65213,56,,DEFENSE,DL,0-tech (Nose),0.279,True,False,0.100,Elite,0.306,,Elite
+Tight - Clip 098.mp4,65220,,,DEFENSE,LB,SAM (strong),0.044,True,False,0.100,Elite,,,Elite
+Tight - Clip 098.mp4,65272,,,DEFENSE,S,Strong Safety,0.385,True,False,0.100,Elite,,0.067,Elite
+Tight - Clip 098.mp4,65326,66,,DEFENSE,DL,1-tech,0.123,True,False,0.133,Elite,0.143,,Elite
+Tight - Clip 098.mp4,65343,,,DEFENSE,EDGE,DE (down),0.033,False,False,0.300,Average,,,Average
+Tight - Clip 099.mp4,65575,,,DEFENSE,DL,3-tech,0.192,True,False,0.133,Elite,0.207,,Elite
+Tight - Clip 099.mp4,65593,,,DEFENSE,LB,SAM (strong),0.091,True,False,0.100,Elite,,,Elite
+Tight - Clip 099.mp4,65652,,,DEFENSE,DL,0-tech (Nose),0.271,True,False,0.300,Average,,,Average
+Tight - Clip 099.mp4,65657,,,DEFENSE,EDGE,OLB (up),0.034,False,False,0.200,Above Average,,,Above Average
+Tight - Clip 099.mp4,65694,,,DEFENSE,DL,0-tech (Nose),0.226,True,False,0.233,Above Average,,,Above Average
+Tight - Clip 099.mp4,65783,66,,DEFENSE,EDGE,OLB (up),0.040,True,False,0.100,Elite,,,Elite
+Tight - Clip 099.mp4,65790,,,DEFENSE,EDGE,DE (down),0.274,True,False,0.133,Elite,0.293,,Elite
+Tight - Clip 099.mp4,65800,,,DEFENSE,LB,MIKE (middle),0.050,True,False,0.033,Elite,,,Elite
+Tight - Clip 099.mp4,65806,,,DEFENSE,EDGE,DE (down),0.344,False,False,0.167,Elite,,,Elite
+Tight - Clip 099.mp4,65807,1,,DEFENSE,DL,0-tech (Nose),0.422,True,False,0.100,Elite,,,Elite
+Tight - Clip 099.mp4,65815,,,DEFENSE,EDGE,DE (down),0.337,False,False,0.100,Elite,0.341,,Elite
+Tight - Clip 099.mp4,65820,56,,DEFENSE,EDGE,DE (down),0.315,False,False,0.100,Elite,0.315,,Elite
+Tight - Clip 099.mp4,65822,,,DEFENSE,DL,3-tech,0.321,True,False,0.100,Elite,0.296,,Elite
+Tight - Clip 099.mp4,65826,,,DEFENSE,DL,1-tech,0.327,True,False,0.067,Elite,,,Elite
+Tight - Clip 100.mp4,65812,55,,DEFENSE,DL,0-tech (Nose),0.082,True,False,0.067,Elite,0.101,,Elite
+Tight - Clip 100.mp4,66050,,,DEFENSE,LB,WILL (weak),0.109,True,False,0.067,Elite,,,Elite
+Tight - Clip 100.mp4,66103,,,DEFENSE,EDGE,DE (down),0.011,False,True,0.067,Elite,0.019,,Elite
+Tight - Clip 100.mp4,66152,,,DEFENSE,LB,SAM (strong),0.030,True,False,0.067,Elite,,,Elite
+Tight - Clip 100.mp4,66154,3,,DEFENSE,EDGE,DE (down),0.030,False,True,0.067,Elite,0.038,,Elite
+Tight - Clip 100.mp4,66207,,,DEFENSE,S,Free Safety (centerfield),0.407,True,False,0.267,Above Average,,0.078,Above Average
+Tight - Clip 101.mp4,66271,,,DEFENSE,S,Deep half,0.311,False,False,0.067,Elite,,0.097,Elite
+Tight - Clip 101.mp4,66270,,,DEFENSE,EDGE,DE (down),0.095,False,False,0.067,Elite,0.025,,Elite
+Tight - Clip 101.mp4,66272,,,DEFENSE,UNKNOWN,,0.158,False,False,0.133,Elite,,,Elite
+Tight - Clip 101.mp4,66275,,,DEFENSE,DL,0-tech (Nose),0.066,True,False,0.233,Above Average,,,Above Average
+Tight - Clip 101.mp4,66276,,,DEFENSE,DL,5-tech,0.115,True,False,0.167,Elite,0.111,,Elite
+Tight - Clip 101.mp4,66277,,,DEFENSE,DL,0-tech (Nose),0.128,True,False,0.100,Elite,,,Elite
+Tight - Clip 101.mp4,66371,,,DEFENSE,S,Strong Safety,0.361,True,False,0.033,Elite,,0.451,Elite
+Tight - Clip 102.mp4,66739,,,DEFENSE,DL,5-tech,0.034,True,False,0.033,Elite,,,Elite
+Tight - Clip 102.mp4,66760,,,DEFENSE,S,Deep half,0.334,True,False,0.167,Elite,,0.125,Elite
+Tight - Clip 102.mp4,66765,,,DEFENSE,LB,MIKE (middle),0.109,True,False,0.100,Elite,,,Elite
+Tight - Clip 102.mp4,66762,,,DEFENSE,DL,1-tech,0.112,True,False,,,,,Average
+Tight - Clip 102.mp4,66763,,,DEFENSE,EDGE,DE (down),0.117,False,False,0.133,Elite,0.108,,Elite
+Tight - Clip 102.mp4,66823,,,DEFENSE,EDGE,DE (down),0.122,False,False,,,,,Average
+Tight - Clip 102.mp4,66839,,,DEFENSE,EDGE,DE (down),0.011,True,True,0.100,Elite,,,Elite
+Tight - Clip 103.mp4,67064,50,,DEFENSE,EDGE,DE (down),0.105,True,False,0.133,Elite,0.114,,Elite
+Tight - Clip 103.mp4,67184,,,DEFENSE,DL,0-tech (Nose),0.131,True,False,0.067,Elite,,,Elite
+Tight - Clip 103.mp4,67190,,,DEFENSE,DL,1-tech,0.079,True,False,0.067,Elite,0.106,,Elite
+Tight - Clip 103.mp4,67214,,,DEFENSE,EDGE,DE (down),0.083,False,False,0.100,Elite,,,Elite
+Tight - Clip 103.mp4,67227,,,DEFENSE,DL,3-tech,0.080,True,False,0.067,Elite,0.085,,Elite
+Tight - Clip 103.mp4,67233,,,DEFENSE,EDGE,DE (down),0.093,False,False,0.167,Elite,0.123,,Elite
+Tight - Clip 104.mp4,67465,,,DEFENSE,DL,0-tech (Nose),0.127,True,False,0.133,Elite,0.083,,Elite
+Tight - Clip 104.mp4,67541,,,DEFENSE,DL,3-tech,0.117,True,False,0.133,Elite,0.070,,Elite
+Tight - Clip 104.mp4,67767,,,DEFENSE,EDGE,DE (down),0.336,False,False,0.100,Elite,0.327,,Elite
+Tight - Clip 104.mp4,67843,,,DEFENSE,S,Strong Safety,0.385,True,False,0.200,Elite,,0.035,Elite
+Tight - Clip 104.mp4,67878,,,DEFENSE,DL,1-tech,0.150,True,False,0.133,Elite,0.108,,Elite
+Tight - Clip 104.mp4,67892,,,DEFENSE,S,Strong Safety,0.411,True,False,0.233,Elite,,0.008,Elite
+Tight - Clip 105.mp4,68125,,,DEFENSE,S,Deep half,0.367,True,False,0.100,Elite,,0.209,Elite
+Tight - Clip 105.mp4,68093,,,DEFENSE,LB,MIKE (middle),0.030,True,False,0.267,Above Average,,,Above Average
+Tight - Clip 105.mp4,68140,,,DEFENSE,DL,3-tech,0.176,True,False,0.067,Elite,0.137,,Elite
+Tight - Clip 105.mp4,68167,,,DEFENSE,EDGE,DE (down),0.222,False,False,0.167,Elite,0.200,,Elite
+Tight - Clip 105.mp4,68187,,,DEFENSE,DL,0-tech (Nose),0.034,True,False,0.033,Elite,,,Elite
+Tight - Clip 105.mp4,68206,,,DEFENSE,EDGE,DE (down),0.028,True,True,0.133,Elite,0.006,,Elite
+Tight - Clip 105.mp4,68213,,,DEFENSE,EDGE,DE (down),0.042,True,False,0.133,Elite,,,Elite
+Tight - Clip 105.mp4,68217,,,DEFENSE,EDGE,DE (down),0.213,True,False,0.067,Elite,,,Elite
+Tight - Clip 106.mp4,68447,,,DEFENSE,S,Deep half,0.253,True,False,0.067,Elite,,0.034,Elite
+Tight - Clip 106.mp4,68446,,,DEFENSE,S,Strong Safety,0.374,True,False,0.200,Elite,,0.032,Elite
+Tight - Clip 106.mp4,68466,,,DEFENSE,EDGE,DE (down),0.058,True,False,0.233,Above Average,0.042,,Above Average
+Tight - Clip 106.mp4,68484,,,DEFENSE,DL,1-tech,0.008,True,True,0.067,Elite,,,Elite
+Tight - Clip 106.mp4,68504,,,DEFENSE,SLOT,Nickel/Slot,0.141,False,False,0.267,Above Average,,0.169,Elite
+Tight - Clip 106.mp4,68509,,,DEFENSE,LB,SAM (strong),0.096,True,False,0.200,Elite,,,Elite
+Tight - Clip 106.mp4,68545,,,DEFENSE,EDGE,DE (down),0.066,False,False,0.100,Elite,0.063,,Elite
+Tight - Clip 106.mp4,68549,,,DEFENSE,LB,WILL (weak),0.068,True,False,,,,,Average
+Tight - Clip 107.mp4,69139,,,DEFENSE,S,Strong Safety,0.446,True,False,0.067,Elite,,0.066,Elite
+Tight - Clip 107.mp4,69176,,,DEFENSE,S,Deep half,0.439,False,False,0.067,Elite,,0.045,Elite
+Tight - Clip 107.mp4,69182,,,DEFENSE,S,Deep half,0.440,False,False,0.067,Elite,,0.066,Elite
+Tight - Clip 107.mp4,69208,,,DEFENSE,S,Strong Safety,0.432,True,False,0.033,Elite,,0.059,Elite
+Tight - Clip 107.mp4,69212,,,DEFENSE,S,Deep half,0.449,False,False,0.033,Elite,,0.064,Elite
+Tight - Clip 107.mp4,69246,,,DEFENSE,S,Deep half,0.434,True,False,0.033,Elite,,0.087,Elite
+Tight - Clip 107.mp4,69248,,,DEFENSE,S,Strong Safety,0.446,True,False,0.067,Elite,,0.041,Elite
+Tight - Clip 107.mp4,69261,,,DEFENSE,S,Deep half,0.460,True,False,0.033,Elite,,0.014,Elite
+Tight - Clip 108.mp4,69338,,,DEFENSE,EDGE,DE (down),0.197,False,False,0.367,Average,,,Average
+Tight - Clip 108.mp4,69341,,,DEFENSE,S,Deep half,0.253,False,False,0.333,Above Average,,0.274,Elite
+Tight - Clip 108.mp4,69354,,,DEFENSE,EDGE,DE (down),0.030,True,False,0.367,Average,0.006,,Average
+Tight - Clip 108.mp4,69355,,,DEFENSE,LB,MIKE (middle),0.121,True,False,0.233,Elite,,,Elite
+Tight - Clip 108.mp4,69178,,,DEFENSE,UNKNOWN,,0.159,False,False,0.400,Average,,,Average
+Tight - Clip 108.mp4,69428,,,DEFENSE,EDGE,DE (down),0.165,True,False,0.367,Average,0.222,,Above Average
+Tight - Clip 108.mp4,69436,,,DEFENSE,DL,5-tech,0.015,True,True,0.267,Above Average,0.040,,Above Average
+Tight - Clip 108.mp4,69455,,,DEFENSE,LB,WILL (weak),0.074,True,False,0.433,Average,,,Average
+Tight - Clip 109.mp4,69828,,,DEFENSE,CB,Deep,0.238,False,False,0.033,Elite,,0.724,Elite
+Tight - Clip 109.mp4,69879,,,DEFENSE,S,Deep half,0.399,False,False,0.100,Elite,,0.030,Elite
+Tight - Clip 109.mp4,69883,,,DEFENSE,DL,5-tech,0.016,True,True,0.133,Elite,,,Elite
+Tight - Clip 109.mp4,69882,,,DEFENSE,UNKNOWN,,0.168,False,False,0.100,Elite,,,Elite
+Tight - Clip 109.mp4,69913,,,DEFENSE,EDGE,DE (down),0.070,True,False,0.133,Elite,0.094,,Elite
+Tight - Clip 109.mp4,69946,,,DEFENSE,LB,MIKE (middle),0.128,True,False,0.067,Elite,,,Elite
+Tight - Clip 109.mp4,69949,,,DEFENSE,SLOT,Nickel/Slot,0.070,False,False,0.033,Elite,,0.052,Elite
+Tight - Clip 109.mp4,69965,,,DEFENSE,EDGE,DE (down),0.135,True,False,0.100,Elite,,,Elite
+Tight - Clip 110.mp4,70485,,,DEFENSE,LB,WILL (weak),0.074,True,False,0.233,Elite,,,Elite
+Tight - Clip 110.mp4,70484,,,DEFENSE,S,Deep half,0.225,True,False,0.167,Elite,,0.158,Elite
+Tight - Clip 110.mp4,70507,,,DEFENSE,S,Strong Safety,0.443,True,False,0.333,Above Average,,0.054,Above Average
+Tight - Clip 110.mp4,70529,,,DEFENSE,S,Strong Safety,0.467,True,False,0.400,Average,,0.060,Average
+Tight - Clip 110.mp4,70532,,,DEFENSE,S,Strong Safety,0.412,True,False,0.400,Average,,0.061,Average
+Tight - Clip 110.mp4,70541,,,DEFENSE,S,Free Safety (centerfield),0.248,True,False,0.167,Elite,,0.105,Elite
+Tight - Clip 110.mp4,70555,,,DEFENSE,UNKNOWN,,0.174,True,False,0.300,Above Average,,,Above Average
+Tight - Clip 111.mp4,71237,,,DEFENSE,LB,MIKE (middle),0.082,True,False,0.067,Elite,,,Elite
+Tight - Clip 111.mp4,71402,,,DEFENSE,DL,5-tech,0.205,True,False,0.100,Elite,0.206,,Elite
+Tight - Clip 111.mp4,71404,,,DEFENSE,CB,Press,0.069,False,False,,,,,Average
+Tight - Clip 111.mp4,71457,,,DEFENSE,EDGE,DE (down),0.378,True,False,0.067,Elite,,,Elite
+Tight - Clip 111.mp4,71493,,,DEFENSE,DL,3-tech,0.390,True,False,0.033,Elite,,,Elite
+Tight - Clip 111.mp4,71544,,,DEFENSE,EDGE,DE (down),0.128,False,False,0.033,Elite,0.154,,Elite
+Tight - Clip 111.mp4,71563,,,DEFENSE,DL,5-tech,0.392,True,False,0.033,Elite,,,Elite
+Tight - Clip 111.mp4,71578,,,DEFENSE,DL,1-tech,0.277,True,False,0.133,Elite,,,Elite
+Tight - Clip 111.mp4,71590,,,DEFENSE,EDGE,DE (down),0.204,False,False,0.067,Elite,,,Elite
+Tight - Clip 112.mp4,71917,,,DEFENSE,S,Strong Safety,0.296,True,False,0.033,Elite,,0.273,Elite
+Tight - Clip 112.mp4,71928,,,DEFENSE,DL,3-tech,0.171,True,False,0.033,Elite,,,Elite
+Tight - Clip 112.mp4,71936,,,DEFENSE,EDGE,DE (down),0.146,False,False,0.033,Elite,0.151,,Elite
+Tight - Clip 112.mp4,71959,,,DEFENSE,EDGE,DE (down),0.059,True,False,0.033,Elite,0.050,,Elite
+Tight - Clip 112.mp4,71969,,,DEFENSE,S,Strong Safety,0.228,True,False,0.033,Elite,,0.614,Elite
+Tight - Clip 112.mp4,72012,,,DEFENSE,EDGE,DE (down),0.120,False,False,0.100,Elite,,,Elite
+Tight - Clip 112.mp4,72037,,,DEFENSE,DL,0-tech (Nose),0.200,True,False,0.100,Elite,,,Elite
+Tight - Clip 113.mp4,72654,,,DEFENSE,DL,5-tech,0.201,True,False,0.100,Elite,0.100,,Elite
+Tight - Clip 113.mp4,72665,,,DEFENSE,DL,3-tech,0.037,True,False,0.233,Above Average,,,Above Average
+Tight - Clip 113.mp4,72659,,,DEFENSE,S,Strong Safety,0.247,True,False,0.033,Elite,,0.365,Elite
+Tight - Clip 113.mp4,72684,,,DEFENSE,EDGE,DE (down),0.185,False,False,0.167,Elite,0.203,,Elite
+Tight - Clip 113.mp4,72696,,,DEFENSE,EDGE,DE (down),0.238,False,False,0.267,Above Average,0.138,,Above Average
+Tight - Clip 113.mp4,72714,,,DEFENSE,EDGE,DE (down),0.096,False,False,0.033,Elite,,,Elite
+Tight - Clip 113.mp4,72769,,,DEFENSE,EDGE,DE (down),0.237,False,False,0.100,Elite,,,Elite
+Tight - Clip 113.mp4,72807,,,DEFENSE,LB,SAM (strong),0.144,True,False,0.067,Elite,,,Elite
+Tight - Clip 113.mp4,72825,,,DEFENSE,DL,5-tech,0.088,True,False,0.133,Elite,0.019,,Elite
+Tight - Clip 114.mp4,73535,,,DEFENSE,DL,0-tech (Nose),0.109,True,False,0.067,Elite,,,Elite
+Tight - Clip 114.mp4,73541,,,DEFENSE,UNKNOWN,,0.183,True,False,0.200,Elite,,,Elite
+Tight - Clip 114.mp4,73550,,,DEFENSE,EDGE,DE (down),0.184,True,False,0.267,Above Average,0.154,,Elite
+Tight - Clip 114.mp4,73581,,,DEFENSE,EDGE,DE (down),0.165,True,False,0.133,Elite,0.137,,Elite
+Tight - Clip 114.mp4,73584,,,DEFENSE,EDGE,DE (down),0.168,False,False,0.133,Elite,0.163,,Elite
+Tight - Clip 114.mp4,73601,,,DEFENSE,DL,5-tech,0.193,True,False,0.167,Elite,,,Elite
+Tight - Clip 114.mp4,73616,,,DEFENSE,DL,0-tech (Nose),0.164,True,False,0.200,Above Average,,,Above Average
+Tight - Clip 114.mp4,73674,,,DEFENSE,CB,Press,0.058,False,False,0.167,Elite,,0.006,Elite
+Tight - Clip 115.mp4,74164,,,DEFENSE,S,Strong Safety,0.292,True,False,0.067,Elite,,0.199,Elite
+Tight - Clip 115.mp4,74168,,,DEFENSE,EDGE,DE (down),0.151,True,False,0.233,Above Average,0.127,,Above Average
+Tight - Clip 115.mp4,74171,,,DEFENSE,DL,3-tech,0.190,True,False,0.133,Elite,0.199,,Elite
+Tight - Clip 115.mp4,74181,,,DEFENSE,LB,WILL (weak),0.060,True,False,0.100,Elite,,,Elite
+Tight - Clip 115.mp4,74318,2,,DEFENSE,EDGE,DE (down),0.445,False,False,0.033,Elite,,,Elite
+Tight - Clip 115.mp4,74322,,,DEFENSE,S,Deep half,0.475,True,False,,,,,Average
+Tight - Clip 115.mp4,74582,,,DEFENSE,CB,Deep,0.473,False,False,,,,,Average
+Tight - Clip 115.mp4,74667,,,DEFENSE,DL,5-tech,0.224,True,False,0.133,Elite,0.227,,Elite
+Tight - Clip 116.mp4,74737,,,DEFENSE,S,Strong Safety,0.221,True,False,0.100,Elite,,0.262,Elite
+Tight - Clip 116.mp4,74741,,,DEFENSE,DL,3-tech,0.044,True,False,0.133,Elite,0.055,,Elite
+Tight - Clip 116.mp4,74756,,,DEFENSE,CB,Deep,0.157,False,False,0.100,Elite,,0.438,Elite
+Tight - Clip 116.mp4,74763,,,DEFENSE,EDGE,DE (down),0.240,True,False,0.133,Elite,0.232,,Elite
+Tight - Clip 116.mp4,74814,,,DEFENSE,EDGE,DE (down),0.280,False,False,0.133,Elite,,,Elite
+Tight - Clip 116.mp4,74815,,,DEFENSE,EDGE,DE (down),0.021,False,True,0.067,Elite,,,Elite
+Tight - Clip 116.mp4,74817,,,DEFENSE,DL,0-tech (Nose),0.297,True,False,0.200,Above Average,0.290,,Elite
+Tight - Clip 116.mp4,74846,,,DEFENSE,EDGE,DE (down),0.033,False,False,0.033,Elite,,,Elite
+Tight - Clip 116.mp4,74855,,,DEFENSE,DL,0-tech (Nose),0.146,True,False,0.100,Elite,,,Elite
+Tight - Clip 116.mp4,74867,,,DEFENSE,EDGE,DE (down),0.156,True,False,0.100,Elite,0.187,,Elite
+Tight - Clip 117.mp4,75759,,,DEFENSE,DL,5-tech,0.004,True,True,0.333,Average,0.002,,Average
+Tight - Clip 117.mp4,75347,,,DEFENSE,DL,1-tech,0.134,True,False,0.133,Elite,,,Elite
+Tight - Clip 117.mp4,75761,,,DEFENSE,EDGE,DE (down),0.222,False,False,0.200,Above Average,0.220,,Elite
+Tight - Clip 117.mp4,75779,,,DEFENSE,S,Strong Safety,0.373,True,False,0.200,Elite,,0.244,Elite
+Tight - Clip 117.mp4,75795,,,DEFENSE,SLOT,Nickel/Slot,0.083,False,False,0.267,Above Average,,0.210,Elite
+Tight - Clip 117.mp4,75819,,,DEFENSE,EDGE,DE (down),0.294,False,False,0.267,Above Average,0.265,,Elite
+Tight - Clip 117.mp4,75829,,,DEFENSE,EDGE,DE (down),0.053,False,False,0.200,Above Average,,,Above Average
+Tight - Clip 117.mp4,75846,,,DEFENSE,CB,Deep,0.326,False,False,0.200,Elite,,0.372,Elite
+Tight - Clip 117.mp4,75855,,,DEFENSE,DL,3-tech,0.159,True,False,0.367,Average,0.146,,Average
+Tight - Clip 117.mp4,75868,,,DEFENSE,DL,5-tech,0.287,True,False,0.200,Above Average,0.302,,Elite
+Tight - Clip 117.mp4,75876,2,,DEFENSE,EDGE,DE (down),0.280,False,False,0.267,Above Average,,,Above Average
+Tight - Clip 118.mp4,76935,,,DEFENSE,S,Free Safety (centerfield),0.207,True,False,0.133,Elite,,0.038,Elite
+Tight - Clip 118.mp4,76961,,,DEFENSE,DL,5-tech,0.207,True,False,0.600,Developmental,0.245,,Average
+Tight - Clip 118.mp4,77057,,,DEFENSE,EDGE,DE (down),0.178,False,False,0.200,Above Average,0.207,,Elite
+Tight - Clip 118.mp4,77093,,,DEFENSE,DL,0-tech (Nose),0.155,True,False,0.333,Average,0.118,,Average
+Tight - Clip 118.mp4,77103,,,DEFENSE,DL,0-tech (Nose),0.073,True,False,0.233,Above Average,0.009,,Above Average
+Tight - Clip 118.mp4,77154,50,,DEFENSE,EDGE,DE (down),0.280,False,False,0.367,Average,0.312,,Above Average
+Tight - Clip 118.mp4,77192,,,DEFENSE,EDGE,DE (down),0.035,False,False,0.200,Above Average,,,Above Average
+Tight - Clip 118.mp4,77203,,,DEFENSE,EDGE,DE (down),0.215,True,False,0.067,Elite,,,Elite
+Tight - Clip 118.mp4,77210,,,DEFENSE,DL,5-tech,0.240,True,False,0.467,Below Average,0.220,,Average
+Tight - Clip 118.mp4,77221,,,DEFENSE,CB,Deep,0.226,False,False,0.600,Below Average,,0.023,Below Average
+Tight - Clip 119.mp4,77714,,,DEFENSE,CB,Deep,0.436,False,False,0.067,Elite,,0.211,Elite
+Tight - Clip 119.mp4,78000,4,,DEFENSE,S,Deep half,0.414,False,False,0.033,Elite,,0.224,Elite
+Tight - Clip 119.mp4,78042,,,DEFENSE,S,Strong Safety,0.458,True,False,0.067,Elite,,0.285,Elite
+Tight - Clip 119.mp4,78057,,,DEFENSE,S,Strong Safety,0.456,True,False,0.067,Elite,,0.274,Elite
+Tight - Clip 119.mp4,78133,,,DEFENSE,S,Strong Safety,0.453,True,False,0.067,Elite,,0.348,Elite
+Tight - Clip 119.mp4,78147,,,DEFENSE,CB,Deep,0.465,False,False,0.067,Elite,,0.240,Elite
+Tight - Clip 120.mp4,78635,,,DEFENSE,EDGE,DE (down),0.014,False,True,0.100,Elite,,,Elite
+Tight - Clip 120.mp4,78671,,,DEFENSE,LB,WILL (weak),0.068,True,False,0.133,Elite,,,Elite
+Tight - Clip 120.mp4,78789,21,,DEFENSE,DL,1-tech,0.001,True,True,0.167,Elite,0.018,,Elite
+Tight - Clip 120.mp4,78841,,,DEFENSE,DL,0-tech (Nose),0.019,True,True,,,,,Average
+Tight - Clip 120.mp4,78854,,,DEFENSE,LB,WILL (weak),0.067,True,False,0.167,Elite,,,Elite
+Tight - Clip 120.mp4,78858,,,DEFENSE,DL,3-tech,0.058,True,False,0.067,Elite,0.077,,Elite
+Tight - Clip 120.mp4,78859,,,DEFENSE,LB,WILL (weak),0.068,True,False,0.133,Elite,,,Elite
+Tight - Clip 120.mp4,78873,,,DEFENSE,EDGE,DE (down),0.056,False,False,0.200,Above Average,0.020,,Above Average
+Tight - Clip 120.mp4,78880,56,,DEFENSE,EDGE,DE (down),0.173,False,False,0.167,Elite,,,Elite
+Tight - Clip 121.mp4,78954,,,DEFENSE,S,Strong Safety,0.382,True,False,0.200,Elite,,0.248,Elite
+Tight - Clip 121.mp4,78951,,,DEFENSE,S,Strong Safety,0.327,True,False,0.200,Elite,,0.175,Elite
+Tight - Clip 121.mp4,78955,,,DEFENSE,SLOT,Nickel/Slot,0.076,False,False,0.167,Elite,,0.200,Elite
+Tight - Clip 121.mp4,78978,,,DEFENSE,DL,3-tech,0.108,True,False,0.167,Elite,0.053,,Elite
+Tight - Clip 121.mp4,78992,,,DEFENSE,LB,SAM (strong),0.057,True,False,0.167,Elite,,,Elite
+Tight - Clip 121.mp4,78994,,,DEFENSE,EDGE,DE (down),0.064,True,False,0.233,Above Average,,,Above Average
+Tight - Clip 121.mp4,79000,,,DEFENSE,DL,1-tech,0.056,True,False,0.167,Elite,,,Elite
+Tight - Clip 121.mp4,79022,,,DEFENSE,LB,WILL (weak),0.080,True,False,0.167,Elite,,,Elite
+Tight - Clip 121.mp4,79038,,,DEFENSE,SLOT,Nickel/Slot,0.074,False,False,0.100,Elite,,0.109,Elite
+Tight - Clip 121.mp4,79041,,,DEFENSE,LB,MIKE (middle),0.066,True,False,0.233,Elite,,,Elite
+Tight - Clip 122.mp4,79181,,,DEFENSE,LB,SAM (strong),0.033,True,False,0.033,Elite,,,Elite
+Tight - Clip 122.mp4,79481,,,DEFENSE,EDGE,OLB (up),0.034,True,False,0.167,Elite,,,Elite
+Tight - Clip 122.mp4,79485,,,DEFENSE,LB,MIKE (middle),0.084,True,False,0.367,Average,,,Average
+Tight - Clip 122.mp4,79491,,,DEFENSE,LB,WILL (weak),0.086,True,False,0.100,Elite,,,Elite
+Tight - Clip 122.mp4,79530,,,DEFENSE,EDGE,OLB (up),0.035,False,False,0.067,Elite,,,Elite
+Tight - Clip 122.mp4,79582,,,DEFENSE,LB,WILL (weak),0.070,True,False,0.100,Elite,,,Elite
+Tight - Clip 122.mp4,79608,,,DEFENSE,S,Free Safety (centerfield),0.401,True,False,0.133,Elite,,0.090,Elite
+Tight - Clip 122.mp4,79609,,,DEFENSE,S,Strong Safety,0.399,True,False,0.133,Elite,,0.132,Elite
+Tight - Clip 122.mp4,79611,,,DEFENSE,S,Free Safety (centerfield),0.407,True,False,0.133,Elite,,0.101,Elite
+Tight - Clip 122.mp4,79630,,,DEFENSE,S,Deep half,0.438,True,False,0.167,Elite,,0.109,Elite
+Tight - Clip 122.mp4,79632,,,DEFENSE,S,Deep half,0.431,False,False,0.233,Elite,,0.086,Elite
+Tight - Clip 122.mp4,79631,,,DEFENSE,S,Strong Safety,0.441,True,False,0.200,Elite,,0.100,Elite
+Tight - Clip 122.mp4,79643,73,,DEFENSE,CB,Deep,0.245,False,False,,,,0.005,Average
+Tight - Clip 122.mp4,79652,,,DEFENSE,S,Deep half,0.417,False,False,0.367,Average,,0.014,Average
+Tight - Clip 123.mp4,79711,,,DEFENSE,EDGE,OLB (up),0.037,True,False,0.133,Elite,,,Elite
+Tight - Clip 123.mp4,79582,,,DEFENSE,S,Deep half,0.279,False,False,0.133,Elite,,0.175,Elite
+Tight - Clip 123.mp4,79747,,,DEFENSE,UNKNOWN,,0.189,True,False,0.067,Elite,,,Elite
+Tight - Clip 123.mp4,79759,,,DEFENSE,DL,0-tech (Nose),0.023,True,True,0.167,Elite,0.003,,Elite
+Tight - Clip 123.mp4,79774,,,DEFENSE,EDGE,DE (down),0.029,False,True,0.033,Elite,,,Elite
+Tight - Clip 123.mp4,79800,,,DEFENSE,EDGE,OLB (up),0.038,True,False,0.167,Elite,,,Elite
+Tight - Clip 123.mp4,79809,,,DEFENSE,EDGE,DE (down),0.012,False,True,0.200,Above Average,,,Above Average
+Tight - Clip 123.mp4,79825,,,DEFENSE,LB,SAM (strong),0.039,True,False,0.133,Elite,,,Elite
+Tight - Clip 124.mp4,80008,,,DEFENSE,LB,WILL (weak),0.094,True,False,0.067,Elite,,,Elite
+Tight - Clip 124.mp4,80236,54,,DEFENSE,LB,WILL (weak),0.074,True,False,0.033,Elite,,,Elite
+Tight - Clip 125.mp4,80454,,,DEFENSE,EDGE,DE (down),0.055,False,False,0.300,Average,0.048,,Average
+Tight - Clip 125.mp4,80455,,,DEFENSE,LB,WILL (weak),0.101,True,False,0.100,Elite,,,Elite
+Tight - Clip 125.mp4,80464,,,DEFENSE,DL,0-tech (Nose),0.023,True,True,0.167,Elite,,,Elite
+Tight - Clip 125.mp4,80525,,,DEFENSE,EDGE,DE (down),0.028,False,True,0.167,Elite,,,Elite
+Tight - Clip 125.mp4,80530,,,DEFENSE,CB,Deep,0.221,False,False,0.133,Elite,,0.062,Elite
+Tight - Clip 125.mp4,80531,,,DEFENSE,EDGE,DE (down),0.029,True,True,0.167,Elite,0.063,,Elite
+Tight - Clip 125.mp4,80534,,,DEFENSE,DL,5-tech,0.004,True,True,0.133,Elite,0.044,,Elite
+Tight - Clip 125.mp4,80539,,,DEFENSE,DL,1-tech,0.022,True,True,0.100,Elite,,,Elite
+Tight - Clip 125.mp4,80580,,,DEFENSE,DL,5-tech,0.008,True,True,0.133,Elite,,,Elite
+Tight - Clip 125.mp4,80592,,,DEFENSE,DL,3-tech,0.071,True,False,0.133,Elite,0.078,,Elite
+Tight - Clip 125.mp4,80593,,,DEFENSE,EDGE,DE (down),0.023,False,True,0.167,Elite,,,Elite
+Tight - Clip 125.mp4,80640,,,DEFENSE,LB,WILL (weak),0.133,True,False,,,,,Average
+Tight - Clip 125.mp4,80641,,,DEFENSE,EDGE,DE (down),0.055,False,False,,,,,Average
+Tight - Clip 126.mp4,80968,,,DEFENSE,EDGE,DE (down),0.038,False,False,0.100,Elite,,,Elite
+Tight - Clip 126.mp4,81133,,,DEFENSE,DL,3-tech,0.004,True,True,0.067,Elite,,,Elite
+Tight - Clip 126.mp4,81215,58,,DEFENSE,EDGE,DE (down),0.046,False,False,0.067,Elite,0.074,,Elite
+Tight - Clip 126.mp4,81227,54,,DEFENSE,DL,1-tech,0.032,True,False,0.100,Elite,0.035,,Elite
+Tight - Clip 126.mp4,81251,,,DEFENSE,DL,1-tech,0.013,True,True,0.100,Elite,,,Elite
+Tight - Clip 126.mp4,81269,60,,DEFENSE,DL,0-tech (Nose),0.140,True,False,0.067,Elite,,,Elite
+Tight - Clip 126.mp4,81287,66,,DEFENSE,DL,0-tech (Nose),0.023,True,True,0.100,Elite,,,Elite
+Tight - Clip 127.mp4,81378,,,DEFENSE,S,Strong Safety,0.374,True,False,0.167,Elite,,0.107,Elite
+Tight - Clip 127.mp4,81383,,,DEFENSE,EDGE,OLB (up),0.030,True,False,0.167,Elite,,,Elite
+Tight - Clip 127.mp4,81381,,,DEFENSE,EDGE,DE (down),0.091,False,False,0.133,Elite,0.082,,Elite
+Tight - Clip 127.mp4,81380,,,DEFENSE,LB,MIKE (middle),0.036,True,False,0.167,Elite,,,Elite
+Tight - Clip 127.mp4,81386,,,DEFENSE,DL,3-tech,0.130,True,False,0.167,Elite,0.120,,Elite
+Tight - Clip 127.mp4,81524,,,DEFENSE,DL,0-tech (Nose),0.095,True,False,0.167,Elite,0.085,,Elite
+Tight - Clip 127.mp4,81631,,,DEFENSE,EDGE,DE (down),0.105,True,False,0.033,Elite,0.096,,Elite
+Tight - Clip 127.mp4,81667,,,DEFENSE,EDGE,DE (down),0.011,True,True,0.167,Elite,,,Elite
+Tight - Clip 127.mp4,81706,,,DEFENSE,DL,1-tech,0.122,True,False,,,,,Average
+Tight - Clip 127.mp4,81731,,,DEFENSE,S,Deep half,0.413,True,False,0.200,Elite,,0.075,Elite
+Tight - Clip 127.mp4,81809,,,DEFENSE,EDGE,DE (down),0.246,False,False,0.167,Elite,0.251,,Elite
+Tight - Clip 127.mp4,81862,20,,DEFENSE,S,Deep half,0.353,False,False,0.167,Elite,,0.100,Elite
+Tight - Clip 127.mp4,81881,,,DEFENSE,S,Deep half,0.442,True,False,0.133,Elite,,0.175,Elite
+Tight - Clip 127.mp4,81896,,,DEFENSE,DL,3-tech,0.221,True,False,0.133,Elite,0.225,,Elite
+Tight - Clip 127.mp4,81918,,,DEFENSE,EDGE,DE (down),0.186,False,False,0.200,Above Average,,,Above Average
+Tight - Clip 127.mp4,81919,,,DEFENSE,DL,0-tech (Nose),0.099,True,False,0.100,Elite,0.077,,Elite
+Tight - Clip 127.mp4,81929,,,DEFENSE,S,Strong Safety,0.437,True,False,0.167,Elite,,0.056,Elite
+Tight - Clip 127.mp4,81934,,,DEFENSE,S,Strong Safety,0.438,True,False,0.167,Elite,,0.071,Elite
+Tight - Clip 127.mp4,81936,,,DEFENSE,S,Free Safety (centerfield),0.458,True,False,0.167,Elite,,0.051,Elite
+Tight - Clip 128.mp4,81380,,,DEFENSE,S,Deep half,0.233,False,False,0.300,Above Average,,0.012,Above Average
+Tight - Clip 128.mp4,81381,,,DEFENSE,DL,1-tech,0.019,True,True,0.567,Developmental,,,Below Average
+Tight - Clip 128.mp4,82131,,,DEFENSE,S,Deep half,0.321,True,False,0.100,Elite,,0.064,Elite
+Tight - Clip 128.mp4,82164,,,DEFENSE,EDGE,DE (down),0.018,False,True,0.300,Average,0.020,,Average
+Tight - Clip 128.mp4,82210,,,DEFENSE,LB,WILL (weak),0.077,True,False,0.267,Above Average,,,Above Average
+Tight - Clip 128.mp4,82230,,,DEFENSE,DL,0-tech (Nose),0.002,True,True,0.433,Below Average,,,Below Average
+Tight - Clip 128.mp4,82249,,,DEFENSE,CB,Off (5-7 yards),0.115,False,False,0.267,Above Average,,0.083,Above Average
+Tight - Clip 128.mp4,82257,,,DEFENSE,DL,0-tech (Nose),0.032,True,False,0.433,Below Average,0.027,,Below Average
+Tight - Clip 128.mp4,82262,,,DEFENSE,DL,3-tech,0.022,True,True,0.467,Below Average,,,Below Average
+Tight - Clip 128.mp4,82268,,,DEFENSE,CB,Deep,0.215,False,False,0.367,Average,,0.073,Average
+Tight - Clip 129.mp4,82776,,,DEFENSE,S,Deep half,0.327,True,False,0.200,Elite,,0.206,Elite
+Tight - Clip 129.mp4,82839,,,DEFENSE,EDGE,DE (down),0.010,False,True,0.300,Average,,,Average
+Tight - Clip 129.mp4,82857,,,DEFENSE,LB,MIKE (middle),0.033,True,False,0.200,Elite,,,Elite
+Tight - Clip 129.mp4,82862,,,DEFENSE,DL,1-tech,0.023,True,True,0.233,Above Average,,,Above Average
+Tight - Clip 129.mp4,82893,,,DEFENSE,S,Deep half,0.261,True,False,0.233,Elite,,0.047,Elite
+Tight - Clip 129.mp4,82939,,,DEFENSE,S,Deep half,0.201,True,False,0.167,Elite,,0.133,Elite
+Tight - Clip 129.mp4,82967,,,DEFENSE,LB,WILL (weak),0.149,True,False,0.267,Above Average,,,Above Average
+Tight - Clip 129.mp4,82987,,,DEFENSE,DL,3-tech,0.000,True,True,0.067,Elite,,,Elite
+Tight - Clip 129.mp4,82990,,,DEFENSE,CB,Off (5-7 yards),0.113,False,False,0.200,Elite,,0.267,Elite
+Tight - Clip 130.mp4,83364,,,DEFENSE,CB,Deep,0.207,False,False,0.167,Elite,,0.161,Elite
+Tight - Clip 130.mp4,83423,,,DEFENSE,UNKNOWN,,0.161,True,False,0.100,Elite,,,Elite
+Tight - Clip 130.mp4,83503,,,DEFENSE,EDGE,DE (down),0.008,True,True,0.200,Above Average,0.003,,Above Average
+Tight - Clip 130.mp4,83519,,,DEFENSE,EDGE,OLB (up),0.036,True,False,0.067,Elite,0.052,,Elite
+Tight - Clip 130.mp4,83556,,,DEFENSE,DL,3-tech,0.007,True,True,0.067,Elite,0.058,,Elite
+Tight - Clip 130.mp4,83709,,,DEFENSE,DL,1-tech,0.035,True,False,0.267,Above Average,,,Above Average
+Tight - Clip 131.mp4,83907,,,DEFENSE,EDGE,OLB (up),0.045,True,False,0.200,Above Average,,,Above Average
+Tight - Clip 131.mp4,84007,,,DEFENSE,DL,3-tech,0.081,True,False,0.033,Elite,,,Elite
+Tight - Clip 131.mp4,84029,,,DEFENSE,DL,1-tech,0.104,True,False,0.167,Elite,0.130,,Elite
+Tight - Clip 131.mp4,84071,,,DEFENSE,EDGE,DE (down),0.119,False,False,0.400,Below Average,0.149,,Average
+Tight - Clip 131.mp4,84074,,,DEFENSE,DL,0-tech (Nose),0.101,True,False,0.200,Above Average,0.132,,Above Average
+Tight - Clip 131.mp4,84080,,,DEFENSE,EDGE,DE (down),0.095,False,False,0.400,Below Average,0.125,,Average
+Tight - Clip 131.mp4,84091,,,DEFENSE,DL,5-tech,0.047,True,False,0.100,Elite,0.099,,Elite
+Tight - Clip 131.mp4,84095,,,DEFENSE,DL,0-tech (Nose),0.098,True,False,0.233,Above Average,0.125,,Above Average
+Tight - Clip 132.mp4,84815,,,DEFENSE,CB,Deep,0.360,False,False,0.267,Above Average,,0.009,Above Average
+Tight - Clip 132.mp4,84903,,,DEFENSE,S,Deep half,0.427,False,False,0.767,Developmental,,0.014,Below Average
+Tight - Clip 132.mp4,84914,,,DEFENSE,S,Deep half,0.324,True,False,0.167,Elite,,0.020,Elite
+Tight - Clip 132.mp4,84945,,,DEFENSE,CB,Deep,0.381,False,False,0.400,Average,,0.008,Average
+Tight - Clip 132.mp4,84987,,,DEFENSE,S,Strong Safety,0.443,True,False,0.133,Elite,,0.010,Elite
+Tight - Clip 133.mp4,85253,,,DEFENSE,EDGE,DE (down),0.003,True,True,0.167,Elite,,,Elite
+Tight - Clip 133.mp4,85256,,,DEFENSE,S,Deep half,0.333,False,False,0.633,Below Average,,0.025,Below Average
+Tight - Clip 133.mp4,85259,,,DEFENSE,EDGE,DE (down),0.007,False,True,0.100,Elite,,,Elite
+Tight - Clip 133.mp4,85262,,,DEFENSE,EDGE,DE (down),0.024,True,True,0.067,Elite,,,Elite
+Tight - Clip 133.mp4,85264,,,DEFENSE,DL,3-tech,0.013,True,True,0.100,Elite,,,Elite
+Tight - Clip 133.mp4,85278,,,DEFENSE,EDGE,DE (down),0.003,False,True,0.133,Elite,,,Elite
+Tight - Clip 133.mp4,85352,,,DEFENSE,EDGE,DE (down),0.026,True,True,0.033,Elite,,,Elite
+Tight - Clip 134.mp4,85568,,,DEFENSE,DL,0-tech (Nose),0.055,True,False,0.033,Elite,,,Elite
+Tight - Clip 134.mp4,85572,,,DEFENSE,S,Deep half,0.202,True,False,0.167,Elite,,0.111,Elite
+Tight - Clip 134.mp4,85576,,,DEFENSE,EDGE,DE (down),0.036,False,False,0.267,Above Average,0.018,,Above Average
+Tight - Clip 134.mp4,85618,,,DEFENSE,EDGE,DE (down),0.031,False,False,0.067,Elite,0.034,,Elite
+Tight - Clip 134.mp4,85682,,,DEFENSE,EDGE,DE (down),0.005,False,True,0.233,Above Average,0.023,,Above Average
+Tight - Clip 135.mp4,86009,,,DEFENSE,LB,SAM (strong),0.083,True,False,0.233,Elite,,,Elite
+Tight - Clip 135.mp4,86017,,,DEFENSE,LB,SAM (strong),0.122,True,False,0.233,Elite,,,Elite
+Tight - Clip 135.mp4,86021,,,DEFENSE,DL,0-tech (Nose),0.004,True,True,0.100,Elite,0.026,,Elite
+Tight - Clip 135.mp4,86050,,,DEFENSE,EDGE,DE (down),0.054,False,False,0.200,Above Average,0.046,,Above Average
+Tight - Clip 135.mp4,86070,,,DEFENSE,LB,WILL (weak),0.082,True,False,0.100,Elite,,,Elite
+Tight - Clip 135.mp4,86075,,,DEFENSE,LB,SAM (strong),0.091,True,False,0.067,Elite,,,Elite
+Tight - Clip 135.mp4,86238,,,DEFENSE,S,Strong Safety,0.447,True,False,0.533,Below Average,,0.054,Below Average
+Tight - Clip 135.mp4,86243,,,DEFENSE,LB,WILL (weak),0.082,True,False,0.300,Above Average,,,Above Average
+Tight - Clip 135.mp4,86246,,,DEFENSE,EDGE,DE (down),0.062,True,False,0.067,Elite,,,Elite
+Tight - Clip 135.mp4,86254,,,DEFENSE,DL,5-tech,0.050,True,False,0.133,Elite,0.046,,Elite
+Tight - Clip 135.mp4,86274,,,DEFENSE,EDGE,DE (down),0.020,False,True,0.067,Elite,,,Elite
+Tight - Clip 135.mp4,86278,,,DEFENSE,DL,0-tech (Nose),0.022,True,True,0.367,Average,,,Average
+Tight - Clip 135.mp4,86311,,,DEFENSE,DL,1-tech,0.016,True,True,0.067,Elite,0.039,,Elite
+Tight - Clip 136.mp4,86516,,,DEFENSE,S,Strong Safety,0.209,True,False,0.167,Elite,,0.149,Elite
+Tight - Clip 136.mp4,86515,,,DEFENSE,CB,Deep,0.373,False,False,0.200,Elite,,0.161,Elite
+Tight - Clip 136.mp4,86520,,,DEFENSE,EDGE,DE (down),0.073,False,False,0.167,Elite,0.079,,Elite
+Tight - Clip 136.mp4,86586,,,DEFENSE,EDGE,DE (down),0.122,True,False,0.200,Above Average,,,Above Average
+Tight - Clip 136.mp4,86632,,,DEFENSE,EDGE,DE (down),0.064,False,False,0.167,Elite,0.056,,Elite
+Tight - Clip 136.mp4,86684,,,DEFENSE,DL,3-tech,0.008,True,True,0.033,Elite,,,Elite
+Tight - Clip 136.mp4,86708,,,DEFENSE,DL,5-tech,0.027,True,True,0.133,Elite,,,Elite
+Tight - Clip 137.mp4,87184,3,,DEFENSE,EDGE,DE (down),0.165,False,False,0.100,Elite,,,Elite
+Tight - Clip 137.mp4,87253,,,DEFENSE,DL,5-tech,0.051,True,False,0.167,Elite,0.088,,Elite
+Tight - Clip 137.mp4,87318,,,DEFENSE,DL,5-tech,0.091,True,False,0.067,Elite,,,Elite
+Tight - Clip 137.mp4,87379,,,DEFENSE,S,Strong Safety,0.377,True,False,0.100,Elite,,0.068,Elite
+Tight - Clip 137.mp4,87399,,,DEFENSE,EDGE,DE (down),0.081,False,False,0.100,Elite,0.095,,Elite
+Tight - Clip 137.mp4,87426,,,DEFENSE,EDGE,DE (down),0.019,False,True,0.100,Elite,0.060,,Elite
+Tight - Clip 137.mp4,87429,,,DEFENSE,S,Deep half,0.457,False,False,0.067,Elite,,0.032,Elite
+Tight - Clip 137.mp4,87433,,,DEFENSE,CB,Off (5-7 yards),0.092,False,False,0.233,Elite,,0.007,Elite
+Tight - Clip 137.mp4,87436,2,,DEFENSE,S,Free Safety (centerfield),0.461,True,False,0.433,Average,,0.083,Average
+Tight - Clip 138.mp4,87669,,,DEFENSE,EDGE,DE (down),0.095,False,False,0.100,Elite,,,Elite
+Tight - Clip 138.mp4,87734,,,DEFENSE,EDGE,DE (down),0.089,True,False,0.133,Elite,0.111,,Elite
+Tight - Clip 138.mp4,87740,,,DEFENSE,EDGE,DE (down),0.138,True,False,0.100,Elite,0.153,,Elite
+Tight - Clip 138.mp4,87783,,,DEFENSE,DL,1-tech,0.105,True,False,0.100,Elite,0.160,,Elite
+Tight - Clip 138.mp4,87861,,,DEFENSE,EDGE,DE (down),0.145,False,False,0.133,Elite,,,Elite
+Tight - Clip 138.mp4,87890,,,DEFENSE,EDGE,DE (down),0.063,False,False,0.333,Average,,,Average
+Tight - Clip 139.mp4,88115,,,DEFENSE,S,Deep half,0.313,False,False,0.200,Elite,,0.125,Elite
+Tight - Clip 139.mp4,88184,,,DEFENSE,DL,3-tech,0.086,True,False,0.200,Above Average,0.083,,Above Average
+Tight - Clip 139.mp4,88330,,,DEFENSE,EDGE,DE (down),0.069,False,False,0.033,Elite,0.153,,Elite
+Tight - Clip 139.mp4,88331,,,DEFENSE,DL,0-tech (Nose),0.035,True,False,0.200,Above Average,0.134,,Above Average
+Tight - Clip 140.mp4,88489,,,DEFENSE,DL,1-tech,0.139,True,False,0.033,Elite,0.155,,Elite
+Tight - Clip 140.mp4,88729,,,DEFENSE,DL,0-tech (Nose),0.014,True,True,0.167,Elite,0.087,,Elite
+Tight - Clip 140.mp4,88735,,,DEFENSE,EDGE,DE (down),0.175,False,False,,,,,Average
+Tight - Clip 140.mp4,88760,,,DEFENSE,EDGE,DE (down),0.112,False,False,0.067,Elite,0.140,,Elite
+Tight - Clip 141.mp4,89827,,,DEFENSE,S,Deep half,0.389,True,False,0.300,Above Average,,0.015,Above Average
+Tight - Clip 141.mp4,89846,32,,DEFENSE,SLOT,Nickel/Slot,0.098,False,False,0.133,Elite,,0.050,Elite
+Tight - Clip 141.mp4,89851,66,,DEFENSE,LB,MIKE (middle),0.120,True,False,0.133,Elite,,,Elite
+Tight - Clip 141.mp4,89921,,,DEFENSE,S,Deep half,0.205,True,False,0.067,Elite,,0.050,Elite
+Tight - Clip 141.mp4,89928,,,DEFENSE,S,Deep half,0.396,True,False,0.267,Above Average,,0.014,Above Average
+Tight - Clip 141.mp4,89985,,,DEFENSE,S,Strong Safety,0.400,True,False,0.600,Below Average,,0.009,Below Average
+Tight - Clip 141.mp4,90003,7,,DEFENSE,S,Strong Safety,0.402,True,False,0.200,Elite,,0.035,Elite
+Tight - Clip 141.mp4,90023,23,,DEFENSE,LB,SAM (strong),0.058,True,False,0.067,Elite,,,Elite
+Tight - Clip 141.mp4,90044,,,DEFENSE,CB,Deep,0.449,False,False,0.633,Below Average,,0.032,Below Average
+Tight - Clip 141.mp4,90082,,,DEFENSE,S,Deep half,0.460,False,False,0.367,Average,,0.025,Average
+Tight - Clip 142.mp4,90164,,,DEFENSE,EDGE,DE (down),0.055,False,False,0.067,Elite,0.082,,Elite
+Tight - Clip 142.mp4,90371,2,,DEFENSE,EDGE,DE (down),0.130,False,False,0.067,Elite,0.179,,Elite
+Tight - Clip 142.mp4,90394,,,DEFENSE,EDGE,DE (down),0.118,True,False,0.133,Elite,0.162,,Elite
+Tight - Clip 142.mp4,90397,,,DEFENSE,EDGE,DE (down),0.357,False,False,0.333,Average,0.282,,Above Average
+Tight - Clip 142.mp4,90401,,,DEFENSE,DL,3-tech,0.094,True,False,0.033,Elite,0.116,,Elite
+Tight - Clip 142.mp4,90415,,,DEFENSE,EDGE,DE (down),0.098,False,False,0.167,Elite,0.129,,Elite
+Tight - Clip 142.mp4,90425,,,DEFENSE,DL,5-tech,0.430,True,False,0.267,Above Average,0.384,,Elite
+Tight - Clip 143.mp4,91196,,,DEFENSE,S,Strong Safety,0.339,True,False,0.133,Elite,,0.364,Elite
+Tight - Clip 143.mp4,91312,,,DEFENSE,EDGE,OLB (up),0.045,False,False,0.133,Elite,,,Elite
+Tight - Clip 143.mp4,91376,,,DEFENSE,DL,3-tech,0.234,True,False,0.067,Elite,0.176,,Elite
+Tight - Clip 143.mp4,91401,,,DEFENSE,EDGE,DE (down),0.267,True,False,0.133,Elite,0.255,,Elite
+Tight - Clip 143.mp4,91472,,,DEFENSE,EDGE,DE (down),0.040,False,False,0.067,Elite,,,Elite
+Tight - Clip 143.mp4,91493,,,DEFENSE,EDGE,DE (down),0.143,True,False,0.067,Elite,0.097,,Elite
+Tight - Clip 143.mp4,91509,,,DEFENSE,EDGE,DE (down),0.274,False,False,0.267,Above Average,0.248,,Elite
+Tight - Clip 143.mp4,91511,,,DEFENSE,DL,0-tech (Nose),0.125,True,False,0.067,Elite,,,Elite
+Tight - Clip 143.mp4,91517,,,DEFENSE,EDGE,DE (down),0.230,False,False,0.133,Elite,0.224,,Elite
+Tight - Clip 144.mp4,91887,,,DEFENSE,EDGE,DE (down),0.005,False,True,0.033,Elite,0.038,,Elite
+Tight - Clip 144.mp4,92038,,,DEFENSE,EDGE,OLB (up),0.034,False,False,0.033,Elite,,,Elite
+Tight - Clip 144.mp4,92044,,,DEFENSE,S,Deep half,0.274,True,False,0.033,Elite,,0.120,Elite
+Tight - Clip 144.mp4,92081,,,DEFENSE,SLOT,Nickel/Slot,0.122,False,False,0.100,Elite,,0.014,Elite
+Tight - Clip 144.mp4,92093,,,DEFENSE,EDGE,DE (down),0.096,False,False,0.100,Elite,,,Elite
+Tight - Clip 144.mp4,92095,3,,DEFENSE,S,Strong Safety,0.395,True,False,0.067,Elite,,0.048,Elite
+Tight - Clip 144.mp4,92097,,,DEFENSE,DL,1-tech,0.147,True,False,0.100,Elite,0.144,,Elite
+Tight - Clip 144.mp4,92116,15,,DEFENSE,S,Strong Safety,0.418,True,False,0.033,Elite,,0.004,Elite
+Tight - Clip 144.mp4,92132,,,DEFENSE,S,Strong Safety,0.452,True,False,0.033,Elite,,0.029,Elite
+Tight - Clip 145.mp4,93784,,,DEFENSE,CB,Deep,0.345,False,False,0.100,Elite,,0.012,Elite
+Tight - Clip 145.mp4,94194,4,,DEFENSE,S,Strong Safety,0.367,True,False,0.033,Elite,,0.060,Elite
+Tight - Clip 145.mp4,94298,,,DEFENSE,S,Strong Safety,0.341,True,False,,,,,Average
+Tight - Clip 145.mp4,94299,,,DEFENSE,S,Deep half,0.398,False,False,0.067,Elite,,0.009,Elite
+Tight - Clip 145.mp4,94304,,,DEFENSE,S,Strong Safety,0.395,True,False,0.067,Elite,,0.048,Elite
+Tight - Clip 145.mp4,94321,66,,DEFENSE,CB,Deep,0.400,False,False,0.067,Elite,,0.080,Elite
+Tight - Clip 145.mp4,94344,96,,DEFENSE,S,Strong Safety,0.330,True,False,,,,,Average
+Tight - Clip 146.mp4,94835,,,DEFENSE,S,Deep half,0.294,False,False,0.233,Elite,,0.164,Elite
+Tight - Clip 146.mp4,94860,,,DEFENSE,EDGE,DE (down),0.005,True,True,0.300,Average,0.013,,Average
+Tight - Clip 146.mp4,94866,,,DEFENSE,EDGE,DE (down),0.013,False,True,0.300,Average,,,Average
+Tight - Clip 146.mp4,94950,,,DEFENSE,LB,MIKE (middle),0.068,True,False,0.233,Elite,,,Elite
+Tight - Clip 146.mp4,94972,,,DEFENSE,CB,Deep,0.224,False,False,0.100,Elite,,0.042,Elite
+Tight - Clip 146.mp4,94995,,,DEFENSE,LB,WILL (weak),0.057,True,False,0.233,Elite,,,Elite
+Tight - Clip 147.mp4,95406,,,DEFENSE,S,Strong Safety,0.256,True,False,0.067,Elite,,0.069,Elite
+Tight - Clip 147.mp4,95408,,,DEFENSE,LB,SAM (strong),0.066,True,False,0.033,Elite,,,Elite
+Tight - Clip 147.mp4,95515,,,DEFENSE,DL,0-tech (Nose),0.007,True,True,0.133,Elite,0.035,,Elite
+Tight - Clip 147.mp4,95554,,,DEFENSE,S,Strong Safety,0.237,True,False,0.067,Elite,,0.017,Elite
+Tight - Clip 147.mp4,95608,,,DEFENSE,LB,SAM (strong),0.053,True,False,0.100,Elite,,,Elite
+Tight - Clip 147.mp4,95609,,,DEFENSE,DL,0-tech (Nose),0.013,True,True,0.067,Elite,0.089,,Elite
+Tight - Clip 148.mp4,95855,,,DEFENSE,EDGE,DE (down),0.160,False,False,0.167,Elite,0.086,,Elite
+Tight - Clip 148.mp4,95842,,,DEFENSE,DL,5-tech,0.054,True,False,0.167,Elite,,,Elite
+Tight - Clip 148.mp4,95936,,,DEFENSE,S,Deep half,0.309,True,False,0.100,Elite,,0.159,Elite
+Tight - Clip 148.mp4,95939,,,DEFENSE,EDGE,DE (down),0.135,False,False,0.133,Elite,0.091,,Elite
+Tight - Clip 148.mp4,95963,,,DEFENSE,EDGE,DE (down),0.197,False,False,0.133,Elite,0.194,,Elite
+Tight - Clip 148.mp4,95975,,,DEFENSE,EDGE,DE (down),0.167,True,False,0.167,Elite,0.162,,Elite
+Tight - Clip 148.mp4,96030,,,DEFENSE,DL,0-tech (Nose),0.019,True,True,0.100,Elite,0.018,,Elite
+Tight - Clip 148.mp4,96037,,,DEFENSE,EDGE,DE (down),0.034,False,False,0.133,Elite,0.009,,Elite
+Tight - Clip 148.mp4,96040,,,DEFENSE,DL,5-tech,0.034,True,False,0.067,Elite,0.004,,Elite
+Tight - Clip 148.mp4,96042,,,DEFENSE,DL,0-tech (Nose),0.053,True,False,0.200,Above Average,0.057,,Above Average
+Tight - Clip 149.mp4,96643,,,DEFENSE,LB,WILL (weak),0.111,True,False,0.133,Elite,,,Elite
+Tight - Clip 149.mp4,96651,,,DEFENSE,DL,5-tech,0.002,True,True,0.100,Elite,0.010,,Elite
+Tight - Clip 149.mp4,96723,,,DEFENSE,S,Strong Safety,0.390,True,False,0.133,Elite,,0.043,Elite
+Tight - Clip 149.mp4,96983,,,DEFENSE,S,Deep half,0.370,True,False,0.133,Elite,,0.049,Elite
+Tight - Clip 149.mp4,97001,,,DEFENSE,S,Strong Safety,0.401,True,False,0.267,Above Average,,0.048,Above Average
+Tight - Clip 149.mp4,97021,,,DEFENSE,EDGE,OLB (up),0.034,False,False,0.200,Above Average,,,Above Average
+Tight - Clip 149.mp4,97035,,,DEFENSE,S,Strong Safety,0.337,True,False,0.067,Elite,,0.027,Elite
+Tight - Clip 149.mp4,97064,,,DEFENSE,CB,Deep,0.456,False,False,0.500,Below Average,,0.069,Below Average
+Tight - Clip 149.mp4,97122,43,,DEFENSE,S,Deep half,0.413,True,False,0.333,Above Average,,0.051,Above Average
+Tight - Clip 149.mp4,97190,,,DEFENSE,LB,MIKE (middle),0.107,True,False,0.100,Elite,,,Elite
+Tight - Clip 149.mp4,97208,,,DEFENSE,DL,1-tech,0.064,True,False,0.133,Elite,0.070,,Elite
+Tight - Clip 149.mp4,97228,,,DEFENSE,DL,3-tech,0.026,True,True,0.133,Elite,0.019,,Elite
+Tight - Clip 149.mp4,97237,,,DEFENSE,DL,0-tech (Nose),0.024,True,True,0.133,Elite,0.037,,Elite
+Tight - Clip 149.mp4,97246,,,DEFENSE,DL,3-tech,0.075,True,False,0.233,Above Average,0.082,,Above Average
+Tight - Clip 149.mp4,97248,,,DEFENSE,S,Free Safety (centerfield),0.413,True,False,0.167,Elite,,0.062,Elite
+Tight - Clip 149.mp4,97258,,,DEFENSE,S,Free Safety (centerfield),0.403,True,False,0.167,Elite,,0.048,Elite
+Tight - Clip 150.mp4,97839,,,DEFENSE,DL,0-tech (Nose),0.127,True,False,0.133,Elite,0.146,,Elite
+Tight - Clip 150.mp4,98019,,,DEFENSE,S,Deep half,0.428,False,False,0.167,Elite,,0.011,Elite
+Tight - Clip 150.mp4,98104,,,DEFENSE,S,Strong Safety,0.414,True,False,0.100,Elite,,0.060,Elite
+Tight - Clip 150.mp4,98111,,,DEFENSE,EDGE,DE (down),0.124,False,False,0.467,Below Average,0.096,,Average
+Tight - Clip 150.mp4,98114,,,DEFENSE,S,Free Safety (centerfield),0.437,True,False,0.100,Elite,,0.041,Elite
+Tight - Clip 150.mp4,98118,,,DEFENSE,EDGE,DE (down),0.002,False,True,0.267,Above Average,,,Above Average
+Tight - Clip 150.mp4,98121,,,DEFENSE,EDGE,DE (down),0.148,True,False,0.200,Above Average,0.162,,Elite
+Tight - Clip 150.mp4,98164,,,DEFENSE,S,Strong Safety,0.418,True,False,0.167,Elite,,0.013,Elite
+Tight - Clip 150.mp4,98203,,,DEFENSE,S,Strong Safety,0.428,True,False,0.133,Elite,,0.049,Elite
+Tight - Clip 150.mp4,98231,,,DEFENSE,DL,5-tech,0.130,True,False,0.167,Elite,,,Elite
+Tight - Clip 150.mp4,98263,73,,DEFENSE,S,Deep half,0.462,False,False,0.067,Elite,,0.011,Elite
+Tight - Clip 150.mp4,98269,,,DEFENSE,EDGE,DE (down),0.011,False,True,0.100,Elite,,,Elite
+Tight - Clip 150.mp4,98290,,,DEFENSE,EDGE,DE (down),0.032,False,False,0.100,Elite,0.018,,Elite
+Tight - Clip 150.mp4,98305,,,DEFENSE,EDGE,DE (down),0.000,False,True,0.500,Below Average,,,Below Average
+Tight - Clip 150.mp4,98353,,,DEFENSE,DL,5-tech,0.139,True,False,0.200,Above Average,0.124,,Above Average
+Tight - Clip 150.mp4,98354,,,DEFENSE,EDGE,DE (down),0.130,False,False,0.167,Elite,0.152,,Elite
+Tight - Clip 150.mp4,98359,,,DEFENSE,DL,5-tech,0.144,True,False,0.167,Elite,,,Elite
+Tight - Clip 150.mp4,98364,16,,DEFENSE,S,Strong Safety,0.435,True,False,0.067,Elite,,0.097,Elite
+Tight - Clip 151.mp4,99180,5,,DEFENSE,SLOT,Nickel/Slot,0.132,False,False,0.133,Elite,,0.019,Elite
+Tight - Clip 151.mp4,99222,,,DEFENSE,CB,Deep,0.439,False,False,0.100,Elite,,0.025,Elite
+Tight - Clip 151.mp4,99227,,,DEFENSE,S,Deep half,0.428,True,False,0.167,Elite,,0.085,Elite
+Tight - Clip 151.mp4,99231,,,DEFENSE,S,Deep half,0.412,False,False,0.100,Elite,,0.086,Elite
+Tight - Clip 151.mp4,99239,56,,DEFENSE,S,Strong Safety,0.417,True,False,0.067,Elite,,0.095,Elite
+Tight - Clip 151.mp4,99236,,,DEFENSE,S,Strong Safety,0.426,True,False,0.033,Elite,,0.112,Elite
+Tight - Clip 151.mp4,99272,,,DEFENSE,CB,Deep,0.412,False,False,0.167,Elite,,0.087,Elite
+Tight - Clip 152.mp4,99186,,,DEFENSE,SLOT,Nickel/Slot,0.130,False,False,0.100,Elite,,0.162,Elite
+Tight - Clip 152.mp4,99550,,,DEFENSE,LB,SAM (strong),0.078,True,False,0.033,Elite,,,Elite
+Tight - Clip 152.mp4,99553,,,DEFENSE,S,Strong Safety,0.231,True,False,0.033,Elite,,0.034,Elite
+Tight - Clip 152.mp4,99603,,,DEFENSE,S,Free Safety (centerfield),0.376,True,False,0.100,Elite,,0.148,Elite
+Tight - Clip 152.mp4,99612,8,,DEFENSE,DL,1-tech,0.223,True,False,0.067,Elite,,,Elite
+Tight - Clip 153.mp4,99908,,,DEFENSE,UNKNOWN,,0.152,False,False,0.200,Elite,,,Elite
+Tight - Clip 153.mp4,99964,,,DEFENSE,UNKNOWN,,0.153,True,False,0.067,Elite,,,Elite
+Tight - Clip 153.mp4,99991,,,DEFENSE,S,Strong Safety,0.236,True,False,0.433,Average,,0.169,Above Average
+Tight - Clip 153.mp4,100000,,,DEFENSE,S,Strong Safety,0.216,True,False,0.067,Elite,,0.087,Elite
+Tight - Clip 154.mp4,100281,,,DEFENSE,S,Strong Safety,0.351,True,False,0.667,Developmental,,0.011,Below Average
+Tight - Clip 154.mp4,100351,,,DEFENSE,EDGE,DE (down),0.118,False,False,0.767,Developmental,0.112,,Below Average
+Tight - Clip 154.mp4,100470,,,DEFENSE,DL,3-tech,0.125,True,False,0.500,Below Average,0.109,,Average
+Tight - Clip 154.mp4,100538,,,DEFENSE,LB,WILL (weak),0.147,True,False,0.433,Average,,,Average
+Tight - Clip 154.mp4,100566,,,DEFENSE,EDGE,DE (down),0.059,True,False,0.300,Average,0.060,,Average
+Tight - Clip 154.mp4,100599,,,DEFENSE,DL,0-tech (Nose),0.014,True,True,2.600,Developmental,,,Below Average
+Tight - Clip 154.mp4,100616,,,DEFENSE,LB,SAM (strong),0.082,True,False,0.100,Elite,,,Elite
+Tight - Clip 154.mp4,100662,6,,DEFENSE,DL,1-tech,0.365,True,False,0.033,Elite,0.325,,Elite
+Tight - Clip 155.mp4,102703,,,DEFENSE,S,Free Safety (centerfield),0.476,True,False,,,,0.003,Average

@@ -1,0 +1,24 @@
+Input Configuration,Setting / File Name,Status
+Home Team,Brush Arcs,
+Home Color,White (or Brown/Gold per jersey CSV),15
+Away Team,[Opponent Name],
+Away Color,[Opponent Color],16
+Roster File,2025_BoysVarsityFootball_AllTeam.csv,Loaded 17
+Offense File,Offense 2025 season OC.csv,Loaded 18
+Defense File,Defense 2025 totals by DC.csv,Loaded 19
+,,
+,,
+,,
+"Brush ""Self-Scout"" Analysis",,
+Metric,Brush Value,Adjustment Needed?
+Avg Decision Latency (QB),,Are we processing fast enough?
+Top Speed (WR Group),,Who is our fastest option this week?
+Tackle Efficiency (Defense),,Missed tackles last game (check Def CSV)
+SDI Composite Score,,Overall Team Grade (Target > 90) 20
+,,
+,,
+Game Script / Play Call Sheet,,
+Situation,Target Concept,Why? (Based on Analytics)
+3rd & Short,,"e.g., Opponent weak vs. Power Run"
+Red Zone,,"e.g., Opponent DBs low reaction time to slants"
+Shot Play,,"e.g., CB #5 has slow hip turn/recovery speed"

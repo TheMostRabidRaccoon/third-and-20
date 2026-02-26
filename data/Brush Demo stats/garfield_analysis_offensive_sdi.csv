@@ -1,0 +1,421 @@
+clip_file,track_id,jersey_number,player_name,roster_position,team,team_name,jersey_color,inferred_position,recognition_latency_sec,recognition_latency_grade,first_step_sec,first_step_grade,post_snap_distance,initial_velocity,sdi_score,sdi_grade
+End Zone - Clip 001.mp4,11,,,,brush,BRUSH,,,,,0.100,Elite,0.645,0.021,7138.0,Above Average
+End Zone - Clip 002.mp4,448,,,,brush,BRUSH,,,,,0.033,Elite,0.812,0.000,7162.0,Above Average
+End Zone - Clip 002.mp4,511,,,,brush,BRUSH,,,,,0.100,Elite,0.442,-0.000,7088.0,Above Average
+End Zone - Clip 003.mp4,860,,,,brush,BRUSH,,,,,0.267,Elite,0.480,-0.004,7094.0,Above Average
+End Zone - Clip 003.mp4,869,,,,brush,BRUSH,,,,,0.267,Elite,0.643,0.000,7128.0,Above Average
+End Zone - Clip 003.mp4,937,,,,brush,BRUSH,,,,,0.267,Elite,0.233,-0.001,7046.0,Above Average
+End Zone - Clip 003.mp4,949,,,,brush,BRUSH,,,,,0.300,Above Average,0.132,-0.029,6012.0,Average
+End Zone - Clip 003.mp4,956,,,,brush,BRUSH,,,,,,,0.068,,5013.0,Average
+End Zone - Clip 004.mp4,1368,18,,,brush,BRUSH,white,,0.300,Elite,0.734,Below Average,1.161,-0.002,6731.0,Above Average
+End Zone - Clip 004.mp4,1376,,,,brush,BRUSH,,,,,0.701,Below Average,0.312,0.003,4563.0,Below Average
+End Zone - Clip 004.mp4,1306,12,,,brush,BRUSH,white,,0.300,Elite,0.767,Below Average,0.561,0.007,6615.0,Above Average
+End Zone - Clip 004.mp4,1415,,,,brush,BRUSH,,,,,0.701,Below Average,0.145,0.002,4529.0,Below Average
+End Zone - Clip 004.mp4,1424,,,,brush,BRUSH,,,,,0.033,Elite,0.140,,7028.0,Above Average
+End Zone - Clip 005.mp4,1660,,,,brush,BRUSH,,,,,0.534,Average,0.576,,5115.0,Average
+End Zone - Clip 005.mp4,1704,,,,brush,BRUSH,,,,,,,0.326,,5065.0,Average
+End Zone - Clip 005.mp4,1758,,,,brush,BRUSH,,,,,,,0.556,,5111.0,Average
+End Zone - Clip 005.mp4,1790,,,,brush,BRUSH,,,,,,,0.030,,5006.0,Average
+End Zone - Clip 006.mp4,2015,12,,,brush,BRUSH,white,,0.234,Elite,0.133,Elite,0.586,-0.034,9100.0,Elite
+End Zone - Clip 006.mp4,2017,,,,brush,BRUSH,,,,,0.534,Average,0.661,-0.008,5129.0,Average
+End Zone - Clip 006.mp4,2020,,,,brush,BRUSH,,,,,0.567,Average,1.094,,5218.0,Average
+End Zone - Clip 006.mp4,2028,,,,brush,BRUSH,,,,,,,0.381,,5076.0,Average
+End Zone - Clip 006.mp4,2024,18,,,brush,BRUSH,white,,0.234,Elite,0.234,Elite,0.614,0.020,9131.0,Elite
+End Zone - Clip 007.mp4,2507,18,,,brush,BRUSH,white,,0.400,Elite,0.133,Elite,0.870,0.029,9187.0,Elite
+End Zone - Clip 007.mp4,2523,,,,brush,BRUSH,,,,,0.167,Elite,0.298,0.001,7059.0,Above Average
+End Zone - Clip 007.mp4,2526,,,,brush,BRUSH,,,,,0.133,Elite,0.650,0.002,7130.0,Above Average
+End Zone - Clip 007.mp4,2540,,,,brush,BRUSH,,,,,0.100,Elite,0.187,,7037.0,Above Average
+End Zone - Clip 008.mp4,2829,,,,brush,BRUSH,,,,,0.100,Elite,0.490,0.074,7133.0,Above Average
+End Zone - Clip 008.mp4,2836,,,,brush,BRUSH,,,,,0.067,Elite,0.513,0.219,7211.0,Above Average
+End Zone - Clip 008.mp4,2856,,,,brush,BRUSH,,,,,,,0.108,,5021.0,Average
+End Zone - Clip 008.mp4,2898,,,,brush,BRUSH,,,,,0.067,Elite,0.114,,7022.0,Above Average
+End Zone - Clip 008.mp4,2908,,,,brush,BRUSH,,,,,,,0.010,,5002.0,Average
+End Zone - Clip 009.mp4,3095,,,,brush,BRUSH,,,,,0.200,Elite,0.524,-0.101,7054.0,Above Average
+End Zone - Clip 009.mp4,3211,,,,brush,BRUSH,,,,,,,0.075,,5014.0,Average
+End Zone - Clip 009.mp4,3221,,,,brush,BRUSH,,,,,,,0.020,,5004.0,Average
+End Zone - Clip 010.mp4,3317,,,,brush,BRUSH,,,,,0.334,Above Average,0.113,0.075,6059.0,Average
+End Zone - Clip 011.mp4,3784,,,,brush,BRUSH,,,,,2.603,Developmental,0.252,-0.003,4549.0,Below Average
+End Zone - Clip 011.mp4,3660,8,,,brush,BRUSH,white,,1.068,Average,1.835,Developmental,0.544,0.006,4611.0,Below Average
+End Zone - Clip 011.mp4,3859,78,,,brush,BRUSH,white,,1.068,Average,0.100,Elite,0.066,0.067,7046.0,Above Average
+End Zone - Clip 013.mp4,4362,,,,brush,BRUSH,,,,,0.148,Elite,0.398,0.030,7093.0,Above Average
+End Zone - Clip 014.mp4,4618,,,,brush,BRUSH,,,,,0.267,Elite,0.569,-0.009,7109.0,Above Average
+End Zone - Clip 014.mp4,4706,,,,brush,BRUSH,,,,,0.234,Elite,0.395,-0.023,7068.0,Above Average
+End Zone - Clip 015.mp4,5007,18,,,brush,BRUSH,white,,1.034,Average,0.133,Elite,0.187,,7037.0,Above Average
+End Zone - Clip 015.mp4,5017,,,,brush,BRUSH,,,,,0.267,Elite,0.254,-0.032,7034.0,Above Average
+End Zone - Clip 015.mp4,5056,,,,brush,BRUSH,,,,,,,0.067,,5013.0,Average
+End Zone - Clip 015.mp4,5059,12,,,brush,BRUSH,white,,1.034,Average,0.133,Elite,0.290,0.011,7062.0,Above Average
+End Zone - Clip 016.mp4,5315,,,,brush,BRUSH,,,,,0.033,Elite,1.232,0.016,7254.0,Above Average
+End Zone - Clip 016.mp4,5320,,,,brush,BRUSH,,,,,0.033,Elite,0.778,,7155.0,Above Average
+End Zone - Clip 016.mp4,5359,,,,brush,BRUSH,,,,,0.033,Elite,0.921,0.005,7186.0,Above Average
+End Zone - Clip 016.mp4,5370,,,,brush,BRUSH,,,,,0.033,Elite,0.452,,7090.0,Above Average
+End Zone - Clip 016.mp4,5457,,,,brush,BRUSH,,,,,0.033,Elite,0.256,,7051.0,Above Average
+End Zone - Clip 016.mp4,5472,,,,brush,BRUSH,,,,,0.067,Elite,0.809,0.065,7193.0,Above Average
+End Zone - Clip 016.mp4,5477,,,,brush,BRUSH,,,,,0.033,Elite,0.864,0.114,7229.0,Above Average
+End Zone - Clip 016.mp4,5483,,,,brush,BRUSH,,,,,0.067,Elite,0.797,0.043,7180.0,Above Average
+End Zone - Clip 017.mp4,5886,,,,brush,BRUSH,,,,,2.202,Developmental,0.116,0.000,4523.0,Below Average
+End Zone - Clip 017.mp4,5888,,,,brush,BRUSH,,,,,0.234,Elite,0.215,-0.014,7036.0,Above Average
+End Zone - Clip 018.mp4,6260,,,,brush,BRUSH,,,,,,,0.004,,5000.0,Average
+End Zone - Clip 019.mp4,6414,,,,brush,BRUSH,,,,,0.334,Above Average,0.355,-0.002,6070.0,Average
+End Zone - Clip 020.mp4,6619,,,,brush,BRUSH,,,,,0.534,Average,0.198,-0.006,5037.0,Average
+End Zone - Clip 020.mp4,6620,26,,,brush,BRUSH,white,,0.467,Elite,0.234,Elite,0.415,0.028,9097.0,Elite
+End Zone - Clip 020.mp4,6632,,,,brush,BRUSH,,,,,0.100,Elite,0.263,-0.019,7043.0,Above Average
+End Zone - Clip 021.mp4,6838,,,,brush,BRUSH,,,,,0.234,Elite,0.425,0.024,7096.0,Above Average
+End Zone - Clip 021.mp4,6874,,,,brush,BRUSH,,,,,0.133,Elite,0.035,,7007.0,Above Average
+End Zone - Clip 022.mp4,7074,28,,,brush,BRUSH,white,,0.367,Elite,0.167,Elite,0.526,-0.038,9086.0,Elite
+End Zone - Clip 022.mp4,7071,,,,brush,BRUSH,,,,,0.601,Below Average,0.477,0.014,4601.0,Below Average
+End Zone - Clip 022.mp4,7075,,,,brush,BRUSH,,,,,0.534,Average,0.770,0.017,5162.0,Average
+End Zone - Clip 023.mp4,7372,,,,brush,BRUSH,,,,,0.167,Elite,0.836,,7167.0,Above Average
+End Zone - Clip 023.mp4,7374,,,,brush,BRUSH,,,,,0.033,Elite,0.512,,7102.0,Above Average
+End Zone - Clip 023.mp4,7458,,,,brush,BRUSH,,,,,0.033,Elite,0.205,,7040.0,Above Average
+End Zone - Clip 023.mp4,7473,19,,,brush,BRUSH,white,,0.467,Elite,,,0.242,,7048.0,Above Average
+End Zone - Clip 023.mp4,7512,,,,brush,BRUSH,,,,,0.033,Elite,0.094,,7018.0,Above Average
+End Zone - Clip 023.mp4,7518,5,,,brush,BRUSH,white,,0.467,Elite,0.033,Elite,0.522,0.032,9120.0,Elite
+End Zone - Clip 023.mp4,7522,,,,brush,BRUSH,,,,,0.033,Elite,0.086,,7017.0,Above Average
+End Zone - Clip 023.mp4,7525,,,,brush,BRUSH,,,,,,,0.009,,5001.0,Average
+End Zone - Clip 023.mp4,7530,,,,brush,BRUSH,,,,,,,0.009,,5001.0,Average
+End Zone - Clip 024.mp4,7850,,,,brush,BRUSH,,,,,0.100,Elite,0.685,-0.097,7089.0,Above Average
+End Zone - Clip 024.mp4,7852,,,,brush,BRUSH,,,,,0.100,Elite,0.621,-0.111,7069.0,Above Average
+End Zone - Clip 025.mp4,8156,18,,,brush,BRUSH,white,,0.234,Elite,0.167,Elite,0.972,-0.091,9149.0,Elite
+End Zone - Clip 025.mp4,8158,,,,brush,BRUSH,,,,,0.634,Below Average,0.660,-0.003,4631.0,Below Average
+End Zone - Clip 025.mp4,8162,55,,,brush,BRUSH,white,,0.234,Elite,0.267,Elite,0.997,0.069,9233.0,Elite
+End Zone - Clip 025.mp4,8269,,,,brush,BRUSH,,,,,0.200,Elite,0.177,0.001,7035.0,Above Average
+End Zone - Clip 026.mp4,8404,,,,brush,BRUSH,,,,,2.269,Developmental,0.596,0.002,4619.0,Below Average
+End Zone - Clip 026.mp4,8416,,,,brush,BRUSH,,,,,2.202,Developmental,0.640,0.002,4628.0,Below Average
+End Zone - Clip 026.mp4,8541,12,,,brush,BRUSH,white,,0.567,Above Average,0.367,Above Average,0.594,0.043,7139.0,Above Average
+End Zone - Clip 027.mp4,8664,18,,,brush,BRUSH,white,,0.300,Elite,0.567,Average,1.079,-0.004,7214.0,Above Average
+End Zone - Clip 027.mp4,8669,,,,brush,BRUSH,,,,,0.534,Average,0.514,0.001,5102.0,Average
+End Zone - Clip 027.mp4,8668,,,,brush,BRUSH,,,,,0.567,Average,0.398,0.000,5079.0,Average
+End Zone - Clip 027.mp4,8767,,,,brush,BRUSH,,,,,0.334,Above Average,0.418,0.006,6086.0,Average
+End Zone - Clip 027.mp4,8781,12,,,brush,BRUSH,white,,0.300,Elite,0.434,Above Average,0.821,-0.003,8163.0,Elite
+End Zone - Clip 027.mp4,8787,,,,brush,BRUSH,,,,,0.300,Above Average,0.225,0.042,6064.0,Average
+End Zone - Clip 028.mp4,9003,,,,brush,BRUSH,,,,,0.734,Below Average,0.332,-0.001,4566.0,Below Average
+End Zone - Clip 028.mp4,9008,,,,brush,BRUSH,,,,,0.601,Below Average,0.348,0.000,4569.0,Below Average
+End Zone - Clip 028.mp4,9084,,,,brush,BRUSH,,,,,0.934,Developmental,0.077,0.009,4519.0,Below Average
+End Zone - Clip 029.mp4,9261,,,,brush,BRUSH,,,,,3.070,Developmental,0.533,-0.001,4606.0,Below Average
+End Zone - Clip 029.mp4,9290,,,,brush,BRUSH,,,,,0.667,Below Average,0.158,-0.003,4530.0,Below Average
+End Zone - Clip 030.mp4,9716,,,,brush,BRUSH,,,,,0.033,Elite,0.461,-0.025,7080.0,Above Average
+End Zone - Clip 030.mp4,9953,,,,brush,BRUSH,,,,,0.033,Elite,0.018,,7003.0,Above Average
+End Zone - Clip 030.mp4,9959,,,,brush,BRUSH,,,,,,,,,5000.0,Average
+End Zone - Clip 031.mp4,10164,,,,brush,BRUSH,,,,,,,0.183,0.000,5036.0,Average
+End Zone - Clip 031.mp4,10167,,,,brush,BRUSH,,,,,0.133,Elite,0.351,-0.048,7046.0,Above Average
+End Zone - Clip 031.mp4,10169,,,,brush,BRUSH,,,,,,,0.158,0.000,5031.0,Average
+End Zone - Clip 031.mp4,10170,,,,brush,BRUSH,,,,,0.734,Below Average,0.254,0.001,4550.0,Below Average
+End Zone - Clip 031.mp4,10200,,,,brush,BRUSH,,,,,,,0.060,,5011.0,Average
+End Zone - Clip 031.mp4,10205,32,,,brush,BRUSH,white,,0.267,Elite,0.834,Developmental,0.223,0.002,6545.0,Above Average
+End Zone - Clip 032.mp4,10236,,,,brush,BRUSH,,,,,1.768,Developmental,0.488,0.003,4598.0,Below Average
+End Zone - Clip 032.mp4,10271,,,,brush,BRUSH,,,,,2.269,Developmental,0.501,-0.003,4599.0,Below Average
+End Zone - Clip 032.mp4,10278,,,,brush,BRUSH,,,,,0.567,Average,0.256,0.005,5053.0,Average
+End Zone - Clip 032.mp4,10287,8,,,brush,BRUSH,white,,0.734,Above Average,0.400,Above Average,1.004,-0.035,7183.0,Above Average
+End Zone - Clip 032.mp4,10310,,,,brush,BRUSH,,,,,0.400,Above Average,0.308,0.002,6061.0,Average
+End Zone - Clip 032.mp4,10316,,,,brush,BRUSH,,,,,1.201,Developmental,0.306,-0.006,4558.0,Below Average
+End Zone - Clip 033.mp4,10310,,,,brush,BRUSH,,,,,1.401,Developmental,0.243,0.000,4548.0,Below Average
+End Zone - Clip 033.mp4,10414,,,,brush,BRUSH,,,,,0.300,Above Average,0.148,-0.006,6026.0,Average
+End Zone - Clip 033.mp4,10423,,,,brush,BRUSH,,,,,1.034,Developmental,0.307,-0.003,4560.0,Below Average
+End Zone - Clip 033.mp4,10430,,,,brush,BRUSH,,,,,0.601,Below Average,0.300,-0.009,4555.0,Below Average
+End Zone - Clip 034.mp4,10754,,,,brush,BRUSH,,,,,,,0.224,-0.006,5042.0,Average
+End Zone - Clip 035.mp4,10890,,,,brush,BRUSH,,,,,0.300,Above Average,0.367,0.015,6080.0,Average
+End Zone - Clip 035.mp4,10986,,,,brush,BRUSH,,,,,0.467,Average,0.176,-0.029,5021.0,Average
+End Zone - Clip 035.mp4,10984,54,,,brush,BRUSH,white,,0.234,Elite,0.167,Elite,0.912,0.060,9212.0,Elite
+End Zone - Clip 035.mp4,10985,78,,,brush,BRUSH,white,,0.234,Elite,0.367,Above Average,0.316,-0.018,8054.0,Elite
+End Zone - Clip 035.mp4,10992,63,,,brush,BRUSH,white,,0.234,Elite,0.567,Average,0.500,0.011,7104.0,Above Average
+End Zone - Clip 035.mp4,10995,,,,brush,BRUSH,,,,,0.434,Above Average,0.682,0.001,6136.0,Average
+End Zone - Clip 035.mp4,10994,,,,brush,BRUSH,,,,,,,0.145,,5028.0,Average
+End Zone - Clip 035.mp4,11009,,,,brush,BRUSH,,,,,0.467,Average,0.954,-0.018,5182.0,Average
+End Zone - Clip 036.mp4,11269,28,,,brush,BRUSH,white,,1.034,Average,0.133,Elite,0.517,-0.039,7084.0,Above Average
+End Zone - Clip 036.mp4,11389,78,,,brush,BRUSH,white,,1.034,Average,0.033,Elite,0.847,0.036,7187.0,Above Average
+End Zone - Clip 036.mp4,11392,54,,,brush,BRUSH,white,,1.034,Average,0.133,Elite,0.450,-0.165,7008.0,Above Average
+End Zone - Clip 036.mp4,11391,8,,,brush,BRUSH,white,,1.034,Average,0.067,Elite,0.685,-0.009,7133.0,Above Average
+End Zone - Clip 036.mp4,11394,61,,,brush,BRUSH,white,,1.034,Average,0.033,Elite,1.238,0.072,7283.0,Above Average
+End Zone - Clip 036.mp4,11396,,,,brush,BRUSH,,,,,0.968,Developmental,0.182,-0.012,4531.0,Below Average
+End Zone - Clip 036.mp4,11398,56,,,brush,BRUSH,white,,1.034,Average,0.133,Elite,0.387,0.069,7111.0,Above Average
+End Zone - Clip 036.mp4,11402,,,,brush,BRUSH,,,,,,,0.206,0.001,5041.0,Average
+End Zone - Clip 036.mp4,11407,,,,brush,BRUSH,,,,,0.801,Developmental,0.229,-0.017,4537.0,Below Average
+End Zone - Clip 036.mp4,11431,,,,brush,BRUSH,,,,,0.300,Above Average,0.484,-0.007,6093.0,Average
+End Zone - Clip 036.mp4,11432,,,,brush,BRUSH,,,,,,,0.187,,5037.0,Average
+End Zone - Clip 037.mp4,11654,,,,brush,BRUSH,,,,,0.067,Elite,0.573,0.102,7165.0,Above Average
+End Zone - Clip 037.mp4,11652,,,,brush,BRUSH,,,,,0.400,Above Average,0.331,0.043,6087.0,Average
+End Zone - Clip 037.mp4,11656,,,,brush,BRUSH,,,,,0.200,Elite,0.213,-0.011,7037.0,Above Average
+End Zone - Clip 037.mp4,11658,,,,brush,BRUSH,,,,,0.100,Elite,0.395,,7079.0,Above Average
+End Zone - Clip 037.mp4,11659,63,,,brush,BRUSH,white,,0.334,Elite,0.067,Elite,1.307,0.195,9358.0,Elite
+End Zone - Clip 037.mp4,11709,,,,brush,BRUSH,,,,,0.067,Elite,0.397,0.095,7126.0,Above Average
+End Zone - Clip 037.mp4,11715,,,,brush,BRUSH,,,,,0.234,Elite,0.132,0.101,7076.0,Above Average
+End Zone - Clip 038.mp4,12011,,,,brush,BRUSH,,,,,1.034,Developmental,0.440,,4587.0,Below Average
+End Zone - Clip 038.mp4,12013,,,,brush,BRUSH,,,,,0.033,Elite,0.654,,7130.0,Above Average
+End Zone - Clip 038.mp4,12043,,,,brush,BRUSH,,,,,,,0.136,,5027.0,Average
+End Zone - Clip 038.mp4,12058,,,,brush,BRUSH,,,,,,,0.069,,5013.0,Average
+End Zone - Clip 038.mp4,12077,,,,brush,BRUSH,,,,,,,0.047,,5009.0,Average
+End Zone - Clip 038.mp4,12080,,,,brush,BRUSH,,,,,,,0.074,,5014.0,Average
+End Zone - Clip 038.mp4,12087,,,,brush,BRUSH,,,,,0.033,Elite,0.069,,7013.0,Above Average
+End Zone - Clip 039.mp4,12460,19,,,brush,BRUSH,white,,0.234,Elite,0.300,Above Average,0.664,0.008,8135.0,Elite
+End Zone - Clip 039.mp4,12512,,,,brush,BRUSH,,,,,0.167,Elite,0.540,0.021,7118.0,Above Average
+End Zone - Clip 039.mp4,12599,,,,brush,BRUSH,,,,,0.100,Elite,0.630,0.186,7218.0,Above Average
+End Zone - Clip 039.mp4,12614,,,,brush,BRUSH,,,,,0.267,Elite,0.236,-0.002,7047.0,Above Average
+End Zone - Clip 039.mp4,12620,,,,brush,BRUSH,,,,,0.100,Elite,0.149,0.167,7112.0,Above Average
+End Zone - Clip 039.mp4,12626,,,,brush,BRUSH,,,,,0.067,Elite,0.094,0.119,7077.0,Above Average
+End Zone - Clip 040.mp4,13026,,,,brush,BRUSH,,,,,0.033,Elite,0.288,,7057.0,Above Average
+End Zone - Clip 040.mp4,13078,,,,brush,BRUSH,,,,,,,0.050,,5010.0,Average
+End Zone - Clip 040.mp4,13082,,,,brush,BRUSH,,,,,,,0.031,,5006.0,Average
+End Zone - Clip 041.mp4,13336,,,,brush,BRUSH,,,,,0.100,Elite,0.128,-0.258,6897.0,Above Average
+End Zone - Clip 041.mp4,13335,,,,brush,BRUSH,,,,,0.834,Developmental,0.230,,4546.0,Below Average
+End Zone - Clip 041.mp4,13350,,,,brush,BRUSH,,,,,0.100,Elite,0.404,-0.607,6777.0,Above Average
+End Zone - Clip 041.mp4,13378,13,,,brush,BRUSH,white,,0.334,Elite,0.133,Elite,0.116,-0.119,8964.0,Elite
+End Zone - Clip 042.mp4,13961,,,,brush,BRUSH,,,,,0.100,Elite,0.187,-0.020,7028.0,Above Average
+End Zone - Clip 042.mp4,13963,,,,brush,BRUSH,,,,,0.100,Elite,0.153,0.003,7031.0,Above Average
+End Zone - Clip 042.mp4,14004,,,,brush,BRUSH,,,,,0.100,Elite,0.930,-0.033,7169.0,Above Average
+End Zone - Clip 043.mp4,14159,,,,brush,BRUSH,,,,,1.068,Developmental,0.210,,4542.0,Below Average
+End Zone - Clip 043.mp4,14196,,,,brush,BRUSH,,,,,,,0.021,,5004.0,Average
+End Zone - Clip 045.mp4,14495,,,,brush,BRUSH,,,,,0.467,Average,0.149,-0.008,5025.0,Average
+End Zone - Clip 045.mp4,14519,,,,brush,BRUSH,,,,,,,,,5000.0,Average
+End Zone - Clip 046.mp4,14537,,,,brush,BRUSH,,,,,1.935,Developmental,0.394,0.001,4578.0,Below Average
+End Zone - Clip 046.mp4,14539,,,,brush,BRUSH,,,,,1.902,Developmental,0.576,-0.001,4615.0,Below Average
+End Zone - Clip 046.mp4,14590,,,,brush,BRUSH,,,,,,,0.011,,5002.0,Average
+End Zone - Clip 047.mp4,14705,,,,brush,BRUSH,,,,,0.100,Elite,0.525,0.159,7183.0,Above Average
+End Zone - Clip 047.mp4,14707,,,,brush,BRUSH,,,,,0.100,Elite,0.555,0.158,7189.0,Above Average
+End Zone - Clip 047.mp4,14739,,,,brush,BRUSH,,,,,,,0.067,,5013.0,Average
+End Zone - Clip 047.mp4,14772,,,,brush,BRUSH,,,,,,,0.029,,5005.0,Average
+End Zone - Clip 047.mp4,14799,,,,brush,BRUSH,,,,,,,0.010,,5002.0,Average
+End Zone - Clip 047.mp4,14808,,,,brush,BRUSH,,,,,,,0.004,,5000.0,Average
+End Zone - Clip 048.mp4,14927,,,,brush,BRUSH,,,,,0.200,Elite,0.762,0.002,7152.0,Above Average
+End Zone - Clip 048.mp4,14934,,,,brush,BRUSH,,,,,0.167,Elite,1.062,-0.006,7210.0,Above Average
+End Zone - Clip 048.mp4,14947,25,,,brush,BRUSH,white,,1.001,Average,0.200,Elite,0.558,0.002,7112.0,Above Average
+End Zone - Clip 048.mp4,15025,,,,brush,BRUSH,,,,,0.167,Elite,0.110,,7021.0,Above Average
+End Zone - Clip 049.mp4,15171,,,,brush,BRUSH,,,,,0.267,Elite,1.027,-0.004,7203.0,Above Average
+End Zone - Clip 049.mp4,15172,25,,,brush,BRUSH,white,,0.267,Elite,0.167,Elite,1.345,-0.011,9263.0,Elite
+End Zone - Clip 049.mp4,15201,,,,brush,BRUSH,,,,,0.234,Elite,0.808,-0.002,7160.0,Above Average
+End Zone - Clip 050.mp4,15411,,,,brush,BRUSH,,,,,,,0.743,,5148.0,Average
+End Zone - Clip 050.mp4,15420,,,,brush,BRUSH,,,,,,,0.583,,5116.0,Average
+End Zone - Clip 050.mp4,15563,,,,brush,BRUSH,,,,,,,0.127,,5025.0,Average
+End Zone - Clip 050.mp4,15572,,,,brush,BRUSH,,,,,,,0.043,,5008.0,Average
+End Zone - Clip 050.mp4,15575,,,,brush,BRUSH,,,,,,,0.172,,5034.0,Average
+End Zone - Clip 050.mp4,15588,,,,brush,BRUSH,,,,,,,0.063,,5012.0,Average
+End Zone - Clip 050.mp4,15598,,,,brush,BRUSH,,,,,,,0.036,,5007.0,Average
+End Zone - Clip 050.mp4,15600,,,,brush,BRUSH,,,,,,,0.007,,5001.0,Average
+End Zone - Clip 051.mp4,15841,,,,brush,BRUSH,,,,,0.067,Elite,1.759,0.053,7377.0,Above Average
+End Zone - Clip 051.mp4,16029,,,,brush,BRUSH,,,,,0.067,Elite,0.347,-0.052,7043.0,Above Average
+End Zone - Clip 051.mp4,16041,,,,brush,BRUSH,,,,,0.067,Elite,0.555,-0.009,7107.0,Above Average
+End Zone - Clip 051.mp4,16045,,,,brush,BRUSH,,,,,0.067,Elite,0.525,-0.006,7102.0,Above Average
+End Zone - Clip 051.mp4,16085,,,,brush,BRUSH,,,,,0.100,Elite,0.166,0.125,7095.0,Above Average
+End Zone - Clip 052.mp4,16162,,,,brush,BRUSH,,,,,,,0.228,,5045.0,Average
+End Zone - Clip 052.mp4,16218,,,,brush,BRUSH,,,,,,,0.076,,5015.0,Average
+End Zone - Clip 053.mp4,16479,,,,brush,BRUSH,,,,,0.133,Elite,0.284,0.191,7151.0,Above Average
+End Zone - Clip 053.mp4,16486,,,,brush,BRUSH,,,,,0.133,Elite,0.275,0.187,7147.0,Above Average
+End Zone - Clip 053.mp4,16627,,,,brush,BRUSH,,,,,,,0.011,,5002.0,Average
+End Zone - Clip 053.mp4,16642,,,,brush,BRUSH,,,,,,,0.008,,5001.0,Average
+End Zone - Clip 054.mp4,16731,,,,brush,BRUSH,,,,,,,0.118,,5023.0,Average
+End Zone - Clip 055.mp4,16967,,,,brush,BRUSH,,,,,0.667,Below Average,0.484,0.022,4606.0,Below Average
+End Zone - Clip 056.mp4,17350,,,,brush,BRUSH,,,,,0.133,Elite,2.424,-0.001,7484.0,Above Average
+End Zone - Clip 056.mp4,17479,,,,brush,BRUSH,,,,,0.133,Elite,1.815,-0.003,7362.0,Above Average
+End Zone - Clip 056.mp4,17506,,,,brush,BRUSH,,,,,0.133,Elite,0.204,,7040.0,Above Average
+End Zone - Clip 056.mp4,17524,,,,brush,BRUSH,,,,,0.133,Elite,0.048,,7009.0,Above Average
+End Zone - Clip 058.mp4,18088,,,,brush,BRUSH,,,,,0.067,Elite,0.296,,7059.0,Above Average
+End Zone - Clip 058.mp4,18086,,,,brush,BRUSH,,,,,0.067,Elite,0.829,-0.010,7161.0,Above Average
+End Zone - Clip 058.mp4,18090,,,,brush,BRUSH,,,,,0.067,Elite,0.758,-0.019,7142.0,Above Average
+End Zone - Clip 058.mp4,18089,,,,brush,BRUSH,,,,,0.067,Elite,0.357,,7071.0,Above Average
+End Zone - Clip 058.mp4,18095,,,,brush,BRUSH,,,,,0.067,Elite,0.870,-0.003,7172.0,Above Average
+End Zone - Clip 059.mp4,18526,,,,brush,BRUSH,,,,,0.400,Above Average,0.233,-0.323,5885.0,Average
+End Zone - Clip 060.mp4,18851,,,,brush,BRUSH,,,,,0.400,Above Average,0.457,-0.040,6072.0,Average
+End Zone - Clip 060.mp4,18858,,,,brush,BRUSH,,,,,0.367,Above Average,0.266,0.031,6068.0,Average
+End Zone - Clip 060.mp4,18876,,,,brush,BRUSH,,,,,0.400,Above Average,0.197,0.046,6062.0,Average
+End Zone - Clip 061.mp4,19103,,,,brush,BRUSH,,,,,0.267,Elite,0.570,0.002,7113.0,Above Average
+End Zone - Clip 061.mp4,19127,,,,brush,BRUSH,,,,,0.434,Above Average,0.457,0.052,6117.0,Average
+End Zone - Clip 061.mp4,19255,,,,brush,BRUSH,,,,,,,0.013,,5002.0,Average
+End Zone - Clip 063.mp4,19920,,,,brush,BRUSH,,,,,0.167,Elite,0.800,-0.002,7159.0,Above Average
+End Zone - Clip 063.mp4,19932,,,,brush,BRUSH,,,,,0.133,Elite,0.766,-0.002,7152.0,Above Average
+End Zone - Clip 064.mp4,20535,,,,brush,BRUSH,,,,,1.602,Developmental,0.192,-0.020,4529.0,Below Average
+End Zone - Clip 064.mp4,20537,,,,brush,BRUSH,,,,,,,0.088,-0.023,5006.0,Average
+End Zone - Clip 065.mp4,21001,,,,brush,BRUSH,,,,,0.868,Developmental,0.125,0.006,4526.0,Below Average
+End Zone - Clip 066.mp4,21128,27,,,brush,BRUSH,white,,0.500,Above Average,0.167,Elite,0.644,,8128.0,Elite
+End Zone - Clip 066.mp4,21130,20,,,brush,BRUSH,white,,0.500,Above Average,0.133,Elite,1.582,-0.022,8306.0,Elite
+End Zone - Clip 066.mp4,21133,,,,brush,BRUSH,,,,,0.300,Above Average,0.913,0.006,6184.0,Average
+End Zone - Clip 066.mp4,21131,,,,brush,BRUSH,,,,,0.300,Above Average,0.930,0.020,6194.0,Average
+End Zone - Clip 066.mp4,21132,,,,brush,BRUSH,,,,,0.334,Above Average,0.940,0.006,6190.0,Average
+End Zone - Clip 066.mp4,21134,,,,brush,BRUSH,,,,,0.300,Above Average,1.472,0.028,6308.0,Average
+End Zone - Clip 066.mp4,21135,,,,brush,BRUSH,,,,,0.334,Above Average,1.050,-0.005,6207.0,Average
+End Zone - Clip 068.mp4,21861,,,,brush,BRUSH,,,,,0.100,Elite,0.304,-0.004,7058.0,Above Average
+End Zone - Clip 068.mp4,21869,,,,brush,BRUSH,,,,,0.868,Developmental,0.289,-0.003,4556.0,Below Average
+End Zone - Clip 068.mp4,21911,,,,brush,BRUSH,,,,,,,0.042,,5008.0,Average
+End Zone - Clip 069.mp4,22378,,,,brush,BRUSH,,,,,0.701,Below Average,0.315,0.005,4564.0,Below Average
+End Zone - Clip 069.mp4,22380,,,,brush,BRUSH,,,,,0.634,Below Average,0.281,-0.006,4554.0,Below Average
+End Zone - Clip 069.mp4,22391,,,,brush,BRUSH,,,,,0.467,Average,0.272,0.002,5055.0,Average
+End Zone - Clip 070.mp4,22709,,,,brush,BRUSH,,,,,,,0.560,,5112.0,Average
+End Zone - Clip 070.mp4,22872,,,,brush,BRUSH,,,,,,,0.086,,5017.0,Average
+End Zone - Clip 070.mp4,22909,,,,brush,BRUSH,,,,,0.934,Developmental,0.474,,4594.0,Below Average
+End Zone - Clip 071.mp4,23080,,,,brush,BRUSH,,,,,,,0.131,,5026.0,Average
+End Zone - Clip 071.mp4,23105,70,,,brush,BRUSH,white,,1.168,Average,0.367,Above Average,0.527,-0.004,6103.0,Average
+End Zone - Clip 071.mp4,23143,,,,brush,BRUSH,,,,,0.100,Elite,0.768,0.182,7244.0,Above Average
+End Zone - Clip 072.mp4,23222,,,,brush,BRUSH,,,,,3.136,Developmental,1.008,-0.001,4701.0,Below Average
+End Zone - Clip 072.mp4,23240,,,,brush,BRUSH,,,,,0.868,Developmental,0.270,0.015,4560.0,Below Average
+End Zone - Clip 073.mp4,23673,,,,brush,BRUSH,,,,,0.234,Elite,0.464,0.006,7095.0,Above Average
+End Zone - Clip 073.mp4,23705,,,,brush,BRUSH,,,,,0.467,Average,0.095,,5019.0,Average
+End Zone - Clip 074.mp4,23916,,,,brush,BRUSH,,,,,0.467,Average,0.286,-0.000,5057.0,Average
+End Zone - Clip 074.mp4,23925,,,,brush,BRUSH,,,,,0.667,Below Average,0.159,-0.008,4528.0,Below Average
+End Zone - Clip 074.mp4,23960,,,,brush,BRUSH,,,,,0.534,Average,0.345,0.002,5068.0,Average
+End Zone - Clip 076.mp4,24529,,,,brush,BRUSH,,,,,0.367,Above Average,0.251,-0.004,6049.0,Average
+End Zone - Clip 076.mp4,24581,,,,brush,BRUSH,,,,,,,0.003,,5000.0,Average
+End Zone - Clip 077.mp4,24880,,,,brush,BRUSH,,,,,0.167,Elite,0.353,0.032,7085.0,Above Average
+End Zone - Clip 077.mp4,24941,,,,brush,BRUSH,,,,,0.067,Elite,0.465,0.080,7131.0,Above Average
+End Zone - Clip 077.mp4,24955,,,,brush,BRUSH,,,,,0.067,Elite,0.567,0.164,7194.0,Above Average
+End Zone - Clip 077.mp4,25002,,,,brush,BRUSH,,,,,0.100,Elite,0.612,0.177,7210.0,Above Average
+End Zone - Clip 077.mp4,25009,,,,brush,BRUSH,,,,,0.067,Elite,0.516,0.245,7225.0,Above Average
+End Zone - Clip 077.mp4,25042,,,,brush,BRUSH,,,,,0.067,Elite,0.067,,7013.0,Above Average
+End Zone - Clip 077.mp4,25043,,,,brush,BRUSH,,,,,,,0.034,,5006.0,Average
+End Zone - Clip 077.mp4,25048,,,,brush,BRUSH,,,,,0.067,Elite,0.499,0.166,7181.0,Above Average
+End Zone - Clip 078.mp4,25461,,,,brush,BRUSH,,,,,1.001,Developmental,0.330,,4565.0,Below Average
+End Zone - Clip 078.mp4,25463,,,,brush,BRUSH,,,,,0.601,Below Average,0.456,,4591.0,Below Average
+End Zone - Clip 078.mp4,25550,,,,brush,BRUSH,,,,,0.334,Above Average,0.553,,6110.0,Average
+End Zone - Clip 078.mp4,25604,,,,brush,BRUSH,,,,,,,0.011,,5002.0,Average
+End Zone - Clip 080.mp4,26109,,,,brush,BRUSH,,,,,0.167,Elite,0.050,0.033,7026.0,Above Average
+End Zone - Clip 081.mp4,26289,,,,brush,BRUSH,,,,,0.133,Elite,0.281,-0.008,7053.0,Above Average
+End Zone - Clip 081.mp4,26306,,,,brush,BRUSH,,,,,0.167,Elite,0.146,-0.001,7029.0,Above Average
+End Zone - Clip 081.mp4,26305,,,,brush,BRUSH,,,,,0.167,Elite,0.028,-0.007,7002.0,Above Average
+End Zone - Clip 082.mp4,26374,12,,,brush,BRUSH,white,,0.601,Above Average,0.067,Elite,1.036,-0.003,8206.0,Elite
+End Zone - Clip 082.mp4,26375,,,,brush,BRUSH,,,,,0.400,Above Average,0.782,-0.090,6112.0,Average
+End Zone - Clip 082.mp4,26376,,,,brush,BRUSH,,,,,,,0.578,,5115.0,Average
+End Zone - Clip 082.mp4,26381,,,,brush,BRUSH,,,,,0.067,Elite,0.951,-0.099,7141.0,Above Average
+End Zone - Clip 082.mp4,26221,,,,brush,BRUSH,,,,,,,0.873,,5174.0,Average
+End Zone - Clip 082.mp4,26384,52,,,brush,BRUSH,white,,0.601,Above Average,0.033,Elite,0.929,,8185.0,Elite
+End Zone - Clip 082.mp4,26386,,,,brush,BRUSH,,,,,,,0.428,,5085.0,Average
+End Zone - Clip 082.mp4,26406,,,,brush,BRUSH,,,,,,,0.876,,5175.0,Average
+End Zone - Clip 082.mp4,26442,,,,brush,BRUSH,,,,,,,0.045,,5009.0,Average
+End Zone - Clip 083.mp4,26676,,,,brush,BRUSH,,,,,,,0.017,-0.007,5000.0,Average
+End Zone - Clip 084.mp4,26712,,,,brush,BRUSH,,,,,0.200,Elite,0.328,-0.001,7065.0,Above Average
+End Zone - Clip 084.mp4,26714,,,,brush,BRUSH,,,,,0.367,Above Average,0.453,-0.006,6088.0,Average
+End Zone - Clip 084.mp4,26777,,,,brush,BRUSH,,,,,0.234,Elite,0.363,-0.002,7071.0,Above Average
+End Zone - Clip 084.mp4,26789,,,,brush,BRUSH,,,,,0.434,Above Average,0.172,-0.008,6030.0,Average
+End Zone - Clip 085.mp4,26998,,,,brush,BRUSH,,,,,0.133,Elite,0.263,,7052.0,Above Average
+End Zone - Clip 086.mp4,27158,,,,brush,BRUSH,,,,,0.033,Elite,0.176,,7035.0,Above Average
+End Zone - Clip 086.mp4,27198,,,,brush,BRUSH,,,,,,,0.065,,5013.0,Average
+End Zone - Clip 087.mp4,27390,,,,brush,BRUSH,,,,,0.067,Elite,0.405,-0.105,7028.0,Above Average
+End Zone - Clip 087.mp4,27392,,,,brush,BRUSH,,,,,0.067,Elite,0.442,0.114,7145.0,Above Average
+End Zone - Clip 087.mp4,27502,,,,brush,BRUSH,,,,,,,0.018,,5003.0,Average
+End Zone - Clip 087.mp4,27504,,,,brush,BRUSH,,,,,,,,,5000.0,Average
+End Zone - Clip 089.mp4,27987,,,,brush,BRUSH,,,,,0.234,Elite,0.417,-0.003,7082.0,Above Average
+End Zone - Clip 092.mp4,29196,26,,,brush,BRUSH,white,,0.267,Elite,0.100,Elite,0.317,0.010,9068.0,Elite
+End Zone - Clip 092.mp4,29211,25,,,brush,BRUSH,white,,0.267,Elite,0.300,Above Average,0.719,0.004,8144.0,Elite
+End Zone - Clip 092.mp4,29289,78,,,brush,BRUSH,white,,0.267,Elite,0.300,Above Average,0.600,-0.030,8104.0,Elite
+End Zone - Clip 092.mp4,29292,,,,brush,BRUSH,,,,,1.068,Developmental,0.218,0.001,4543.0,Below Average
+End Zone - Clip 092.mp4,29294,,,,brush,BRUSH,,,,,1.168,Developmental,0.468,0.002,4593.0,Below Average
+End Zone - Clip 092.mp4,29295,,,,brush,BRUSH,,,,,0.467,Average,0.271,-0.032,5038.0,Average
+End Zone - Clip 092.mp4,29257,8,,,brush,BRUSH,white,,0.267,Elite,0.100,Elite,0.768,-0.007,9150.0,Elite
+End Zone - Clip 092.mp4,29313,,,,brush,BRUSH,,,,,0.067,Elite,0.410,0.062,7111.0,Above Average
+End Zone - Clip 092.mp4,29325,,,,brush,BRUSH,,,,,,,0.084,-0.005,5014.0,Average
+End Zone - Clip 093.mp4,29412,,,,brush,BRUSH,,,,,,,0.087,-0.062,4987.0,Below Average
+End Zone - Clip 093.mp4,29414,,,,brush,BRUSH,,,,,,,0.152,,5030.0,Average
+End Zone - Clip 093.mp4,29417,,,,brush,BRUSH,,,,,0.234,Elite,0.208,-0.058,7013.0,Above Average
+End Zone - Clip 093.mp4,29422,,,,brush,BRUSH,,,,,,,0.114,-0.028,5009.0,Average
+End Zone - Clip 093.mp4,29440,,,,brush,BRUSH,,,,,0.234,Elite,0.131,-0.192,6930.0,Above Average
+End Zone - Clip 093.mp4,29450,63,,,brush,BRUSH,white,,0.400,Elite,0.167,Elite,0.174,-0.069,9000.0,Elite
+End Zone - Clip 093.mp4,29448,,,,brush,BRUSH,,,,,0.267,Elite,0.101,-0.156,6942.0,Above Average
+End Zone - Clip 094.mp4,29494,78,,,brush,BRUSH,white,,0.234,Elite,0.100,Elite,0.585,0.069,9150.0,Elite
+End Zone - Clip 094.mp4,29584,,,,brush,BRUSH,,,,,0.100,Elite,0.215,,7043.0,Above Average
+End Zone - Clip 094.mp4,29607,5,,,brush,BRUSH,white,,0.234,Elite,0.067,Elite,0.310,,9062.0,Elite
+End Zone - Clip 094.mp4,29608,,,,brush,BRUSH,,,,,0.100,Elite,0.178,,7035.0,Above Average
+End Zone - Clip 094.mp4,29468,25,,,brush,BRUSH,white,,0.234,Elite,0.100,Elite,0.639,,9127.0,Elite
+End Zone - Clip 094.mp4,29609,,,,brush,BRUSH,,,,,0.100,Elite,0.270,,7054.0,Above Average
+End Zone - Clip 094.mp4,29611,,,,brush,BRUSH,,,,,,,0.291,,5058.0,Average
+End Zone - Clip 095.mp4,30524,,,,brush,BRUSH,,,,,0.067,Elite,0.448,-0.040,7070.0,Above Average
+End Zone - Clip 096.mp4,30827,26,,,brush,BRUSH,white,,0.234,Elite,0.634,Below Average,0.612,-0.001,6622.0,Above Average
+End Zone - Clip 096.mp4,30869,,,,brush,BRUSH,,,,,,,0.287,0.005,5059.0,Average
+End Zone - Clip 096.mp4,30888,,,,brush,BRUSH,,,,,,,0.222,-0.002,5043.0,Average
+End Zone - Clip 096.mp4,30889,,,,brush,BRUSH,,,,,1.768,Developmental,0.257,-0.011,4546.0,Below Average
+End Zone - Clip 097.mp4,30866,,,,brush,BRUSH,,,,,0.601,Below Average,0.331,-0.003,4565.0,Below Average
+End Zone - Clip 097.mp4,30888,,,,brush,BRUSH,,,,,0.400,Above Average,0.346,-0.009,6065.0,Average
+End Zone - Clip 097.mp4,30987,,,,brush,BRUSH,,,,,0.434,Above Average,0.313,-0.009,6058.0,Average
+End Zone - Clip 098.mp4,31173,26,,,brush,BRUSH,white,,0.434,Elite,0.067,Elite,1.243,-0.004,9247.0,Elite
+End Zone - Clip 098.mp4,31178,,,,brush,BRUSH,,,,,0.067,Elite,1.541,-0.001,7308.0,Above Average
+End Zone - Clip 098.mp4,31179,,,,brush,BRUSH,,,,,0.033,Elite,1.521,-0.006,7302.0,Above Average
+End Zone - Clip 098.mp4,31283,,,,brush,BRUSH,,,,,0.067,Elite,0.921,-0.002,7183.0,Above Average
+End Zone - Clip 099.mp4,31619,,,,brush,BRUSH,,,,,0.067,Elite,0.652,0.037,7148.0,Above Average
+End Zone - Clip 099.mp4,31708,,,,brush,BRUSH,,,,,0.067,Elite,0.380,0.008,7079.0,Above Average
+End Zone - Clip 099.mp4,31733,,,,brush,BRUSH,,,,,0.133,Elite,0.499,0.009,7103.0,Above Average
+End Zone - Clip 099.mp4,31745,,,,brush,BRUSH,,,,,0.067,Elite,0.443,0.030,7102.0,Above Average
+End Zone - Clip 099.mp4,31757,,,,brush,BRUSH,,,,,,,0.006,,5001.0,Average
+End Zone - Clip 099.mp4,31761,,,,brush,BRUSH,,,,,0.033,Elite,0.363,0.009,7076.0,Above Average
+End Zone - Clip 100.mp4,31868,32,,,brush,BRUSH,white,,1.168,Average,0.334,Above Average,0.288,0.025,6069.0,Average
+End Zone - Clip 100.mp4,31869,78,,,brush,BRUSH,white,,1.168,Average,0.133,Elite,0.425,0.054,7112.0,Above Average
+End Zone - Clip 100.mp4,31871,,,,brush,BRUSH,,,,,0.434,Above Average,0.547,-0.005,6107.0,Average
+End Zone - Clip 100.mp4,31873,,,,brush,BRUSH,,,,,4.771,Developmental,0.223,0.003,4545.0,Below Average
+End Zone - Clip 100.mp4,31888,,,,brush,BRUSH,,,,,0.300,Above Average,0.391,0.049,6102.0,Average
+End Zone - Clip 100.mp4,31902,,,,brush,BRUSH,,,,,1.268,Developmental,0.456,-0.000,4591.0,Below Average
+End Zone - Clip 101.mp4,32036,,,,brush,BRUSH,,,,,0.076,Elite,0.407,,7081.0,Above Average
+End Zone - Clip 101.mp4,32087,,,,brush,BRUSH,,,,,,,0.343,,5068.0,Average
+End Zone - Clip 101.mp4,32123,,,,brush,BRUSH,,,,,0.076,Elite,0.247,,7049.0,Above Average
+End Zone - Clip 102.mp4,32268,63,,,brush,BRUSH,white,,0.500,Above Average,0.734,Below Average,0.721,0.001,5644.0,Average
+End Zone - Clip 102.mp4,32296,32,,,brush,BRUSH,white,,0.500,Above Average,0.834,Developmental,0.534,0.016,5614.0,Average
+End Zone - Clip 102.mp4,32299,,,,brush,BRUSH,,,,,1.001,Developmental,0.370,0.004,4576.0,Below Average
+End Zone - Clip 102.mp4,32297,,,,brush,BRUSH,,,,,,,0.390,0.084,5119.0,Average
+End Zone - Clip 102.mp4,32360,,,,brush,BRUSH,,,,,0.500,Average,0.507,0.016,5108.0,Average
+End Zone - Clip 102.mp4,32371,62,,,brush,BRUSH,white,,0.500,Above Average,0.500,Average,0.240,-0.010,6044.0,Average
+End Zone - Clip 102.mp4,32372,,,,brush,BRUSH,,,,,0.467,Average,0.231,0.015,5053.0,Average
+End Zone - Clip 102.mp4,32373,,,,brush,BRUSH,,,,,0.100,Elite,0.407,0.012,7087.0,Above Average
+End Zone - Clip 102.mp4,32383,,,,brush,BRUSH,,,,,,,0.003,,5000.0,Average
+End Zone - Clip 103.mp4,32417,,,,brush,BRUSH,,,,,0.133,Elite,0.915,0.002,7182.0,Above Average
+End Zone - Clip 103.mp4,32414,,,,brush,BRUSH,,,,,0.167,Elite,0.538,-0.001,7107.0,Above Average
+End Zone - Clip 103.mp4,32413,63,,,brush,BRUSH,white,,1.001,Average,0.334,Above Average,1.084,0.023,6227.0,Average
+End Zone - Clip 103.mp4,32419,,,,brush,BRUSH,,,,,0.334,Above Average,0.716,-0.019,6134.0,Average
+End Zone - Clip 103.mp4,32415,62,,,brush,BRUSH,white,,1.001,Average,0.234,Elite,0.550,0.009,7114.0,Above Average
+End Zone - Clip 104.mp4,32702,,,,brush,BRUSH,,,,,,,0.218,,5043.0,Average
+End Zone - Clip 104.mp4,32734,12,,,brush,BRUSH,white,,0.234,Elite,0.033,Elite,0.322,,9064.0,Elite
+End Zone - Clip 104.mp4,32737,35,,,brush,BRUSH,white,,0.234,Elite,0.033,Elite,0.356,,9071.0,Elite
+End Zone - Clip 104.mp4,32739,,,,brush,BRUSH,,,,,,,0.187,,5037.0,Average
+End Zone - Clip 104.mp4,32738,,,,brush,BRUSH,,,,,,,0.117,,5023.0,Average
+End Zone - Clip 104.mp4,32741,,,,brush,BRUSH,,,,,,,0.082,,5016.0,Average
+End Zone - Clip 105.mp4,33269,,,,brush,BRUSH,,,,,0.200,Elite,0.252,0.005,7052.0,Above Average
+End Zone - Clip 105.mp4,33273,,,,brush,BRUSH,,,,,0.133,Elite,0.402,-0.042,7059.0,Above Average
+End Zone - Clip 105.mp4,33275,,,,brush,BRUSH,,,,,0.167,Elite,0.369,0.039,7092.0,Above Average
+End Zone - Clip 105.mp4,33295,,,,brush,BRUSH,,,,,0.334,Above Average,0.202,-0.028,6026.0,Average
+End Zone - Clip 105.mp4,33300,,,,brush,BRUSH,,,,,0.267,Elite,0.213,-0.004,7041.0,Above Average
+End Zone - Clip 105.mp4,33303,,,,brush,BRUSH,,,,,0.133,Elite,0.189,-0.090,6993.0,Above Average
+End Zone - Clip 106.mp4,33587,,,,brush,BRUSH,,,,,1.435,Developmental,0.460,0.002,4592.0,Below Average
+End Zone - Clip 106.mp4,33681,,,,brush,BRUSH,,,,,0.767,Below Average,0.161,-0.003,4531.0,Below Average
+End Zone - Clip 106.mp4,33697,,,,brush,BRUSH,,,,,,,0.088,-0.002,5017.0,Average
+End Zone - Clip 107.mp4,33814,,,,brush,BRUSH,,,,,0.234,Elite,0.893,0.001,7178.0,Above Average
+End Zone - Clip 107.mp4,33817,26,,,brush,BRUSH,white,,0.267,Elite,0.267,Elite,0.743,-0.002,9147.0,Elite
+End Zone - Clip 107.mp4,33841,,,,brush,BRUSH,,,,,0.267,Elite,0.703,-0.001,7140.0,Above Average
+End Zone - Clip 107.mp4,33852,19,,,brush,BRUSH,white,,0.267,Elite,0.267,Elite,0.841,0.022,9178.0,Elite
+End Zone - Clip 108.mp4,34104,,,,brush,BRUSH,,,,,,,0.480,,5095.0,Average
+End Zone - Clip 108.mp4,34232,,,,brush,BRUSH,,,,,,,0.005,,5001.0,Average
+End Zone - Clip 109.mp4,34536,,,,brush,BRUSH,,,,,0.634,Below Average,0.427,-0.002,4584.0,Below Average
+End Zone - Clip 110.mp4,34969,,,,brush,BRUSH,,,,,0.267,Elite,0.853,-0.006,7168.0,Above Average
+End Zone - Clip 110.mp4,34978,,,,brush,BRUSH,,,,,0.267,Elite,0.267,-0.139,6984.0,Above Average
+End Zone - Clip 110.mp4,35069,,,,brush,BRUSH,,,,,0.234,Elite,0.344,-0.159,6989.0,Above Average
+End Zone - Clip 110.mp4,35082,,,,brush,BRUSH,,,,,0.300,Above Average,0.123,-0.142,5954.0,Average
+End Zone - Clip 112.mp4,35513,,,,brush,BRUSH,,,,,0.367,Above Average,0.064,0.010,6017.0,Average
+End Zone - Clip 114.mp4,35940,,,,brush,BRUSH,,,,,0.300,Above Average,0.441,-0.044,6067.0,Average
+End Zone - Clip 114.mp4,35941,,,,brush,BRUSH,,,,,0.067,Elite,0.398,-0.071,7044.0,Above Average
+End Zone - Clip 114.mp4,35945,,,,brush,BRUSH,,,,,0.367,Above Average,0.319,-0.055,6036.0,Average
+End Zone - Clip 114.mp4,35968,,,,brush,BRUSH,,,,,0.334,Above Average,0.244,-0.024,6036.0,Average
+End Zone - Clip 114.mp4,36012,63,,,brush,BRUSH,white,,0.334,Elite,0.133,Elite,0.512,-0.064,9070.0,Elite
+End Zone - Clip 115.mp4,36327,,,,brush,BRUSH,,,,,0.200,Elite,0.592,0.003,7119.0,Above Average
+End Zone - Clip 115.mp4,36340,,,,brush,BRUSH,,,,,1.034,Developmental,0.119,,4523.0,Below Average
+End Zone - Clip 115.mp4,36346,,,,brush,BRUSH,,,,,0.868,Developmental,0.291,,4558.0,Below Average
+End Zone - Clip 115.mp4,36351,,,,brush,BRUSH,,,,,,,0.087,,5017.0,Average
+End Zone - Clip 116.mp4,36327,,,,brush,BRUSH,,,,,0.500,Average,1.115,,5223.0,Average
+End Zone - Clip 116.mp4,36439,,,,brush,BRUSH,,,,,,,0.797,,5159.0,Average
+End Zone - Clip 116.mp4,36541,,,,brush,BRUSH,,,,,0.200,Elite,0.639,-0.226,7014.0,Above Average
+End Zone - Clip 116.mp4,36644,,,,brush,BRUSH,,,,,0.567,Average,0.293,,5058.0,Average
+End Zone - Clip 116.mp4,36643,,,,brush,BRUSH,,,,,0.200,Elite,0.292,,7058.0,Above Average
+End Zone - Clip 117.mp4,36956,,,,brush,BRUSH,,,,,,,0.058,,5011.0,Average
+End Zone - Clip 117.mp4,36971,,,,brush,BRUSH,,,,,,,0.046,,5009.0,Average
+End Zone - Clip 120.mp4,37829,,,,brush,BRUSH,,,,,0.601,Below Average,0.320,0.018,4573.0,Below Average
+End Zone - Clip 120.mp4,37843,,,,brush,BRUSH,,,,,,,0.172,-0.006,5032.0,Average
+End Zone - Clip 120.mp4,37845,,,,brush,BRUSH,,,,,,,0.296,-0.028,5045.0,Average
+End Zone - Clip 120.mp4,37847,,,,brush,BRUSH,,,,,0.234,Elite,0.499,0.100,7149.0,Above Average
+End Zone - Clip 120.mp4,37849,,,,brush,BRUSH,,,,,4.571,Developmental,0.243,-0.001,4548.0,Below Average
+End Zone - Clip 120.mp4,37848,,,,brush,BRUSH,,,,,,,0.218,-0.001,5043.0,Average
+End Zone - Clip 120.mp4,37852,,,,brush,BRUSH,,,,,0.067,Elite,0.322,,7064.0,Above Average
+End Zone - Clip 120.mp4,37901,,,,brush,BRUSH,,,,,0.200,Elite,0.266,0.010,7058.0,Above Average
+End Zone - Clip 121.mp4,38005,,,,brush,BRUSH,,,,,0.734,Below Average,0.240,-0.006,4545.0,Below Average
+End Zone - Clip 121.mp4,38006,,,,brush,BRUSH,,,,,,,0.310,-0.001,5061.0,Average
+End Zone - Clip 121.mp4,38010,,,,brush,BRUSH,,,,,1.501,Developmental,0.309,0.001,4561.0,Below Average
+End Zone - Clip 121.mp4,38015,,,,brush,BRUSH,,,,,0.167,Elite,0.751,-0.023,7139.0,Above Average
+End Zone - Clip 121.mp4,38065,,,,brush,BRUSH,,,,,1.101,Developmental,0.442,0.007,4591.0,Below Average
+End Zone - Clip 121.mp4,38069,,,,brush,BRUSH,,,,,,,0.044,,5008.0,Average
+End Zone - Clip 122.mp4,38520,,,,brush,BRUSH,,,,,0.167,Elite,0.157,-0.032,7016.0,Above Average
+End Zone - Clip 122.mp4,38521,,,,brush,BRUSH,,,,,0.400,Above Average,0.077,-0.037,5997.0,Average
+End Zone - Clip 122.mp4,38535,,,,brush,BRUSH,,,,,0.400,Above Average,0.076,-0.031,6000.0,Average
+End Zone - Clip 122.mp4,38544,,,,brush,BRUSH,,,,,0.100,Elite,0.284,0.105,7108.0,Above Average
+End Zone - Clip 122.mp4,38548,,,,brush,BRUSH,,,,,0.133,Elite,0.117,0.018,7032.0,Above Average
+End Zone - Clip 122.mp4,38550,,,,brush,BRUSH,,,,,0.033,Elite,0.066,,7013.0,Above Average
+End Zone - Clip 122.mp4,38579,19,,,brush,BRUSH,white,,0.234,Elite,0.033,Elite,0.503,0.012,9106.0,Elite
+End Zone - Clip 123.mp4,38862,,,,brush,BRUSH,,,,,,,0.016,,5003.0,Average

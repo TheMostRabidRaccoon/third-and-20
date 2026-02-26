@@ -1,0 +1,1235 @@
+clip_file,track_id,jersey_number,player_name,team_name,inferred_position,alignment,depth_from_los,in_box,on_line,first_step_sec,first_step_grade,penetration_depth,lateral_movement,defensive_grade
+Wide - Clip 001.mp4,21,,,DEFENSE,S,Strong Safety,0.435,True,False,0.400,Average,,0.004,Average
+Wide - Clip 001.mp4,167,,,DEFENSE,CB,Deep,0.282,False,False,0.300,Above Average,,0.012,Above Average
+Wide - Clip 001.mp4,170,,,DEFENSE,CB,Deep,0.425,False,False,0.633,Below Average,,0.013,Below Average
+Wide - Clip 002.mp4,272,,,DEFENSE,S,Strong Safety,0.428,True,False,0.267,Above Average,,0.066,Above Average
+Wide - Clip 002.mp4,381,,,DEFENSE,S,Deep half,0.431,False,False,0.200,Elite,,0.081,Elite
+Wide - Clip 002.mp4,382,,,DEFENSE,S,Deep half,0.430,False,False,0.200,Elite,,0.077,Elite
+Wide - Clip 002.mp4,395,,,DEFENSE,SLOT,Nickel/Slot,0.103,False,False,0.067,Elite,,0.061,Elite
+Wide - Clip 002.mp4,429,82,,DEFENSE,S,Strong Safety,0.416,True,False,0.200,Elite,,0.024,Elite
+Wide - Clip 002.mp4,503,,,DEFENSE,S,Deep half,0.406,True,False,0.200,Elite,,0.074,Elite
+Wide - Clip 002.mp4,507,,,DEFENSE,DL,5-tech,0.021,True,True,0.133,Elite,,,Elite
+Wide - Clip 002.mp4,510,,,DEFENSE,DL,3-tech,0.021,True,True,0.267,Above Average,,,Above Average
+Wide - Clip 002.mp4,530,,,DEFENSE,SLOT,Nickel/Slot,0.108,False,False,0.167,Elite,,0.049,Elite
+Wide - Clip 002.mp4,544,,,DEFENSE,CB,Deep,0.276,False,False,0.200,Elite,,0.090,Elite
+Wide - Clip 002.mp4,560,,,DEFENSE,CB,Deep,0.270,False,False,0.200,Elite,,0.092,Elite
+Wide - Clip 002.mp4,572,,,DEFENSE,LB,SAM (strong),0.030,True,False,,,,,Average
+Wide - Clip 002.mp4,578,52,,DEFENSE,S,Free Safety (centerfield),0.410,True,False,0.233,Elite,,0.028,Elite
+Wide - Clip 002.mp4,582,,,DEFENSE,CB,Deep,0.258,False,False,0.200,Elite,,0.094,Elite
+Wide - Clip 002.mp4,587,,,DEFENSE,EDGE,OLB (up),0.031,False,False,0.100,Elite,,,Elite
+Wide - Clip 002.mp4,594,,,DEFENSE,S,Strong Safety,0.410,True,False,0.200,Elite,,0.070,Elite
+Wide - Clip 002.mp4,596,,,DEFENSE,LB,SAM (strong),0.033,True,False,0.333,Above Average,,,Above Average
+Wide - Clip 002.mp4,599,,,DEFENSE,DL,0-tech (Nose),0.011,True,True,0.233,Above Average,,,Above Average
+Wide - Clip 003.mp4,824,,,DEFENSE,S,Deep half,0.384,False,False,0.200,Elite,,0.074,Elite
+Wide - Clip 003.mp4,752,,,DEFENSE,S,Deep half,0.386,True,False,0.200,Elite,,0.071,Elite
+Wide - Clip 003.mp4,825,3,,DEFENSE,S,Strong Safety,0.330,True,False,0.200,Elite,,0.062,Elite
+Wide - Clip 003.mp4,835,,,DEFENSE,SLOT,Nickel/Slot,0.095,False,False,0.367,Average,,0.042,Average
+Wide - Clip 003.mp4,834,3,,DEFENSE,S,Strong Safety,0.353,True,False,0.267,Above Average,,0.050,Above Average
+Wide - Clip 003.mp4,947,82,,DEFENSE,S,Strong Safety,0.317,True,False,0.233,Elite,,0.067,Elite
+Wide - Clip 003.mp4,962,70,,DEFENSE,S,Free Safety (centerfield),0.342,True,False,0.267,Above Average,,0.067,Above Average
+Wide - Clip 003.mp4,1028,,,DEFENSE,LB,SAM (strong),0.054,True,False,0.333,Above Average,,,Above Average
+Wide - Clip 003.mp4,1038,,,DEFENSE,S,Deep half,0.227,False,False,0.200,Elite,,0.083,Elite
+Wide - Clip 003.mp4,1051,,,DEFENSE,CB,Deep,0.227,False,False,0.167,Elite,,0.085,Elite
+Wide - Clip 003.mp4,1058,,,DEFENSE,CB,Deep,0.216,False,False,0.267,Above Average,,0.091,Above Average
+Wide - Clip 003.mp4,1156,,,DEFENSE,CB,Off (5-7 yards),0.109,False,False,0.133,Elite,,0.048,Elite
+Wide - Clip 003.mp4,1195,57,,DEFENSE,S,Deep half,0.414,False,False,0.633,Below Average,,0.032,Below Average
+Wide - Clip 003.mp4,1196,,,DEFENSE,CB,Deep,0.197,False,False,0.233,Elite,,0.078,Elite
+Wide - Clip 003.mp4,1197,21,,DEFENSE,S,Strong Safety,0.340,True,False,0.100,Elite,,0.005,Elite
+Wide - Clip 004.mp4,2100,,,DEFENSE,S,Deep half,0.290,True,False,0.333,Above Average,,0.021,Above Average
+Wide - Clip 004.mp4,2127,,,DEFENSE,CB,Deep,0.387,False,False,0.133,Elite,,0.095,Elite
+Wide - Clip 004.mp4,2157,,,DEFENSE,S,Deep half,0.410,False,False,,,,,Average
+Wide - Clip 004.mp4,2182,,,DEFENSE,S,Strong Safety,0.285,True,False,0.233,Elite,,0.051,Elite
+Wide - Clip 004.mp4,2190,,,DEFENSE,S,Strong Safety,0.300,True,False,0.167,Elite,,0.107,Elite
+Wide - Clip 004.mp4,2194,57,,DEFENSE,S,Free Safety (centerfield),0.276,True,False,0.367,Average,,0.052,Average
+Wide - Clip 004.mp4,2208,,,DEFENSE,S,Strong Safety,0.269,True,False,0.500,Average,,0.042,Average
+Wide - Clip 005.mp4,2444,,,DEFENSE,S,Deep half,0.443,False,False,0.233,Elite,,0.063,Elite
+Wide - Clip 005.mp4,2534,21,,DEFENSE,S,Deep half,0.398,False,False,0.233,Elite,,0.065,Elite
+Wide - Clip 005.mp4,2653,75,,DEFENSE,S,Strong Safety,0.438,True,False,,,,0.005,Average
+Wide - Clip 006.mp4,2788,,,DEFENSE,EDGE,DE (down),0.048,True,False,0.133,Elite,,,Elite
+Wide - Clip 006.mp4,2791,,,DEFENSE,DL,5-tech,0.018,True,True,0.167,Elite,0.005,,Elite
+Wide - Clip 006.mp4,2829,,,DEFENSE,DL,5-tech,0.014,True,True,0.100,Elite,0.033,,Elite
+Wide - Clip 006.mp4,2876,58,,DEFENSE,EDGE,DE (down),0.043,True,False,0.233,Above Average,,,Above Average
+Wide - Clip 006.mp4,2895,14,,DEFENSE,CB,Deep,0.400,False,False,0.167,Elite,,0.094,Elite
+Wide - Clip 006.mp4,2921,2,,DEFENSE,CB,Deep,0.403,False,False,0.100,Elite,,0.011,Elite
+Wide - Clip 006.mp4,2924,,,DEFENSE,EDGE,DE (down),0.047,False,False,0.167,Elite,,,Elite
+Wide - Clip 007.mp4,3131,,,DEFENSE,LB,SAM (strong),0.077,True,False,0.100,Elite,,,Elite
+Wide - Clip 007.mp4,3136,,,DEFENSE,EDGE,DE (down),0.033,True,False,0.233,Above Average,0.027,,Above Average
+Wide - Clip 007.mp4,3138,,,DEFENSE,EDGE,DE (down),0.099,False,False,0.100,Elite,0.102,,Elite
+Wide - Clip 007.mp4,3141,,,DEFENSE,EDGE,DE (down),0.215,False,False,0.233,Above Average,0.204,,Elite
+Wide - Clip 007.mp4,3160,,,DEFENSE,DL,5-tech,0.080,True,False,0.067,Elite,,,Elite
+Wide - Clip 007.mp4,3216,,,DEFENSE,DL,0-tech (Nose),0.055,True,False,,,,,Average
+Wide - Clip 007.mp4,3222,,,DEFENSE,EDGE,DE (down),0.227,False,False,0.167,Elite,0.175,,Elite
+Wide - Clip 007.mp4,3221,,,DEFENSE,EDGE,DE (down),0.189,False,False,0.100,Elite,0.126,,Elite
+Wide - Clip 008.mp4,3440,,,DEFENSE,LB,MIKE (middle),0.074,True,False,0.067,Elite,,,Elite
+Wide - Clip 008.mp4,3442,,,DEFENSE,DL,5-tech,0.100,True,False,,,,,Average
+Wide - Clip 008.mp4,3444,,,DEFENSE,DL,5-tech,0.114,True,False,0.100,Elite,0.147,,Elite
+Wide - Clip 008.mp4,3458,,,DEFENSE,EDGE,DE (down),0.056,True,False,0.067,Elite,,,Elite
+Wide - Clip 008.mp4,3483,,,DEFENSE,EDGE,DE (down),0.133,False,False,0.800,Developmental,0.158,,Average
+Wide - Clip 008.mp4,3488,29,,DEFENSE,S,Deep half,0.405,True,False,1.367,Developmental,,0.003,Below Average
+Wide - Clip 008.mp4,3504,,,DEFENSE,DL,0-tech (Nose),0.116,True,False,,,,,Average
+Wide - Clip 008.mp4,3553,14,,DEFENSE,CB,Deep,0.418,False,False,0.933,Developmental,,0.010,Below Average
+Wide - Clip 008.mp4,3554,,,DEFENSE,DL,3-tech,0.120,True,False,0.033,Elite,,,Elite
+Wide - Clip 009.mp4,3946,,,DEFENSE,EDGE,DE (down),0.124,True,False,0.100,Elite,0.150,,Elite
+Wide - Clip 009.mp4,4151,,,DEFENSE,DL,3-tech,0.009,True,True,0.133,Elite,,,Elite
+Wide - Clip 009.mp4,4157,77,,DEFENSE,CB,Deep,0.404,False,False,0.133,Elite,,0.073,Elite
+Wide - Clip 009.mp4,4203,,,DEFENSE,EDGE,DE (down),0.199,False,False,0.200,Elite,0.198,,Elite
+Wide - Clip 009.mp4,4252,68,,DEFENSE,S,Strong Safety,0.416,True,False,0.133,Elite,,0.009,Elite
+Wide - Clip 010.mp4,4383,58,,DEFENSE,S,Strong Safety,0.287,True,False,0.267,Above Average,,0.036,Above Average
+Wide - Clip 010.mp4,4423,,,DEFENSE,LB,SAM (strong),0.059,True,False,0.267,Above Average,,,Above Average
+Wide - Clip 010.mp4,4482,,,DEFENSE,DL,5-tech,0.099,True,False,0.233,Above Average,,,Above Average
+Wide - Clip 010.mp4,4499,,,DEFENSE,EDGE,OLB (up),0.036,True,False,0.300,Average,,,Average
+Wide - Clip 010.mp4,4519,57,,DEFENSE,S,Deep half,0.430,False,False,0.233,Elite,,0.035,Elite
+Wide - Clip 010.mp4,4548,,,DEFENSE,DL,5-tech,0.147,True,False,0.300,Average,0.151,,Above Average
+Wide - Clip 010.mp4,4573,,,DEFENSE,EDGE,DE (down),0.213,False,False,0.367,Average,0.209,,Above Average
+Wide - Clip 010.mp4,4607,,,DEFENSE,EDGE,DE (down),0.029,True,True,0.100,Elite,,,Elite
+Wide - Clip 010.mp4,4616,26,,DEFENSE,CB,Deep,0.427,False,False,0.300,Above Average,,0.034,Above Average
+Wide - Clip 010.mp4,4618,18,,DEFENSE,CB,Deep,0.404,False,False,0.333,Above Average,,0.036,Above Average
+Wide - Clip 011.mp4,4519,57,,DEFENSE,S,Deep half,0.406,False,False,0.367,Average,,0.017,Average
+Wide - Clip 011.mp4,4751,6,,DEFENSE,CB,Deep,0.400,False,False,0.267,Above Average,,0.021,Above Average
+Wide - Clip 011.mp4,4790,70,,DEFENSE,S,Strong Safety,0.412,True,False,0.467,Average,,0.021,Average
+Wide - Clip 011.mp4,4870,14,,DEFENSE,S,Free Safety (centerfield),0.400,True,False,,,,0.001,Average
+Wide - Clip 011.mp4,4891,80,,DEFENSE,S,Strong Safety,0.406,True,False,0.867,Developmental,,0.038,Below Average
+Wide - Clip 011.mp4,4902,2,,DEFENSE,S,Free Safety (centerfield),0.394,True,False,0.567,Below Average,,0.015,Below Average
+Wide - Clip 011.mp4,4912,38,,DEFENSE,S,Strong Safety,0.408,True,False,0.433,Average,,0.008,Average
+Wide - Clip 011.mp4,4920,77,,DEFENSE,S,Strong Safety,0.400,True,False,0.900,Developmental,,0.024,Below Average
+Wide - Clip 012.mp4,5004,57,,DEFENSE,S,Deep half,0.428,False,False,1.300,Developmental,,0.006,Below Average
+Wide - Clip 012.mp4,5084,,,DEFENSE,EDGE,DE (down),0.002,False,True,0.600,Developmental,,,Below Average
+Wide - Clip 012.mp4,5088,2,,DEFENSE,S,Strong Safety,0.299,True,False,,,,0.005,Average
+Wide - Clip 012.mp4,5090,,,DEFENSE,DL,1-tech,0.014,True,True,0.233,Above Average,0.021,,Above Average
+Wide - Clip 012.mp4,5109,,,DEFENSE,EDGE,DE (down),0.241,True,False,,,,,Average
+Wide - Clip 012.mp4,5129,,,DEFENSE,DL,3-tech,0.249,True,False,0.267,Above Average,,,Above Average
+Wide - Clip 012.mp4,5135,,,DEFENSE,EDGE,DE (down),0.117,False,False,0.667,Developmental,,,Below Average
+Wide - Clip 012.mp4,5136,30,,DEFENSE,EDGE,DE (down),0.410,False,False,1.000,Developmental,0.408,,Average
+Wide - Clip 012.mp4,5150,,,DEFENSE,EDGE,DE (down),0.192,False,False,1.133,Developmental,0.191,,Average
+Wide - Clip 012.mp4,5165,,,DEFENSE,DL,0-tech (Nose),0.122,True,False,0.167,Elite,,,Elite
+Wide - Clip 012.mp4,5178,,,DEFENSE,EDGE,DE (down),0.300,False,False,,,,,Average
+Wide - Clip 012.mp4,5181,75,,DEFENSE,S,Strong Safety,0.417,True,False,,,,0.002,Average
+Wide - Clip 012.mp4,5188,,,DEFENSE,DL,3-tech,0.201,True,False,0.133,Elite,,,Elite
+Wide - Clip 012.mp4,5190,14,,DEFENSE,S,Deep half,0.423,False,False,1.467,Developmental,,0.004,Below Average
+Wide - Clip 013.mp4,5447,,,DEFENSE,SLOT,Nickel/Slot,0.092,False,False,0.200,Elite,,0.120,Elite
+Wide - Clip 013.mp4,5448,,,DEFENSE,EDGE,DE (down),0.100,True,False,0.133,Elite,,,Elite
+Wide - Clip 013.mp4,5451,26,,DEFENSE,CB,Deep,0.429,False,False,0.200,Elite,,0.031,Elite
+Wide - Clip 013.mp4,5468,45,,DEFENSE,S,Deep half,0.343,False,False,0.200,Elite,,0.024,Elite
+Wide - Clip 013.mp4,5542,16,,DEFENSE,S,Strong Safety,0.411,True,False,0.400,Average,,0.012,Average
+Wide - Clip 013.mp4,5578,,,DEFENSE,EDGE,DE (down),0.030,True,True,0.033,Elite,,,Elite
+Wide - Clip 013.mp4,5581,,,DEFENSE,DL,1-tech,0.008,True,True,0.133,Elite,,,Elite
+Wide - Clip 013.mp4,5583,57,,DEFENSE,S,Deep half,0.429,True,False,0.233,Elite,,0.026,Elite
+Wide - Clip 013.mp4,5623,,,DEFENSE,DL,0-tech (Nose),0.010,True,True,0.067,Elite,,,Elite
+Wide - Clip 014.mp4,6000,43,,DEFENSE,S,Deep half,0.409,False,False,2.233,Developmental,,0.006,Below Average
+Wide - Clip 014.mp4,6002,14,,DEFENSE,S,Free Safety (centerfield),0.419,True,False,1.367,Developmental,,0.009,Below Average
+Wide - Clip 014.mp4,6008,73,,DEFENSE,S,Deep half,0.411,True,False,1.567,Developmental,,0.009,Below Average
+Wide - Clip 014.mp4,6013,57,,DEFENSE,CB,Deep,0.436,False,False,0.433,Average,,0.014,Average
+Wide - Clip 014.mp4,6022,16,,DEFENSE,S,Deep half,0.432,False,False,2.100,Developmental,,0.002,Below Average
+Wide - Clip 014.mp4,6032,38,,DEFENSE,S,Deep half,0.423,True,False,,,,0.007,Average
+Wide - Clip 015.mp4,6063,57,,DEFENSE,S,Deep half,0.431,False,False,0.133,Elite,,0.151,Elite
+Wide - Clip 015.mp4,6067,77,,DEFENSE,S,Strong Safety,0.419,True,False,0.133,Elite,,0.261,Elite
+Wide - Clip 015.mp4,6090,14,,DEFENSE,S,Free Safety (centerfield),0.428,True,False,0.167,Elite,,0.254,Elite
+Wide - Clip 015.mp4,6154,73,,DEFENSE,S,Strong Safety,0.408,True,False,0.133,Elite,,0.110,Elite
+Wide - Clip 015.mp4,6172,86,,DEFENSE,S,Deep half,0.409,True,False,0.167,Elite,,0.230,Elite
+Wide - Clip 015.mp4,6221,44,,DEFENSE,CB,Deep,0.442,False,False,,,,0.007,Average
+Wide - Clip 015.mp4,6223,56,,DEFENSE,S,Free Safety (centerfield),0.417,True,False,0.100,Elite,,0.110,Elite
+Wide - Clip 015.mp4,6242,,,DEFENSE,DL,1-tech,0.082,True,False,0.200,Elite,0.088,,Elite
+Wide - Clip 015.mp4,6251,,,DEFENSE,EDGE,DE (down),0.137,False,False,0.133,Elite,0.131,,Elite
+Wide - Clip 015.mp4,6263,,,DEFENSE,EDGE,DE (down),0.110,True,False,0.200,Elite,,,Elite
+Wide - Clip 015.mp4,6268,,,DEFENSE,DL,5-tech,0.142,True,False,,,,,Average
+Wide - Clip 016.mp4,6525,,,DEFENSE,LB,WILL (weak),0.135,True,False,0.100,Elite,,,Elite
+Wide - Clip 016.mp4,6534,,,DEFENSE,EDGE,DE (down),0.123,False,False,0.133,Elite,,,Elite
+Wide - Clip 016.mp4,6559,,,DEFENSE,EDGE,DE (down),0.104,False,False,,,,,Average
+Wide - Clip 016.mp4,6596,56,,DEFENSE,S,Strong Safety,0.422,True,False,1.033,Developmental,,0.010,Below Average
+Wide - Clip 016.mp4,6605,38,,DEFENSE,CB,Deep,0.443,False,False,1.000,Developmental,,0.015,Below Average
+Wide - Clip 016.mp4,6611,,,DEFENSE,EDGE,DE (down),0.072,True,False,0.100,Elite,,,Elite
+Wide - Clip 017.mp4,6703,,,DEFENSE,DL,5-tech,0.100,True,False,0.100,Elite,0.113,,Elite
+Wide - Clip 017.mp4,6706,,,DEFENSE,DL,5-tech,0.080,True,False,0.167,Elite,0.096,,Elite
+Wide - Clip 017.mp4,6710,,,DEFENSE,DL,5-tech,0.025,True,True,0.533,Below Average,,,Below Average
+Wide - Clip 017.mp4,6714,30,,DEFENSE,S,Free Safety (centerfield),0.400,True,False,5.533,Developmental,,0.004,Below Average
+Wide - Clip 017.mp4,6717,37,,DEFENSE,S,Free Safety (centerfield),0.415,True,False,0.900,Developmental,,0.018,Below Average
+Wide - Clip 017.mp4,6722,,,DEFENSE,LB,MIKE (middle),0.144,True,False,0.167,Elite,,,Elite
+Wide - Clip 017.mp4,6721,46,,DEFENSE,S,Strong Safety,0.446,True,False,5.700,Developmental,,0.003,Below Average
+Wide - Clip 017.mp4,6747,43,,DEFENSE,S,Strong Safety,0.407,True,False,,,,0.001,Average
+Wide - Clip 017.mp4,6762,,,DEFENSE,EDGE,DE (down),0.028,False,True,0.567,Developmental,0.068,,Below Average
+Wide - Clip 017.mp4,6768,,,DEFENSE,EDGE,DE (down),0.082,False,False,0.433,Below Average,0.090,,Average
+Wide - Clip 017.mp4,6773,,,DEFENSE,DL,3-tech,0.189,True,False,0.400,Average,0.204,,Above Average
+Wide - Clip 017.mp4,6774,2,,DEFENSE,S,Strong Safety,0.394,True,False,,,,0.003,Average
+Wide - Clip 017.mp4,6776,,,DEFENSE,DL,0-tech (Nose),0.134,True,False,0.700,Developmental,0.146,,Below Average
+Wide - Clip 018.mp4,6862,,,DEFENSE,EDGE,DE (down),0.082,False,False,0.467,Below Average,,,Below Average
+Wide - Clip 018.mp4,6875,,,DEFENSE,SLOT,Nickel/Slot,0.098,False,False,0.133,Elite,,0.064,Elite
+Wide - Clip 018.mp4,6881,,,DEFENSE,LB,WILL (weak),0.135,True,False,0.133,Elite,,,Elite
+Wide - Clip 018.mp4,6848,43,,DEFENSE,S,Deep half,0.398,False,False,1.233,Developmental,,0.002,Below Average
+Wide - Clip 018.mp4,6940,57,,DEFENSE,CB,Deep,0.438,False,False,1.100,Developmental,,0.006,Below Average
+Wide - Clip 018.mp4,6950,,,DEFENSE,DL,3-tech,0.090,True,False,0.033,Elite,0.130,,Elite
+Wide - Clip 018.mp4,6952,,,DEFENSE,EDGE,DE (down),0.117,False,False,1.567,Developmental,0.121,,Below Average
+Wide - Clip 018.mp4,6966,4,,DEFENSE,CB,Deep,0.444,False,False,1.100,Developmental,,0.017,Below Average
+Wide - Clip 018.mp4,6971,40,,DEFENSE,S,Deep half,0.412,True,False,,,,0.004,Average
+Wide - Clip 018.mp4,6979,,,DEFENSE,EDGE,DE (down),0.091,False,False,0.067,Elite,,,Elite
+Wide - Clip 019.mp4,7220,,,DEFENSE,CB,Off (5-7 yards),0.106,False,False,0.633,Below Average,,0.030,Below Average
+Wide - Clip 019.mp4,7221,,,DEFENSE,EDGE,DE (down),0.081,False,False,0.833,Developmental,0.075,,Below Average
+Wide - Clip 019.mp4,7224,,,DEFENSE,DL,5-tech,0.011,True,True,0.633,Developmental,,,Below Average
+Wide - Clip 019.mp4,7227,,,DEFENSE,UNKNOWN,,0.161,True,False,0.167,Elite,,,Elite
+Wide - Clip 019.mp4,7235,,,DEFENSE,DL,5-tech,0.178,True,False,1.433,Developmental,0.178,,Average
+Wide - Clip 019.mp4,7245,,,DEFENSE,EDGE,DE (down),0.210,False,False,1.533,Developmental,0.209,,Average
+Wide - Clip 019.mp4,7256,,,DEFENSE,DL,5-tech,0.004,True,True,0.267,Above Average,,,Above Average
+Wide - Clip 019.mp4,7263,,,DEFENSE,EDGE,DE (down),0.148,True,False,0.200,Above Average,0.164,,Elite
+Wide - Clip 019.mp4,7363,,,DEFENSE,EDGE,DE (down),0.096,False,False,0.233,Above Average,0.089,,Above Average
+Wide - Clip 019.mp4,7369,15,,DEFENSE,S,Strong Safety,0.412,True,False,1.700,Developmental,,0.031,Below Average
+Wide - Clip 019.mp4,7391,16,,DEFENSE,S,Deep half,0.433,True,False,1.600,Developmental,,0.006,Below Average
+Wide - Clip 019.mp4,7406,,,DEFENSE,LB,SAM (strong),0.073,True,False,0.233,Elite,,,Elite
+Wide - Clip 019.mp4,7407,27,,DEFENSE,S,Strong Safety,0.432,True,False,1.567,Developmental,,0.011,Below Average
+Wide - Clip 019.mp4,7410,57,,DEFENSE,CB,Deep,0.438,False,False,1.933,Developmental,,0.004,Below Average
+Wide - Clip 020.mp4,8038,88,,DEFENSE,S,Strong Safety,0.266,True,False,0.233,Elite,,0.062,Elite
+Wide - Clip 020.mp4,8072,,,DEFENSE,S,Strong Safety,0.297,True,False,0.200,Elite,,0.068,Elite
+Wide - Clip 020.mp4,8086,,,DEFENSE,S,Strong Safety,0.311,True,False,0.100,Elite,,0.076,Elite
+Wide - Clip 020.mp4,8128,,,DEFENSE,UNKNOWN,,0.184,False,False,0.200,Elite,,,Elite
+Wide - Clip 020.mp4,8188,,,DEFENSE,SLOT,Nickel/Slot,0.149,False,False,0.200,Elite,,0.095,Elite
+Wide - Clip 020.mp4,8202,,,DEFENSE,CB,Off (5-7 yards),0.124,False,False,,,,0.001,Average
+Wide - Clip 020.mp4,8219,73,,DEFENSE,CB,Deep,0.364,False,False,0.467,Average,,0.120,Above Average
+Wide - Clip 020.mp4,8226,,,DEFENSE,CB,Off (5-7 yards),0.087,False,False,0.200,Elite,,0.019,Elite
+Wide - Clip 020.mp4,8239,,,DEFENSE,UNKNOWN,,0.160,True,False,0.233,Elite,,,Elite
+Wide - Clip 021.mp4,8722,85,,DEFENSE,S,Strong Safety,0.216,True,False,0.133,Elite,,0.112,Elite
+Wide - Clip 021.mp4,8745,,,DEFENSE,S,Strong Safety,0.228,True,False,0.100,Elite,,0.115,Elite
+Wide - Clip 021.mp4,8752,75,,DEFENSE,S,Strong Safety,0.299,True,False,0.133,Elite,,0.109,Elite
+Wide - Clip 021.mp4,8809,,,DEFENSE,S,Deep half,0.301,False,False,0.100,Elite,,0.122,Elite
+Wide - Clip 021.mp4,8839,43,,DEFENSE,S,Deep half,0.292,False,False,0.100,Elite,,0.128,Elite
+Wide - Clip 021.mp4,8888,14,,DEFENSE,CB,Deep,0.358,False,False,0.067,Elite,,0.016,Elite
+Wide - Clip 022.mp4,9061,30,,DEFENSE,S,Deep half,0.334,False,False,0.200,Elite,,0.026,Elite
+Wide - Clip 022.mp4,9066,,,DEFENSE,CB,Deep,0.305,False,False,0.767,Developmental,,0.019,Below Average
+Wide - Clip 022.mp4,9102,73,,DEFENSE,S,Free Safety (centerfield),0.324,True,False,0.333,Above Average,,0.024,Above Average
+Wide - Clip 022.mp4,9132,85,,DEFENSE,S,Deep half,0.326,True,False,0.300,Above Average,,0.026,Above Average
+Wide - Clip 022.mp4,9217,21,,DEFENSE,S,Strong Safety,0.293,True,False,0.367,Average,,0.027,Average
+Wide - Clip 023.mp4,9885,,,DEFENSE,EDGE,DE (down),0.198,False,False,0.200,Above Average,0.211,,Elite
+Wide - Clip 023.mp4,10243,,,DEFENSE,EDGE,DE (down),0.226,True,False,0.267,Above Average,0.234,,Elite
+Wide - Clip 023.mp4,10373,,,DEFENSE,LB,WILL (weak),0.052,True,False,0.233,Elite,,,Elite
+Wide - Clip 023.mp4,10439,,,DEFENSE,EDGE,OLB (up),0.033,True,False,0.267,Above Average,,,Above Average
+Wide - Clip 023.mp4,10447,,,DEFENSE,EDGE,DE (down),0.230,True,False,0.367,Average,0.236,,Above Average
+Wide - Clip 023.mp4,10490,,,DEFENSE,LB,MIKE (middle),0.038,True,False,,,,,Average
+Wide - Clip 023.mp4,10541,57,,DEFENSE,S,Strong Safety,0.365,True,False,0.333,Above Average,,0.011,Above Average
+Wide - Clip 023.mp4,10544,3,,DEFENSE,CB,Deep,0.379,False,False,0.267,Above Average,,0.040,Above Average
+Wide - Clip 023.mp4,10551,26,,DEFENSE,S,Strong Safety,0.387,True,False,0.300,Above Average,,0.139,Elite
+Wide - Clip 023.mp4,10553,,,DEFENSE,EDGE,DE (down),0.231,True,False,,,,,Average
+Wide - Clip 023.mp4,10555,29,,DEFENSE,S,Free Safety (centerfield),0.401,True,False,,,,,Average
+Wide - Clip 023.mp4,10556,70,,DEFENSE,S,Strong Safety,0.379,True,False,,,,0.004,Average
+Wide - Clip 023.mp4,10563,,,DEFENSE,LB,WILL (weak),0.035,True,False,0.867,Developmental,,,Below Average
+Wide - Clip 024.mp4,10743,,,DEFENSE,CB,Deep,0.183,False,False,0.100,Elite,,0.026,Elite
+Wide - Clip 024.mp4,10716,85,,DEFENSE,CB,Deep,0.178,False,False,0.133,Elite,,0.080,Elite
+Wide - Clip 024.mp4,10963,,,DEFENSE,EDGE,DE (down),0.127,True,False,0.267,Above Average,0.162,,Elite
+Wide - Clip 024.mp4,10965,,,DEFENSE,EDGE,OLB (up),0.037,False,False,0.200,Elite,,,Elite
+Wide - Clip 024.mp4,11065,,,DEFENSE,EDGE,DE (down),0.092,False,False,0.300,Above Average,0.123,,Above Average
+Wide - Clip 024.mp4,11073,,,DEFENSE,EDGE,DE (down),0.160,False,False,0.133,Elite,,,Elite
+Wide - Clip 024.mp4,11100,2,,DEFENSE,S,Strong Safety,0.247,True,False,0.200,Elite,,0.009,Elite
+Wide - Clip 024.mp4,11122,82,,DEFENSE,S,Deep half,0.369,False,False,0.300,Above Average,,0.010,Above Average
+Wide - Clip 025.mp4,11262,95,,DEFENSE,CB,Deep,0.174,False,False,0.200,Elite,,0.025,Elite
+Wide - Clip 025.mp4,11454,38,,DEFENSE,S,Deep half,0.318,True,False,0.333,Above Average,,0.017,Above Average
+Wide - Clip 025.mp4,11481,77,,DEFENSE,LB,WILL (weak),0.112,True,False,0.133,Elite,,,Elite
+Wide - Clip 025.mp4,11487,87,,DEFENSE,S,Strong Safety,0.324,True,False,0.400,Average,,0.011,Average
+Wide - Clip 025.mp4,11489,21,,DEFENSE,S,Strong Safety,0.258,True,False,0.300,Above Average,,0.008,Above Average
+Wide - Clip 025.mp4,11495,65,,DEFENSE,S,Strong Safety,0.230,True,False,0.433,Average,,0.008,Average
+Wide - Clip 025.mp4,11502,44,,DEFENSE,CB,Deep,0.343,False,False,,,,0.003,Average
+Wide - Clip 025.mp4,11511,18,,DEFENSE,UNKNOWN,,0.180,False,False,0.433,Average,,,Average
+Wide - Clip 025.mp4,11512,25,,DEFENSE,S,Deep half,0.401,False,False,0.300,Above Average,,0.076,Above Average
+Wide - Clip 025.mp4,11517,26,,DEFENSE,S,Free Safety (centerfield),0.291,True,False,0.433,Average,,0.014,Average
+Wide - Clip 026.mp4,11628,,,DEFENSE,S,Deep half,0.419,False,False,0.433,Average,,0.045,Average
+Wide - Clip 026.mp4,11728,,,DEFENSE,CB,Deep,0.433,False,False,0.600,Below Average,,0.024,Below Average
+Wide - Clip 026.mp4,11754,18,,DEFENSE,DL,1-tech,0.013,True,True,0.033,Elite,,,Elite
+Wide - Clip 026.mp4,11760,,,DEFENSE,DL,5-tech,0.073,True,False,0.133,Elite,0.077,,Elite
+Wide - Clip 026.mp4,11888,,,DEFENSE,EDGE,DE (down),0.035,False,False,0.367,Average,0.042,,Average
+Wide - Clip 026.mp4,11903,55,,DEFENSE,S,Strong Safety,0.379,True,False,,,,0.001,Average
+Wide - Clip 026.mp4,11918,57,,DEFENSE,UNKNOWN,,0.200,True,False,,,,,Average
+Wide - Clip 026.mp4,11921,,,DEFENSE,EDGE,DE (down),0.061,True,False,0.400,Average,0.067,,Average
+Wide - Clip 026.mp4,11931,,,DEFENSE,DL,3-tech,0.074,True,False,0.733,Developmental,,,Below Average
+Wide - Clip 027.mp4,11728,38,,DEFENSE,CB,Deep,0.429,False,False,0.367,Average,,0.050,Average
+Wide - Clip 027.mp4,12100,,,DEFENSE,LB,WILL (weak),0.070,True,False,0.167,Elite,,,Elite
+Wide - Clip 027.mp4,12174,,,DEFENSE,EDGE,OLB (up),0.046,True,False,0.167,Elite,,,Elite
+Wide - Clip 027.mp4,12178,16,,DEFENSE,S,Deep half,0.399,False,False,0.267,Above Average,,0.060,Above Average
+Wide - Clip 027.mp4,12221,,,DEFENSE,DL,3-tech,0.093,True,False,0.167,Elite,0.104,,Elite
+Wide - Clip 027.mp4,12222,,,DEFENSE,EDGE,DE (down),0.091,False,False,0.333,Average,0.107,,Average
+Wide - Clip 027.mp4,12240,,,DEFENSE,DL,5-tech,0.103,True,False,0.167,Elite,,,Elite
+Wide - Clip 027.mp4,12260,85,,DEFENSE,CB,Deep,0.266,False,False,0.133,Elite,,0.066,Elite
+Wide - Clip 027.mp4,12298,,,DEFENSE,EDGE,DE (down),0.047,True,False,0.133,Elite,,,Elite
+Wide - Clip 027.mp4,12305,57,,DEFENSE,S,Free Safety (centerfield),0.354,True,False,0.133,Elite,,0.061,Elite
+Wide - Clip 027.mp4,12312,,,DEFENSE,DL,1-tech,0.052,True,False,0.200,Above Average,0.061,,Above Average
+Wide - Clip 027.mp4,12323,39,,DEFENSE,S,Deep half,0.276,False,False,0.133,Elite,,0.024,Elite
+Wide - Clip 027.mp4,12324,43,,DEFENSE,S,Strong Safety,0.418,True,False,0.100,Elite,,0.135,Elite
+Wide - Clip 027.mp4,12328,,,DEFENSE,DL,5-tech,0.034,True,False,0.400,Below Average,0.056,,Below Average
+Wide - Clip 027.mp4,12329,,,DEFENSE,EDGE,DE (down),0.075,True,False,0.200,Above Average,0.088,,Above Average
+Wide - Clip 028.mp4,12371,,,DEFENSE,CB,Deep,0.188,False,False,3.333,Developmental,,0.003,Below Average
+Wide - Clip 028.mp4,12369,57,,DEFENSE,S,Free Safety (centerfield),0.346,True,False,0.333,Above Average,,0.016,Above Average
+Wide - Clip 028.mp4,12482,,,DEFENSE,CB,Off (5-7 yards),0.135,False,False,0.267,Above Average,,0.003,Above Average
+Wide - Clip 028.mp4,12483,,,DEFENSE,EDGE,OLB (up),0.045,True,False,0.367,Average,,,Average
+Wide - Clip 028.mp4,12481,,,DEFENSE,CB,Deep,0.422,False,False,0.200,Elite,,0.038,Elite
+Wide - Clip 028.mp4,12486,2,,DEFENSE,LB,WILL (weak),0.095,True,False,0.533,Below Average,,,Below Average
+Wide - Clip 028.mp4,12083,70,,DEFENSE,CB,Deep,0.411,False,False,0.233,Elite,,0.038,Elite
+Wide - Clip 028.mp4,12512,,,DEFENSE,CB,Deep,0.268,False,False,0.300,Above Average,,0.007,Above Average
+Wide - Clip 028.mp4,12536,,,DEFENSE,EDGE,DE (down),0.061,False,False,0.433,Below Average,0.065,,Below Average
+Wide - Clip 028.mp4,12541,,,DEFENSE,S,Deep half,0.357,False,False,0.167,Elite,,0.037,Elite
+Wide - Clip 028.mp4,12544,,,DEFENSE,DL,0-tech (Nose),0.043,True,False,0.600,Developmental,0.038,,Below Average
+Wide - Clip 028.mp4,12564,55,,DEFENSE,S,Strong Safety,0.306,True,False,0.400,Average,,0.006,Average
+Wide - Clip 028.mp4,12568,16,,DEFENSE,S,Deep half,0.401,False,False,0.367,Average,,0.024,Average
+Wide - Clip 028.mp4,12570,,,DEFENSE,DL,5-tech,0.047,True,False,0.467,Below Average,,,Below Average
+Wide - Clip 028.mp4,12572,85,,DEFENSE,CB,Deep,0.281,False,False,0.133,Elite,,0.091,Elite
+Wide - Clip 028.mp4,12580,88,,DEFENSE,S,Deep half,0.304,True,False,0.267,Above Average,,0.008,Above Average
+Wide - Clip 028.mp4,12583,21,,DEFENSE,CB,Deep,0.244,False,False,0.233,Elite,,0.015,Elite
+Wide - Clip 028.mp4,12581,,,DEFENSE,EDGE,DE (down),0.009,True,True,0.433,Below Average,0.018,,Below Average
+Wide - Clip 028.mp4,12582,,,DEFENSE,DL,5-tech,0.057,True,False,0.433,Below Average,,,Below Average
+Wide - Clip 029.mp4,12083,87,,DEFENSE,CB,Deep,0.402,False,False,0.800,Developmental,,0.009,Below Average
+Wide - Clip 029.mp4,12544,,,DEFENSE,DL,0-tech (Nose),0.056,True,False,,,,,Average
+Wide - Clip 029.mp4,12586,43,,DEFENSE,S,Strong Safety,0.286,True,False,0.100,Elite,,0.035,Elite
+Wide - Clip 029.mp4,12628,,,DEFENSE,EDGE,DE (down),0.066,True,False,0.500,Below Average,0.063,,Below Average
+Wide - Clip 029.mp4,12629,,,DEFENSE,CB,Deep,0.232,False,False,0.167,Elite,,0.039,Elite
+Wide - Clip 029.mp4,12634,,,DEFENSE,DL,5-tech,0.031,True,False,,,,,Average
+Wide - Clip 029.mp4,12647,88,,DEFENSE,CB,Deep,0.242,False,False,0.200,Elite,,0.043,Elite
+Wide - Clip 029.mp4,12608,16,,DEFENSE,S,Deep half,0.391,False,False,0.367,Average,,0.012,Average
+Wide - Clip 029.mp4,12351,,,DEFENSE,DL,0-tech (Nose),0.008,True,True,,,,,Average
+Wide - Clip 029.mp4,12661,,,DEFENSE,CB,Off (5-7 yards),0.141,False,False,0.167,Elite,,0.043,Elite
+Wide - Clip 029.mp4,12678,,,DEFENSE,CB,Deep,0.205,False,False,0.200,Elite,,0.043,Elite
+Wide - Clip 029.mp4,12690,,,DEFENSE,CB,Deep,0.178,False,False,0.167,Elite,,0.040,Elite
+Wide - Clip 029.mp4,12703,55,,DEFENSE,S,Deep half,0.278,False,False,0.300,Above Average,,0.035,Above Average
+Wide - Clip 029.mp4,12713,,,DEFENSE,EDGE,DE (down),0.068,False,False,0.733,Developmental,0.060,,Below Average
+Wide - Clip 029.mp4,12716,,,DEFENSE,DL,5-tech,0.058,True,False,0.933,Developmental,0.042,,Below Average
+Wide - Clip 030.mp4,12481,70,,DEFENSE,CB,Deep,0.401,False,False,0.567,Below Average,,0.053,Below Average
+Wide - Clip 030.mp4,12755,,,DEFENSE,CB,Deep,0.409,False,False,0.567,Below Average,,0.057,Below Average
+Wide - Clip 030.mp4,12829,,,DEFENSE,CB,Deep,0.411,False,False,0.267,Above Average,,0.055,Above Average
+Wide - Clip 030.mp4,12850,88,,DEFENSE,S,Deep half,0.269,False,False,0.200,Elite,,0.031,Elite
+Wide - Clip 030.mp4,12848,57,,DEFENSE,S,Strong Safety,0.254,True,False,0.333,Above Average,,0.046,Above Average
+Wide - Clip 030.mp4,12861,19,,DEFENSE,S,Deep half,0.390,False,False,0.200,Elite,,0.045,Elite
+Wide - Clip 030.mp4,12873,43,,DEFENSE,S,Strong Safety,0.294,True,False,0.033,Elite,,0.025,Elite
+Wide - Clip 031.mp4,12840,70,,DEFENSE,S,Deep half,0.388,False,False,0.200,Elite,,0.060,Elite
+Wide - Clip 031.mp4,13139,,,DEFENSE,EDGE,DE (down),0.024,True,True,0.133,Elite,,,Elite
+Wide - Clip 031.mp4,13158,,,DEFENSE,DL,1-tech,0.015,True,True,0.133,Elite,0.010,,Elite
+Wide - Clip 031.mp4,13175,,,DEFENSE,DL,1-tech,0.015,True,True,0.233,Above Average,,,Above Average
+Wide - Clip 031.mp4,13224,,,DEFENSE,CB,Deep,0.420,False,False,0.100,Elite,,0.092,Elite
+Wide - Clip 031.mp4,13242,12,,DEFENSE,SLOT,Nickel/Slot,0.074,False,False,0.133,Elite,,0.108,Elite
+Wide - Clip 031.mp4,13245,5,,DEFENSE,CB,Deep,0.277,False,False,0.067,Elite,,0.224,Elite
+Wide - Clip 031.mp4,13247,58,,DEFENSE,S,Deep half,0.240,False,False,0.200,Elite,,0.002,Elite
+Wide - Clip 031.mp4,13248,30,,DEFENSE,CB,Press,0.067,False,False,,,,0.003,Average
+Wide - Clip 032.mp4,13441,16,,DEFENSE,S,Deep half,0.398,False,False,0.567,Below Average,,0.035,Below Average
+Wide - Clip 032.mp4,13452,70,,DEFENSE,S,Deep half,0.406,False,False,0.700,Developmental,,0.034,Below Average
+Wide - Clip 032.mp4,13486,34,,DEFENSE,S,Strong Safety,0.349,True,False,0.067,Elite,,0.031,Elite
+Wide - Clip 032.mp4,13505,,,DEFENSE,CB,Deep,0.386,False,False,0.200,Elite,,0.075,Elite
+Wide - Clip 032.mp4,13507,51,,DEFENSE,CB,Deep,0.431,False,False,,,,0.002,Average
+Wide - Clip 032.mp4,13525,43,,DEFENSE,S,Strong Safety,0.269,True,False,0.133,Elite,,0.055,Elite
+Wide - Clip 033.mp4,13759,38,,DEFENSE,S,Strong Safety,0.392,True,False,1.367,Developmental,,0.001,Below Average
+Wide - Clip 033.mp4,13846,,,DEFENSE,CB,Deep,0.435,False,False,0.900,Developmental,,0.012,Below Average
+Wide - Clip 033.mp4,13896,55,,DEFENSE,S,Strong Safety,0.422,True,False,1.200,Developmental,,0.007,Below Average
+Wide - Clip 033.mp4,13941,70,,DEFENSE,S,Free Safety (centerfield),0.396,True,False,0.333,Above Average,,0.005,Above Average
+Wide - Clip 033.mp4,13950,23,,DEFENSE,CB,Deep,0.440,False,False,1.133,Developmental,,0.009,Below Average
+Wide - Clip 034.mp4,14199,,,DEFENSE,LB,SAM (strong),0.138,True,False,0.167,Elite,,,Elite
+Wide - Clip 034.mp4,14209,,,DEFENSE,EDGE,DE (down),0.061,False,False,0.300,Average,0.061,,Average
+Wide - Clip 034.mp4,14223,,,DEFENSE,SLOT,Nickel/Slot,0.117,False,False,0.133,Elite,,0.203,Elite
+Wide - Clip 034.mp4,14231,,,DEFENSE,EDGE,DE (down),0.023,True,True,1.400,Developmental,0.019,,Below Average
+Wide - Clip 034.mp4,14264,,,DEFENSE,LB,WILL (weak),0.066,True,False,0.167,Elite,,,Elite
+Wide - Clip 034.mp4,14279,,,DEFENSE,DL,1-tech,0.042,True,False,,,,,Average
+Wide - Clip 034.mp4,14282,,,DEFENSE,LB,SAM (strong),0.046,True,False,0.100,Elite,,,Elite
+Wide - Clip 034.mp4,14284,30,,DEFENSE,S,Free Safety (centerfield),0.391,True,False,1.767,Developmental,,0.003,Below Average
+Wide - Clip 034.mp4,14291,,,DEFENSE,EDGE,DE (down),0.007,True,True,0.400,Below Average,,,Below Average
+Wide - Clip 035.mp4,14499,,,DEFENSE,EDGE,DE (down),0.042,True,False,0.067,Elite,0.025,,Elite
+Wide - Clip 035.mp4,14509,,,DEFENSE,EDGE,DE (down),0.009,False,True,0.800,Developmental,,,Below Average
+Wide - Clip 035.mp4,14511,,,DEFENSE,LB,WILL (weak),0.085,True,False,0.133,Elite,,,Elite
+Wide - Clip 035.mp4,14510,,,DEFENSE,UNKNOWN,,0.180,False,False,0.133,Elite,,,Elite
+Wide - Clip 035.mp4,14517,,,DEFENSE,EDGE,DE (down),0.056,False,False,0.333,Average,,,Average
+Wide - Clip 035.mp4,14552,,,DEFENSE,DL,3-tech,0.023,True,True,0.167,Elite,,,Elite
+Wide - Clip 035.mp4,14564,,,DEFENSE,UNKNOWN,,0.190,True,False,0.400,Average,,,Average
+Wide - Clip 035.mp4,14565,88,,DEFENSE,CB,Deep,0.422,False,False,,,,0.000,Average
+Wide - Clip 035.mp4,14584,,,DEFENSE,EDGE,DE (down),0.023,True,True,0.067,Elite,,,Elite
+Wide - Clip 036.mp4,15292,,,DEFENSE,LB,SAM (strong),0.030,True,False,0.100,Elite,,,Elite
+Wide - Clip 036.mp4,15330,,,DEFENSE,S,Free Safety (centerfield),0.407,True,False,0.133,Elite,,0.094,Elite
+Wide - Clip 036.mp4,15348,,,DEFENSE,EDGE,DE (down),0.029,False,True,0.100,Elite,,,Elite
+Wide - Clip 036.mp4,15351,45,,DEFENSE,S,Deep half,0.375,False,False,0.133,Elite,,0.055,Elite
+Wide - Clip 036.mp4,15393,13,,DEFENSE,CB,Deep,0.333,False,False,0.033,Elite,,0.061,Elite
+Wide - Clip 036.mp4,15468,85,,DEFENSE,S,Deep half,0.339,True,False,0.133,Elite,,0.088,Elite
+Wide - Clip 036.mp4,15473,,,DEFENSE,EDGE,OLB (up),0.032,True,False,0.100,Elite,,,Elite
+Wide - Clip 036.mp4,15505,,,DEFENSE,LB,SAM (strong),0.043,True,False,0.100,Elite,,,Elite
+Wide - Clip 036.mp4,15514,55,,DEFENSE,S,Free Safety (centerfield),0.379,True,False,0.100,Elite,,0.114,Elite
+Wide - Clip 037.mp4,15613,,,DEFENSE,LB,WILL (weak),0.131,True,False,0.167,Elite,,,Elite
+Wide - Clip 037.mp4,15615,,,DEFENSE,EDGE,DE (down),0.040,True,False,1.033,Developmental,0.044,,Below Average
+Wide - Clip 037.mp4,15618,,,DEFENSE,EDGE,DE (down),0.016,False,True,0.900,Developmental,0.002,,Below Average
+Wide - Clip 037.mp4,15616,,,DEFENSE,EDGE,DE (down),0.046,False,False,0.533,Below Average,,,Below Average
+Wide - Clip 037.mp4,15671,26,,DEFENSE,S,Strong Safety,0.422,True,False,,,,0.005,Average
+Wide - Clip 037.mp4,15691,19,,DEFENSE,CB,Deep,0.400,False,False,0.833,Developmental,,0.020,Below Average
+Wide - Clip 038.mp4,16180,,,DEFENSE,S,Strong Safety,0.393,True,False,0.367,Average,,0.010,Average
+Wide - Clip 038.mp4,16192,42,,DEFENSE,S,Free Safety (centerfield),0.352,True,False,0.233,Elite,,0.060,Elite
+Wide - Clip 038.mp4,16228,46,,DEFENSE,S,Deep half,0.411,False,False,0.233,Elite,,0.076,Elite
+Wide - Clip 038.mp4,16250,,,DEFENSE,S,Deep half,0.405,False,False,0.167,Elite,,0.053,Elite
+Wide - Clip 038.mp4,16256,38,,DEFENSE,S,Deep half,0.396,False,False,0.200,Elite,,0.022,Elite
+Wide - Clip 038.mp4,16270,55,,DEFENSE,S,Strong Safety,0.348,True,False,0.200,Elite,,0.023,Elite
+Wide - Clip 039.mp4,16488,55,,DEFENSE,S,Strong Safety,0.349,True,False,0.200,Elite,,0.037,Elite
+Wide - Clip 040.mp4,16885,43,,DEFENSE,S,Strong Safety,0.417,True,False,0.200,Elite,,0.059,Elite
+Wide - Clip 040.mp4,16932,16,,DEFENSE,S,Free Safety (centerfield),0.427,True,False,0.233,Elite,,0.094,Elite
+Wide - Clip 040.mp4,16964,,,DEFENSE,DL,0-tech (Nose),0.293,True,False,0.267,Above Average,0.300,,Elite
+Wide - Clip 040.mp4,16993,,,DEFENSE,DL,3-tech,0.321,True,False,0.200,Elite,0.308,,Elite
+Wide - Clip 040.mp4,17022,,,DEFENSE,EDGE,DE (down),0.285,False,False,0.800,Developmental,0.266,,Average
+Wide - Clip 040.mp4,17037,,,DEFENSE,DL,5-tech,0.316,True,False,0.133,Elite,0.322,,Elite
+Wide - Clip 040.mp4,17085,,,DEFENSE,EDGE,DE (down),0.326,False,False,0.400,Average,0.315,,Above Average
+Wide - Clip 040.mp4,17089,14,,DEFENSE,CB,Deep,0.422,False,False,0.100,Elite,,0.075,Elite
+Wide - Clip 041.mp4,17203,,,DEFENSE,LB,SAM (strong),0.079,True,False,0.067,Elite,,,Elite
+Wide - Clip 041.mp4,17211,,,DEFENSE,EDGE,DE (down),0.137,False,False,0.167,Elite,0.160,,Elite
+Wide - Clip 041.mp4,17214,,,DEFENSE,DL,0-tech (Nose),0.138,True,False,0.100,Elite,0.185,,Elite
+Wide - Clip 042.mp4,17410,,,DEFENSE,LB,SAM (strong),0.130,True,False,0.467,Average,,,Average
+Wide - Clip 042.mp4,17411,,,DEFENSE,EDGE,DE (down),0.199,False,False,0.267,Above Average,0.191,,Elite
+Wide - Clip 042.mp4,17415,,,DEFENSE,EDGE,DE (down),0.034,False,False,0.500,Below Average,0.035,,Below Average
+Wide - Clip 042.mp4,17418,,,DEFENSE,EDGE,DE (down),0.157,False,False,1.467,Developmental,0.158,,Average
+Wide - Clip 042.mp4,17459,,,DEFENSE,EDGE,DE (down),0.187,True,False,1.000,Developmental,0.195,,Average
+Wide - Clip 042.mp4,17480,,,DEFENSE,CB,Deep,0.429,False,False,,,,0.004,Average
+Wide - Clip 042.mp4,17486,,,DEFENSE,EDGE,DE (down),0.172,True,False,0.733,Developmental,0.183,,Average
+Wide - Clip 042.mp4,17494,,,DEFENSE,DL,5-tech,0.215,True,False,,,,,Average
+Wide - Clip 042.mp4,17506,,,DEFENSE,DL,1-tech,0.094,True,False,0.567,Developmental,,,Below Average
+Wide - Clip 042.mp4,17510,76,,DEFENSE,S,Deep half,0.401,True,False,,,,,Average
+Wide - Clip 042.mp4,17513,73,,DEFENSE,S,Strong Safety,0.421,True,False,,,,0.002,Average
+Wide - Clip 043.mp4,17706,,,DEFENSE,S,Deep half,0.351,False,False,0.200,Elite,,0.047,Elite
+Wide - Clip 043.mp4,17767,83,,DEFENSE,S,Deep half,0.323,False,False,0.167,Elite,,0.059,Elite
+Wide - Clip 043.mp4,17771,14,,DEFENSE,S,Free Safety (centerfield),0.416,True,False,0.267,Above Average,,0.033,Above Average
+Wide - Clip 043.mp4,17807,,,DEFENSE,S,Strong Safety,0.360,True,False,0.333,Above Average,,0.029,Above Average
+Wide - Clip 043.mp4,17857,55,,DEFENSE,S,Deep half,0.209,False,False,0.400,Average,,0.080,Average
+Wide - Clip 043.mp4,17874,,,DEFENSE,S,Deep half,0.348,True,False,0.267,Above Average,,0.035,Above Average
+Wide - Clip 043.mp4,17876,,,DEFENSE,S,Strong Safety,0.383,True,False,0.133,Elite,,0.033,Elite
+Wide - Clip 043.mp4,17889,47,,DEFENSE,S,Strong Safety,0.388,True,False,0.100,Elite,,0.012,Elite
+Wide - Clip 043.mp4,17911,84,,DEFENSE,S,Strong Safety,0.371,True,False,0.067,Elite,,0.048,Elite
+Wide - Clip 043.mp4,17917,25,,DEFENSE,S,Deep half,0.334,False,False,0.200,Elite,,0.042,Elite
+Wide - Clip 044.mp4,18037,,,DEFENSE,EDGE,DE (down),0.225,False,False,0.200,Above Average,0.220,,Elite
+Wide - Clip 044.mp4,18050,,,DEFENSE,DL,5-tech,0.022,True,True,0.267,Above Average,,,Above Average
+Wide - Clip 044.mp4,18065,,,DEFENSE,EDGE,DE (down),0.240,True,False,0.300,Average,0.230,,Above Average
+Wide - Clip 044.mp4,18078,,,DEFENSE,EDGE,DE (down),0.019,True,True,0.267,Above Average,,,Above Average
+Wide - Clip 044.mp4,18096,,,DEFENSE,EDGE,DE (down),0.011,False,True,0.367,Average,,,Average
+Wide - Clip 044.mp4,18102,,,DEFENSE,EDGE,DE (down),0.202,True,False,0.200,Above Average,0.195,,Elite
+Wide - Clip 044.mp4,18107,,,DEFENSE,EDGE,OLB (up),0.033,False,False,0.233,Above Average,,,Above Average
+Wide - Clip 044.mp4,18113,,,DEFENSE,DL,3-tech,0.200,True,False,0.200,Above Average,,,Above Average
+Wide - Clip 044.mp4,18153,,,DEFENSE,DL,5-tech,0.024,True,True,0.267,Above Average,,,Above Average
+Wide - Clip 044.mp4,18158,,,DEFENSE,EDGE,DE (down),0.274,True,False,0.200,Above Average,0.264,,Elite
+Wide - Clip 044.mp4,18162,,,DEFENSE,EDGE,DE (down),0.111,False,False,0.200,Above Average,0.116,,Above Average
+Wide - Clip 044.mp4,18179,43,,DEFENSE,CB,Deep,0.456,False,False,0.133,Elite,,0.047,Elite
+Wide - Clip 044.mp4,18183,80,,DEFENSE,S,Deep half,0.400,False,False,0.333,Above Average,,0.029,Above Average
+Wide - Clip 045.mp4,18547,23,,DEFENSE,EDGE,DE (down),0.068,True,False,,,,,Average
+Wide - Clip 045.mp4,18561,,,DEFENSE,DL,0-tech (Nose),0.255,True,False,0.167,Elite,0.266,,Elite
+Wide - Clip 045.mp4,18633,,,DEFENSE,EDGE,DE (down),0.222,False,False,0.267,Above Average,,,Above Average
+Wide - Clip 045.mp4,18646,57,,DEFENSE,S,Strong Safety,0.423,True,False,0.367,Average,,0.107,Above Average
+Wide - Clip 045.mp4,18654,,,DEFENSE,DL,0-tech (Nose),0.249,True,False,0.100,Elite,,,Elite
+Wide - Clip 046.mp4,19128,,,DEFENSE,S,Deep half,0.234,False,False,0.633,Below Average,,0.027,Below Average
+Wide - Clip 046.mp4,19160,,,DEFENSE,S,Strong Safety,0.400,True,False,0.633,Below Average,,0.022,Below Average
+Wide - Clip 046.mp4,19169,,,DEFENSE,S,Strong Safety,0.302,True,False,0.667,Developmental,,0.029,Below Average
+Wide - Clip 047.mp4,19350,,,DEFENSE,DL,3-tech,0.022,True,True,0.100,Elite,0.071,,Elite
+Wide - Clip 047.mp4,19390,,,DEFENSE,DL,1-tech,0.035,True,False,0.100,Elite,,,Elite
+Wide - Clip 047.mp4,19397,,,DEFENSE,DL,5-tech,0.231,True,False,0.067,Elite,,,Elite
+Wide - Clip 047.mp4,19515,77,,DEFENSE,S,Strong Safety,0.320,True,False,0.800,Developmental,,0.011,Below Average
+Wide - Clip 047.mp4,19523,,,DEFENSE,EDGE,DE (down),0.271,False,False,0.300,Above Average,0.233,,Elite
+Wide - Clip 047.mp4,19530,,,DEFENSE,EDGE,DE (down),0.233,False,False,1.133,Developmental,0.230,,Average
+Wide - Clip 047.mp4,19531,,,DEFENSE,DL,5-tech,0.185,True,False,0.900,Developmental,,,Below Average
+Wide - Clip 047.mp4,19560,,,DEFENSE,DL,0-tech (Nose),0.218,True,False,0.167,Elite,,,Elite
+Wide - Clip 047.mp4,19565,,,DEFENSE,DL,0-tech (Nose),0.260,True,False,,,,,Average
+Wide - Clip 047.mp4,19569,,,DEFENSE,DL,0-tech (Nose),0.207,True,False,0.033,Elite,,,Elite
+Wide - Clip 048.mp4,19912,,,DEFENSE,EDGE,DE (down),0.208,False,False,0.133,Elite,,,Elite
+Wide - Clip 048.mp4,20100,,,DEFENSE,S,Strong Safety,0.268,True,False,0.333,Above Average,,0.027,Above Average
+Wide - Clip 048.mp4,20114,,,DEFENSE,DL,0-tech (Nose),0.220,True,False,0.200,Elite,,,Elite
+Wide - Clip 048.mp4,20116,,,DEFENSE,DL,3-tech,0.213,True,False,0.333,Average,,,Average
+Wide - Clip 048.mp4,20126,5,,DEFENSE,S,Deep half,0.333,False,False,,,,0.005,Average
+Wide - Clip 048.mp4,20128,73,,DEFENSE,CB,Deep,0.406,False,False,0.133,Elite,,0.107,Elite
+Wide - Clip 048.mp4,20134,,,DEFENSE,EDGE,DE (down),0.214,True,False,0.267,Above Average,0.209,,Elite
+Wide - Clip 049.mp4,20444,,,DEFENSE,S,Strong Safety,0.395,True,False,0.167,Elite,,0.060,Elite
+Wide - Clip 049.mp4,20469,26,,DEFENSE,S,Strong Safety,0.403,True,False,0.167,Elite,,0.066,Elite
+Wide - Clip 049.mp4,20477,45,,DEFENSE,S,Deep half,0.417,True,False,0.133,Elite,,0.061,Elite
+Wide - Clip 049.mp4,20480,68,,DEFENSE,S,Strong Safety,0.401,True,False,0.100,Elite,,0.055,Elite
+Wide - Clip 049.mp4,20495,,,DEFENSE,S,Deep half,0.372,True,False,0.167,Elite,,0.078,Elite
+Wide - Clip 049.mp4,20502,,,DEFENSE,CB,Deep,0.380,False,False,0.067,Elite,,0.027,Elite
+Wide - Clip 049.mp4,20507,,,DEFENSE,S,Deep half,0.357,False,False,0.133,Elite,,0.069,Elite
+Wide - Clip 049.mp4,20520,,,DEFENSE,CB,Deep,0.371,False,False,0.133,Elite,,0.055,Elite
+Wide - Clip 049.mp4,20522,51,,DEFENSE,S,Strong Safety,0.414,True,False,0.167,Elite,,0.060,Elite
+Wide - Clip 049.mp4,20534,7,,DEFENSE,S,Strong Safety,0.396,True,False,0.200,Elite,,0.055,Elite
+Wide - Clip 049.mp4,20550,43,,DEFENSE,S,Strong Safety,0.416,True,False,0.167,Elite,,0.066,Elite
+Wide - Clip 050.mp4,20643,,,DEFENSE,EDGE,DE (down),0.148,True,False,0.433,Below Average,0.142,,Average
+Wide - Clip 050.mp4,20651,,,DEFENSE,LB,WILL (weak),0.099,True,False,0.400,Average,,,Average
+Wide - Clip 050.mp4,20648,,,DEFENSE,EDGE,DE (down),0.099,False,False,0.567,Developmental,0.097,,Below Average
+Wide - Clip 050.mp4,20646,,,DEFENSE,LB,SAM (strong),0.085,True,False,0.167,Elite,,,Elite
+Wide - Clip 050.mp4,20694,,,DEFENSE,LB,SAM (strong),0.110,True,False,0.433,Average,,,Average
+Wide - Clip 050.mp4,20707,86,,DEFENSE,S,Strong Safety,0.424,True,False,0.433,Average,,0.036,Average
+Wide - Clip 050.mp4,20781,,,DEFENSE,S,Free Safety (centerfield),0.405,True,False,0.200,Elite,,0.058,Elite
+Wide - Clip 050.mp4,20790,,,DEFENSE,S,Strong Safety,0.421,True,False,0.167,Elite,,0.040,Elite
+Wide - Clip 050.mp4,20792,,,DEFENSE,LB,SAM (strong),0.100,True,False,0.433,Average,,,Average
+Wide - Clip 050.mp4,20800,,,DEFENSE,DL,5-tech,0.077,True,False,0.333,Average,0.077,,Average
+Wide - Clip 050.mp4,20809,43,,DEFENSE,S,Strong Safety,0.399,True,False,0.300,Above Average,,0.020,Above Average
+Wide - Clip 050.mp4,20827,48,,DEFENSE,CB,Deep,0.323,False,False,0.667,Developmental,,0.077,Below Average
+Wide - Clip 050.mp4,20832,,,DEFENSE,S,Strong Safety,0.352,True,False,0.533,Below Average,,0.035,Below Average
+Wide - Clip 051.mp4,20648,,,DEFENSE,EDGE,DE (down),0.100,False,False,0.233,Above Average,0.100,,Above Average
+Wide - Clip 051.mp4,20800,,,DEFENSE,DL,5-tech,0.073,True,False,0.200,Elite,0.068,,Elite
+Wide - Clip 051.mp4,20651,,,DEFENSE,LB,WILL (weak),0.118,True,False,0.233,Elite,,,Elite
+Wide - Clip 051.mp4,20838,,,DEFENSE,S,Strong Safety,0.335,True,False,0.067,Elite,,0.096,Elite
+Wide - Clip 051.mp4,20740,,,DEFENSE,S,Free Safety (centerfield),0.398,True,False,0.333,Above Average,,0.048,Above Average
+Wide - Clip 051.mp4,20781,35,,DEFENSE,S,Strong Safety,0.403,True,False,0.233,Elite,,0.074,Elite
+Wide - Clip 051.mp4,20929,,,DEFENSE,LB,SAM (strong),0.128,True,False,0.200,Elite,,,Elite
+Wide - Clip 051.mp4,20940,29,,DEFENSE,S,Strong Safety,0.421,True,False,0.167,Elite,,0.028,Elite
+Wide - Clip 052.mp4,21265,55,,DEFENSE,S,Free Safety (centerfield),0.419,True,False,0.500,Average,,0.030,Average
+Wide - Clip 052.mp4,21466,57,,DEFENSE,CB,Deep,0.412,False,False,0.267,Above Average,,0.060,Above Average
+Wide - Clip 052.mp4,21544,34,,DEFENSE,S,Deep half,0.413,False,False,0.333,Above Average,,0.049,Above Average
+Wide - Clip 052.mp4,21558,43,,DEFENSE,S,Strong Safety,0.421,True,False,0.433,Average,,0.035,Average
+Wide - Clip 052.mp4,21584,57,,DEFENSE,S,Deep half,0.410,True,False,0.433,Average,,0.060,Average
+Wide - Clip 053.mp4,21958,19,,DEFENSE,S,Deep half,0.295,False,False,0.033,Elite,,0.003,Elite
+Wide - Clip 055.mp4,22693,,,DEFENSE,CB,Deep,0.224,False,False,0.267,Above Average,,0.046,Above Average
+Wide - Clip 055.mp4,22787,56,,DEFENSE,CB,Deep,0.239,False,False,0.767,Developmental,,0.011,Below Average
+Wide - Clip 055.mp4,22790,,,DEFENSE,S,Deep half,0.235,True,False,0.367,Average,,0.030,Average
+Wide - Clip 055.mp4,22820,,,DEFENSE,S,Deep half,0.227,False,False,0.300,Above Average,,0.041,Above Average
+Wide - Clip 055.mp4,22821,,,DEFENSE,S,Deep half,0.231,False,False,0.300,Above Average,,0.035,Above Average
+Wide - Clip 055.mp4,22826,,,DEFENSE,S,Deep half,0.271,False,False,0.400,Average,,0.006,Average
+Wide - Clip 055.mp4,22831,14,,DEFENSE,UNKNOWN,,0.152,True,False,0.900,Developmental,,,Below Average
+Wide - Clip 056.mp4,23258,23,,DEFENSE,S,Strong Safety,0.258,True,False,0.400,Average,,0.007,Average
+Wide - Clip 056.mp4,23260,7,,DEFENSE,S,Deep half,0.407,True,False,1.700,Developmental,,0.004,Below Average
+Wide - Clip 056.mp4,23269,14,,DEFENSE,S,Strong Safety,0.422,True,False,0.867,Developmental,,0.012,Below Average
+Wide - Clip 056.mp4,23271,65,,DEFENSE,S,Strong Safety,0.400,True,False,,,,0.001,Average
+Wide - Clip 056.mp4,23274,6,,DEFENSE,S,Deep half,0.413,True,False,0.867,Developmental,,0.024,Below Average
+Wide - Clip 058.mp4,23891,,,DEFENSE,CB,Off (5-7 yards),0.138,False,False,0.133,Elite,,0.075,Elite
+Wide - Clip 058.mp4,23894,,,DEFENSE,EDGE,DE (down),0.026,False,True,0.133,Elite,,,Elite
+Wide - Clip 058.mp4,23895,,,DEFENSE,SLOT,Nickel/Slot,0.075,False,False,0.133,Elite,,0.035,Elite
+Wide - Clip 058.mp4,23901,,,DEFENSE,DL,3-tech,0.109,True,False,0.100,Elite,0.082,,Elite
+Wide - Clip 058.mp4,23930,,,DEFENSE,EDGE,DE (down),0.091,False,False,0.200,Above Average,0.080,,Above Average
+Wide - Clip 058.mp4,24002,,,DEFENSE,LB,WILL (weak),0.091,True,False,0.067,Elite,,,Elite
+Wide - Clip 058.mp4,24008,65,,DEFENSE,S,Deep half,0.396,False,False,0.300,Above Average,,0.024,Above Average
+Wide - Clip 058.mp4,24013,,,DEFENSE,DL,0-tech (Nose),0.019,True,True,,,,,Average
+Wide - Clip 058.mp4,24024,,,DEFENSE,DL,5-tech,0.043,True,False,0.133,Elite,,,Elite
+Wide - Clip 058.mp4,24026,,,DEFENSE,UNKNOWN,,0.181,True,False,0.133,Elite,,,Elite
+Wide - Clip 059.mp4,24535,47,,DEFENSE,S,Strong Safety,0.367,True,False,0.200,Elite,,0.043,Elite
+Wide - Clip 059.mp4,24608,,,DEFENSE,EDGE,DE (down),0.063,False,False,0.267,Above Average,0.067,,Above Average
+Wide - Clip 059.mp4,24673,,,DEFENSE,DL,0-tech (Nose),0.069,True,False,,,,,Average
+Wide - Clip 059.mp4,24709,,,DEFENSE,LB,MIKE (middle),0.082,True,False,0.200,Elite,,,Elite
+Wide - Clip 059.mp4,24711,,,DEFENSE,DL,5-tech,0.037,True,False,0.167,Elite,0.039,,Elite
+Wide - Clip 059.mp4,24754,32,,DEFENSE,S,Deep half,0.384,False,False,0.200,Elite,,0.012,Elite
+Wide - Clip 059.mp4,24779,,,DEFENSE,LB,SAM (strong),0.098,True,False,0.233,Elite,,,Elite
+Wide - Clip 059.mp4,24783,,,DEFENSE,LB,WILL (weak),0.065,True,False,0.167,Elite,,,Elite
+Wide - Clip 060.mp4,24853,,,DEFENSE,DL,1-tech,0.045,True,False,1.133,Developmental,0.051,,Below Average
+Wide - Clip 060.mp4,24854,,,DEFENSE,EDGE,DE (down),0.092,True,False,0.767,Developmental,0.092,,Below Average
+Wide - Clip 060.mp4,24858,,,DEFENSE,LB,SAM (strong),0.107,True,False,1.000,Developmental,,,Below Average
+Wide - Clip 060.mp4,24900,,,DEFENSE,SLOT,Nickel/Slot,0.062,False,False,0.367,Average,,0.012,Average
+Wide - Clip 060.mp4,24918,65,,DEFENSE,CB,Deep,0.397,False,False,0.700,Developmental,,0.029,Below Average
+Wide - Clip 060.mp4,24987,8,,DEFENSE,S,Deep half,0.384,False,False,0.367,Average,,0.060,Average
+Wide - Clip 060.mp4,25001,,,DEFENSE,DL,3-tech,0.127,True,False,0.700,Developmental,0.124,,Below Average
+Wide - Clip 060.mp4,25074,,,DEFENSE,DL,5-tech,0.152,True,False,0.233,Above Average,0.150,,Elite
+Wide - Clip 061.mp4,25154,,,DEFENSE,LB,SAM (strong),0.105,True,False,0.167,Elite,,,Elite
+Wide - Clip 061.mp4,25155,,,DEFENSE,EDGE,DE (down),0.075,False,False,0.133,Elite,0.082,,Elite
+Wide - Clip 061.mp4,25189,,,DEFENSE,EDGE,DE (down),0.111,False,False,0.733,Developmental,0.115,,Below Average
+Wide - Clip 061.mp4,25200,,,DEFENSE,DL,3-tech,0.109,True,False,0.100,Elite,0.133,,Elite
+Wide - Clip 061.mp4,25217,56,,DEFENSE,CB,Deep,0.400,False,False,0.633,Below Average,,0.030,Below Average
+Wide - Clip 061.mp4,25243,65,,DEFENSE,S,Deep half,0.399,False,False,0.700,Developmental,,0.032,Below Average
+Wide - Clip 062.mp4,25600,,,DEFENSE,LB,WILL (weak),0.104,True,False,0.100,Elite,,,Elite
+Wide - Clip 062.mp4,25661,,,DEFENSE,DL,1-tech,0.057,True,False,0.233,Above Average,0.058,,Above Average
+Wide - Clip 062.mp4,25834,,,DEFENSE,DL,0-tech (Nose),0.084,True,False,0.367,Average,0.073,,Average
+Wide - Clip 062.mp4,25959,14,,DEFENSE,CB,Deep,0.407,False,False,0.200,Elite,,0.023,Elite
+Wide - Clip 062.mp4,25970,80,,DEFENSE,S,Strong Safety,0.410,True,False,0.033,Elite,,0.043,Elite
+Wide - Clip 062.mp4,25989,16,,DEFENSE,S,Deep half,0.415,True,False,0.200,Elite,,0.052,Elite
+Wide - Clip 062.mp4,25991,,,DEFENSE,S,Free Safety (centerfield),0.284,True,False,0.167,Elite,,0.037,Elite
+Wide - Clip 063.mp4,26142,21,,DEFENSE,S,Free Safety (centerfield),0.341,True,False,0.967,Developmental,,0.008,Below Average
+Wide - Clip 063.mp4,26144,,,DEFENSE,S,Strong Safety,0.302,True,False,,,,0.004,Average
+Wide - Clip 063.mp4,26194,,,DEFENSE,S,Strong Safety,0.282,True,False,0.400,Average,,0.019,Average
+Wide - Clip 063.mp4,26195,51,,DEFENSE,S,Free Safety (centerfield),0.302,True,False,,,,0.003,Average
+Wide - Clip 063.mp4,26214,,,DEFENSE,S,Strong Safety,0.457,True,False,,,,0.001,Average
+Wide - Clip 064.mp4,26389,,,DEFENSE,S,Deep half,0.289,False,False,0.333,Above Average,,0.040,Above Average
+Wide - Clip 064.mp4,26396,,,DEFENSE,CB,Deep,0.263,False,False,0.300,Above Average,,0.047,Above Average
+Wide - Clip 064.mp4,26418,,,DEFENSE,S,Strong Safety,0.425,True,False,0.500,Average,,0.025,Average
+Wide - Clip 064.mp4,26427,75,,DEFENSE,CB,Deep,0.253,False,False,0.633,Below Average,,0.057,Below Average
+Wide - Clip 064.mp4,26449,,,DEFENSE,S,Free Safety (centerfield),0.430,True,False,0.400,Average,,0.030,Average
+Wide - Clip 064.mp4,26452,,,DEFENSE,S,Strong Safety,0.446,True,False,0.467,Average,,0.075,Average
+Wide - Clip 065.mp4,26595,,,DEFENSE,LB,SAM (strong),0.081,True,False,0.233,Elite,,,Elite
+Wide - Clip 065.mp4,26848,,,DEFENSE,LB,WILL (weak),0.065,True,False,0.033,Elite,,,Elite
+Wide - Clip 065.mp4,26990,,,DEFENSE,EDGE,DE (down),0.057,True,False,0.200,Above Average,0.056,,Above Average
+Wide - Clip 065.mp4,27293,,,DEFENSE,S,Strong Safety,0.201,True,False,0.300,Above Average,,0.021,Above Average
+Wide - Clip 065.mp4,27300,,,DEFENSE,SLOT,Nickel/Slot,0.127,False,False,0.233,Elite,,0.058,Elite
+Wide - Clip 065.mp4,27346,,,DEFENSE,DL,5-tech,0.106,True,False,0.200,Above Average,,,Above Average
+Wide - Clip 065.mp4,27348,,,DEFENSE,EDGE,DE (down),0.013,False,True,0.200,Above Average,,,Above Average
+Wide - Clip 065.mp4,27402,47,,DEFENSE,S,Deep half,0.425,True,False,0.367,Average,,0.020,Average
+Wide - Clip 065.mp4,27410,75,,DEFENSE,S,Deep half,0.414,False,False,,,,0.003,Average
+Wide - Clip 065.mp4,27409,,,DEFENSE,EDGE,DE (down),0.057,False,False,0.233,Above Average,0.061,,Above Average
+Wide - Clip 066.mp4,27631,,,DEFENSE,EDGE,DE (down),0.245,False,False,0.267,Above Average,0.240,,Elite
+Wide - Clip 066.mp4,27723,,,DEFENSE,DL,1-tech,0.265,True,False,0.200,Elite,0.280,,Elite
+Wide - Clip 066.mp4,27766,,,DEFENSE,EDGE,DE (down),0.278,False,False,0.367,Average,0.278,,Above Average
+Wide - Clip 066.mp4,27816,,,DEFENSE,DL,1-tech,0.083,True,False,0.133,Elite,0.104,,Elite
+Wide - Clip 066.mp4,27829,,,DEFENSE,UNKNOWN,,0.176,True,False,0.300,Above Average,,,Above Average
+Wide - Clip 066.mp4,27839,70,,DEFENSE,S,Deep half,0.412,True,False,0.167,Elite,,0.029,Elite
+Wide - Clip 066.mp4,27848,16,,DEFENSE,S,Strong Safety,0.409,True,False,0.200,Elite,,0.048,Elite
+Wide - Clip 067.mp4,28174,,,DEFENSE,S,Free Safety (centerfield),0.452,True,False,0.200,Elite,,0.050,Elite
+Wide - Clip 067.mp4,28192,,,DEFENSE,CB,Deep,0.248,False,False,0.167,Elite,,0.036,Elite
+Wide - Clip 067.mp4,28195,75,,DEFENSE,S,Strong Safety,0.292,True,False,0.167,Elite,,0.044,Elite
+Wide - Clip 068.mp4,28344,51,,DEFENSE,S,Strong Safety,0.344,True,False,0.367,Average,,0.079,Average
+Wide - Clip 068.mp4,28400,,,DEFENSE,S,Strong Safety,0.351,True,False,0.400,Average,,0.054,Average
+Wide - Clip 068.mp4,28478,27,,DEFENSE,S,Strong Safety,0.403,True,False,0.700,Developmental,,0.032,Below Average
+Wide - Clip 069.mp4,29100,28,,DEFENSE,CB,Deep,0.279,False,False,0.333,Above Average,,0.051,Above Average
+Wide - Clip 070.mp4,29197,,,DEFENSE,LB,SAM (strong),0.113,True,False,0.167,Elite,,,Elite
+Wide - Clip 070.mp4,29200,,,DEFENSE,DL,1-tech,0.050,True,False,0.067,Elite,0.104,,Elite
+Wide - Clip 070.mp4,29199,,,DEFENSE,EDGE,DE (down),0.019,False,True,0.333,Average,0.006,,Average
+Wide - Clip 070.mp4,29202,,,DEFENSE,DL,0-tech (Nose),0.106,True,False,0.200,Elite,0.105,,Elite
+Wide - Clip 070.mp4,29215,,,DEFENSE,DL,0-tech (Nose),0.223,True,False,0.133,Elite,0.188,,Elite
+Wide - Clip 070.mp4,29253,,,DEFENSE,EDGE,DE (down),0.183,False,False,0.067,Elite,0.190,,Elite
+Wide - Clip 070.mp4,29255,,,DEFENSE,EDGE,DE (down),0.191,False,False,0.133,Elite,,,Elite
+Wide - Clip 070.mp4,29257,56,,DEFENSE,CB,Deep,0.420,False,False,,,,0.006,Average
+Wide - Clip 070.mp4,29260,,,DEFENSE,DL,1-tech,0.223,True,False,0.167,Elite,0.231,,Elite
+Wide - Clip 070.mp4,29280,,,DEFENSE,DL,5-tech,0.172,True,False,0.133,Elite,0.167,,Elite
+Wide - Clip 070.mp4,29293,,,DEFENSE,EDGE,DE (down),0.221,True,False,0.233,Above Average,0.240,,Elite
+Wide - Clip 070.mp4,29298,,,DEFENSE,CB,Deep,0.171,False,False,0.133,Elite,,0.063,Elite
+Wide - Clip 070.mp4,29299,57,,DEFENSE,S,Strong Safety,0.417,True,False,0.200,Elite,,0.099,Elite
+Wide - Clip 070.mp4,29313,,,DEFENSE,SLOT,Nickel/Slot,0.079,False,False,0.100,Elite,,0.059,Elite
+Wide - Clip 070.mp4,29314,3,,DEFENSE,S,Deep half,0.399,False,False,0.133,Elite,,0.031,Elite
+Wide - Clip 070.mp4,29315,47,,DEFENSE,S,Deep half,0.402,False,False,0.033,Elite,,0.101,Elite
+Wide - Clip 070.mp4,29320,,,DEFENSE,DL,0-tech (Nose),0.184,True,False,0.200,Elite,,,Elite
+Wide - Clip 070.mp4,29322,50,,DEFENSE,CB,Deep,0.392,False,False,0.133,Elite,,0.066,Elite
+Wide - Clip 070.mp4,29324,,,DEFENSE,EDGE,DE (down),0.179,False,False,0.400,Average,0.177,,Above Average
+Wide - Clip 071.mp4,29737,57,,DEFENSE,CB,Deep,0.315,False,False,0.100,Elite,,0.148,Elite
+Wide - Clip 071.mp4,29742,70,,DEFENSE,S,Strong Safety,0.357,True,False,0.167,Elite,,0.056,Elite
+Wide - Clip 071.mp4,29752,35,,DEFENSE,S,Strong Safety,0.350,True,False,0.133,Elite,,0.074,Elite
+Wide - Clip 071.mp4,29800,28,,DEFENSE,S,Deep half,0.423,True,False,0.200,Elite,,0.050,Elite
+Wide - Clip 071.mp4,29816,22,,DEFENSE,S,Strong Safety,0.427,True,False,,,,,Average
+Wide - Clip 072.mp4,30107,,,DEFENSE,DL,3-tech,0.155,True,False,0.333,Average,,,Average
+Wide - Clip 072.mp4,30111,,,DEFENSE,EDGE,DE (down),0.087,False,False,0.233,Above Average,0.083,,Above Average
+Wide - Clip 072.mp4,30184,,,DEFENSE,DL,0-tech (Nose),0.089,True,False,0.167,Elite,0.091,,Elite
+Wide - Clip 072.mp4,30192,,,DEFENSE,DL,5-tech,0.159,True,False,0.333,Average,,,Average
+Wide - Clip 072.mp4,30208,,,DEFENSE,DL,1-tech,0.125,True,False,0.233,Above Average,,,Above Average
+Wide - Clip 072.mp4,30212,,,DEFENSE,CB,Deep,0.197,False,False,0.167,Elite,,0.017,Elite
+Wide - Clip 073.mp4,30596,42,,DEFENSE,S,Strong Safety,0.302,True,False,0.267,Above Average,,0.025,Above Average
+Wide - Clip 073.mp4,30604,,,DEFENSE,CB,Deep,0.464,False,False,0.300,Above Average,,0.032,Above Average
+Wide - Clip 073.mp4,30606,57,,DEFENSE,S,Free Safety (centerfield),0.310,True,False,0.333,Above Average,,0.031,Above Average
+Wide - Clip 073.mp4,30609,23,,DEFENSE,S,Free Safety (centerfield),0.301,True,False,0.300,Above Average,,0.014,Above Average
+Wide - Clip 073.mp4,30654,28,,DEFENSE,S,Deep half,0.353,True,False,0.367,Average,,0.026,Average
+Wide - Clip 073.mp4,30655,26,,DEFENSE,S,Strong Safety,0.300,True,False,0.367,Average,,0.030,Average
+Wide - Clip 074.mp4,30882,,,DEFENSE,CB,Press,0.072,False,False,0.100,Elite,,0.014,Elite
+Wide - Clip 074.mp4,31071,26,,DEFENSE,S,Deep half,0.339,False,False,0.267,Above Average,,0.021,Above Average
+Wide - Clip 074.mp4,31075,,,DEFENSE,DL,0-tech (Nose),0.082,True,False,0.267,Above Average,,,Above Average
+Wide - Clip 074.mp4,31096,2,,DEFENSE,CB,Deep,0.331,False,False,0.067,Elite,,0.007,Elite
+Wide - Clip 074.mp4,31098,,,DEFENSE,DL,0-tech (Nose),0.049,True,False,,,,,Average
+Wide - Clip 074.mp4,31097,48,,DEFENSE,S,Deep half,0.346,False,False,,,,0.002,Average
+Wide - Clip 075.mp4,31537,44,,DEFENSE,S,Deep half,0.446,False,False,0.267,Above Average,,0.080,Above Average
+Wide - Clip 076.mp4,31618,44,,DEFENSE,S,Deep half,0.425,True,False,1.067,Developmental,,0.013,Below Average
+Wide - Clip 076.mp4,31625,25,,DEFENSE,S,Free Safety (centerfield),0.420,True,False,1.500,Developmental,,0.002,Below Average
+Wide - Clip 076.mp4,31733,15,,DEFENSE,S,Strong Safety,0.410,True,False,0.867,Developmental,,0.056,Below Average
+Wide - Clip 076.mp4,31735,26,,DEFENSE,S,Free Safety (centerfield),0.412,True,False,,,,,Average
+Wide - Clip 076.mp4,31745,28,,DEFENSE,CB,Deep,0.424,False,False,1.267,Developmental,,0.045,Below Average
+Wide - Clip 076.mp4,31746,44,,DEFENSE,S,Deep half,0.388,False,False,1.233,Developmental,,0.005,Below Average
+Wide - Clip 077.mp4,32177,51,,DEFENSE,S,Strong Safety,0.285,True,False,0.533,Below Average,,0.064,Below Average
+Wide - Clip 077.mp4,32289,,,DEFENSE,S,Strong Safety,0.275,True,False,0.267,Above Average,,0.054,Above Average
+Wide - Clip 077.mp4,32408,73,,DEFENSE,S,Strong Safety,0.269,True,False,0.367,Average,,0.025,Average
+Wide - Clip 077.mp4,32409,70,,DEFENSE,S,Free Safety (centerfield),0.291,True,False,0.467,Average,,0.025,Average
+Wide - Clip 077.mp4,32420,,,DEFENSE,S,Strong Safety,0.274,True,False,0.500,Below Average,,0.033,Below Average
+Wide - Clip 078.mp4,32674,7,,DEFENSE,S,Strong Safety,0.400,True,False,0.200,Elite,,0.024,Elite
+Wide - Clip 078.mp4,32684,39,,DEFENSE,CB,Deep,0.381,False,False,0.133,Elite,,0.147,Elite
+Wide - Clip 078.mp4,32694,45,,DEFENSE,S,Strong Safety,0.421,True,False,0.167,Elite,,0.098,Elite
+Wide - Clip 078.mp4,32696,75,,DEFENSE,S,Strong Safety,0.398,True,False,0.200,Elite,,0.145,Elite
+Wide - Clip 078.mp4,32708,16,,DEFENSE,S,Free Safety (centerfield),0.395,True,False,0.200,Elite,,0.048,Elite
+Wide - Clip 079.mp4,33341,,,DEFENSE,S,Deep half,0.393,False,False,0.200,Elite,,0.070,Elite
+Wide - Clip 079.mp4,33345,11,,DEFENSE,S,Strong Safety,0.388,True,False,0.133,Elite,,0.072,Elite
+Wide - Clip 079.mp4,33346,65,,DEFENSE,S,Free Safety (centerfield),0.397,True,False,0.267,Above Average,,0.075,Above Average
+Wide - Clip 079.mp4,33352,28,,DEFENSE,S,Strong Safety,0.418,True,False,0.333,Above Average,,0.043,Above Average
+Wide - Clip 079.mp4,33355,2,,DEFENSE,S,Deep half,0.392,True,False,0.133,Elite,,0.068,Elite
+Wide - Clip 079.mp4,33360,73,,DEFENSE,S,Strong Safety,0.377,True,False,0.133,Elite,,0.083,Elite
+Wide - Clip 079.mp4,33373,27,,DEFENSE,S,Free Safety (centerfield),0.410,True,False,0.167,Elite,,0.039,Elite
+Wide - Clip 079.mp4,33384,7,,DEFENSE,S,Free Safety (centerfield),0.398,True,False,0.433,Average,,0.023,Average
+Wide - Clip 079.mp4,33385,54,,DEFENSE,CB,Deep,0.365,False,False,0.100,Elite,,0.238,Elite
+Wide - Clip 080.mp4,33778,34,,DEFENSE,S,Deep half,0.375,False,False,0.767,Developmental,,0.009,Below Average
+Wide - Clip 080.mp4,33780,76,,DEFENSE,CB,Deep,0.375,False,False,,,,0.001,Average
+Wide - Clip 080.mp4,33788,77,,DEFENSE,S,Strong Safety,0.409,True,False,1.033,Developmental,,0.001,Below Average
+Wide - Clip 080.mp4,33795,75,,DEFENSE,S,Deep half,0.402,True,False,0.633,Below Average,,0.015,Below Average
+Wide - Clip 080.mp4,33797,7,,DEFENSE,S,Strong Safety,0.403,True,False,1.433,Developmental,,0.005,Below Average
+Wide - Clip 080.mp4,33806,2,,DEFENSE,S,Deep half,0.384,False,False,0.800,Developmental,,0.049,Below Average
+Wide - Clip 080.mp4,33816,45,,DEFENSE,CB,Deep,0.378,False,False,0.667,Developmental,,0.007,Below Average
+Wide - Clip 080.mp4,33817,21,,DEFENSE,CB,Deep,0.356,False,False,0.700,Developmental,,0.006,Below Average
+Wide - Clip 080.mp4,33818,65,,DEFENSE,S,Free Safety (centerfield),0.415,True,False,1.133,Developmental,,0.007,Below Average
+Wide - Clip 081.mp4,34008,,,DEFENSE,EDGE,DE (down),0.156,False,False,0.233,Above Average,0.128,,Above Average
+Wide - Clip 081.mp4,33795,75,,DEFENSE,S,Strong Safety,0.386,True,False,0.133,Elite,,0.108,Elite
+Wide - Clip 081.mp4,34048,,,DEFENSE,LB,SAM (strong),0.115,True,False,0.267,Above Average,,,Above Average
+Wide - Clip 081.mp4,34051,,,DEFENSE,EDGE,DE (down),0.043,False,False,0.200,Elite,0.015,,Elite
+Wide - Clip 081.mp4,34053,,,DEFENSE,DL,0-tech (Nose),0.047,True,False,0.067,Elite,,,Elite
+Wide - Clip 081.mp4,34052,16,,DEFENSE,S,Free Safety (centerfield),0.401,True,False,,,,,Average
+Wide - Clip 081.mp4,34059,7,,DEFENSE,S,Strong Safety,0.402,True,False,0.200,Elite,,0.122,Elite
+Wide - Clip 081.mp4,34056,50,,DEFENSE,S,Strong Safety,0.407,True,False,0.100,Elite,,0.079,Elite
+Wide - Clip 081.mp4,34076,14,,DEFENSE,S,Strong Safety,0.324,True,False,0.300,Above Average,,0.053,Above Average
+Wide - Clip 081.mp4,34075,77,,DEFENSE,S,Strong Safety,0.400,True,False,,,,,Average
+Wide - Clip 081.mp4,34081,,,DEFENSE,DL,5-tech,0.156,True,False,0.333,Average,0.138,,Average
+Wide - Clip 081.mp4,34088,,,DEFENSE,DL,3-tech,0.090,True,False,0.367,Average,,,Average
+Wide - Clip 081.mp4,34096,,,DEFENSE,CB,Press,0.066,False,False,0.400,Average,,0.035,Average
+Wide - Clip 081.mp4,34140,34,,DEFENSE,CB,Deep,0.349,False,False,0.067,Elite,,0.135,Elite
+Wide - Clip 081.mp4,34141,2,,DEFENSE,S,Deep half,0.377,True,False,0.133,Elite,,0.028,Elite
+Wide - Clip 081.mp4,34146,,,DEFENSE,DL,5-tech,0.129,True,False,0.067,Elite,,,Elite
+Wide - Clip 081.mp4,34153,,,DEFENSE,EDGE,DE (down),0.146,True,False,0.133,Elite,,,Elite
+Wide - Clip 082.mp4,34743,11,,DEFENSE,S,Deep half,0.216,False,False,0.233,Elite,,0.092,Elite
+Wide - Clip 082.mp4,34767,75,,DEFENSE,S,Strong Safety,0.256,True,False,0.200,Elite,,0.130,Elite
+Wide - Clip 082.mp4,34769,46,,DEFENSE,S,Deep half,0.242,True,False,0.167,Elite,,0.077,Elite
+Wide - Clip 082.mp4,34790,8,,DEFENSE,S,Deep half,0.375,False,False,0.167,Elite,,0.025,Elite
+Wide - Clip 082.mp4,34815,10,,DEFENSE,S,Deep half,0.269,False,False,0.233,Elite,,0.051,Elite
+Wide - Clip 083.mp4,35127,30,,DEFENSE,S,Strong Safety,0.418,True,False,0.100,Elite,,0.057,Elite
+Wide - Clip 083.mp4,35149,,,DEFENSE,DL,0-tech (Nose),0.057,True,False,0.167,Elite,0.082,,Elite
+Wide - Clip 083.mp4,35179,,,DEFENSE,DL,0-tech (Nose),0.084,True,False,0.167,Elite,0.090,,Elite
+Wide - Clip 083.mp4,35317,,,DEFENSE,EDGE,DE (down),0.019,True,True,0.133,Elite,0.014,,Elite
+Wide - Clip 083.mp4,35323,,,DEFENSE,S,Strong Safety,0.341,True,False,0.167,Elite,,0.057,Elite
+Wide - Clip 083.mp4,35325,,,DEFENSE,DL,5-tech,0.044,True,False,0.100,Elite,0.034,,Elite
+Wide - Clip 083.mp4,35343,,,DEFENSE,UNKNOWN,,0.174,True,False,0.100,Elite,,,Elite
+Wide - Clip 083.mp4,35353,,,DEFENSE,CB,Deep,0.306,False,False,0.100,Elite,,0.089,Elite
+Wide - Clip 083.mp4,35363,,,DEFENSE,CB,Deep,0.302,False,False,0.100,Elite,,0.079,Elite
+Wide - Clip 083.mp4,35379,,,DEFENSE,CB,Deep,0.296,False,False,0.100,Elite,,0.043,Elite
+Wide - Clip 083.mp4,35411,,,DEFENSE,CB,Off (5-7 yards),0.127,False,False,0.100,Elite,,0.107,Elite
+Wide - Clip 083.mp4,35421,,,DEFENSE,S,Strong Safety,0.366,True,False,0.167,Elite,,0.040,Elite
+Wide - Clip 083.mp4,35482,,,DEFENSE,CB,Deep,0.217,False,False,,,,0.003,Average
+Wide - Clip 083.mp4,35489,,,DEFENSE,S,Strong Safety,0.403,True,False,0.133,Elite,,0.057,Elite
+Wide - Clip 083.mp4,35494,,,DEFENSE,LB,SAM (strong),0.122,True,False,0.067,Elite,,,Elite
+Wide - Clip 083.mp4,35519,,,DEFENSE,CB,Deep,0.151,False,False,0.033,Elite,,0.068,Elite
+Wide - Clip 083.mp4,35524,,,DEFENSE,S,Deep half,0.272,False,False,0.333,Above Average,,0.033,Above Average
+Wide - Clip 083.mp4,35525,,,DEFENSE,DL,1-tech,0.016,True,True,0.100,Elite,0.010,,Elite
+Wide - Clip 083.mp4,35540,2,,DEFENSE,S,Strong Safety,0.323,True,False,0.167,Elite,,0.012,Elite
+Wide - Clip 083.mp4,35542,18,,DEFENSE,S,Deep half,0.423,False,False,0.333,Above Average,,0.013,Above Average
+Wide - Clip 084.mp4,35782,,,DEFENSE,S,Deep half,0.399,False,False,0.567,Below Average,,0.018,Below Average
+Wide - Clip 085.mp4,36014,,,DEFENSE,S,Strong Safety,0.430,True,False,0.700,Developmental,,0.012,Below Average
+Wide - Clip 087.mp4,38089,,,DEFENSE,S,Deep half,0.438,False,False,1.500,Developmental,,0.007,Below Average
+Wide - Clip 090.mp4,38298,70,,DEFENSE,S,Strong Safety,0.370,True,False,0.167,Elite,,0.020,Elite
+Wide - Clip 090.mp4,38310,86,,DEFENSE,CB,Deep,0.421,False,False,,,,0.009,Average
+Wide - Clip 090.mp4,38312,57,,DEFENSE,CB,Deep,0.426,False,False,0.300,Above Average,,0.017,Above Average
+Wide - Clip 090.mp4,38337,57,,DEFENSE,CB,Deep,0.417,False,False,0.233,Elite,,0.018,Elite
+Wide - Clip 090.mp4,38346,14,,DEFENSE,S,Strong Safety,0.392,True,False,0.233,Elite,,0.020,Elite
+Wide - Clip 090.mp4,38433,,,DEFENSE,DL,3-tech,0.044,True,False,0.233,Above Average,0.029,,Above Average
+Wide - Clip 090.mp4,38440,,,DEFENSE,DL,3-tech,0.052,True,False,0.233,Above Average,,,Above Average
+Wide - Clip 090.mp4,38482,,,DEFENSE,EDGE,DE (down),0.065,False,False,0.867,Developmental,0.057,,Below Average
+Wide - Clip 090.mp4,38486,43,,DEFENSE,S,Deep half,0.396,True,False,0.200,Elite,,0.017,Elite
+Wide - Clip 090.mp4,38529,,,DEFENSE,EDGE,DE (down),0.024,True,True,0.133,Elite,,,Elite
+Wide - Clip 090.mp4,38544,,,DEFENSE,S,Strong Safety,0.367,True,False,0.233,Elite,,0.022,Elite
+Wide - Clip 090.mp4,38560,,,DEFENSE,DL,1-tech,0.063,True,False,0.167,Elite,0.034,,Elite
+Wide - Clip 090.mp4,38562,,,DEFENSE,CB,Deep,0.220,False,False,0.167,Elite,,0.069,Elite
+Wide - Clip 090.mp4,38563,,,DEFENSE,EDGE,DE (down),0.009,False,True,0.167,Elite,,,Elite
+Wide - Clip 090.mp4,38565,68,,DEFENSE,CB,Deep,0.416,False,False,0.433,Average,,0.023,Average
+Wide - Clip 091.mp4,38719,,,DEFENSE,EDGE,DE (down),0.022,False,True,0.367,Average,0.017,,Average
+Wide - Clip 091.mp4,38722,,,DEFENSE,CB,Off (5-7 yards),0.104,False,False,0.300,Above Average,,0.111,Elite
+Wide - Clip 091.mp4,38726,,,DEFENSE,DL,0-tech (Nose),0.036,True,False,0.467,Below Average,0.044,,Below Average
+Wide - Clip 091.mp4,38837,26,,DEFENSE,CB,Deep,0.432,False,False,0.967,Developmental,,0.011,Below Average
+Wide - Clip 091.mp4,38868,,,DEFENSE,DL,5-tech,0.076,True,False,1.033,Developmental,0.075,,Below Average
+Wide - Clip 091.mp4,38871,87,,DEFENSE,S,Deep half,0.408,False,False,0.900,Developmental,,0.073,Below Average
+Wide - Clip 091.mp4,38879,70,,DEFENSE,S,Strong Safety,0.403,True,False,1.000,Developmental,,0.011,Below Average
+Wide - Clip 091.mp4,38894,14,,DEFENSE,S,Deep half,0.421,False,False,1.067,Developmental,,0.010,Below Average
+Wide - Clip 091.mp4,38910,43,,DEFENSE,S,Strong Safety,0.401,True,False,0.833,Developmental,,0.016,Below Average
+Wide - Clip 091.mp4,38917,57,,DEFENSE,S,Deep half,0.431,False,False,1.033,Developmental,,0.071,Below Average
+Wide - Clip 092.mp4,39077,,,DEFENSE,EDGE,DE (down),0.026,False,True,0.433,Below Average,0.020,,Below Average
+Wide - Clip 092.mp4,39078,,,DEFENSE,LB,WILL (weak),0.062,True,False,0.067,Elite,,,Elite
+Wide - Clip 092.mp4,39079,,,DEFENSE,LB,SAM (strong),0.059,True,False,0.233,Elite,,,Elite
+Wide - Clip 092.mp4,39080,,,DEFENSE,EDGE,DE (down),0.164,True,False,0.300,Above Average,,,Above Average
+Wide - Clip 092.mp4,39076,,,DEFENSE,UNKNOWN,,0.187,True,False,0.300,Above Average,,,Above Average
+Wide - Clip 092.mp4,39014,54,,DEFENSE,S,Deep half,0.368,False,False,,,,0.007,Average
+Wide - Clip 092.mp4,39126,,,DEFENSE,EDGE,DE (down),0.152,False,False,0.133,Elite,0.151,,Elite
+Wide - Clip 092.mp4,39135,,,DEFENSE,EDGE,DE (down),0.148,True,False,0.200,Elite,0.154,,Elite
+Wide - Clip 092.mp4,39157,16,,DEFENSE,S,Deep half,0.385,False,False,0.200,Elite,,0.016,Elite
+Wide - Clip 092.mp4,39162,21,,DEFENSE,CB,Deep,0.451,False,False,0.200,Elite,,0.105,Elite
+Wide - Clip 092.mp4,39168,,,DEFENSE,CB,Deep,0.402,False,False,,,,0.005,Average
+Wide - Clip 092.mp4,39171,,,DEFENSE,SLOT,Nickel/Slot,0.136,False,False,0.233,Elite,,0.110,Elite
+Wide - Clip 093.mp4,39666,55,,DEFENSE,S,Deep half,0.437,True,False,0.167,Elite,,0.044,Elite
+Wide - Clip 093.mp4,39732,75,,DEFENSE,DL,1-tech,0.081,True,False,0.133,Elite,0.073,,Elite
+Wide - Clip 093.mp4,39733,7,,DEFENSE,S,Free Safety (centerfield),0.426,True,False,0.167,Elite,,0.046,Elite
+Wide - Clip 093.mp4,39736,25,,DEFENSE,S,Strong Safety,0.426,True,False,0.200,Elite,,0.038,Elite
+Wide - Clip 094.mp4,40041,55,,DEFENSE,CB,Deep,0.422,False,False,0.233,Elite,,0.029,Elite
+Wide - Clip 094.mp4,40042,,,DEFENSE,CB,Deep,0.411,False,False,,,,0.005,Average
+Wide - Clip 094.mp4,40127,,,DEFENSE,CB,Deep,0.413,False,False,0.167,Elite,,0.037,Elite
+Wide - Clip 094.mp4,40260,10,,DEFENSE,EDGE,DE (down),0.041,False,False,0.233,Above Average,0.060,,Above Average
+Wide - Clip 094.mp4,40312,21,,DEFENSE,S,Strong Safety,0.415,True,False,0.133,Elite,,0.028,Elite
+Wide - Clip 094.mp4,40320,,,DEFENSE,CB,Deep,0.413,False,False,0.200,Elite,,0.027,Elite
+Wide - Clip 094.mp4,40327,,,DEFENSE,S,Deep half,0.411,True,False,0.233,Elite,,0.055,Elite
+Wide - Clip 095.mp4,40394,65,,DEFENSE,S,Free Safety (centerfield),0.425,True,False,0.133,Elite,,0.108,Elite
+Wide - Clip 095.mp4,40475,38,,DEFENSE,S,Strong Safety,0.424,True,False,0.300,Above Average,,0.079,Above Average
+Wide - Clip 095.mp4,40481,25,,DEFENSE,S,Free Safety (centerfield),0.421,True,False,0.200,Elite,,0.173,Elite
+Wide - Clip 095.mp4,40508,70,,DEFENSE,S,Free Safety (centerfield),0.397,True,False,0.300,Above Average,,0.192,Elite
+Wide - Clip 095.mp4,40509,4,,DEFENSE,CB,Deep,0.407,False,False,0.100,Elite,,0.014,Elite
+Wide - Clip 095.mp4,40525,52,,DEFENSE,S,Strong Safety,0.417,True,False,0.200,Elite,,0.107,Elite
+Wide - Clip 096.mp4,40778,25,,DEFENSE,S,Free Safety (centerfield),0.426,True,False,2.067,Developmental,,0.025,Below Average
+Wide - Clip 096.mp4,40829,,,DEFENSE,SLOT,Nickel/Slot,0.053,False,False,0.433,Average,,0.022,Average
+Wide - Clip 096.mp4,40830,,,DEFENSE,DL,5-tech,0.115,True,False,0.167,Elite,0.118,,Elite
+Wide - Clip 096.mp4,40970,21,,DEFENSE,S,Strong Safety,0.418,True,False,1.667,Developmental,,0.011,Below Average
+Wide - Clip 096.mp4,40993,,,DEFENSE,DL,3-tech,0.110,True,False,0.500,Below Average,0.095,,Average
+Wide - Clip 096.mp4,41005,55,,DEFENSE,CB,Deep,0.396,False,False,,,,0.002,Average
+Wide - Clip 096.mp4,41025,14,,DEFENSE,S,Deep half,0.416,False,False,0.900,Developmental,,0.010,Below Average
+Wide - Clip 096.mp4,41029,43,,DEFENSE,S,Deep half,0.416,True,False,,,,0.007,Average
+Wide - Clip 098.mp4,41646,,,DEFENSE,S,Deep half,0.409,False,False,0.433,Average,,0.031,Average
+Wide - Clip 098.mp4,41944,45,,DEFENSE,S,Deep half,0.413,True,False,0.300,Above Average,,0.035,Above Average
+Wide - Clip 098.mp4,41966,31,,DEFENSE,S,Strong Safety,0.398,True,False,0.367,Average,,0.051,Average
+Wide - Clip 098.mp4,41967,77,,DEFENSE,S,Strong Safety,0.407,True,False,0.300,Above Average,,0.032,Above Average
+Wide - Clip 099.mp4,42314,,,DEFENSE,S,Free Safety (centerfield),0.351,True,False,0.100,Elite,,0.035,Elite
+Wide - Clip 099.mp4,42414,,,DEFENSE,S,Strong Safety,0.379,True,False,0.100,Elite,,0.110,Elite
+Wide - Clip 099.mp4,42492,,,DEFENSE,S,Strong Safety,0.400,True,False,0.067,Elite,,0.218,Elite
+Wide - Clip 099.mp4,42514,,,DEFENSE,S,Strong Safety,0.372,True,False,0.133,Elite,,0.026,Elite
+Wide - Clip 099.mp4,42608,,,DEFENSE,S,Deep half,0.452,False,False,0.167,Elite,,0.030,Elite
+Wide - Clip 099.mp4,42615,,,DEFENSE,S,Deep half,0.442,True,False,0.067,Elite,,0.214,Elite
+Wide - Clip 100.mp4,42740,,,DEFENSE,CB,Deep,0.269,False,False,0.300,Above Average,,0.022,Above Average
+Wide - Clip 100.mp4,42748,,,DEFENSE,S,Deep half,0.256,False,False,0.400,Average,,0.018,Average
+Wide - Clip 100.mp4,42757,,,DEFENSE,CB,Deep,0.173,False,False,,,,0.008,Average
+Wide - Clip 100.mp4,42808,,,DEFENSE,EDGE,DE (down),0.027,True,True,,,,,Average
+Wide - Clip 100.mp4,42824,,,DEFENSE,CB,Deep,0.291,False,False,,,,0.002,Average
+Wide - Clip 100.mp4,42846,,,DEFENSE,LB,MIKE (middle),0.121,True,False,0.167,Elite,,,Elite
+Wide - Clip 100.mp4,42850,,,DEFENSE,DL,5-tech,0.009,True,True,0.433,Below Average,0.013,,Below Average
+Wide - Clip 101.mp4,43180,,,DEFENSE,CB,Deep,0.291,False,False,0.233,Elite,,0.033,Elite
+Wide - Clip 101.mp4,43197,,,DEFENSE,CB,Deep,0.287,False,False,0.267,Above Average,,0.021,Above Average
+Wide - Clip 101.mp4,43200,,,DEFENSE,S,Deep half,0.408,False,False,0.167,Elite,,0.124,Elite
+Wide - Clip 101.mp4,43221,,,DEFENSE,CB,Press,0.065,False,False,1.067,Developmental,,0.006,Below Average
+Wide - Clip 101.mp4,43225,,,DEFENSE,LB,MIKE (middle),0.108,True,False,0.133,Elite,,,Elite
+Wide - Clip 101.mp4,43256,,,DEFENSE,CB,Press,0.071,False,False,0.333,Above Average,,0.020,Above Average
+Wide - Clip 102.mp4,43452,,,DEFENSE,LB,WILL (weak),0.111,True,False,0.333,Above Average,,,Above Average
+Wide - Clip 102.mp4,43555,,,DEFENSE,DL,5-tech,0.018,True,True,0.200,Elite,0.024,,Elite
+Wide - Clip 102.mp4,43591,17,,DEFENSE,CB,Deep,0.312,False,False,0.100,Elite,,0.049,Elite
+Wide - Clip 102.mp4,43595,,,DEFENSE,CB,Deep,0.227,False,False,0.133,Elite,,0.055,Elite
+Wide - Clip 102.mp4,43621,30,,DEFENSE,S,Deep half,0.417,False,False,0.300,Above Average,,0.037,Above Average
+Wide - Clip 102.mp4,43629,,,DEFENSE,EDGE,DE (down),0.059,True,False,0.133,Elite,,,Elite
+Wide - Clip 102.mp4,43632,,,DEFENSE,LB,MIKE (middle),0.078,True,False,0.167,Elite,,,Elite
+Wide - Clip 103.mp4,44058,50,,DEFENSE,S,Deep half,0.283,False,False,0.633,Below Average,,0.015,Below Average
+Wide - Clip 103.mp4,44078,80,,DEFENSE,S,Deep half,0.266,True,False,0.500,Average,,0.015,Average
+Wide - Clip 104.mp4,44312,,,DEFENSE,UNKNOWN,,0.190,True,False,0.100,Elite,,,Elite
+Wide - Clip 104.mp4,44372,,,DEFENSE,S,Deep half,0.402,False,False,0.367,Average,,0.028,Average
+Wide - Clip 104.mp4,44409,,,DEFENSE,DL,3-tech,0.008,True,True,0.167,Elite,,,Elite
+Wide - Clip 104.mp4,44417,65,,DEFENSE,S,Strong Safety,0.422,True,False,0.433,Average,,0.031,Average
+Wide - Clip 104.mp4,44422,,,DEFENSE,EDGE,DE (down),0.004,False,True,0.167,Elite,,,Elite
+Wide - Clip 105.mp4,44895,,,DEFENSE,EDGE,DE (down),0.015,False,True,0.100,Elite,,,Elite
+Wide - Clip 105.mp4,44951,5,,DEFENSE,CB,Deep,0.360,False,False,0.167,Elite,,0.041,Elite
+Wide - Clip 105.mp4,44981,55,,DEFENSE,CB,Deep,0.339,False,False,0.167,Elite,,0.017,Elite
+Wide - Clip 105.mp4,45005,16,,DEFENSE,S,Strong Safety,0.350,True,False,0.167,Elite,,0.021,Elite
+Wide - Clip 105.mp4,45013,,,DEFENSE,EDGE,DE (down),0.019,True,True,0.100,Elite,,,Elite
+Wide - Clip 105.mp4,45025,70,,DEFENSE,S,Deep half,0.307,False,False,0.533,Below Average,,0.046,Below Average
+Wide - Clip 105.mp4,45030,,,DEFENSE,DL,5-tech,0.014,True,True,0.167,Elite,,,Elite
+Wide - Clip 105.mp4,45050,52,,DEFENSE,S,Deep half,0.349,True,False,0.233,Elite,,0.018,Elite
+Wide - Clip 106.mp4,45213,,,DEFENSE,EDGE,DE (down),0.038,True,False,0.500,Below Average,0.040,,Below Average
+Wide - Clip 106.mp4,45210,,,DEFENSE,DL,5-tech,0.055,True,False,0.033,Elite,,,Elite
+Wide - Clip 106.mp4,45348,54,,DEFENSE,S,Strong Safety,0.399,True,False,,,,,Average
+Wide - Clip 106.mp4,45377,,,DEFENSE,EDGE,DE (down),0.069,False,False,0.633,Developmental,0.078,,Below Average
+Wide - Clip 106.mp4,45405,65,,DEFENSE,CB,Deep,0.397,False,False,0.700,Developmental,,0.023,Below Average
+Wide - Clip 106.mp4,45408,14,,DEFENSE,S,Strong Safety,0.405,True,False,,,,0.002,Average
+Wide - Clip 106.mp4,45413,44,,DEFENSE,S,Free Safety (centerfield),0.413,True,False,0.633,Below Average,,0.021,Below Average
+Wide - Clip 106.mp4,45415,16,,DEFENSE,CB,Deep,0.394,False,False,0.733,Developmental,,0.025,Below Average
+Wide - Clip 106.mp4,45446,28,,DEFENSE,S,Strong Safety,0.333,True,False,0.267,Above Average,,0.037,Above Average
+Wide - Clip 107.mp4,46016,,,DEFENSE,S,Deep half,0.422,False,False,1.000,Developmental,,0.010,Below Average
+Wide - Clip 107.mp4,46074,2,,DEFENSE,S,Deep half,0.397,True,False,1.000,Developmental,,0.012,Below Average
+Wide - Clip 107.mp4,46085,8,,DEFENSE,S,Strong Safety,0.401,True,False,1.100,Developmental,,0.007,Below Average
+Wide - Clip 107.mp4,46100,52,,DEFENSE,S,Deep half,0.418,False,False,,,,0.001,Average
+Wide - Clip 107.mp4,46120,85,,DEFENSE,S,Strong Safety,0.424,True,False,0.967,Developmental,,0.012,Below Average
+Wide - Clip 107.mp4,46126,6,,DEFENSE,S,Strong Safety,0.432,True,False,0.433,Average,,0.015,Average
+Wide - Clip 108.mp4,46432,8,,DEFENSE,S,Deep half,0.395,True,False,0.433,Average,,0.043,Average
+Wide - Clip 108.mp4,46425,,,DEFENSE,S,Deep half,0.421,False,False,0.500,Average,,0.032,Average
+Wide - Clip 108.mp4,46441,,,DEFENSE,DL,5-tech,0.069,True,False,0.400,Average,0.072,,Average
+Wide - Clip 108.mp4,46442,,,DEFENSE,DL,5-tech,0.087,True,False,0.533,Below Average,0.087,,Average
+Wide - Clip 108.mp4,46447,,,DEFENSE,LB,MIKE (middle),0.136,True,False,0.467,Average,,,Average
+Wide - Clip 108.mp4,46470,3,,DEFENSE,S,Strong Safety,0.394,True,False,,,,0.003,Average
+Wide - Clip 108.mp4,46495,,,DEFENSE,S,Deep half,0.403,False,False,1.233,Developmental,,0.009,Below Average
+Wide - Clip 108.mp4,46507,,,DEFENSE,SLOT,Nickel/Slot,0.074,False,False,0.400,Average,,0.032,Average
+Wide - Clip 108.mp4,46539,51,,DEFENSE,S,Strong Safety,0.427,True,False,0.700,Developmental,,0.020,Below Average
+Wide - Clip 108.mp4,46561,28,,DEFENSE,S,Strong Safety,0.410,True,False,0.433,Average,,0.032,Average
+Wide - Clip 108.mp4,46566,,,DEFENSE,CB,Deep,0.263,False,False,0.133,Elite,,0.032,Elite
+Wide - Clip 109.mp4,46647,8,,DEFENSE,UNKNOWN,,0.160,True,False,0.133,Elite,,,Elite
+Wide - Clip 109.mp4,46652,,,DEFENSE,SLOT,Nickel/Slot,0.101,False,False,0.233,Elite,,0.009,Elite
+Wide - Clip 109.mp4,46442,,,DEFENSE,DL,5-tech,0.088,True,False,0.200,Elite,0.087,,Elite
+Wide - Clip 109.mp4,46441,,,DEFENSE,DL,5-tech,0.071,True,False,0.200,Elite,0.083,,Elite
+Wide - Clip 109.mp4,46667,,,DEFENSE,EDGE,DE (down),0.135,False,False,0.367,Average,0.126,,Average
+Wide - Clip 109.mp4,46691,,,DEFENSE,CB,Deep,0.293,False,False,0.233,Elite,,0.016,Elite
+Wide - Clip 109.mp4,46718,56,,DEFENSE,DL,3-tech,0.216,True,False,1.100,Developmental,0.211,,Average
+Wide - Clip 109.mp4,46730,,,DEFENSE,S,Strong Safety,0.424,True,False,0.533,Below Average,,0.087,Below Average
+Wide - Clip 109.mp4,46738,68,,DEFENSE,S,Deep half,0.405,True,False,0.300,Above Average,,0.005,Above Average
+Wide - Clip 109.mp4,46741,11,,DEFENSE,S,Deep half,0.413,False,False,0.167,Elite,,0.017,Elite
+Wide - Clip 109.mp4,46742,51,,DEFENSE,S,Strong Safety,0.424,True,False,1.067,Developmental,,0.014,Below Average
+Wide - Clip 109.mp4,46749,,,DEFENSE,S,Deep half,0.324,False,False,0.200,Elite,,0.013,Elite
+Wide - Clip 109.mp4,46748,,,DEFENSE,S,Deep half,0.352,False,False,0.100,Elite,,0.030,Elite
+Wide - Clip 110.mp4,46870,3,,DEFENSE,S,Strong Safety,0.423,True,False,0.267,Above Average,,0.053,Above Average
+Wide - Clip 110.mp4,46858,,,DEFENSE,SLOT,Nickel/Slot,0.119,False,False,0.133,Elite,,0.110,Elite
+Wide - Clip 110.mp4,46951,28,,DEFENSE,S,Strong Safety,0.424,True,False,0.133,Elite,,0.058,Elite
+Wide - Clip 110.mp4,46995,,,DEFENSE,EDGE,DE (down),0.027,False,True,0.200,Elite,,,Elite
+Wide - Clip 110.mp4,47119,,,DEFENSE,DL,0-tech (Nose),0.052,True,False,0.100,Elite,,,Elite
+Wide - Clip 110.mp4,47146,85,,DEFENSE,S,Deep half,0.414,False,False,0.367,Average,,0.069,Average
+Wide - Clip 111.mp4,47531,10,,DEFENSE,EDGE,DE (down),0.008,False,True,0.667,Developmental,0.006,,Below Average
+Wide - Clip 111.mp4,47552,,,DEFENSE,LB,WILL (weak),0.078,True,False,0.267,Above Average,,,Above Average
+Wide - Clip 111.mp4,47566,,,DEFENSE,S,Free Safety (centerfield),0.263,True,False,0.133,Elite,,0.003,Elite
+Wide - Clip 111.mp4,47593,,,DEFENSE,EDGE,OLB (up),0.036,False,False,,,,,Average
+Wide - Clip 111.mp4,47595,5,,DEFENSE,S,Free Safety (centerfield),0.436,True,False,0.200,Elite,,0.029,Elite
+Wide - Clip 111.mp4,47604,75,,DEFENSE,EDGE,DE (down),0.017,True,True,0.033,Elite,,,Elite
+Wide - Clip 111.mp4,47625,57,,DEFENSE,S,Strong Safety,0.428,True,False,0.533,Below Average,,0.009,Below Average
+Wide - Clip 111.mp4,47632,,,DEFENSE,EDGE,OLB (up),0.048,False,False,0.267,Above Average,,,Above Average
+Wide - Clip 111.mp4,47646,,,DEFENSE,LB,MIKE (middle),0.086,True,False,0.300,Above Average,,,Above Average
+Wide - Clip 111.mp4,47656,,,DEFENSE,DL,1-tech,0.013,True,True,,,,,Average
+Wide - Clip 111.mp4,47657,,,DEFENSE,DL,5-tech,0.015,True,True,0.233,Above Average,0.004,,Above Average
+Wide - Clip 111.mp4,47658,,,DEFENSE,DL,5-tech,0.021,True,True,0.267,Above Average,0.003,,Above Average
+Wide - Clip 111.mp4,47659,,,DEFENSE,S,Strong Safety,0.280,True,False,0.167,Elite,,0.041,Elite
+Wide - Clip 112.mp4,47679,,,DEFENSE,EDGE,DE (down),0.019,False,True,0.300,Above Average,,,Above Average
+Wide - Clip 112.mp4,47738,,,DEFENSE,EDGE,DE (down),0.004,False,True,,,,,Average
+Wide - Clip 112.mp4,47769,,,DEFENSE,CB,Off (5-7 yards),0.112,False,False,0.367,Average,,0.008,Average
+Wide - Clip 112.mp4,47772,,,DEFENSE,EDGE,DE (down),0.001,True,True,0.233,Above Average,,,Above Average
+Wide - Clip 112.mp4,47786,,,DEFENSE,DL,5-tech,0.010,True,True,0.200,Elite,,,Elite
+Wide - Clip 113.mp4,48016,,,DEFENSE,SLOT,Nickel/Slot,0.117,False,False,0.167,Elite,,0.008,Elite
+Wide - Clip 113.mp4,48060,,,DEFENSE,EDGE,DE (down),0.023,False,True,0.167,Elite,,,Elite
+Wide - Clip 113.mp4,48059,,,DEFENSE,EDGE,DE (down),0.007,True,True,0.200,Elite,,,Elite
+Wide - Clip 113.mp4,48062,,,DEFENSE,EDGE,DE (down),0.180,False,False,0.700,Developmental,0.184,,Average
+Wide - Clip 113.mp4,48063,,,DEFENSE,EDGE,DE (down),0.025,False,True,0.267,Above Average,,,Above Average
+Wide - Clip 113.mp4,48065,,,DEFENSE,EDGE,DE (down),0.161,False,False,0.400,Average,0.187,,Above Average
+Wide - Clip 113.mp4,48140,,,DEFENSE,DL,1-tech,0.076,True,False,,,,,Average
+Wide - Clip 113.mp4,48146,45,,DEFENSE,S,Strong Safety,0.420,True,False,,,,0.001,Average
+Wide - Clip 113.mp4,48151,57,,DEFENSE,S,Strong Safety,0.418,True,False,,,,0.003,Average
+Wide - Clip 114.mp4,48369,,,DEFENSE,EDGE,DE (down),0.001,False,True,0.233,Above Average,,,Above Average
+Wide - Clip 114.mp4,48381,,,DEFENSE,DL,3-tech,0.020,True,True,0.600,Developmental,0.014,,Below Average
+Wide - Clip 114.mp4,48447,25,,DEFENSE,S,Strong Safety,0.434,True,False,0.933,Developmental,,0.023,Below Average
+Wide - Clip 114.mp4,48460,,,DEFENSE,UNKNOWN,,0.166,True,False,0.300,Above Average,,,Above Average
+Wide - Clip 114.mp4,48463,,,DEFENSE,SLOT,Nickel/Slot,0.143,False,False,,,,0.002,Average
+Wide - Clip 114.mp4,48464,,,DEFENSE,EDGE,DE (down),0.013,True,True,0.533,Below Average,,,Below Average
+Wide - Clip 114.mp4,48477,,,DEFENSE,DL,5-tech,0.024,True,True,0.100,Elite,,,Elite
+Wide - Clip 114.mp4,48482,,,DEFENSE,EDGE,DE (down),0.008,False,True,,,,,Average
+Wide - Clip 114.mp4,48483,,,DEFENSE,DL,3-tech,0.010,True,True,0.900,Developmental,,,Below Average
+Wide - Clip 115.mp4,48900,88,,DEFENSE,S,Strong Safety,0.413,True,False,0.100,Elite,,0.211,Elite
+Wide - Clip 115.mp4,49032,45,,DEFENSE,CB,Deep,0.315,False,False,0.067,Elite,,0.059,Elite
+Wide - Clip 115.mp4,49147,,,DEFENSE,EDGE,DE (down),0.013,False,True,0.133,Elite,0.076,,Elite
+Wide - Clip 115.mp4,49159,43,,DEFENSE,S,Deep half,0.326,False,False,0.067,Elite,,0.126,Elite
+Wide - Clip 115.mp4,49165,,,DEFENSE,DL,0-tech (Nose),0.041,True,False,0.100,Elite,0.081,,Elite
+Wide - Clip 115.mp4,49191,,,DEFENSE,SLOT,Nickel/Slot,0.060,False,False,0.167,Elite,,0.042,Elite
+Wide - Clip 115.mp4,49215,35,,DEFENSE,S,Strong Safety,0.413,True,False,0.067,Elite,,0.258,Elite
+Wide - Clip 115.mp4,49233,,,DEFENSE,EDGE,DE (down),0.003,False,True,0.100,Elite,0.060,,Elite
+Wide - Clip 115.mp4,49235,,,DEFENSE,EDGE,DE (down),0.010,False,True,0.133,Elite,0.089,,Elite
+Wide - Clip 115.mp4,49237,70,,DEFENSE,S,Deep half,0.312,False,False,0.033,Elite,,0.128,Elite
+Wide - Clip 116.mp4,49489,,,DEFENSE,DL,1-tech,0.013,True,True,0.100,Elite,0.028,,Elite
+Wide - Clip 116.mp4,49563,,,DEFENSE,DL,0-tech (Nose),0.080,True,False,0.133,Elite,,,Elite
+Wide - Clip 116.mp4,49607,,,DEFENSE,DL,5-tech,0.094,True,False,0.100,Elite,0.082,,Elite
+Wide - Clip 116.mp4,49625,3,,DEFENSE,S,Deep half,0.424,False,False,0.500,Average,,0.020,Average
+Wide - Clip 116.mp4,49631,,,DEFENSE,DL,3-tech,0.103,True,False,,,,,Average
+Wide - Clip 116.mp4,49640,11,,DEFENSE,CB,Deep,0.397,False,False,0.500,Average,,0.015,Average
+Wide - Clip 117.mp4,49802,,,DEFENSE,DL,3-tech,0.027,True,True,0.700,Developmental,,,Below Average
+Wide - Clip 117.mp4,49844,,,DEFENSE,EDGE,DE (down),0.035,False,False,0.267,Above Average,0.018,,Above Average
+Wide - Clip 117.mp4,49911,,,DEFENSE,EDGE,DE (down),0.140,True,False,0.833,Developmental,0.141,,Below Average
+Wide - Clip 117.mp4,49956,,,DEFENSE,S,Deep half,0.445,False,False,1.433,Developmental,,0.019,Below Average
+Wide - Clip 117.mp4,49960,,,DEFENSE,DL,5-tech,0.148,True,False,,,,,Average
+Wide - Clip 117.mp4,49965,,,DEFENSE,DL,5-tech,0.128,True,False,0.600,Developmental,,,Below Average
+Wide - Clip 117.mp4,49985,,,DEFENSE,EDGE,DE (down),0.080,False,False,0.600,Developmental,0.091,,Below Average
+Wide - Clip 118.mp4,50021,,,DEFENSE,EDGE,OLB (up),0.031,False,False,0.067,Elite,0.058,,Elite
+Wide - Clip 118.mp4,50098,6,,DEFENSE,S,Deep half,0.384,False,False,0.267,Above Average,,0.051,Above Average
+Wide - Clip 118.mp4,50111,,,DEFENSE,DL,0-tech (Nose),0.027,True,True,0.267,Above Average,,,Above Average
+Wide - Clip 118.mp4,50115,,,DEFENSE,DL,5-tech,0.016,True,True,0.100,Elite,0.054,,Elite
+Wide - Clip 118.mp4,50124,75,,DEFENSE,S,Deep half,0.395,False,False,0.467,Average,,0.045,Average
+Wide - Clip 119.mp4,50490,,,DEFENSE,LB,MIKE (middle),0.042,True,False,0.233,Elite,,,Elite
+Wide - Clip 119.mp4,50503,,,DEFENSE,DL,3-tech,0.013,True,True,0.533,Below Average,,,Below Average
+Wide - Clip 119.mp4,50601,,,DEFENSE,S,Strong Safety,0.399,True,False,0.633,Below Average,,0.010,Below Average
+Wide - Clip 120.mp4,50821,80,,DEFENSE,S,Strong Safety,0.426,True,False,0.300,Above Average,,0.046,Above Average
+Wide - Clip 120.mp4,50881,,,DEFENSE,EDGE,DE (down),0.137,False,False,0.300,Average,0.141,,Average
+Wide - Clip 120.mp4,50978,75,,DEFENSE,EDGE,DE (down),0.152,True,False,0.167,Elite,,,Elite
+Wide - Clip 120.mp4,51023,,,DEFENSE,DL,1-tech,0.139,True,False,0.200,Above Average,0.146,,Above Average
+Wide - Clip 120.mp4,51040,,,DEFENSE,EDGE,OLB (up),0.036,False,False,0.633,Developmental,,,Below Average
+Wide - Clip 120.mp4,51047,,,DEFENSE,DL,0-tech (Nose),0.160,True,False,0.233,Above Average,0.163,,Elite
+Wide - Clip 120.mp4,51052,51,,DEFENSE,S,Free Safety (centerfield),0.376,True,False,0.100,Elite,,0.042,Elite
+Wide - Clip 120.mp4,51059,,,DEFENSE,EDGE,DE (down),0.156,False,False,0.333,Average,0.137,,Average
+Wide - Clip 120.mp4,51065,25,,DEFENSE,S,Deep half,0.391,False,False,0.333,Above Average,,0.042,Above Average
+Wide - Clip 121.mp4,51097,,,DEFENSE,DL,3-tech,0.030,True,False,0.267,Above Average,0.049,,Above Average
+Wide - Clip 121.mp4,51103,14,,DEFENSE,S,Strong Safety,0.417,True,False,,,,0.003,Average
+Wide - Clip 121.mp4,51114,,,DEFENSE,EDGE,DE (down),0.075,False,False,0.500,Below Average,0.084,,Average
+Wide - Clip 121.mp4,51139,,,DEFENSE,DL,5-tech,0.112,True,False,0.767,Developmental,,,Below Average
+Wide - Clip 121.mp4,51181,97,,DEFENSE,S,Strong Safety,0.387,True,False,0.467,Average,,0.005,Average
+Wide - Clip 121.mp4,51184,19,,DEFENSE,S,Strong Safety,0.397,True,False,0.467,Average,,0.037,Average
+Wide - Clip 121.mp4,51189,81,,DEFENSE,S,Free Safety (centerfield),0.407,True,False,0.533,Below Average,,0.040,Below Average
+Wide - Clip 122.mp4,51431,16,,DEFENSE,S,Strong Safety,0.399,True,False,0.900,Developmental,,0.100,Below Average
+Wide - Clip 122.mp4,51442,,,DEFENSE,DL,0-tech (Nose),0.095,True,False,0.300,Above Average,0.072,,Above Average
+Wide - Clip 122.mp4,51473,,,DEFENSE,S,Strong Safety,0.389,True,False,0.200,Elite,,0.033,Elite
+Wide - Clip 122.mp4,51476,,,DEFENSE,EDGE,DE (down),0.131,True,False,0.133,Elite,0.077,,Elite
+Wide - Clip 122.mp4,51484,,,DEFENSE,S,Strong Safety,0.398,True,False,0.633,Below Average,,0.036,Below Average
+Wide - Clip 122.mp4,51489,,,DEFENSE,EDGE,DE (down),0.118,False,False,0.367,Average,0.078,,Average
+Wide - Clip 122.mp4,51490,87,,DEFENSE,S,Strong Safety,0.421,True,False,0.067,Elite,,0.017,Elite
+Wide - Clip 123.mp4,51779,,,DEFENSE,S,Free Safety (centerfield),0.363,True,False,0.200,Elite,,0.032,Elite
+Wide - Clip 123.mp4,51787,,,DEFENSE,S,Deep half,0.389,True,False,0.667,Developmental,,0.016,Below Average
+Wide - Clip 123.mp4,51882,27,,DEFENSE,CB,Deep,0.408,False,False,0.467,Average,,0.022,Average
+Wide - Clip 123.mp4,51903,,,DEFENSE,S,Deep half,0.393,False,False,0.467,Average,,0.025,Average
+Wide - Clip 123.mp4,51906,2,,DEFENSE,S,Strong Safety,0.388,True,False,0.433,Average,,0.026,Average
+Wide - Clip 123.mp4,51932,2,,DEFENSE,S,Strong Safety,0.392,True,False,0.200,Elite,,0.008,Elite
+Wide - Clip 123.mp4,51943,,,DEFENSE,CB,Deep,0.409,False,False,0.367,Average,,0.048,Average
+Wide - Clip 123.mp4,51946,14,,DEFENSE,S,Deep half,0.340,True,False,0.900,Developmental,,0.039,Below Average
+Wide - Clip 124.mp4,52184,,,DEFENSE,S,Deep half,0.267,False,False,0.400,Average,,0.066,Average
+Wide - Clip 126.mp4,52923,,,DEFENSE,LB,WILL (weak),0.107,True,False,0.333,Above Average,,,Above Average
+Wide - Clip 127.mp4,53353,57,,DEFENSE,CB,Deep,0.414,False,False,4.567,Developmental,,0.001,Below Average
+Wide - Clip 127.mp4,53293,51,,DEFENSE,S,Deep half,0.395,False,False,4.000,Developmental,,0.001,Below Average
+Wide - Clip 127.mp4,53397,75,,DEFENSE,S,Deep half,0.295,False,False,3.067,Developmental,,0.001,Below Average
+Wide - Clip 127.mp4,53410,8,,DEFENSE,CB,Deep,0.401,False,False,,,,0.002,Average
+Wide - Clip 127.mp4,53416,25,,DEFENSE,S,Deep half,0.261,False,False,0.933,Developmental,,0.011,Below Average
+Wide - Clip 127.mp4,53422,70,,DEFENSE,S,Free Safety (centerfield),0.318,True,False,,,,0.005,Average
+Wide - Clip 127.mp4,53423,65,,DEFENSE,S,Strong Safety,0.305,True,False,0.700,Developmental,,0.020,Below Average
+Wide - Clip 127.mp4,53425,55,,DEFENSE,S,Deep half,0.255,True,False,,,,0.001,Average
+Wide - Clip 128.mp4,53560,,,DEFENSE,EDGE,DE (down),0.131,False,False,0.200,Elite,0.151,,Elite
+Wide - Clip 128.mp4,53557,,,DEFENSE,CB,Deep,0.247,False,False,0.300,Above Average,,0.012,Above Average
+Wide - Clip 128.mp4,53565,80,,DEFENSE,S,Deep half,0.415,False,False,1.333,Developmental,,0.053,Below Average
+Wide - Clip 128.mp4,53651,76,,DEFENSE,S,Strong Safety,0.318,True,False,0.233,Elite,,0.046,Elite
+Wide - Clip 128.mp4,53749,41,,DEFENSE,CB,Deep,0.425,False,False,,,,,Average
+Wide - Clip 129.mp4,53950,,,DEFENSE,S,Strong Safety,0.399,True,False,0.200,Elite,,0.054,Elite
+Wide - Clip 129.mp4,54004,,,DEFENSE,S,Strong Safety,0.394,True,False,0.233,Elite,,0.054,Elite
+Wide - Clip 129.mp4,54031,,,DEFENSE,S,Strong Safety,0.402,True,False,0.167,Elite,,0.054,Elite
+Wide - Clip 129.mp4,54050,,,DEFENSE,S,Strong Safety,0.388,True,False,0.167,Elite,,0.056,Elite
+Wide - Clip 129.mp4,54092,,,DEFENSE,S,Deep half,0.374,True,False,0.267,Above Average,,0.051,Above Average
+Wide - Clip 130.mp4,54202,45,,DEFENSE,S,Deep half,0.396,False,False,0.333,Above Average,,0.050,Above Average
+Wide - Clip 130.mp4,54239,,,DEFENSE,S,Strong Safety,0.401,True,False,0.300,Above Average,,0.056,Above Average
+Wide - Clip 130.mp4,54303,,,DEFENSE,S,Deep half,0.392,True,False,0.300,Above Average,,0.048,Above Average
+Wide - Clip 130.mp4,54158,,,DEFENSE,CB,Deep,0.386,False,False,0.267,Above Average,,0.052,Above Average
+Wide - Clip 130.mp4,54365,16,,DEFENSE,S,Strong Safety,0.387,True,False,0.200,Elite,,0.057,Elite
+Wide - Clip 130.mp4,54418,,,DEFENSE,S,Deep half,0.390,False,False,0.167,Elite,,0.067,Elite
+Wide - Clip 131.mp4,54945,44,,DEFENSE,S,Deep half,0.350,False,False,0.100,Elite,,0.027,Elite
+Wide - Clip 131.mp4,55017,19,,DEFENSE,S,Strong Safety,0.397,True,False,0.200,Elite,,0.056,Elite
+Wide - Clip 131.mp4,55091,73,,DEFENSE,S,Strong Safety,0.401,True,False,0.300,Above Average,,0.019,Above Average
+Wide - Clip 131.mp4,55104,,,DEFENSE,S,Strong Safety,0.394,True,False,0.233,Elite,,0.016,Elite
+Wide - Clip 131.mp4,55109,,,DEFENSE,S,Strong Safety,0.403,True,False,0.233,Elite,,0.015,Elite
+Wide - Clip 131.mp4,55113,28,,DEFENSE,CB,Deep,0.338,False,False,0.133,Elite,,0.022,Elite
+Wide - Clip 131.mp4,55118,26,,DEFENSE,S,Free Safety (centerfield),0.384,True,False,0.200,Elite,,0.015,Elite
+Wide - Clip 131.mp4,55120,27,,DEFENSE,S,Strong Safety,0.365,True,False,0.167,Elite,,0.024,Elite
+Wide - Clip 131.mp4,55123,70,,DEFENSE,S,Strong Safety,0.399,True,False,0.167,Elite,,0.006,Elite
+Wide - Clip 131.mp4,55125,76,,DEFENSE,UNKNOWN,,0.174,False,False,,,,,Average
+Wide - Clip 132.mp4,55507,,,DEFENSE,EDGE,DE (down),0.008,False,True,0.233,Above Average,,,Above Average
+Wide - Clip 132.mp4,55513,,,DEFENSE,CB,Deep,0.231,False,False,0.133,Elite,,0.094,Elite
+Wide - Clip 132.mp4,55537,,,DEFENSE,S,Strong Safety,0.394,True,False,0.200,Elite,,0.068,Elite
+Wide - Clip 132.mp4,55543,,,DEFENSE,S,Strong Safety,0.446,True,False,0.233,Elite,,0.075,Elite
+Wide - Clip 133.mp4,56128,,,DEFENSE,UNKNOWN,,0.166,True,False,0.133,Elite,,,Elite
+Wide - Clip 133.mp4,56144,70,,DEFENSE,EDGE,DE (down),0.021,False,True,0.300,Average,,,Average
+Wide - Clip 133.mp4,56182,,,DEFENSE,LB,SAM (strong),0.087,True,False,0.200,Elite,,,Elite
+Wide - Clip 133.mp4,56232,,,DEFENSE,SLOT,Nickel/Slot,0.098,False,False,0.167,Elite,,0.013,Elite
+Wide - Clip 133.mp4,56238,,,DEFENSE,S,Strong Safety,0.240,True,False,0.167,Elite,,0.060,Elite
+Wide - Clip 133.mp4,56243,,,DEFENSE,S,Deep half,0.348,False,False,0.067,Elite,,0.016,Elite
+Wide - Clip 134.mp4,56245,19,,DEFENSE,S,Deep half,0.430,True,False,0.067,Elite,,0.050,Elite
+Wide - Clip 134.mp4,56277,,,DEFENSE,EDGE,DE (down),0.030,False,True,0.333,Average,,,Average
+Wide - Clip 134.mp4,56279,28,,DEFENSE,S,Deep half,0.309,True,False,0.500,Below Average,,0.007,Below Average
+Wide - Clip 134.mp4,56284,,,DEFENSE,UNKNOWN,,0.183,True,False,0.200,Elite,,,Elite
+Wide - Clip 134.mp4,56291,,,DEFENSE,EDGE,DE (down),0.038,False,False,0.333,Average,0.024,,Average
+Wide - Clip 134.mp4,56301,,,DEFENSE,DL,1-tech,0.017,True,True,0.267,Above Average,0.035,,Above Average
+Wide - Clip 134.mp4,56306,,,DEFENSE,EDGE,DE (down),0.017,False,True,,,,,Average
+Wide - Clip 134.mp4,56314,38,,DEFENSE,S,Free Safety (centerfield),0.428,True,False,1.100,Developmental,,0.006,Below Average
+Wide - Clip 134.mp4,56349,,,DEFENSE,DL,5-tech,0.073,True,False,0.200,Above Average,,,Above Average
+Wide - Clip 134.mp4,56350,,,DEFENSE,UNKNOWN,,0.178,True,False,,,,,Average
+Wide - Clip 135.mp4,56284,,,DEFENSE,LB,MIKE (middle),0.137,True,False,0.300,Above Average,,,Above Average
+Wide - Clip 135.mp4,56522,,,DEFENSE,CB,Deep,0.371,False,False,0.400,Average,,0.043,Average
+Wide - Clip 135.mp4,56524,14,,DEFENSE,S,Deep half,0.443,False,False,0.400,Average,,0.044,Average
+Wide - Clip 135.mp4,56538,,,DEFENSE,EDGE,OLB (up),0.030,True,False,0.200,Above Average,,,Above Average
+Wide - Clip 135.mp4,56543,,,DEFENSE,DL,3-tech,0.072,True,False,0.433,Below Average,0.067,,Below Average
+Wide - Clip 135.mp4,56552,,,DEFENSE,EDGE,DE (down),0.029,False,True,0.067,Elite,0.028,,Elite
+Wide - Clip 135.mp4,56553,,,DEFENSE,DL,5-tech,0.069,True,False,0.133,Elite,,,Elite
+Wide - Clip 135.mp4,56569,,,DEFENSE,SLOT,Nickel/Slot,0.092,False,False,0.167,Elite,,0.115,Elite
+Wide - Clip 135.mp4,56589,,,DEFENSE,DL,3-tech,0.016,True,True,0.133,Elite,,,Elite
+Wide - Clip 136.mp4,56990,,,DEFENSE,EDGE,DE (down),0.112,True,False,0.800,Developmental,0.113,,Below Average
+Wide - Clip 136.mp4,57037,38,,DEFENSE,S,Strong Safety,0.422,True,False,0.867,Developmental,,0.053,Below Average
+Wide - Clip 136.mp4,57054,,,DEFENSE,EDGE,DE (down),0.040,False,False,0.267,Above Average,0.042,,Above Average
+Wide - Clip 136.mp4,57083,,,DEFENSE,EDGE,DE (down),0.013,True,True,0.300,Above Average,,,Above Average
+Wide - Clip 137.mp4,57392,,,DEFENSE,DL,3-tech,0.001,True,True,0.133,Elite,0.053,,Elite
+Wide - Clip 137.mp4,57389,50,,DEFENSE,CB,Deep,0.164,False,False,0.167,Elite,,0.070,Elite
+Wide - Clip 137.mp4,57395,,,DEFENSE,DL,1-tech,0.023,True,True,0.100,Elite,,,Elite
+Wide - Clip 137.mp4,57422,65,,DEFENSE,CB,Deep,0.440,False,False,0.167,Elite,,0.097,Elite
+Wide - Clip 137.mp4,57471,14,,DEFENSE,S,Strong Safety,0.382,True,False,0.200,Elite,,0.070,Elite
+Wide - Clip 137.mp4,57475,,,DEFENSE,DL,5-tech,0.213,True,False,0.167,Elite,,,Elite
+Wide - Clip 137.mp4,57482,70,,DEFENSE,S,Deep half,0.274,True,False,0.200,Elite,,0.068,Elite
+Wide - Clip 137.mp4,57484,,,DEFENSE,DL,1-tech,0.163,True,False,0.333,Average,,,Average
+Wide - Clip 137.mp4,57512,,,DEFENSE,EDGE,DE (down),0.147,False,False,,,,,Average
+Wide - Clip 138.mp4,57693,14,,DEFENSE,S,Strong Safety,0.418,True,False,0.167,Elite,,0.080,Elite
+Wide - Clip 138.mp4,57718,25,,DEFENSE,CB,Deep,0.436,False,False,0.133,Elite,,0.080,Elite
+Wide - Clip 139.mp4,57902,,,DEFENSE,LB,MIKE (middle),0.084,True,False,0.367,Average,,,Average
+Wide - Clip 139.mp4,57948,,,DEFENSE,EDGE,DE (down),0.265,True,False,0.400,Average,0.253,,Above Average
+Wide - Clip 139.mp4,57959,,,DEFENSE,DL,3-tech,0.120,True,False,0.333,Average,0.120,,Average
+Wide - Clip 139.mp4,57987,,,DEFENSE,EDGE,DE (down),0.227,True,False,0.333,Average,0.230,,Above Average
+Wide - Clip 139.mp4,58040,,,DEFENSE,EDGE,DE (down),0.119,True,False,,,,,Average
+Wide - Clip 139.mp4,58047,12,,DEFENSE,S,Deep half,0.434,False,False,,,,0.001,Average
+Wide - Clip 139.mp4,58053,,,DEFENSE,EDGE,DE (down),0.024,False,True,0.100,Elite,,,Elite
+Wide - Clip 139.mp4,58067,,,DEFENSE,SLOT,Nickel/Slot,0.066,False,False,0.567,Below Average,,0.013,Below Average
+Wide - Clip 139.mp4,58073,,,DEFENSE,DL,3-tech,0.293,True,False,0.333,Average,,,Average
+Wide - Clip 139.mp4,58075,,,DEFENSE,EDGE,DE (down),0.187,False,False,0.100,Elite,0.198,,Elite
+Wide - Clip 140.mp4,58082,,,DEFENSE,EDGE,DE (down),0.207,False,False,0.700,Developmental,0.207,,Average
+Wide - Clip 140.mp4,58243,,,DEFENSE,EDGE,DE (down),0.174,False,False,0.733,Developmental,0.175,,Average
+Wide - Clip 140.mp4,58245,,,DEFENSE,EDGE,DE (down),0.062,False,False,0.567,Developmental,0.050,,Below Average
+Wide - Clip 140.mp4,58249,,,DEFENSE,LB,SAM (strong),0.122,True,False,0.300,Above Average,,,Above Average
+Wide - Clip 140.mp4,58254,,,DEFENSE,CB,Deep,0.239,False,False,0.833,Developmental,,0.015,Below Average
+Wide - Clip 140.mp4,58253,,,DEFENSE,EDGE,DE (down),0.100,False,False,0.467,Below Average,0.094,,Average
+Wide - Clip 140.mp4,58261,90,,DEFENSE,S,Deep half,0.415,False,False,,,,0.005,Average
+Wide - Clip 140.mp4,58288,,,DEFENSE,DL,3-tech,0.241,True,False,0.533,Below Average,0.242,,Average
+Wide - Clip 140.mp4,58307,,,DEFENSE,EDGE,DE (down),0.221,True,False,0.367,Average,0.231,,Above Average
+Wide - Clip 140.mp4,58312,,,DEFENSE,DL,3-tech,0.020,True,True,0.167,Elite,,,Elite
+Wide - Clip 140.mp4,58313,,,DEFENSE,DL,3-tech,0.227,True,False,0.167,Elite,0.228,,Elite
+Wide - Clip 140.mp4,58323,,,DEFENSE,S,Deep half,0.403,True,False,,,,0.001,Average
+Wide - Clip 140.mp4,58325,19,,DEFENSE,S,Strong Safety,0.423,True,False,1.500,Developmental,,0.005,Below Average
+Wide - Clip 140.mp4,58331,70,,DEFENSE,S,Free Safety (centerfield),0.417,True,False,1.167,Developmental,,0.008,Below Average
+Wide - Clip 140.mp4,58332,12,,DEFENSE,S,Deep half,0.430,True,False,,,,0.010,Average
+Wide - Clip 140.mp4,58333,70,,DEFENSE,S,Strong Safety,0.399,True,False,1.000,Developmental,,0.046,Below Average
+Wide - Clip 141.mp4,58815,57,,DEFENSE,CB,Deep,0.354,False,False,0.133,Elite,,0.042,Elite
+Wide - Clip 141.mp4,58824,21,,DEFENSE,S,Deep half,0.368,True,False,0.167,Elite,,0.012,Elite
+Wide - Clip 141.mp4,58829,26,,DEFENSE,S,Deep half,0.335,False,False,0.133,Elite,,0.023,Elite
+Wide - Clip 141.mp4,58848,6,,DEFENSE,S,Deep half,0.356,False,False,0.133,Elite,,0.044,Elite
+Wide - Clip 142.mp4,58923,,,DEFENSE,EDGE,DE (down),0.005,False,True,0.400,Average,,,Average
+Wide - Clip 142.mp4,58929,,,DEFENSE,S,Deep half,0.204,True,False,,,,,Average
+Wide - Clip 142.mp4,58937,,,DEFENSE,EDGE,DE (down),0.017,True,True,0.167,Elite,,,Elite
+Wide - Clip 142.mp4,58966,,,DEFENSE,S,Strong Safety,0.227,True,False,0.167,Elite,,0.016,Elite
+Wide - Clip 142.mp4,58978,76,,DEFENSE,S,Strong Safety,0.399,True,False,1.400,Developmental,,0.006,Below Average
+Wide - Clip 143.mp4,59133,,,DEFENSE,EDGE,DE (down),0.128,False,False,0.133,Elite,,,Elite
+Wide - Clip 143.mp4,59157,,,DEFENSE,DL,5-tech,0.125,True,False,0.400,Average,0.109,,Average
+Wide - Clip 143.mp4,59162,,,DEFENSE,EDGE,DE (down),0.024,False,True,0.800,Developmental,0.032,,Below Average
+Wide - Clip 143.mp4,59173,,,DEFENSE,LB,SAM (strong),0.141,True,False,0.533,Below Average,,,Below Average
+Wide - Clip 143.mp4,59237,,,DEFENSE,EDGE,DE (down),0.093,False,False,0.267,Above Average,0.090,,Above Average
+Wide - Clip 143.mp4,59262,,,DEFENSE,DL,5-tech,0.139,True,False,0.567,Developmental,,,Below Average
+Wide - Clip 143.mp4,59268,,,DEFENSE,EDGE,DE (down),0.145,True,False,0.200,Elite,,,Elite
+Wide - Clip 144.mp4,59315,,,DEFENSE,EDGE,DE (down),0.150,True,False,0.233,Above Average,,,Above Average
+Wide - Clip 144.mp4,59441,,,DEFENSE,EDGE,DE (down),0.133,False,False,0.300,Above Average,,,Above Average
+Wide - Clip 144.mp4,59461,,,DEFENSE,EDGE,DE (down),0.028,False,True,0.033,Elite,0.032,,Elite
+Wide - Clip 144.mp4,59470,,,DEFENSE,EDGE,DE (down),0.118,False,False,0.333,Average,,,Average
+Wide - Clip 144.mp4,59475,,,DEFENSE,LB,WILL (weak),0.077,True,False,0.067,Elite,,,Elite
+Wide - Clip 144.mp4,59489,,,DEFENSE,LB,SAM (strong),0.039,True,False,0.067,Elite,,,Elite
+Wide - Clip 144.mp4,59497,,,DEFENSE,LB,WILL (weak),0.035,True,False,0.167,Elite,,,Elite
+Wide - Clip 144.mp4,59501,,,DEFENSE,DL,3-tech,0.133,True,False,0.133,Elite,0.144,,Elite
+Wide - Clip 145.mp4,59778,54,,DEFENSE,DL,0-tech (Nose),0.228,True,False,0.200,Elite,0.215,,Elite
+Wide - Clip 145.mp4,59842,,,DEFENSE,S,Deep half,0.418,False,False,0.433,Average,,0.026,Average
+Wide - Clip 145.mp4,59893,,,DEFENSE,CB,Deep,0.402,False,False,,,,0.002,Average
+Wide - Clip 145.mp4,59894,33,,DEFENSE,S,Deep half,0.407,True,False,0.633,Below Average,,0.021,Below Average
+Wide - Clip 145.mp4,59913,70,,DEFENSE,S,Strong Safety,0.326,True,False,0.233,Elite,,0.029,Elite
+Wide - Clip 145.mp4,59916,55,,DEFENSE,S,Free Safety (centerfield),0.422,True,False,,,,0.001,Average
+Wide - Clip 145.mp4,59920,68,,DEFENSE,S,Strong Safety,0.412,True,False,0.233,Elite,,0.033,Elite
+Wide - Clip 146.mp4,60164,51,,DEFENSE,S,Deep half,0.400,False,False,0.133,Elite,,0.032,Elite
+Wide - Clip 146.mp4,60316,,,DEFENSE,EDGE,DE (down),0.017,False,True,0.133,Elite,,,Elite
+Wide - Clip 146.mp4,60317,,,DEFENSE,EDGE,DE (down),0.029,True,True,0.200,Above Average,,,Above Average
+Wide - Clip 146.mp4,60328,6,,DEFENSE,S,Deep half,0.393,True,False,0.167,Elite,,0.029,Elite
+Wide - Clip 146.mp4,60331,,,DEFENSE,UNKNOWN,,0.192,True,False,0.167,Elite,,,Elite
+Wide - Clip 146.mp4,60336,,,DEFENSE,LB,SAM (strong),0.030,True,False,0.133,Elite,,,Elite
+Wide - Clip 146.mp4,60348,,,DEFENSE,LB,MIKE (middle),0.078,True,False,0.167,Elite,,,Elite
+Wide - Clip 146.mp4,60353,70,,DEFENSE,S,Deep half,0.403,False,False,1.033,Developmental,,0.057,Below Average
+Wide - Clip 146.mp4,60355,25,,DEFENSE,S,Deep half,0.402,True,False,0.133,Elite,,0.104,Elite
+Wide - Clip 146.mp4,60364,,,DEFENSE,S,Strong Safety,0.242,True,False,0.233,Elite,,0.018,Elite
+Wide - Clip 147.mp4,60403,,,DEFENSE,EDGE,DE (down),0.150,False,False,0.100,Elite,0.125,,Elite
+Wide - Clip 147.mp4,60442,,,DEFENSE,DL,5-tech,0.168,True,False,0.267,Above Average,0.149,,Above Average
+Wide - Clip 147.mp4,60506,,,DEFENSE,EDGE,DE (down),0.152,False,False,0.167,Elite,0.113,,Elite
+Wide - Clip 147.mp4,60543,,,DEFENSE,EDGE,OLB (up),0.038,False,False,0.167,Elite,,,Elite
+Wide - Clip 147.mp4,60577,,,DEFENSE,DL,1-tech,0.174,True,False,0.433,Below Average,0.152,,Average
+Wide - Clip 147.mp4,60580,,,DEFENSE,UNKNOWN,,0.189,False,False,0.367,Average,,,Average
+Wide - Clip 147.mp4,60596,,,DEFENSE,EDGE,DE (down),0.013,False,True,0.467,Below Average,,,Below Average
+Wide - Clip 147.mp4,60628,,,DEFENSE,LB,WILL (weak),0.146,True,False,0.067,Elite,,,Elite
+Wide - Clip 147.mp4,60629,,,DEFENSE,EDGE,DE (down),0.148,True,False,0.133,Elite,,,Elite
+Wide - Clip 148.mp4,61061,43,,DEFENSE,S,Deep half,0.401,True,False,0.133,Elite,,0.156,Elite
+Wide - Clip 148.mp4,61152,,,DEFENSE,DL,3-tech,0.077,True,False,0.100,Elite,,,Elite
+Wide - Clip 148.mp4,61160,70,,DEFENSE,S,Deep half,0.422,False,False,0.200,Elite,,0.152,Elite
+Wide - Clip 148.mp4,61170,,,DEFENSE,CB,Off (5-7 yards),0.117,False,False,0.100,Elite,,0.059,Elite
+Wide - Clip 148.mp4,61180,,,DEFENSE,LB,WILL (weak),0.114,True,False,0.133,Elite,,,Elite
+Wide - Clip 149.mp4,61529,,,DEFENSE,UNKNOWN,,0.158,True,False,0.167,Elite,,,Elite
+Wide - Clip 149.mp4,61533,,,DEFENSE,EDGE,DE (down),0.023,True,True,0.200,Above Average,0.026,,Above Average
+Wide - Clip 149.mp4,61543,,,DEFENSE,DL,5-tech,0.004,True,True,0.100,Elite,,,Elite
+Wide - Clip 149.mp4,61610,,,DEFENSE,UNKNOWN,,0.174,True,False,0.167,Elite,,,Elite
+Wide - Clip 149.mp4,61632,,,DEFENSE,EDGE,DE (down),0.167,False,False,0.200,Above Average,,,Above Average
+Wide - Clip 149.mp4,61635,5,,DEFENSE,S,Deep half,0.378,True,False,0.033,Elite,,0.083,Elite
+Wide - Clip 149.mp4,61638,57,,DEFENSE,S,Deep half,0.420,False,False,0.200,Elite,,0.076,Elite
+Wide - Clip 149.mp4,61645,2,,DEFENSE,CB,Deep,0.426,False,False,0.700,Developmental,,0.044,Below Average
+Wide - Clip 151.mp4,62709,,,DEFENSE,CB,Deep,0.394,False,False,0.733,Developmental,,0.011,Below Average
+Wide - Clip 151.mp4,62740,10,,DEFENSE,EDGE,DE (down),0.053,True,False,0.233,Above Average,0.033,,Above Average
+Wide - Clip 151.mp4,62758,39,,DEFENSE,S,Deep half,0.397,True,False,0.333,Above Average,,0.069,Above Average
+Wide - Clip 151.mp4,62761,73,,DEFENSE,CB,Deep,0.439,False,False,0.500,Average,,0.078,Average
+Wide - Clip 151.mp4,62780,70,,DEFENSE,S,Deep half,0.418,True,False,0.333,Above Average,,0.034,Above Average
+Wide - Clip 152.mp4,63258,,,DEFENSE,CB,Deep,0.269,False,False,0.233,Elite,,0.072,Elite
+Wide - Clip 152.mp4,63393,,,DEFENSE,CB,Deep,0.271,False,False,0.200,Elite,,0.071,Elite
+Wide - Clip 152.mp4,63500,,,DEFENSE,S,Deep half,0.243,False,False,0.267,Above Average,,0.010,Above Average
+Wide - Clip 152.mp4,63523,,,DEFENSE,S,Deep half,0.239,False,False,0.233,Elite,,0.062,Elite
+Wide - Clip 152.mp4,63582,,,DEFENSE,S,Deep half,0.248,True,False,0.233,Elite,,0.026,Elite
+Wide - Clip 153.mp4,63817,,,DEFENSE,S,Deep half,0.250,False,False,0.233,Elite,,0.030,Elite
+Wide - Clip 153.mp4,63650,,,DEFENSE,CB,Deep,0.246,False,False,0.233,Elite,,0.030,Elite
+Wide - Clip 153.mp4,63914,,,DEFENSE,S,Deep half,0.230,False,False,0.300,Above Average,,0.033,Above Average
+Wide - Clip 153.mp4,64013,,,DEFENSE,CB,Deep,0.228,False,False,0.433,Average,,0.023,Average
+Wide - Clip 153.mp4,64056,28,,DEFENSE,S,Deep half,0.398,False,False,0.900,Developmental,,0.014,Below Average
+Wide - Clip 153.mp4,64065,14,,DEFENSE,S,Deep half,0.263,True,False,,,,0.000,Average
+Wide - Clip 153.mp4,64069,88,,DEFENSE,S,Deep half,0.276,True,False,0.300,Above Average,,0.024,Above Average
+Wide - Clip 153.mp4,64080,57,,DEFENSE,CB,Deep,0.408,False,False,1.433,Developmental,,0.004,Below Average
+Wide - Clip 153.mp4,64083,26,,DEFENSE,S,Deep half,0.411,False,False,1.033,Developmental,,0.010,Below Average
+Wide - Clip 154.mp4,64373,,,DEFENSE,S,Deep half,0.311,True,False,1.233,Developmental,,0.006,Below Average
+Wide - Clip 154.mp4,64376,,,DEFENSE,S,Deep half,0.380,False,False,0.267,Above Average,,0.020,Above Average
+Wide - Clip 154.mp4,64375,88,,DEFENSE,S,Strong Safety,0.312,True,False,1.033,Developmental,,0.010,Below Average
+Wide - Clip 154.mp4,64390,,,DEFENSE,S,Strong Safety,0.312,True,False,1.100,Developmental,,0.006,Below Average
+Wide - Clip 154.mp4,64458,,,DEFENSE,S,Deep half,0.296,False,False,1.333,Developmental,,0.005,Below Average
+Wide - Clip 154.mp4,64459,,,DEFENSE,S,Strong Safety,0.285,True,False,0.933,Developmental,,0.014,Below Average
+Wide - Clip 154.mp4,64490,35,,DEFENSE,S,Free Safety (centerfield),0.298,True,False,,,,,Average
+Wide - Clip 155.mp4,64597,5,,DEFENSE,S,Strong Safety,0.395,True,False,0.400,Average,,0.027,Average
+Wide - Clip 155.mp4,64689,88,,DEFENSE,S,Free Safety (centerfield),0.419,True,False,0.500,Below Average,,0.014,Below Average
+Wide - Clip 155.mp4,64727,79,,DEFENSE,DL,3-tech,0.161,True,False,0.300,Average,0.152,,Above Average
+Wide - Clip 155.mp4,64737,70,,DEFENSE,S,Free Safety (centerfield),0.387,True,False,0.300,Above Average,,0.039,Above Average
+Wide - Clip 155.mp4,64736,68,,DEFENSE,S,Free Safety (centerfield),0.410,True,False,1.367,Developmental,,0.010,Below Average
+Wide - Clip 156.mp4,64859,,,DEFENSE,S,Deep half,0.260,False,False,0.300,Above Average,,0.043,Above Average
+Wide - Clip 156.mp4,64874,,,DEFENSE,CB,Deep,0.167,False,False,0.233,Elite,,0.055,Elite
+Wide - Clip 156.mp4,64878,18,,DEFENSE,CB,Deep,0.402,False,False,0.233,Elite,,0.056,Elite
+Wide - Clip 156.mp4,64938,,,DEFENSE,S,Strong Safety,0.336,True,False,0.167,Elite,,0.048,Elite
+Wide - Clip 156.mp4,64993,,,DEFENSE,DL,5-tech,0.031,True,False,0.300,Above Average,0.027,,Above Average
+Wide - Clip 156.mp4,65001,,,DEFENSE,DL,5-tech,0.002,True,True,0.133,Elite,,,Elite
+Wide - Clip 156.mp4,65000,,,DEFENSE,CB,Deep,0.292,False,False,0.467,Average,,0.025,Average
+Wide - Clip 156.mp4,65004,,,DEFENSE,S,Deep half,0.254,True,False,0.200,Elite,,0.048,Elite
+Wide - Clip 156.mp4,65005,,,DEFENSE,CB,Deep,0.250,False,False,0.233,Elite,,0.059,Elite
+Wide - Clip 156.mp4,65008,,,DEFENSE,EDGE,DE (down),0.111,False,False,,,,,Average
+Wide - Clip 156.mp4,65011,,,DEFENSE,DL,0-tech (Nose),0.167,True,False,0.400,Average,0.163,,Above Average
+Wide - Clip 156.mp4,65016,,,DEFENSE,DL,3-tech,0.145,True,False,0.467,Below Average,,,Below Average
+Wide - Clip 156.mp4,65021,,,DEFENSE,DL,1-tech,0.151,True,False,0.700,Developmental,,,Below Average
+Wide - Clip 156.mp4,65025,,,DEFENSE,DL,0-tech (Nose),0.171,True,False,0.233,Above Average,,,Above Average
+Wide - Clip 156.mp4,65026,46,,DEFENSE,CB,Deep,0.432,False,False,1.067,Developmental,,0.003,Below Average
+Wide - Clip 157.mp4,65145,29,,DEFENSE,S,Free Safety (centerfield),0.366,True,False,0.567,Below Average,,0.010,Below Average
+Wide - Clip 157.mp4,65161,5,,DEFENSE,S,Strong Safety,0.360,True,False,,,,0.007,Average
+Wide - Clip 157.mp4,65171,14,,DEFENSE,S,Strong Safety,0.384,True,False,,,,,Average
+Wide - Clip 158.mp4,65346,74,,DEFENSE,S,Free Safety (centerfield),0.384,True,False,0.100,Elite,,0.090,Elite
+Wide - Clip 158.mp4,65345,20,,DEFENSE,S,Deep half,0.400,False,False,0.600,Below Average,,0.066,Below Average
+Wide - Clip 158.mp4,65389,19,,DEFENSE,S,Deep half,0.399,False,False,0.100,Elite,,0.059,Elite
+Wide - Clip 158.mp4,65638,12,,DEFENSE,S,Strong Safety,0.421,True,False,0.067,Elite,,0.122,Elite
+Wide - Clip 159.mp4,65853,,,DEFENSE,DL,0-tech (Nose),0.112,True,False,0.533,Below Average,0.111,,Average
+Wide - Clip 159.mp4,65944,27,,DEFENSE,S,Strong Safety,0.411,True,False,,,,0.001,Average
+Wide - Clip 159.mp4,65998,,,DEFENSE,DL,3-tech,0.174,True,False,0.267,Above Average,0.207,,Elite
+Wide - Clip 159.mp4,66002,3,,DEFENSE,S,Deep half,0.347,True,False,,,,0.001,Average
+Wide - Clip 159.mp4,66004,2,,DEFENSE,S,Strong Safety,0.426,True,False,,,,0.001,Average
+Wide - Clip 159.mp4,66012,,,DEFENSE,EDGE,DE (down),0.107,True,False,0.700,Developmental,0.099,,Below Average
+Wide - Clip 159.mp4,66020,,,DEFENSE,EDGE,DE (down),0.149,False,False,0.633,Developmental,0.153,,Average
+Wide - Clip 159.mp4,66022,,,DEFENSE,EDGE,DE (down),0.209,True,False,0.167,Elite,0.278,,Elite
+Wide - Clip 160.mp4,66173,14,,DEFENSE,S,Free Safety (centerfield),0.398,True,False,0.167,Elite,,0.065,Elite
+Wide - Clip 160.mp4,66297,19,,DEFENSE,S,Strong Safety,0.371,True,False,0.200,Elite,,0.049,Elite
+Wide - Clip 160.mp4,66384,,,DEFENSE,S,Free Safety (centerfield),0.391,True,False,0.200,Elite,,0.034,Elite
+Wide - Clip 160.mp4,66405,,,DEFENSE,CB,Deep,0.423,False,False,,,,0.007,Average
+Wide - Clip 160.mp4,66408,,,DEFENSE,CB,Deep,0.422,False,False,0.133,Elite,,0.024,Elite
+Wide - Clip 160.mp4,66409,,,DEFENSE,CB,Deep,0.421,False,False,0.133,Elite,,0.025,Elite
+Wide - Clip 160.mp4,66415,,,DEFENSE,S,Deep half,0.437,False,False,0.200,Elite,,0.130,Elite
+Wide - Clip 160.mp4,66423,2,,DEFENSE,S,Strong Safety,0.372,True,False,0.367,Average,,0.055,Average
+Wide - Clip 161.mp4,66879,,,DEFENSE,S,Deep half,0.340,False,False,0.133,Elite,,0.038,Elite
+Wide - Clip 161.mp4,66894,43,,DEFENSE,S,Strong Safety,0.313,True,False,0.133,Elite,,0.065,Elite
+Wide - Clip 161.mp4,66931,28,,DEFENSE,S,Strong Safety,0.305,True,False,0.167,Elite,,0.057,Elite
+Wide - Clip 162.mp4,67078,,,DEFENSE,CB,Deep,0.324,False,False,0.600,Below Average,,0.015,Below Average
+Wide - Clip 162.mp4,67080,,,DEFENSE,DL,0-tech (Nose),0.128,True,False,0.367,Average,0.117,,Average
+Wide - Clip 162.mp4,67083,,,DEFENSE,LB,SAM (strong),0.099,True,False,0.067,Elite,,,Elite
+Wide - Clip 162.mp4,67087,,,DEFENSE,EDGE,DE (down),0.080,True,False,0.133,Elite,0.052,,Elite
+Wide - Clip 162.mp4,67081,,,DEFENSE,EDGE,OLB (up),0.048,False,False,0.333,Average,,,Average
+Wide - Clip 162.mp4,67089,,,DEFENSE,DL,0-tech (Nose),0.030,True,True,0.100,Elite,0.000,,Elite
+Wide - Clip 162.mp4,67093,,,DEFENSE,EDGE,DE (down),0.180,False,False,0.100,Elite,,,Elite
+Wide - Clip 162.mp4,67090,,,DEFENSE,EDGE,DE (down),0.182,False,False,0.367,Average,0.176,,Above Average
+Wide - Clip 162.mp4,67111,,,DEFENSE,S,Strong Safety,0.421,True,False,0.133,Elite,,0.056,Elite
+Wide - Clip 162.mp4,67202,,,DEFENSE,EDGE,DE (down),0.169,True,False,0.500,Below Average,,,Below Average
+Wide - Clip 162.mp4,67225,,,DEFENSE,S,Deep half,0.422,False,False,0.133,Elite,,0.050,Elite
+Wide - Clip 162.mp4,67227,,,DEFENSE,S,Strong Safety,0.389,True,False,0.433,Average,,0.010,Average
+Wide - Clip 162.mp4,67235,,,DEFENSE,DL,0-tech (Nose),0.216,True,False,0.367,Average,0.208,,Above Average
+Wide - Clip 162.mp4,67239,,,DEFENSE,S,Strong Safety,0.335,True,False,0.233,Elite,,0.044,Elite
+Wide - Clip 162.mp4,67249,,,DEFENSE,DL,0-tech (Nose),0.196,True,False,0.367,Average,0.185,,Above Average
+Wide - Clip 162.mp4,67252,,,DEFENSE,EDGE,DE (down),0.197,False,False,0.333,Average,,,Average
+Wide - Clip 162.mp4,67256,,,DEFENSE,S,Deep half,0.337,False,False,0.333,Above Average,,0.030,Above Average
+Wide - Clip 162.mp4,67262,,,DEFENSE,DL,3-tech,0.096,True,False,0.300,Above Average,,,Above Average
+Wide - Clip 162.mp4,67261,,,DEFENSE,EDGE,DE (down),0.223,False,False,0.167,Elite,0.221,,Elite
+Wide - Clip 162.mp4,67268,,,DEFENSE,S,Strong Safety,0.360,True,False,0.167,Elite,,0.046,Elite
+Wide - Clip 163.mp4,67540,,,DEFENSE,S,Free Safety (centerfield),0.232,True,False,0.367,Average,,0.123,Above Average
+Wide - Clip 163.mp4,67654,,,DEFENSE,S,Free Safety (centerfield),0.333,True,False,0.133,Elite,,0.055,Elite
+Wide - Clip 163.mp4,67760,,,DEFENSE,CB,Off (5-7 yards),0.118,False,False,0.700,Developmental,,0.046,Below Average
+Wide - Clip 163.mp4,67770,,,DEFENSE,LB,SAM (strong),0.126,True,False,,,,,Average
+Wide - Clip 163.mp4,67773,70,,DEFENSE,S,Free Safety (centerfield),0.276,True,False,0.300,Above Average,,0.046,Above Average
+Wide - Clip 163.mp4,67778,,,DEFENSE,EDGE,DE (down),0.028,False,True,0.167,Elite,0.047,,Elite
+Wide - Clip 164.mp4,67836,,,DEFENSE,S,Strong Safety,0.225,True,False,0.400,Average,,0.031,Average
+Wide - Clip 164.mp4,67985,68,,DEFENSE,S,Deep half,0.335,False,False,0.367,Average,,0.034,Average
+Wide - Clip 164.mp4,67990,26,,DEFENSE,S,Deep half,0.337,True,False,0.400,Average,,0.042,Average
+Wide - Clip 164.mp4,68089,,,DEFENSE,S,Deep half,0.204,True,False,0.400,Average,,0.033,Average
+Wide - Clip 165.mp4,68324,,,DEFENSE,S,Free Safety (centerfield),0.364,True,False,0.200,Elite,,0.055,Elite
+Wide - Clip 165.mp4,68403,,,DEFENSE,S,Strong Safety,0.387,True,False,0.233,Elite,,0.053,Elite
+Wide - Clip 165.mp4,68473,,,DEFENSE,CB,Deep,0.370,False,False,0.133,Elite,,0.067,Elite
+Wide - Clip 165.mp4,68493,,,DEFENSE,S,Strong Safety,0.377,True,False,0.200,Elite,,0.054,Elite
+Wide - Clip 165.mp4,68517,45,,DEFENSE,S,Strong Safety,0.359,True,False,0.167,Elite,,0.077,Elite
+Wide - Clip 166.mp4,69429,2,,DEFENSE,LB,SAM (strong),0.072,True,False,0.333,Above Average,,,Above Average
+Wide - Clip 166.mp4,69432,46,,DEFENSE,S,Deep half,0.437,True,False,0.167,Elite,,0.046,Elite
+Wide - Clip 166.mp4,69433,87,,DEFENSE,S,Strong Safety,0.417,True,False,0.300,Above Average,,0.052,Above Average
+Wide - Clip 166.mp4,69438,,,DEFENSE,LB,SAM (strong),0.053,True,False,,,,,Average
+Wide - Clip 167.mp4,69704,14,,DEFENSE,S,Deep half,0.386,True,False,0.133,Elite,,0.037,Elite
+Wide - Clip 167.mp4,69744,43,,DEFENSE,S,Deep half,0.403,False,False,0.100,Elite,,0.031,Elite
+Wide - Clip 167.mp4,69751,,,DEFENSE,S,Deep half,0.399,False,False,0.467,Average,,0.030,Average
+Wide - Clip 167.mp4,69784,,,DEFENSE,CB,Deep,0.367,False,False,0.433,Average,,0.027,Average
+Wide - Clip 167.mp4,69827,68,,DEFENSE,CB,Deep,0.382,False,False,0.367,Average,,0.022,Average
+Wide - Clip 167.mp4,69833,57,,DEFENSE,S,Strong Safety,0.426,True,False,0.267,Above Average,,0.014,Above Average
+Wide - Clip 167.mp4,69838,3,,DEFENSE,EDGE,DE (down),0.082,False,False,0.200,Elite,,,Elite
+Wide - Clip 168.mp4,70030,,,DEFENSE,EDGE,DE (down),0.058,False,False,0.133,Elite,0.037,,Elite
+Wide - Clip 168.mp4,70141,2,,DEFENSE,S,Deep half,0.365,False,False,0.233,Elite,,0.047,Elite
+Wide - Clip 168.mp4,70177,,,DEFENSE,EDGE,DE (down),0.028,True,True,0.167,Elite,,,Elite
+Wide - Clip 168.mp4,70189,,,DEFENSE,EDGE,DE (down),0.052,False,False,0.200,Elite,0.068,,Elite
+Wide - Clip 168.mp4,70196,57,,DEFENSE,S,Deep half,0.399,False,False,0.100,Elite,,0.021,Elite
+Wide - Clip 168.mp4,70212,57,,DEFENSE,S,Strong Safety,0.388,True,False,0.200,Elite,,0.071,Elite
+Wide - Clip 169.mp4,70141,27,,DEFENSE,S,Strong Safety,0.368,True,False,0.133,Elite,,0.087,Elite
+Wide - Clip 169.mp4,70541,18,,DEFENSE,S,Deep half,0.388,False,False,0.233,Elite,,0.081,Elite
+Wide - Clip 169.mp4,70578,46,,DEFENSE,S,Free Safety (centerfield),0.354,True,False,,,,0.003,Average
+Wide - Clip 169.mp4,70580,55,,DEFENSE,S,Strong Safety,0.398,True,False,0.167,Elite,,0.030,Elite
+Wide - Clip 169.mp4,70587,57,,DEFENSE,S,Deep half,0.392,False,False,0.333,Above Average,,0.052,Above Average
+Wide - Clip 169.mp4,70599,52,,DEFENSE,S,Strong Safety,0.367,True,False,0.133,Elite,,0.092,Elite
+Wide - Clip 169.mp4,70601,19,,DEFENSE,S,Deep half,0.358,True,False,0.133,Elite,,0.153,Elite
+Wide - Clip 169.mp4,70606,28,,DEFENSE,CB,Deep,0.403,False,False,0.267,Above Average,,0.051,Above Average
+Wide - Clip 169.mp4,70605,16,,DEFENSE,CB,Deep,0.401,False,False,,,,0.001,Average
+Wide - Clip 169.mp4,70628,43,,DEFENSE,CB,Deep,0.425,False,False,,,,0.000,Average
+Wide - Clip 170.mp4,70957,51,,DEFENSE,S,Free Safety (centerfield),0.296,True,False,0.167,Elite,,0.015,Elite
+Wide - Clip 170.mp4,70981,,,DEFENSE,S,Strong Safety,0.304,True,False,0.967,Developmental,,0.010,Below Average
+Wide - Clip 170.mp4,71026,,,DEFENSE,S,Strong Safety,0.281,True,False,0.200,Elite,,0.012,Elite
+Wide - Clip 170.mp4,71059,,,DEFENSE,S,Deep half,0.264,False,False,0.233,Elite,,0.011,Elite
+Wide - Clip 170.mp4,71084,5,,DEFENSE,S,Free Safety (centerfield),0.286,True,False,0.167,Elite,,0.014,Elite
+Wide - Clip 170.mp4,71101,92,,DEFENSE,S,Free Safety (centerfield),0.289,True,False,,,,0.009,Average
+Wide - Clip 172.mp4,73456,,,DEFENSE,UNKNOWN,,0.189,False,False,,,,,Average
+Wide - Clip 172.mp4,73460,,,DEFENSE,UNKNOWN,,0.178,False,False,0.133,Elite,,,Elite
+Wide - Clip 172.mp4,73482,,,DEFENSE,S,Deep half,0.380,False,False,,,,0.001,Average
+Wide - Clip 172.mp4,73488,,,DEFENSE,S,Free Safety (centerfield),0.366,True,False,,,,,Average
+Wide - Clip 173.mp4,74110,,,DEFENSE,S,Free Safety (centerfield),0.343,True,False,0.633,Below Average,,0.039,Below Average
+Wide - Clip 174.mp4,75029,,,DEFENSE,CB,Deep,0.388,False,False,,,,0.002,Average
+Wide - Clip 174.mp4,75033,,,DEFENSE,CB,Deep,0.390,False,False,0.067,Elite,,0.033,Elite

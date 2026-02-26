@@ -1,0 +1,47 @@
+Metric,Value
+report_type,Third & 20 Season Analytics Summary
+total_games,10
+total_plays,6791
+,
+=== ALL GAMES INCL HOBAN ===,
+brush_total_plays,6768
+brush_avg_sdi,6504.283
+brush_avg_first_step,0.336
+brush_avg_recognition,0.572
+brush_elite_pct,9.900
+opponent_total_plays,23
+opponent_avg_sdi,7337.783
+opponent_avg_first_step,0.404
+opponent_avg_recognition,0.639
+opponent_elite_pct,43.478
+opponents_avg_box_count,3.260
+opponents_blitz_tendency_pct,37.830
+opponents_most_common_coverage,Cover 3
+opponents_most_common_front,3-4
+,
+=== WITHOUT HOBAN ===,
+games_without_hoban,9
+brush_plays_no_hoban,6060
+brush_avg_sdi_no_hoban,6445.604
+brush_avg_first_step_no_hoban,0.359
+brush_avg_recognition_no_hoban,0.578
+brush_elite_pct_no_hoban,10.033
+opponent_plays_no_hoban,20
+opponent_avg_sdi_no_hoban,7206.250
+opponent_avg_first_step_no_hoban,0.453
+opponent_avg_recognition_no_hoban,0.660
+opponent_elite_pct_no_hoban,40.000
+opponents_avg_box_count_no_hoban,3.337
+opponents_blitz_pct_no_hoban,38.921
+,
+=== HOBAN GAME ONLY ===,
+brush_plays_hoban,708
+brush_avg_sdi_hoban,7006.535
+brush_avg_first_step_hoban,0.164
+brush_elite_pct_hoban,8.757
+hoban_plays,3
+hoban_avg_sdi,8214.667
+hoban_avg_first_step,0.178
+hoban_elite_pct,66.667
+hoban_defense_box_count,2.596
+hoban_defense_blitz_pct,28.369

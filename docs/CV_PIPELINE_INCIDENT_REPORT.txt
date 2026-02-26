@@ -1,0 +1,240 @@
+﻿________________
+
+
+THIRD & 20 — CV PIPELINE INCIDENT REPORT
+Subject: Why the project appeared “weeks behind,” what was actually wrong, and how it was resolved
+Status: Architecture corrected; no new code written yet
+Prepared: Pre-drive capture (as requested)
+________________
+
+
+1. What triggered the incident
+You were mid-refactor adding a neutral, physics-first analysis layer to the existing CV/OCR football pipeline.
+While doing this, Claude (Cowork / Code) produced a plan that:
+* Added weeks of new work
+
+* Proposed building new CV detectors (fronts, shells, box counts)
+
+* Treated already-solved geometry as unsolved perception problems
+
+* Reframed the issue as “missing features” instead of a state-ordering bug
+
+This directly contradicted:
+   * What the system already computes
+
+   * What you and I had already aligned on architecturally
+
+This raised a red flag: something fundamental was being misunderstood.
+________________
+
+
+2. What Claude said the problem was (and why that was wrong)
+Claude’s explanation (summarized and quoted from your uploaded file) claimed:
+      * The CV pipeline only produces movement metrics (SDI)
+
+      * It cannot produce “real football stats” like tackles, sacks, PBUs
+
+      * The “gap” was outcome detection, which had been deprioritized
+
+      * Therefore, the fix required:
+
+         * new CV models
+
+         * pose estimation
+
+         * ball-carrier outcome classifiers
+
+         * significant additional work 
+
+Why this was 
+incorrect in context
+Claude conflated two different problems:
+            1. Outcome detection gap (real, known, explicitly out-of-scope for this refactor)
+
+            2. Ego-state leakage and circular inference (the actual blocker you were dealing with)
+
+You were not trying to:
+               * auto-generate tackle stats right now
+
+               * replace DC stat sheets in this refactor
+
+               * build PFF-level outcome classifiers yet
+
+You were trying to:
+                  * remove team-centric assumptions
+
+                  * stop recomputing solved geometry
+
+                  * fix ordering so neutral metrics behave correctly
+
+Claude diagnosed the wrong layer.
+________________
+
+
+3. What the system ACTUALLY already does (ground truth)
+This part matters, because it proves the refactor is small, not weeks long.
+The pipeline already produces:
+                     * Per-frame player tracking (positions, velocities)
+
+                     * Team identification via jersey color
+
+                     * Jersey number OCR linked to rosters
+
+                     * Snap timing and motion segmentation
+
+                     * SDI / cognitive metrics (reaction latency, first step timing, etc.)
+
+The pipeline already supports (but was misordered):
+                        * LOS estimation from formation geometry
+
+                        * Pre-snap structure metrics (box, front, shell) as pure geometry
+
+                        * Team-agnostic tracking of all players on the field
+
+The pipeline does NOT yet produce (and everyone agrees on this):
+                           * Tackles
+
+                           * Missed tackles
+
+                           * Sacks
+
+                           * PBUs
+
+                           * Traditional defensive stat sheets without manual entry
+
+That outcome layer is real work, but it was not the subject of this refactor  .
+________________
+
+
+4. The REAL problem (what was actually broken)
+The actual issue was ordering and state leakage, not missing capability.
+Specifically:
+                              1. LOS was computed as a side effect of team classification
+
+                                 * Not stored
+
+                                 * Immediately used to label offense/defense
+
+                                    2. Offense/defense was inferred using camera-relative Y
+
+                                       * “Higher Y = defense”
+
+                                       * Assumes end-zone camera + fixed orientation
+
+                                          3. Home team was sometimes hardcoded as offense
+
+                                             * Flatly wrong for half of possessions
+
+                                                4. LOS was later re-estimated using offense/defense lists
+
+                                                   * Circular dependency
+
+                                                      5. No explicit PlayState existed
+
+                                                         * No possession_team_id
+
+                                                         * No drive_dir
+
+                                                         * Direction baked implicitly into camera coordinates
+
+Result:
+                                                            * Perspective bugs
+
+                                                            * Quarter-switch errors
+
+                                                            * “Feels conceptual” issues that were actually mechanical
+
+                                                            * Agents thinking the system was missing features when it wasn’t
+
+________________
+
+
+5. Why Claude’s plan added “weeks”
+Because it:
+                                                               * Treated derived metrics (front/shell/box) as new CV problems
+
+                                                               * Ignored that player positions already exist
+
+                                                               * Tried to add work instead of remove circular logic
+
+                                                               * Optimized for “completeness” instead of critical path
+
+In short: it solved problems you don’t have and skipped the one you did.
+________________
+
+
+6. The fix (what actually resolves everything)
+One missing keystone: 
+PlayState
+The entire system snaps into place by adding one canonical object and enforcing order.
+@dataclass
+class PlayState:
+    play_id: str
+    los_x: float
+    possession_team_id: str
+    drive_dir: int   # +1 or -1 along field axis
+    confidence: float
+Correct order of operations (final, authoritative)
+                                                                  1. Track players → field coordinates
+
+                                                                  2. Segment plays (snap detection)
+
+                                                                  3. Compute LOS from formation geometry → store it
+
+                                                                  4. Infer possession_team_id
+
+                                                                  5. Infer drive_dir from early post-snap Δx
+
+                                                                  6. Construct PlayState
+
+                                                                  7. Derive offense/defense from PlayState
+
+                                                                  8. Compute pre-snap metrics (geometry only)
+
+                                                                  9. Compute post-snap dynamics (optional)
+
+                                                                  10. Apply team perspective only in presentation
+
+Key invariant
+No metric runs without PlayState.
+This:
+                                                                     * Removes ego-state leakage
+
+                                                                     * Eliminates circular dependencies
+
+                                                                     * Makes quarters, camera orientation, and “home/away” irrelevant
+
+                                                                     * Turns box/front/shell into O(n) geometry (as they always should have been)
+
+________________
+
+
+7. What was NOT done yet (important for accuracy)
+                                                                        * ❌ No new coding performed yet
+
+                                                                        * ❌ No outcome detection added
+
+                                                                        * ❌ No CV retraining started
+
+This was a diagnosis + architecture correction, intentionally captured before implementation.
+________________
+
+
+8. Why this matters for the raccoon swarm
+This incident shows:
+                                                                           * The architecture was always right
+
+                                                                           * The implementation drifted due to inherited football-centric assumptions
+
+                                                                           * Agentic coders will add weeks if invariants are not explicit
+
+                                                                           * Physics-first systems fail silently when state is implicit
+
+The fix was not “more AI” — it was ordering + one keystone object.
+________________
+
+
+9. One-sentence takeaway (for memory)
+The project wasn’t behind — it was assigning roles before state.
+Adding PlayState and reordering the pipeline fixes the issue without adding new CV work.
+________________

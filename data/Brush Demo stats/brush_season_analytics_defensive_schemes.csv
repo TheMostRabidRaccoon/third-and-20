@@ -1,0 +1,60 @@
+Metric,Value
+Total Plays Analyzed,1364
+,
+=== DEFENSIVE FRONTS ===,
+front_3-4_count,453
+front_3-4_pct,33.2
+front_3-2-6_count,348
+front_3-2-6_pct,25.5
+front_5-2___Goal_Line_count,278
+front_5-2___Goal_Line_pct,20.4
+front_3-3-5_count,157
+front_3-3-5_pct,11.5
+front_4-1-6_Dime_count,57
+front_4-1-6_Dime_pct,4.2
+front_4-2-5_Nickel_count,16
+front_4-2-5_Nickel_pct,1.2
+front_4-3_count,15
+front_4-3_pct,1.1
+,
+=== COVERAGE SHELLS ===,
+coverage_Cover_3_count,613
+coverage_Cover_3_pct,44.9
+coverage_Cover_0_count,518
+coverage_Cover_0_pct,38.0
+coverage_Cover_2_count,155
+coverage_Cover_2_pct,11.4
+coverage_Unknown_count,40
+coverage_Unknown_pct,2.9
+coverage_Cover_4_count,21
+coverage_Cover_4_pct,1.5
+coverage_Cover_1_count,17
+coverage_Cover_1_pct,1.2
+,
+=== SAFETY ALIGNMENT ===,
+safety_0_high_count,518
+safety_0_high_pct,38.0
+safety_1_high_count,320
+safety_1_high_pct,23.5
+safety_robber_count,310
+safety_robber_pct,22.7
+safety_2_high_count,176
+safety_2_high_pct,12.9
+safety_unknown_count,40
+safety_unknown_pct,2.9
+,
+=== BOX COUNT ===,
+box_count_mean,3.3
+box_count_median,3.0
+box_count_min,0
+box_count_max,13
+light_box_count,1120
+light_box_pct,82.1
+stacked_box_count,132
+stacked_box_pct,9.7
+,
+=== BLITZ TENDENCY ===,
+blitz_looks_count,516
+blitz_looks_pct,37.8
+no_blitz_count,848
+no_blitz_pct,62.2

@@ -1,0 +1,199 @@
+game,metric,value
+CCC,form_Wyoming brown_plays,28.0
+CCC,form_Wyoming brown_yards,114.0
+CCC,form_Wyoming brown_ypp,4.1
+CCC,form_Twins Split_plays,26.0
+CCC,form_Twins Split_yards,97.0
+CCC,form_Twins Split_ypp,3.7
+CCC,form_WISCONSIN RED_plays,15.0
+CCC,form_WISCONSIN RED_yards,215.0
+CCC,form_WISCONSIN RED_ypp,14.3
+CCC,form_IOWA BLACK_plays,10.0
+CCC,form_IOWA BLACK_yards,-1.0
+CCC,form_IOWA BLACK_ypp,-0.1
+CCC,form_OHIO SCARLET UNDER_plays,5.0
+CCC,form_OHIO SCARLET UNDER_yards,13.0
+CCC,form_OHIO SCARLET UNDER_ypp,2.6
+CCC,form_Wyoming GOLD PISTOL_plays,4.0
+CCC,form_Wyoming GOLD PISTOL_yards,62.0
+CCC,form_Wyoming GOLD PISTOL_ypp,15.5
+CCC,form_WYOMING GOLD_plays,4.0
+CCC,form_WYOMING GOLD_yards,28.0
+CCC,form_WYOMING GOLD_ypp,7.0
+CCC,form_FLA. BLUE_plays,3.0
+CCC,form_FLA. BLUE_yards,42.0
+CCC,form_FLA. BLUE_ypp,14.0
+CCC,form_OREGON GREEN_plays,2.0
+CCC,form_OREGON GREEN_yards,-4.0
+CCC,form_OREGON GREEN_ypp,-2.0
+CCC,form_MICH MAIZE_plays,1.0
+CCC,form_MICH MAIZE_yards,16.0
+CCC,form_MICH MAIZE_ypp,16.0
+Bedford,form_Wyoming brown_plays,17.0
+Bedford,form_Wyoming brown_yards,118.0
+Bedford,form_Wyoming brown_ypp,6.9
+Bedford,form_FLA. BLUE_plays,13.0
+Bedford,form_FLA. BLUE_yards,23.0
+Bedford,form_FLA. BLUE_ypp,1.8
+Bedford,form_IOWA BLACK_plays,12.0
+Bedford,form_IOWA BLACK_yards,10.0
+Bedford,form_IOWA BLACK_ypp,0.8
+Bedford,form_Twins Split_plays,6.0
+Bedford,form_Twins Split_yards,6.0
+Bedford,form_Twins Split_ypp,1.0
+Bedford,form_WISCONSIN RED_plays,2.0
+Bedford,form_WISCONSIN RED_yards,5.0
+Bedford,form_WISCONSIN RED_ypp,2.5
+Erie,form_FLA. BLUE_plays,13.0
+Erie,form_FLA. BLUE_yards,77.0
+Erie,form_FLA. BLUE_ypp,5.9
+Erie,form_Twins Split_plays,12.0
+Erie,form_Twins Split_yards,55.0
+Erie,form_Twins Split_ypp,4.6
+Erie,form_Wyoming brown_plays,7.0
+Erie,form_Wyoming brown_yards,40.0
+Erie,form_Wyoming brown_ypp,5.7
+Erie,form_WISCONSIN RED_plays,4.0
+Erie,form_WISCONSIN RED_yards,-5.0
+Erie,form_WISCONSIN RED_ypp,-1.2
+Erie,form_IOWA BLACK_plays,2.0
+Erie,form_IOWA BLACK_yards,-2.0
+Erie,form_IOWA BLACK_ypp,-1.0
+Erie,form_TEXAS BROWN_plays,1.0
+Erie,form_TEXAS BROWN_yards,0.0
+Erie,form_TEXAS BROWN_ypp,0.0
+Shaw,form_Twins Split_plays,34.0
+Shaw,form_Twins Split_yards,11.0
+Shaw,form_Twins Split_ypp,0.3
+Shaw,form_IOWA BLACK_plays,25.0
+Shaw,form_IOWA BLACK_yards,127.0
+Shaw,form_IOWA BLACK_ypp,5.1
+Shaw,form_FLA. BLUE_plays,18.0
+Shaw,form_FLA. BLUE_yards,24.0
+Shaw,form_FLA. BLUE_ypp,1.3
+Shaw,form_Wyoming brown_plays,15.0
+Shaw,form_Wyoming brown_yards,138.0
+Shaw,form_Wyoming brown_ypp,9.2
+Shaw,form_WISCONSIN RED_plays,12.0
+Shaw,form_WISCONSIN RED_yards,42.0
+Shaw,form_WISCONSIN RED_ypp,3.5
+Shaw,form_UTAH RED_plays,2.0
+Shaw,form_UTAH RED_yards,18.0
+Shaw,form_UTAH RED_ypp,9.0
+Shaw,form_WISCONSIN WHITE_plays,2.0
+Shaw,form_WISCONSIN WHITE_yards,35.0
+Shaw,form_WISCONSIN WHITE_ypp,17.5
+Shaw,form_WYOMING GOLD_plays,2.0
+Shaw,form_WYOMING GOLD_yards,25.0
+Shaw,form_WYOMING GOLD_ypp,12.5
+Shaw,form_DBL Slot_plays,1.0
+Shaw,form_DBL Slot_yards,5.0
+Shaw,form_DBL Slot_ypp,5.0
+Shaw,form_TEXAS BROWN_plays,1.0
+Shaw,form_TEXAS BROWN_yards,0.0
+Shaw,form_TEXAS BROWN_ypp,0.0
+Warrensville,form_IOWA BLACK_plays,11.0
+Warrensville,form_IOWA BLACK_yards,62.0
+Warrensville,form_IOWA BLACK_ypp,5.6
+Warrensville,form_WISCONSIN RED_plays,7.0
+Warrensville,form_WISCONSIN RED_yards,29.0
+Warrensville,form_WISCONSIN RED_ypp,4.1
+Warrensville,form_Wyoming brown_plays,7.0
+Warrensville,form_Wyoming brown_yards,12.0
+Warrensville,form_Wyoming brown_ypp,1.7
+Warrensville,form_WISCONSIN WHITE_plays,7.0
+Warrensville,form_WISCONSIN WHITE_yards,34.0
+Warrensville,form_WISCONSIN WHITE_ypp,4.9
+Warrensville,form_TEXAS BROWN_plays,5.0
+Warrensville,form_TEXAS BROWN_yards,43.0
+Warrensville,form_TEXAS BROWN_ypp,8.6
+Warrensville,form_FLA. BLUE_plays,4.0
+Warrensville,form_FLA. BLUE_yards,17.0
+Warrensville,form_FLA. BLUE_ypp,4.2
+Warrensville,form_WYOMING GOLD_plays,2.0
+Warrensville,form_WYOMING GOLD_yards,0.0
+Warrensville,form_WYOMING GOLD_ypp,0.0
+Warrensville,form_WISCONSIN RED T LEFT_plays,1.0
+Warrensville,form_WISCONSIN RED T LEFT_yards,7.0
+Warrensville,form_WISCONSIN RED T LEFT_ypp,7.0
+Warrensville,form_Twins Split_plays,1.0
+Warrensville,form_Twins Split_yards,0.0
+Warrensville,form_Twins Split_ypp,0.0
+Warrensville,form_FLA ORANGE T RT_plays,1.0
+Warrensville,form_FLA ORANGE T RT_yards,0.0
+Warrensville,form_FLA ORANGE T RT_ypp,0.0
+Willoughby,form_Wyoming brown_plays,14.0
+Willoughby,form_Wyoming brown_yards,251.0
+Willoughby,form_Wyoming brown_ypp,17.9
+Willoughby,form_FLA. BLUE_plays,6.0
+Willoughby,form_FLA. BLUE_yards,24.0
+Willoughby,form_FLA. BLUE_ypp,4.0
+Willoughby,form_IOWA BLACK_plays,4.0
+Willoughby,form_IOWA BLACK_yards,19.0
+Willoughby,form_IOWA BLACK_ypp,4.8
+Willoughby,form_WISCONSIN RED_plays,3.0
+Willoughby,form_WISCONSIN RED_yards,6.0
+Willoughby,form_WISCONSIN RED_ypp,2.0
+Willoughby,form_Twins Split_plays,2.0
+Willoughby,form_Twins Split_yards,6.0
+Willoughby,form_Twins Split_ypp,3.0
+Garfield,form_WISCONSIN RED_plays,23.0
+Garfield,form_WISCONSIN RED_yards,286.0
+Garfield,form_WISCONSIN RED_ypp,12.4
+Garfield,form_IOWA BLACK_plays,22.0
+Garfield,form_IOWA BLACK_yards,94.0
+Garfield,form_IOWA BLACK_ypp,4.3
+Garfield,form_FLA. BLUE_plays,22.0
+Garfield,form_FLA. BLUE_yards,72.0
+Garfield,form_FLA. BLUE_ypp,3.3
+Garfield,form_Twins Split_plays,17.0
+Garfield,form_Twins Split_yards,30.0
+Garfield,form_Twins Split_ypp,1.8
+Garfield,form_Wyoming brown_plays,10.0
+Garfield,form_Wyoming brown_yards,65.0
+Garfield,form_Wyoming brown_ypp,6.5
+Garfield,form_TEXAS BROWN_plays,4.0
+Garfield,form_TEXAS BROWN_yards,-2.0
+Garfield,form_TEXAS BROWN_ypp,-0.5
+Garfield,form_TEXAS BROWN (11)_plays,2.0
+Garfield,form_TEXAS BROWN (11)_yards,19.0
+Garfield,form_TEXAS BROWN (11)_ypp,9.5
+Garfield,form_WYOMING GOLD_plays,1.0
+Garfield,form_WYOMING GOLD_yards,11.0
+Garfield,form_WYOMING GOLD_ypp,11.0
+Garfield,form_IOWA BLACK STACK_plays,1.0
+Garfield,form_IOWA BLACK STACK_yards,5.0
+Garfield,form_IOWA BLACK STACK_ypp,5.0
+Hoban,form_Wyoming brown_plays,25.0
+Hoban,form_Wyoming brown_yards,84.0
+Hoban,form_Wyoming brown_ypp,3.4
+Hoban,form_Twins Split_plays,16.0
+Hoban,form_Twins Split_yards,68.0
+Hoban,form_Twins Split_ypp,4.2
+Hoban,form_TEXAS BROWN_plays,13.0
+Hoban,form_TEXAS BROWN_yards,10.0
+Hoban,form_TEXAS BROWN_ypp,0.8
+Hoban,form_FLA. BLUE_plays,11.0
+Hoban,form_FLA. BLUE_yards,27.0
+Hoban,form_FLA. BLUE_ypp,2.5
+Hoban,form_IOWA BLACK_plays,9.0
+Hoban,form_IOWA BLACK_yards,-9.0
+Hoban,form_IOWA BLACK_ypp,-1.0
+Hoban,form_WISCONSIN RED_plays,9.0
+Hoban,form_WISCONSIN RED_yards,18.0
+Hoban,form_WISCONSIN RED_ypp,2.0
+Euclid,form_Wyoming brown_plays,33.0
+Euclid,form_Wyoming brown_yards,167.0
+Euclid,form_Wyoming brown_ypp,5.1
+Euclid,form_WISCONSIN RED_plays,19.0
+Euclid,form_WISCONSIN RED_yards,55.0
+Euclid,form_WISCONSIN RED_ypp,2.9
+Euclid,form_FLA. BLUE_plays,14.0
+Euclid,form_FLA. BLUE_yards,48.0
+Euclid,form_FLA. BLUE_ypp,3.4
+Euclid,form_IOWA BLACK_plays,12.0
+Euclid,form_IOWA BLACK_yards,49.0
+Euclid,form_IOWA BLACK_ypp,4.1
+Euclid,form_Twins Split_plays,5.0
+Euclid,form_Twins Split_yards,12.0
+Euclid,form_Twins Split_ypp,2.4
