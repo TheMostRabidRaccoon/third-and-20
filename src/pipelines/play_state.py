@@ -41,10 +41,11 @@ class PlayState:
     Convert at the homography boundary if needed.
 
     Coordinates:
-        - x: field length axis (normalized 0-1)
-        - y: field width axis (normalized 0-1)
-        - los_x: line of scrimmage position on x-axis (normalized)
-        - drive_dir: +1 if offense moving toward +x, -1 if toward -x, None if unknown
+        - axis: which frame axis is field DEPTH ('x' endzone, 'y' sideline).
+          los_x and drive_dir are expressed along this axis. Consumers MUST
+          read positions along `axis`, never assume x.
+        - los_x: line of scrimmage position along `axis` (normalized)
+        - drive_dir: +1 if offense moving toward +axis, -1 if toward -axis, None if unknown
     """
     los_x: Optional[float]  # None if LOS could not be determined
     possession_team_id: Optional[str]  # Team IDENTITY (BRUSH, SHAKER), not role
@@ -54,6 +55,9 @@ class PlayState:
     los_confidence: float = 0.0
     possession_confidence: float = 0.0
     drive_dir_confidence: float = 0.0
+
+    # Which frame axis los_x/drive_dir live on ('x' or 'y')
+    axis: str = 'x'
 
     # Derived (set after inference, only if possession known)
     offense_team_id: Optional[str] = None
@@ -69,15 +73,41 @@ class PlayState:
         )
 
     @property
+    def geometry_valid(self) -> bool:
+        """
+        Geometry is usable (LOS + drive direction) even if possession is unknown.
+
+        Defensive STRUCTURE (box count, front, safety depth) only needs geometry:
+        roles can be derived from side-of-LOS. Anything that names a team
+        (offense metrics, possession-based tendencies) still requires is_valid.
+        """
+        return self.los_x is not None and self.drive_dir is not None
+
+    @property
+    def failure_reasons(self) -> List[str]:
+        """Machine-readable reasons this state falls short of full validity"""
+        reasons = []
+        if self.los_x is None:
+            reasons.append("missing_los")
+        if self.drive_dir is None:
+            reasons.append("missing_drive_dir")
+        if self.possession_team_id is None:
+            reasons.append("missing_possession")
+        return reasons
+
+    @property
     def overall_confidence(self) -> float:
         """Combined confidence score"""
         if not self.is_valid:
             return 0.0
         return (self.los_confidence + self.drive_dir_confidence + self.possession_confidence) / 3
 
-    def depth_along_drive(self, x: float) -> Optional[float]:
+    def depth_along_drive(self, pos_along_axis: float) -> Optional[float]:
         """
         Compute signed depth relative to LOS, normalized by drive direction.
+
+        The argument must already be the coordinate along `self.axis`.
+        Prefer depth_at(x, y) which picks the right coordinate for you.
 
         Returns:
             Positive = downfield (toward opponent end zone)
@@ -86,7 +116,11 @@ class PlayState:
         """
         if self.drive_dir is None or self.los_x is None:
             return None  # Refuse to compute garbage
-        return (x - self.los_x) * self.drive_dir
+        return (pos_along_axis - self.los_x) * self.drive_dir
+
+    def depth_at(self, x: float, y: float) -> Optional[float]:
+        """Signed depth for a frame position, selecting the coordinate along `axis`"""
+        return self.depth_along_drive(x if self.axis == 'x' else y)
 
 
 @dataclass
@@ -423,27 +457,38 @@ def infer_play_state(
     los_x, los_conf = compute_los_from_geometry(positions_at_snap, axis=axis, min_per_side=3)
 
     # Step 2: Infer drive direction from bulk flow
-    # Try primary axis first, then fallback to other axis if no direction detected
-    # This handles cases where play develops unexpectedly (e.g., sweep on sideline film)
     drive_dir, drive_conf = infer_drive_direction(
         positions_at_snap, positions_post_snap, axis=axis, min_tracks=2, threshold=0.002
     )
+    used_axis = axis
 
-    # If primary axis didn't detect direction, try the other axis
+    # If the primary axis didn't detect direction, try the other axis — but only
+    # as a COHERENT switch: LOS must also be recomputed on that axis, otherwise
+    # we'd mix a LOS coordinate from one axis with a drive sign from the other
+    # and every downstream depth would be garbage. If LOS doesn't exist on the
+    # fallback axis, the motion there is likely lateral (sweep/jet), not drive.
     if drive_dir is None:
         other_axis = 'y' if axis == 'x' else 'x'
         drive_dir_alt, drive_conf_alt = infer_drive_direction(
             positions_at_snap, positions_post_snap, axis=other_axis, min_tracks=2, threshold=0.002
         )
         if drive_dir_alt is not None:
-            drive_dir = drive_dir_alt
-            drive_conf = drive_conf_alt * 0.8  # Slightly lower confidence for fallback axis
-            print(f"  drive_dir fallback: used {other_axis}-axis")
+            los_alt, los_conf_alt = compute_los_from_geometry(
+                positions_at_snap, axis=other_axis, min_per_side=3
+            )
+            if los_alt is not None:
+                used_axis = other_axis
+                los_x, los_conf = los_alt, los_conf_alt
+                drive_dir = drive_dir_alt
+                drive_conf = drive_conf_alt * 0.8  # Slightly lower confidence for fallback axis
+                print(f"  axis fallback: LOS + drive_dir recomputed on {other_axis}-axis")
+            else:
+                print(f"  drive_dir seen on {other_axis}-axis but no LOS there - ignoring (lateral flow?)")
 
     # Step 3: Infer possession team (may return None if insufficient data)
     possession_team, poss_conf = infer_possession(
         positions_at_snap, team_ids, los_x, drive_dir,
-        tracks_post=positions_post_snap, axis=axis
+        tracks_post=positions_post_snap, axis=used_axis
     )
 
     # Build PlayState
@@ -453,7 +498,8 @@ def infer_play_state(
         drive_dir=drive_dir,
         los_confidence=los_conf,
         possession_confidence=poss_conf,
-        drive_dir_confidence=drive_conf
+        drive_dir_confidence=drive_conf,
+        axis=used_axis
     )
 
     # ONLY derive offense/defense team IDs if we have valid possession
