@@ -761,7 +761,9 @@ class SDIPipelineV5:
         # Step 5: INFER PLAY STATE (THE KEYSTONE)
         print(f"  [5/6] Inferring play state...")
         play_state = self._infer_play_state(tracking, snap_result.snap_frame, clip_path)
-        print(f"  PlayState: LOS={play_state.los_x}, dir={play_state.drive_dir}, valid={play_state.is_valid}")
+        print(f"  PlayState: LOS={play_state.los_x}, dir={play_state.drive_dir}, "
+              f"axis={play_state.axis}, valid={play_state.is_valid}, "
+              f"geometry_valid={play_state.geometry_valid}")
 
         # Step 6: DEFENSIVE ANALYSIS
         print(f"  [6/6] Analyzing defensive alignment...")
@@ -780,7 +782,7 @@ class SDIPipelineV5:
         if defensive_analysis:
             defensive_metrics = build_defensive_metrics(
                 defensive_analysis, tracking, snap_result.snap_frame,
-                fps, jersey_map, self.roster
+                fps, play_state=play_state, jersey_map=jersey_map, roster=self.roster
             )
 
         # Create combined result
@@ -1079,7 +1081,8 @@ class SDIPipelineV5:
         # BOUNDS CHECK: Clamp to available frames for short clips
         max_frame = tracking.total_frames - 1 if hasattr(tracking, 'total_frames') else snap_frame + 60
 
-        best_state = None
+        best_geometry = None   # has LOS + drive_dir but no possession
+        best_any = None        # best-effort fallback
         for offset in [30, 40, 50]:
             post_snap_frame = min(snap_frame + offset, max_frame)
             positions_post_snap = tracking.get_all_positions_at_frame(post_snap_frame)
@@ -1091,18 +1094,26 @@ class SDIPipelineV5:
 
             state = infer_play_state(positions_at_snap, positions_post_snap, team_ids, axis=axis)
 
-            # If we got a valid state with drive_dir, use it
-            if state.drive_dir is not None:
-                print(f"  Post-snap offset: {offset} frames, overlap: {overlap}, drive_dir: {state.drive_dir}")
+            # Fully valid (LOS + drive_dir + possession): use it immediately
+            if state.is_valid:
+                print(f"  Post-snap offset: {offset} frames, overlap: {overlap}, "
+                      f"drive_dir: {state.drive_dir}, possession: {state.possession_team_id}")
                 return state
 
-            # Keep the best attempt (for fallback)
-            if best_state is None or state.los_confidence > best_state.los_confidence:
-                best_state = state
+            # Keep the best geometry-only state; a later offset might still
+            # produce possession, so don't return early on drive_dir alone
+            if state.geometry_valid:
+                geo_conf = state.los_confidence + state.drive_dir_confidence
+                if best_geometry is None or geo_conf > (best_geometry.los_confidence +
+                                                        best_geometry.drive_dir_confidence):
+                    best_geometry = state
+            if best_any is None or state.los_confidence > best_any.los_confidence:
+                best_any = state
 
-        # Return best attempt even if drive_dir is None
-        print(f"  Post-snap: tried offsets [30,40,50], no drive_dir detected")
-        return best_state if best_state else infer_play_state(positions_at_snap, {}, team_ids, axis=axis)
+        result = best_geometry or best_any or infer_play_state(positions_at_snap, {}, team_ids, axis=axis)
+        print(f"  Post-snap: tried offsets [30,40,50], no fully valid PlayState "
+              f"(reasons: {', '.join(result.failure_reasons) or 'none'})")
+        return result
 
     def _analyze_defense(self, tracking: PlayTracking, snap_frame: int,
                          clip_name: str, play_state: PlayState) -> Optional[DefensiveAnalysis]:

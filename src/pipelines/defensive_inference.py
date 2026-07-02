@@ -147,6 +147,10 @@ class DefensiveAnalysis:
     # Raw data
     player_positions: List[PlayerPosition] = field(default_factory=list)
 
+    # How offense/defense roles were derived:
+    # "identity" = possession + team identity, "geometry" = side of LOS only
+    roles_source: str = "identity"
+
     # Confidence
     confidence: float = 0.0
 
@@ -168,6 +172,7 @@ class DefensiveAnalysis:
             'edge_count': self.edge_count,
             'potential_blitz': self.potential_blitz,
             'blitz_indicators': ','.join(self.blitz_indicators),
+            'roles_source': self.roles_source,
             'confidence': f"{self.confidence:.2f}"
         }
 
@@ -288,28 +293,42 @@ class DefensiveInference:
         # Store PlayState values for depth calculations
         self.los_x = play_state.los_x
         self.drive_dir = play_state.drive_dir
+        # Adopt the axis the PlayState was inferred on - never assume x
+        self.depth_axis = getattr(play_state, 'axis', 'x')
+        self.width_axis = 'y' if self.depth_axis == 'x' else 'x'
 
         analysis = DefensiveAnalysis(clip_file=clip_file, frame_num=frame_num)
 
-        # If PlayState is invalid, abort early
-        if not play_state.is_valid:
+        # Geometry (LOS + drive_dir) is the hard requirement. Possession only
+        # changes HOW roles are derived, not whether structure can be measured.
+        if not play_state.geometry_valid:
             analysis.confidence = 0.0
             return analysis
 
-        # Derive offense/defense from PlayState (not from stored roles)
+        identity_valid = play_state.is_valid
+        analysis.roles_source = "identity" if identity_valid else "geometry"
+
         defense_players = []
         offense_players = []
 
         for track_id, (x, y) in positions.items():
-            team_id = team_ids.get(track_id, "unknown")
-
-            # Derive role from PlayState
-            if team_id == play_state.offense_team_id:
-                role = "offense"
-            elif team_id == play_state.defense_team_id:
-                role = "defense"
+            if identity_valid:
+                # Derive role from possession + team identity
+                team_id = team_ids.get(track_id, "unknown")
+                if team_id == play_state.offense_team_id:
+                    role = "offense"
+                elif team_id == play_state.defense_team_id:
+                    role = "defense"
+                else:
+                    role = "unknown"
             else:
-                role = "unknown"
+                # Geometry-only roles: at the snap the defense is on the
+                # downfield side of the LOS (positive signed depth)
+                depth = play_state.depth_at(x, y)
+                if depth is None:
+                    role = "unknown"
+                else:
+                    role = "defense" if depth > 0 else "offense"
 
             player = PlayerPosition(track_id=track_id, x=x, y=y, team=role)
             analysis.player_positions.append(player)
@@ -338,7 +357,7 @@ class DefensiveInference:
             if depth is None:
                 continue  # Skip if depth cannot be computed
 
-            width_from_center = abs(player.x - 0.5)
+            width_from_center = abs(self._get_width(player) - 0.5)
 
             if depth < 0.03:  # On the line
                 on_line.append(player)
@@ -390,6 +409,10 @@ class DefensiveInference:
         # Calculate confidence
         analysis.confidence = self._calculate_confidence(analysis)
 
+        # Geometry-derived roles are less certain than identity-derived ones
+        if not identity_valid:
+            analysis.confidence *= 0.75
+
         return analysis
 
     def analyze_positions(self,
@@ -421,7 +444,8 @@ class DefensiveInference:
         """
         if self.los_x is None or self.drive_dir is None:
             return None
-        return (player.x - self.los_x) * self.drive_dir
+        pos_along_axis = player.x if self.depth_axis == 'x' else player.y
+        return (pos_along_axis - self.los_x) * self.drive_dir
 
     def _analyze_positions_legacy(self,
                           positions: Dict[int, Tuple[float, float]],
@@ -520,7 +544,11 @@ class DefensiveInference:
         return analysis
 
     def _get_depth(self, player: PlayerPosition) -> float:
-        """Get UNSIGNED player depth from LOS based on camera angle"""
+        """Get UNSIGNED player depth from LOS (clamped to 0 behind the LOS)"""
+        signed = self._get_depth_signed(player)
+        if signed is not None:
+            return max(0.0, signed)
+        # Legacy fallback when no PlayState geometry is configured
         los = self.los_x if self.los_x is not None else 0.5
         if self.depth_axis == 'y':
             # Endzone view: higher y = deeper (defense side)
@@ -912,16 +940,20 @@ def build_defensive_metrics(analysis: DefensiveAnalysis,
                             tracking_data,
                             snap_frame: int,
                             fps: float,
+                            play_state: 'PlayState' = None,
                             jersey_map: Dict[int, int] = None,
                             roster: Dict[int, Dict] = None) -> List[DefensiveMetrics]:
     """
     Build per-player defensive metrics from analysis and tracking.
 
     Args:
-        analysis: DefensiveAnalysis from analyze_positions
+        analysis: DefensiveAnalysis from analyze_positions_with_state
         tracking_data: PlayTracking from player_tracker.py
         snap_frame: Frame number of snap
         fps: Video frame rate
+        play_state: PlayState the analysis was computed with. Required for
+                    LOS-relative metrics (depth, penetration); without it
+                    those fall back to legacy frame-center assumptions.
         jersey_map: Dict of track_id -> jersey_number
         roster: Dict of jersey_number -> player info
 
@@ -929,6 +961,14 @@ def build_defensive_metrics(analysis: DefensiveAnalysis,
         List of DefensiveMetrics for each defensive player
     """
     inference = DefensiveInference()
+    if play_state is not None:
+        # Use the same geometry the play-level analysis used - a fresh
+        # inference object would silently fall back to LOS=frame center
+        inference.los_x = play_state.los_x
+        inference.drive_dir = play_state.drive_dir
+        inference.depth_axis = getattr(play_state, 'axis', 'x')
+        inference.width_axis = 'y' if inference.depth_axis == 'x' else 'x'
+
     metrics_list = []
 
     for player in analysis.player_positions:
@@ -943,22 +983,33 @@ def build_defensive_metrics(analysis: DefensiveAnalysis,
         # Classify position
         position, alignment = inference.classify_player_position(player, analysis)
 
+        # LOS-relative pre-snap geometry (PlayState-aware, not frame-center)
+        depth = inference._get_depth(player)
+        width_from_center = abs(inference._get_width(player) - 0.5)
+        in_box = width_from_center < BOX_WIDTH and depth < BOX_DEPTH_DEEP
+        on_line = depth < 0.03
+
         # Calculate movement metrics
         first_step = track.calculate_first_step_time(snap_frame, fps)
 
-        # Calculate penetration (for DL)
+        # Calculate penetration (for DL): how far past the LOS into the
+        # backfield (negative signed depth) one second after the snap
         penetration = None
-        if position in ["DL", "EDGE"]:
-            # How far did they get past LOS?
+        if position in ["DL", "EDGE"] and play_state is not None and play_state.geometry_valid:
             end_pos = track.get_position_at_frame(snap_frame + int(fps * 1.0))  # 1 sec later
             if end_pos:
-                penetration = max(0, 0.5 - end_pos[1])  # How much into backfield
+                end_depth = play_state.depth_at(end_pos[0], end_pos[1])
+                if end_depth is not None:
+                    penetration = max(0.0, -end_depth)
 
-        # Calculate lateral movement (for DBs)
+        # Calculate lateral movement (for DBs) along the width axis
         lateral = None
         if position in ["CB", "S", "SLOT"]:
-            start_pos = player.x
-            positions_after = [f.x for f in track.frames if f.frame_num > snap_frame]
+            start_pos = inference._get_width(player)
+            if inference.width_axis == 'x':
+                positions_after = [f.x for f in track.frames if f.frame_num > snap_frame]
+            else:
+                positions_after = [f.y for f in track.frames if f.frame_num > snap_frame]
             if positions_after:
                 lateral = max(abs(p - start_pos) for p in positions_after[:int(fps)])
 
@@ -977,9 +1028,9 @@ def build_defensive_metrics(analysis: DefensiveAnalysis,
             team_name="DEFENSE",
             inferred_position=position,
             alignment=alignment,
-            depth_from_los=player.depth_from_los,
-            in_box=player.is_in_box,
-            on_line=player.is_on_line,
+            depth_from_los=depth,
+            in_box=in_box,
+            on_line=on_line,
             first_step_sec=first_step,
             penetration_depth=penetration,
             lateral_movement=lateral
