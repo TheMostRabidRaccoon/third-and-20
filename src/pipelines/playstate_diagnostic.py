@@ -31,11 +31,33 @@ sys.path.insert(0, str(Path(__file__).parent))
 from third_and_20_cv_v2_fixed import SnapDetectorV2
 from player_tracker import PlayerTracker, PlayTracking
 from play_state import PlayState, infer_play_state
+from camera_motion import run_motion_diagnostic
+from validation_overlay import draw_play_overlay
+
+
+def _read_frame(clip_path: str, frame_num: int):
+    """Read one frame from a clip, or None"""
+    cap = cv2.VideoCapture(clip_path)
+    cap.set(cv2.CAP_PROP_POS_FRAMES, frame_num)
+    ret, frame = cap.read()
+    cap.release()
+    return frame if ret else None
+
+
+def _player_boxes_at_frame(tracking: PlayTracking, frame_num: int):
+    """Normalized (cx, cy, w, h) boxes for every track at a frame"""
+    boxes = []
+    for track in tracking.players.values():
+        for f in track.frames:
+            if f.frame_num == frame_num:
+                boxes.append((f.x, f.y, f.width, f.height))
+                break
+    return boxes
 
 
 def run_diagnostic(clip_path: str, home_team: str = "BRUSH", away_team: str = "EUCLID",
                    home_color: str = "brown", away_color: str = "white",
-                   axis: str = "x") -> Optional[Dict]:
+                   axis: str = "x", overlay_dir: Optional[str] = None) -> Optional[Dict]:
     """
     Run minimal pipeline to extract and log PlayState.
 
@@ -97,6 +119,33 @@ def run_diagnostic(clip_path: str, home_team: str = "BRUSH", away_team: str = "E
     # THE MOMENT: Infer PlayState
     play_state = infer_play_state(positions, positions_post, team_ids, axis=axis)
 
+    # Camera-motion diagnostic: is the pan/zoom corrupting drive direction?
+    # Diagnostic only - production drive_dir is unchanged.
+    motion_record = None
+    frame_pre = _read_frame(clip_path, snap_result.snap_frame)
+    frame_post = _read_frame(clip_path, post_snap_frame)
+    if frame_pre is not None and frame_post is not None:
+        motion = run_motion_diagnostic(
+            frame_pre, frame_post, positions, positions_post,
+            axis=play_state.axis,
+            player_boxes=_player_boxes_at_frame(tracking, snap_result.snap_frame)
+        )
+        motion_record = motion.to_dict()
+        print(f"  Camera motion: ok={motion.estimation_ok} "
+              f"conf={motion.confidence:.2f} zoom={motion.camera_scale:.3f} "
+              f"drive raw={motion.drive_dir_raw} vs compensated={motion.drive_dir_compensated}")
+        if motion.drive_dir_disagrees:
+            print(f"  ⚠️  CAMERA MOTION CHANGES DRIVE DIRECTION on this play")
+
+    # Overlay snapshot: see what the sensor saw
+    overlay_path = None
+    if overlay_dir and frame_pre is not None:
+        Path(overlay_dir).mkdir(parents=True, exist_ok=True)
+        overlay_path = str(Path(overlay_dir) / f"{Path(clip_path).stem}_snap_overlay.jpg")
+        draw_play_overlay(frame_pre, positions, team_ids, play_state,
+                          overlay_path, motion_summary=motion_record, title=clip_name)
+        print(f"  Overlay written: {overlay_path}")
+
     # Log the sensor output
     print(f"\n  {'─'*40}")
     print(f"  PLAYSTATE SENSOR OUTPUT")
@@ -136,6 +185,12 @@ def run_diagnostic(clip_path: str, home_team: str = "BRUSH", away_team: str = "E
         'post_snap_overlap': post_snap_overlap,
         'known_team_ids': known_total,
         'team_counts': {home_team: known_home, away_team: known_away},
+        # CAVEAT: team_ids here come from a top/bottom-of-frame position
+        # heuristic, NOT the OCR/color identity pipeline. identity_valid in
+        # this record tests the possession gate mechanics, not real identity.
+        'identity_source': 'position_heuristic',
+        'camera_motion': motion_record,
+        'overlay': overlay_path,
     }
 
 
@@ -151,6 +206,8 @@ def main():
     parser.add_argument("--axis", choices=["x", "y"], default="x",
                         help="Depth axis: 'x' for endzone camera, 'y' for sideline camera")
     parser.add_argument("--json-out", help="Write per-play diagnostic records to this JSON file")
+    parser.add_argument("--overlay-dir",
+                        help="Write annotated snap-frame overlays into this directory")
 
     args = parser.parse_args()
 
@@ -163,7 +220,8 @@ def main():
                 away_team=args.away_team,
                 home_color=args.home_color,
                 away_color=args.away_color,
-                axis=args.axis
+                axis=args.axis,
+                overlay_dir=args.overlay_dir
             )
             if result:
                 results.append(result)
@@ -199,6 +257,20 @@ def main():
         print("\nFailure reasons:")
         for reason, count in sorted(reason_counts.items(), key=lambda kv: -kv[1]):
             print(f"  {reason}: {count}")
+
+    # Camera-motion verdict: does pan/zoom change drive direction on real film?
+    motion_records = [r['camera_motion'] for r in results if r.get('camera_motion')]
+    estimated = [m for m in motion_records if m['estimation_ok']]
+    disagreements = [m for m in estimated if m['drive_dir_disagrees']]
+    if motion_records:
+        print(f"\nCamera motion: estimated on {len(estimated)}/{len(motion_records)} plays")
+        print(f"Drive-dir changed by compensation: {len(disagreements)} plays")
+        if disagreements:
+            print("⚠️  Camera pan/zoom is affecting drive direction - "
+                  "compensation is worth promoting into the pipeline")
+        elif estimated:
+            print("Camera motion is NOT changing drive direction - "
+                  "keep raw drive_dir for now")
 
     # Check for red flags
     if identity_count == len(results) and len(results) > 3:
