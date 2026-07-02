@@ -20,6 +20,7 @@ Real HS film should have some invalid states and low confidence plays.
 """
 
 import cv2
+import json
 import sys
 from pathlib import Path
 from typing import Dict, Tuple, Optional
@@ -33,7 +34,8 @@ from play_state import PlayState, infer_play_state
 
 
 def run_diagnostic(clip_path: str, home_team: str = "BRUSH", away_team: str = "EUCLID",
-                   home_color: str = "brown", away_color: str = "white") -> Optional[Dict]:
+                   home_color: str = "brown", away_color: str = "white",
+                   axis: str = "x") -> Optional[Dict]:
     """
     Run minimal pipeline to extract and log PlayState.
 
@@ -88,16 +90,21 @@ def run_diagnostic(clip_path: str, home_team: str = "BRUSH", away_team: str = "E
     # Get post-snap positions (30 frames after snap, ~1 second)
     post_snap_frame = snap_result.snap_frame + 30
     positions_post = tracking.get_all_positions_at_frame(post_snap_frame)
-    print(f"  Post-snap positions: {len(positions_post)} tracks at frame {post_snap_frame}")
+    post_snap_overlap = len(set(positions.keys()) & set(positions_post.keys()))
+    print(f"  Post-snap positions: {len(positions_post)} tracks at frame {post_snap_frame} "
+          f"(overlap with snap: {post_snap_overlap})")
 
     # THE MOMENT: Infer PlayState
-    play_state = infer_play_state(positions, positions_post, team_ids)
+    play_state = infer_play_state(positions, positions_post, team_ids, axis=axis)
 
     # Log the sensor output
     print(f"\n  {'─'*40}")
     print(f"  PLAYSTATE SENSOR OUTPUT")
     print(f"  {'─'*40}")
-    print(f"  is_valid:              {play_state.is_valid}")
+    print(f"  geometry_valid:        {play_state.geometry_valid}")
+    print(f"  identity_valid:        {play_state.identity_valid}")
+    print(f"  failure_reasons:       {', '.join(play_state.failure_reasons) or 'none'}")
+    print(f"  axis:                  {play_state.axis}")
     print(f"  los_x:                 {play_state.los_x}")
     print(f"  los_confidence:        {play_state.los_confidence:.3f}")
     print(f"  drive_dir:             {play_state.drive_dir}")
@@ -112,7 +119,11 @@ def run_diagnostic(clip_path: str, home_team: str = "BRUSH", away_team: str = "E
     return {
         'clip': clip_name,
         'snap_frame': snap_result.snap_frame,
+        'geometry_valid': play_state.geometry_valid,
+        'identity_valid': play_state.identity_valid,
         'is_valid': play_state.is_valid,
+        'failure_reasons': play_state.failure_reasons,
+        'axis': play_state.axis,
         'los_x': play_state.los_x,
         'los_confidence': play_state.los_confidence,
         'drive_dir': play_state.drive_dir,
@@ -121,6 +132,10 @@ def run_diagnostic(clip_path: str, home_team: str = "BRUSH", away_team: str = "E
         'possession_confidence': play_state.possession_confidence,
         'offense_team_id': play_state.offense_team_id,
         'defense_team_id': play_state.defense_team_id,
+        'snap_tracks': len(positions),
+        'post_snap_overlap': post_snap_overlap,
+        'known_team_ids': known_total,
+        'team_counts': {home_team: known_home, away_team: known_away},
     }
 
 
@@ -133,6 +148,9 @@ def main():
     parser.add_argument("--away-team", default="EUCLID")
     parser.add_argument("--home-color", default="brown")
     parser.add_argument("--away-color", default="white")
+    parser.add_argument("--axis", choices=["x", "y"], default="x",
+                        help="Depth axis: 'x' for endzone camera, 'y' for sideline camera")
+    parser.add_argument("--json-out", help="Write per-play diagnostic records to this JSON file")
 
     args = parser.parse_args()
 
@@ -144,7 +162,8 @@ def main():
                 home_team=args.home_team,
                 away_team=args.away_team,
                 home_color=args.home_color,
-                away_color=args.away_color
+                away_color=args.away_color,
+                axis=args.axis
             )
             if result:
                 results.append(result)
@@ -162,16 +181,33 @@ def main():
         print("No plays analyzed")
         return
 
-    valid_count = sum(1 for r in results if r['is_valid'])
-    invalid_count = len(results) - valid_count
+    geometry_count = sum(1 for r in results if r['geometry_valid'])
+    identity_count = sum(1 for r in results if r['identity_valid'])
 
-    print(f"Total plays:    {len(results)}")
-    print(f"Valid states:   {valid_count} ({100*valid_count/len(results):.1f}%)")
-    print(f"Invalid states: {invalid_count} ({100*invalid_count/len(results):.1f}%)")
+    print(f"Total plays:     {len(results)}")
+    print(f"Geometry valid:  {geometry_count} ({100*geometry_count/len(results):.1f}%)  "
+          f"<- opponent structure computable")
+    print(f"Identity valid:  {identity_count} ({100*identity_count/len(results):.1f}%)  "
+          f"<- team/player metrics computable")
+
+    # Failure reason histogram - this is what tells you WHERE the sensor breaks
+    reason_counts: Dict[str, int] = {}
+    for r in results:
+        for reason in r['failure_reasons']:
+            reason_counts[reason] = reason_counts.get(reason, 0) + 1
+    if reason_counts:
+        print("\nFailure reasons:")
+        for reason, count in sorted(reason_counts.items(), key=lambda kv: -kv[1]):
+            print(f"  {reason}: {count}")
 
     # Check for red flags
-    if valid_count == len(results) and len(results) > 3:
+    if identity_count == len(results) and len(results) > 3:
         print("\n⚠️  RED FLAG: 100% valid - likely too permissive")
+
+    if args.json_out:
+        with open(args.json_out, 'w') as f:
+            json.dump(results, f, indent=2)
+        print(f"\nPer-play records written to: {args.json_out}")
 
     # Confidence distribution
     los_confs = [r['los_confidence'] for r in results if r['los_confidence'] is not None]

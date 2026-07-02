@@ -73,6 +73,11 @@ class PlayState:
         )
 
     @property
+    def identity_valid(self) -> bool:
+        """Alias for is_valid: geometry AND possession/team identity known"""
+        return self.is_valid
+
+    @property
     def geometry_valid(self) -> bool:
         """
         Geometry is usable (LOS + drive direction) even if possession is unknown.
